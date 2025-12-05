@@ -1,0 +1,1562 @@
+{
+  "1": {
+    "_attrs": {
+      "ActionTypeId": "1",
+      "ActionTypeName": "Set Maximum Power",
+      "RoomType": "None",
+      "ActionTypeCategory": "SetPower",
+      "ActionTypeKey": "SetMaximumPower",
+      "ActionTypeParameterValue": "999",
+      "ActionTypeDescription": "Sets current assigned power to the maximum available",
+      "ActionTypeParameterRelativity": "Absolute",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourShip",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "0",
+      "OrderIndex": "2",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "2": {
+    "_attrs": {
+      "ActionTypeId": "2",
+      "ActionTypeName": "Set Zero Power",
+      "RoomType": "None",
+      "ActionTypeCategory": "SetPower",
+      "ActionTypeKey": "SetZeroPower",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Resets all assigned power to 0",
+      "ActionTypeParameterRelativity": "Absolute",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourShip",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "0",
+      "OrderIndex": "3",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "3": {
+    "_attrs": {
+      "ActionTypeId": "3",
+      "ActionTypeName": "Increase Power By 1",
+      "RoomType": "None",
+      "ActionTypeCategory": "SetPower",
+      "ActionTypeKey": "IncreasePowerBy1",
+      "ActionTypeParameterValue": "1",
+      "ActionTypeDescription": "Increases assigned power by 1 if available",
+      "ActionTypeParameterRelativity": "Relative",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourShip",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "0",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "4": {
+    "_attrs": {
+      "ActionTypeId": "4",
+      "ActionTypeName": "Decrease Power By 1",
+      "RoomType": "None",
+      "ActionTypeCategory": "SetPower",
+      "ActionTypeKey": "DecreasePowerBy1",
+      "ActionTypeParameterValue": "-1",
+      "ActionTypeDescription": "Decreases assigned power by 1",
+      "ActionTypeParameterRelativity": "Relative",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourShip",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "0",
+      "OrderIndex": "1",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "5": {
+    "_attrs": {
+      "ActionTypeId": "5",
+      "ActionTypeName": "Target Enemy Laser",
+      "RoomType": "Laser",
+      "ActionTypeCategory": "Target",
+      "ActionTypeKey": "TargetEnemyLaser",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Set current target to an enemy Laser type room",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "EnemyShip",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "0",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "6": {
+    "_attrs": {
+      "ActionTypeId": "6",
+      "ActionTypeName": "Target Enemy Shield Room",
+      "RoomType": "Shield",
+      "ActionTypeCategory": "Target",
+      "ActionTypeKey": "TargetEnemyShields",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Sets current target to an enemy Shield type room",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "EnemyShip",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "0",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "9": {
+    "_attrs": {
+      "ActionTypeId": "9",
+      "ActionTypeName": "Target Enemy Engine",
+      "RoomType": "Engine",
+      "ActionTypeCategory": "Target",
+      "ActionTypeKey": "TargetEnemyEngines",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Sets current target to an enemy Engine type room",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "EnemyShip",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "0",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "12": {
+    "_attrs": {
+      "ActionTypeId": "12",
+      "ActionTypeName": "Target Enemy Reactor",
+      "RoomType": "Reactor",
+      "ActionTypeCategory": "Target",
+      "ActionTypeKey": "TargetEnemyReactors",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Sets current target to an enemy Reactor type room",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "EnemyShip",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "0",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "13": {
+    "_attrs": {
+      "ActionTypeId": "13",
+      "ActionTypeName": "Target Your Laser",
+      "RoomType": "Laser",
+      "ActionTypeCategory": "Target",
+      "ActionTypeKey": "TargetYourLaser",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Sets current target to a friendly Laser type weapon room",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourShip",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "0",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "16": {
+    "_attrs": {
+      "ActionTypeId": "16",
+      "ActionTypeName": "Target Your Engine",
+      "RoomType": "Engine",
+      "ActionTypeCategory": "Target",
+      "ActionTypeKey": "TargetYourEngines",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Sets current target to a friendly Engine type room",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourShip",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "0",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "19": {
+    "_attrs": {
+      "ActionTypeId": "19",
+      "ActionTypeName": "Target Your Shield Room",
+      "RoomType": "Shield",
+      "ActionTypeCategory": "Target",
+      "ActionTypeKey": "TargetYourShields",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Sets current target to a friendly Shield type room",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourShip",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "0",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "20": {
+    "_attrs": {
+      "ActionTypeId": "20",
+      "ActionTypeName": "Target Your Reactor",
+      "RoomType": "Reactor",
+      "ActionTypeCategory": "Target",
+      "ActionTypeKey": "TargetYourReactors",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Sets current target to a friendly Reactor type room",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourShip",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "0",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "21": {
+    "_attrs": {
+      "ActionTypeId": "21",
+      "ActionTypeName": "Target Random Enemy Room",
+      "RoomType": "None",
+      "ActionTypeCategory": "Target",
+      "ActionTypeKey": "TargetRandomEnemyRoom",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Sets current target to a valid random enemy room",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "EnemyShip",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "0",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "22": {
+    "_attrs": {
+      "ActionTypeId": "22",
+      "ActionTypeName": "Target Enemy Missile Room",
+      "RoomType": "Missile",
+      "ActionTypeCategory": "Target",
+      "ActionTypeKey": "TargetEnemyMissiles",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Sets current target to an enemy Missile type room",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "EnemyShip",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "0",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "23": {
+    "_attrs": {
+      "ActionTypeId": "23",
+      "ActionTypeName": "Target Your Missile Room",
+      "RoomType": "Missile",
+      "ActionTypeCategory": "Target",
+      "ActionTypeKey": "TargetYourMissiles",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Sets current target to a friendly Missile type room",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourShip",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "0",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "25": {
+    "_attrs": {
+      "ActionTypeId": "25",
+      "ActionTypeName": "Target Enemy Teleport Room",
+      "RoomType": "Teleport",
+      "ActionTypeCategory": "Target",
+      "ActionTypeKey": "TargetEnemyTeleport",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Sets current target to an enemy Teleport type room",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "EnemyShip",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "94",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "26": {
+    "_attrs": {
+      "ActionTypeId": "26",
+      "ActionTypeName": "Target Your Teleport",
+      "RoomType": "Teleport",
+      "ActionTypeCategory": "Target",
+      "ActionTypeKey": "TargetYourTeleport",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Sets current target to a friendly Teleport type room",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourShip",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "94",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "27": {
+    "_attrs": {
+      "ActionTypeId": "27",
+      "ActionTypeName": "Set Cheapest Items",
+      "RoomType": "None",
+      "ActionTypeCategory": "SetItem",
+      "ActionTypeKey": "SetCheapestItems",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Sets current assigned ammo to the cheapest available",
+      "ActionTypeParameterRelativity": "Lowest",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourShip",
+      "ConditionTypeParameter": "Cost",
+      "ColorString": "",
+      "RequiredResearchDesignId": "0",
+      "OrderIndex": "6",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "28": {
+    "_attrs": {
+      "ActionTypeId": "28",
+      "ActionTypeName": "Set Dearest Items",
+      "RoomType": "None",
+      "ActionTypeCategory": "SetItem",
+      "ActionTypeKey": "SetDearestItems",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Sets current assigned ammo to the most expensive available",
+      "ActionTypeParameterRelativity": "Highest",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourShip",
+      "ConditionTypeParameter": "Cost",
+      "ColorString": "",
+      "RequiredResearchDesignId": "0",
+      "OrderIndex": "7",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "29": {
+    "_attrs": {
+      "ActionTypeId": "29",
+      "ActionTypeName": "Target Condition Room",
+      "RoomType": "None",
+      "ActionTypeCategory": "Target",
+      "ActionTypeKey": "TargetConditionRoom",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Target condition room that satisfies conditions",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "None",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "0",
+      "OrderIndex": "1",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "30": {
+    "_attrs": {
+      "ActionTypeId": "30",
+      "ActionTypeName": "Target Your Hangar",
+      "RoomType": "Carrier",
+      "ActionTypeCategory": "Target",
+      "ActionTypeKey": "TargetYourHangar",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Sets current target to a friendly Hangar type room",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourShip",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "94",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "31": {
+    "_attrs": {
+      "ActionTypeId": "31",
+      "ActionTypeName": "Target Enemy Hangar",
+      "RoomType": "Carrier",
+      "ActionTypeCategory": "Target",
+      "ActionTypeKey": "TargetEnemyHangar",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Sets current target to an enemy Hangar type room",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "EnemyShip",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "94",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "32": {
+    "_attrs": {
+      "ActionTypeId": "32",
+      "ActionTypeName": "Target Your Anti-Craft Room",
+      "RoomType": "AntiCraft",
+      "ActionTypeCategory": "Target",
+      "ActionTypeKey": "TargetYourAntiCraft",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Sets current target to a friendly Anti-craft type room",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourShip",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "94",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "33": {
+    "_attrs": {
+      "ActionTypeId": "33",
+      "ActionTypeName": "Target Enemy Anti-Craft Room",
+      "RoomType": "AntiCraft",
+      "ActionTypeCategory": "Target",
+      "ActionTypeKey": "TargetEnemyAntiCraft",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Sets current target to an enemy Anti-craft type room",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "EnemyShip",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "94",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "34": {
+    "_attrs": {
+      "ActionTypeId": "34",
+      "ActionTypeName": "Use Special Power",
+      "RoomType": "None",
+      "ActionTypeCategory": "UseSpecialPower",
+      "ActionTypeKey": "UseSpecialPower",
+      "ActionTypeParameterValue": "1",
+      "ActionTypeDescription": "Activates crew special abilities if unused. This AI command will be run last and separately from other AI commands.",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "None",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "0",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "35": {
+    "_attrs": {
+      "ActionTypeId": "35",
+      "ActionTypeName": "Set Highest System Damage",
+      "RoomType": "None",
+      "ActionTypeCategory": "SetItem",
+      "ActionTypeKey": "SetHighestSystemDamage",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Sets current assigned ammo to the highest system damage ammo available",
+      "ActionTypeParameterRelativity": "Highest",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourShip",
+      "ConditionTypeParameter": "SystemDamage",
+      "ColorString": "",
+      "RequiredResearchDesignId": "0",
+      "OrderIndex": "8",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "36": {
+    "_attrs": {
+      "ActionTypeId": "36",
+      "ActionTypeName": "Set Highest Hull Damage",
+      "RoomType": "None",
+      "ActionTypeCategory": "SetItem",
+      "ActionTypeKey": "SetHighestHullDamage",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Sets current assigned ammo to the highest hull damage ammo available",
+      "ActionTypeParameterRelativity": "Highest",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourShip",
+      "ConditionTypeParameter": "HullDamage",
+      "ColorString": "",
+      "RequiredResearchDesignId": "0",
+      "OrderIndex": "10",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "37": {
+    "_attrs": {
+      "ActionTypeId": "37",
+      "ActionTypeName": "Set Highest EMP",
+      "RoomType": "None",
+      "ActionTypeCategory": "SetItem",
+      "ActionTypeKey": "SetHighestEMP",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Sets current assigned ammo to the highest EMP stat ammo available",
+      "ActionTypeParameterRelativity": "Highest",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourShip",
+      "ConditionTypeParameter": "EMPLength",
+      "ColorString": "",
+      "RequiredResearchDesignId": "94",
+      "OrderIndex": "14",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "38": {
+    "_attrs": {
+      "ActionTypeId": "38",
+      "ActionTypeName": "Set Highest Character Damage",
+      "RoomType": "None",
+      "ActionTypeCategory": "SetItem",
+      "ActionTypeKey": "SetHighestCharacterDamage",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Sets current assigned ammo to the highest crew damage ammo available",
+      "ActionTypeParameterRelativity": "Highest",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourShip",
+      "ConditionTypeParameter": "CharacterDamage",
+      "ColorString": "",
+      "RequiredResearchDesignId": "0",
+      "OrderIndex": "9",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "39": {
+    "_attrs": {
+      "ActionTypeId": "39",
+      "ActionTypeName": "Target Your Medical Room",
+      "RoomType": "Medical",
+      "ActionTypeCategory": "Target",
+      "ActionTypeKey": "TargetYourMedicals",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Sets current target to a friendly Medical type room",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourShip",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "95",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "40": {
+    "_attrs": {
+      "ActionTypeId": "40",
+      "ActionTypeName": "Target Enemy Medical Room",
+      "RoomType": "Medical",
+      "ActionTypeCategory": "Target",
+      "ActionTypeKey": "TargetEnemyMedicals",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Sets current target to an enemy Medical type room",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "EnemyShip",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "95",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "41": {
+    "_attrs": {
+      "ActionTypeId": "41",
+      "ActionTypeName": "Set Highest Fire Items",
+      "RoomType": "None",
+      "ActionTypeCategory": "SetItem",
+      "ActionTypeKey": "SetHighestFire",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Sets current assigned ammo to the highest Incendiary stat ammo available",
+      "ActionTypeParameterRelativity": "Highest",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourShip",
+      "ConditionTypeParameter": "FireLength",
+      "ColorString": "",
+      "RequiredResearchDesignId": "94",
+      "OrderIndex": "13",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "42": {
+    "_attrs": {
+      "ActionTypeId": "42",
+      "ActionTypeName": "Target Enemy Cannon",
+      "RoomType": "Cannon",
+      "ActionTypeCategory": "Target",
+      "ActionTypeKey": "TargetEnemyCannon",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Sets current target to an enemy Cannon type room",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "EnemyShip",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "95",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "43": {
+    "_attrs": {
+      "ActionTypeId": "43",
+      "ActionTypeName": "Target Your Cannon",
+      "RoomType": "Cannon",
+      "ActionTypeCategory": "Target",
+      "ActionTypeKey": "TargetYourCannon",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Sets current target to a friendly Cannon type room",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourShip",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "95",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "44": {
+    "_attrs": {
+      "ActionTypeId": "44",
+      "ActionTypeName": "Continue Current Job",
+      "RoomType": "None",
+      "ActionTypeCategory": "Target",
+      "ActionTypeKey": "TargetCurrentTarget",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Continues performing currently assigned actions",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "None",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "96",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "45": {
+    "_attrs": {
+      "ActionTypeId": "45",
+      "ActionTypeName": "Target Enemy Security Room",
+      "RoomType": "Trap",
+      "ActionTypeCategory": "Target",
+      "ActionTypeKey": "TargetEnemySecurityRoom",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Sets current target to an enemy Security type room",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "EnemyShip",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "94",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "46": {
+    "_attrs": {
+      "ActionTypeId": "46",
+      "ActionTypeName": "Target Your Security Room",
+      "RoomType": "Trap",
+      "ActionTypeCategory": "Target",
+      "ActionTypeKey": "TargetYourSecurityRoom",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Sets current target to a friendly Security type room",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourShip",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "94",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "47": {
+    "_attrs": {
+      "ActionTypeId": "47",
+      "ActionTypeName": "Target Your Android Room",
+      "RoomType": "Android",
+      "ActionTypeCategory": "Target",
+      "ActionTypeKey": "TargetYouAndroidRoom",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Sets current target to a friendly Android type room",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourShip",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "95",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "48": {
+    "_attrs": {
+      "ActionTypeId": "48",
+      "ActionTypeName": "Target Enemy Android Room",
+      "RoomType": "Android",
+      "ActionTypeCategory": "Target",
+      "ActionTypeKey": "TargetEnemyAndroidRoom",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Sets current target to an enemy Android type room",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "EnemyShip",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "94",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "49": {
+    "_attrs": {
+      "ActionTypeId": "49",
+      "ActionTypeName": "Target Enemy Radar",
+      "RoomType": "Radar",
+      "ActionTypeCategory": "Target",
+      "ActionTypeKey": "TargetEnemyRadar",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Sets current target to an enemy Radar type room",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "EnemyShip",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "95",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "50": {
+    "_attrs": {
+      "ActionTypeId": "50",
+      "ActionTypeName": "Target Your Radar",
+      "RoomType": "Radar",
+      "ActionTypeCategory": "Target",
+      "ActionTypeKey": "TargetYourRadar",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Sets current target to a friendly Radar type room",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourShip",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "95",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "51": {
+    "_attrs": {
+      "ActionTypeId": "51",
+      "ActionTypeName": "Target Enemy Cloaking Room",
+      "RoomType": "Stealth",
+      "ActionTypeCategory": "Target",
+      "ActionTypeKey": "TargetEnemyCloakingRoom",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Sets current target to an enemy Cloak type room",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "EnemyShip",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "95",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "52": {
+    "_attrs": {
+      "ActionTypeId": "52",
+      "ActionTypeName": "Target Your Cloaking Room",
+      "RoomType": "Stealth",
+      "ActionTypeCategory": "Target",
+      "ActionTypeKey": "TargetYourCloakingRoom",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Sets current target to a friendly Cloak type room",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourShip",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "95",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "53": {
+    "_attrs": {
+      "ActionTypeId": "53",
+      "ActionTypeName": "Set Highest AP Damage",
+      "RoomType": "None",
+      "ActionTypeCategory": "SetItem",
+      "ActionTypeKey": "SetHighestAPDamage",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Sets current assigned ammo to the highest AP damage ammo available",
+      "ActionTypeParameterRelativity": "Highest",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourShip",
+      "ConditionTypeParameter": "DirectSystemDamage",
+      "ColorString": "",
+      "RequiredResearchDesignId": "0",
+      "OrderIndex": "12",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "54": {
+    "_attrs": {
+      "ActionTypeId": "54",
+      "ActionTypeName": "Set Highest Shield Damage",
+      "RoomType": "None",
+      "ActionTypeCategory": "SetItem",
+      "ActionTypeKey": "SetHighestShieldDamage",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Sets current assigned ammo to the highest shield damage ammo available",
+      "ActionTypeParameterRelativity": "Highest",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourShip",
+      "ConditionTypeParameter": "ShieldDamage",
+      "ColorString": "",
+      "RequiredResearchDesignId": "0",
+      "OrderIndex": "11",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "55": {
+    "_attrs": {
+      "ActionTypeId": "55",
+      "ActionTypeName": "Set Power To 1",
+      "RoomType": "None",
+      "ActionTypeCategory": "SetPower",
+      "ActionTypeKey": "SetOnePower",
+      "ActionTypeParameterValue": "1",
+      "ActionTypeDescription": "Sets current assigned power to 1",
+      "ActionTypeParameterRelativity": "Absolute",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourShip",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "0",
+      "OrderIndex": "4",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "56": {
+    "_attrs": {
+      "ActionTypeId": "56",
+      "ActionTypeName": "Set Item to None",
+      "RoomType": "None",
+      "ActionTypeCategory": "SetItem",
+      "ActionTypeKey": "SetItemToNone",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Unassigns any currently equipped ammo",
+      "ActionTypeParameterRelativity": "Absolute",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourShip",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "94",
+      "OrderIndex": "99",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "57": {
+    "_attrs": {
+      "ActionTypeId": "57",
+      "ActionTypeName": "Set Power To 2",
+      "RoomType": "None",
+      "ActionTypeCategory": "SetPower",
+      "ActionTypeKey": "SetTwoPower",
+      "ActionTypeParameterValue": "2",
+      "ActionTypeDescription": "Sets current assigned power to 2",
+      "ActionTypeParameterRelativity": "Absolute",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourShip",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "94",
+      "OrderIndex": "5",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "58": {
+    "_attrs": {
+      "ActionTypeId": "58",
+      "ActionTypeName": "Do Not Use Special Power",
+      "RoomType": "None",
+      "ActionTypeCategory": "UseSpecialPower",
+      "ActionTypeKey": "DoNotUseSpecialPower",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Will prevent 'Use Special Power' action from running",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "None",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "0",
+      "OrderIndex": "1",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "59": {
+    "_attrs": {
+      "ActionTypeId": "59",
+      "ActionTypeName": "Target Current Room",
+      "RoomType": "None",
+      "ActionTypeCategory": "Target",
+      "ActionTypeKey": "TargetCurrentRoom",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Sets current target to the subject's current room",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "CurrentRoom",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "0",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "60": {
+    "_attrs": {
+      "ActionTypeId": "60",
+      "ActionTypeName": "Target Origin Room",
+      "RoomType": "None",
+      "ActionTypeCategory": "Target",
+      "ActionTypeKey": "TargetOriginRoom",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Sets current target to the subject's starting room",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "OriginRoom",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "0",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "61": {
+    "_attrs": {
+      "ActionTypeId": "61",
+      "ActionTypeName": "Target Enemy Superweapon",
+      "RoomType": "None",
+      "ActionTypeCategory": "Target",
+      "ActionTypeKey": "TargetEnemySuperweapon",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Set current target to an enemy superweapon room",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "EnemyShip",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "95",
+      "OrderIndex": "0",
+      "RoomCategoryType": "Superweapon",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "62": {
+    "_attrs": {
+      "ActionTypeId": "62",
+      "ActionTypeName": "Target Your Superweapon",
+      "RoomType": "None",
+      "ActionTypeCategory": "Target",
+      "ActionTypeKey": "TargetYourSuperweapon",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Sets current target to a friendly superweapon room",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourShip",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "95",
+      "OrderIndex": "0",
+      "RoomCategoryType": "Superweapon",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "65": {
+    "_attrs": {
+      "ActionTypeId": "65",
+      "ActionTypeName": "Set Power To 3",
+      "RoomType": "None",
+      "ActionTypeCategory": "SetPower",
+      "ActionTypeKey": "SetThreePower",
+      "ActionTypeParameterValue": "3",
+      "ActionTypeDescription": "Sets current assigned power to 3",
+      "ActionTypeParameterRelativity": "Absolute",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourShip",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "94",
+      "OrderIndex": "6",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "66": {
+    "_attrs": {
+      "ActionTypeId": "66",
+      "ActionTypeName": "Set Power To 4",
+      "RoomType": "None",
+      "ActionTypeCategory": "SetPower",
+      "ActionTypeKey": "SetFourPower",
+      "ActionTypeParameterValue": "4",
+      "ActionTypeDescription": "Sets current assigned power to 4",
+      "ActionTypeParameterRelativity": "Absolute",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourShip",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "95",
+      "OrderIndex": "7",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "67": {
+    "_attrs": {
+      "ActionTypeId": "67",
+      "ActionTypeName": "Set Power To 5",
+      "RoomType": "None",
+      "ActionTypeCategory": "SetPower",
+      "ActionTypeKey": "SetFivePower",
+      "ActionTypeParameterValue": "5",
+      "ActionTypeDescription": "Sets current assigned power to 5",
+      "ActionTypeParameterRelativity": "Absolute",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourShip",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "95",
+      "OrderIndex": "8",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "68": {
+    "_attrs": {
+      "ActionTypeId": "68",
+      "ActionTypeName": "Set Power To 6",
+      "RoomType": "None",
+      "ActionTypeCategory": "SetPower",
+      "ActionTypeKey": "SetSixPower",
+      "ActionTypeParameterValue": "6",
+      "ActionTypeDescription": "Sets current assigned power to 6",
+      "ActionTypeParameterRelativity": "Absolute",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourShip",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "96",
+      "OrderIndex": "9",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "70": {
+    "_attrs": {
+      "ActionTypeId": "70",
+      "ActionTypeName": "Set Item {0}",
+      "RoomType": "None",
+      "ActionTypeCategory": "SetItem",
+      "ActionTypeKey": "SetItem0",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Sets current assigned ammo to the specified ammo type",
+      "ActionTypeParameterRelativity": "Absolute",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourShip",
+      "ConditionTypeParameter": "OrderIndex",
+      "ColorString": "",
+      "RequiredResearchDesignId": "0",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "71": {
+    "_attrs": {
+      "ActionTypeId": "71",
+      "ActionTypeName": "Set Item {1}",
+      "RoomType": "None",
+      "ActionTypeCategory": "SetItem",
+      "ActionTypeKey": "SetItem1",
+      "ActionTypeParameterValue": "1",
+      "ActionTypeDescription": "Sets current assigned ammo to the specified ammo type",
+      "ActionTypeParameterRelativity": "Absolute",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourShip",
+      "ConditionTypeParameter": "OrderIndex",
+      "ColorString": "",
+      "RequiredResearchDesignId": "0",
+      "OrderIndex": "1",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "72": {
+    "_attrs": {
+      "ActionTypeId": "72",
+      "ActionTypeName": "Set Item {2}",
+      "RoomType": "None",
+      "ActionTypeCategory": "SetItem",
+      "ActionTypeKey": "SetItem2",
+      "ActionTypeParameterValue": "2",
+      "ActionTypeDescription": "Sets current assigned ammo to the specified ammo type",
+      "ActionTypeParameterRelativity": "Absolute",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourShip",
+      "ConditionTypeParameter": "OrderIndex",
+      "ColorString": "",
+      "RequiredResearchDesignId": "0",
+      "OrderIndex": "2",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "73": {
+    "_attrs": {
+      "ActionTypeId": "73",
+      "ActionTypeName": "Set Item {3}",
+      "RoomType": "None",
+      "ActionTypeCategory": "SetItem",
+      "ActionTypeKey": "SetItem3",
+      "ActionTypeParameterValue": "3",
+      "ActionTypeDescription": "Sets current assigned ammo to the specified ammo type",
+      "ActionTypeParameterRelativity": "Absolute",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourShip",
+      "ConditionTypeParameter": "OrderIndex",
+      "ColorString": "",
+      "RequiredResearchDesignId": "0",
+      "OrderIndex": "3",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "74": {
+    "_attrs": {
+      "ActionTypeId": "74",
+      "ActionTypeName": "Set Item {4}",
+      "RoomType": "None",
+      "ActionTypeCategory": "SetItem",
+      "ActionTypeKey": "SetItem4",
+      "ActionTypeParameterValue": "4",
+      "ActionTypeDescription": "Sets current assigned ammo to the specified ammo type",
+      "ActionTypeParameterRelativity": "Absolute",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourShip",
+      "ConditionTypeParameter": "OrderIndex",
+      "ColorString": "",
+      "RequiredResearchDesignId": "0",
+      "OrderIndex": "4",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "75": {
+    "_attrs": {
+      "ActionTypeId": "75",
+      "ActionTypeName": "Set Item {5}",
+      "RoomType": "None",
+      "ActionTypeCategory": "SetItem",
+      "ActionTypeKey": "SetItem5",
+      "ActionTypeParameterValue": "5",
+      "ActionTypeDescription": "Sets current assigned ammo to the specified ammo type",
+      "ActionTypeParameterRelativity": "Absolute",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourShip",
+      "ConditionTypeParameter": "OrderIndex",
+      "ColorString": "",
+      "RequiredResearchDesignId": "0",
+      "OrderIndex": "5",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "82": {
+    "_attrs": {
+      "ActionTypeId": "82",
+      "ActionTypeName": "Set No Target",
+      "RoomType": "None",
+      "ActionTypeCategory": "Target",
+      "ActionTypeKey": "SetNoTarget",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Sets current target to none. This will stop the room from activating.",
+      "ActionTypeParameterRelativity": "Absolute",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "None",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "0",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "83": {
+    "_attrs": {
+      "ActionTypeId": "83",
+      "ActionTypeName": "Target Another Room",
+      "RoomType": "None",
+      "ActionTypeCategory": "Target",
+      "ActionTypeKey": "TargetAnotherTarget",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Change the current target to another target with matching parameters.",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "None",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "0",
+      "OrderIndex": "1",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "85": {
+    "_attrs": {
+      "ActionTypeId": "85",
+      "ActionTypeName": "Skip Next Power Action",
+      "RoomType": "None",
+      "ActionTypeCategory": "SetPower",
+      "ActionTypeKey": "SkipSetPower",
+      "ActionTypeParameterValue": "1",
+      "ActionTypeDescription": "Skips the next power-based action.",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourRoom",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "10",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "86": {
+    "_attrs": {
+      "ActionTypeId": "86",
+      "ActionTypeName": "Skip Next Target Action",
+      "RoomType": "None",
+      "ActionTypeCategory": "Target",
+      "ActionTypeKey": "SkipSetTarget",
+      "ActionTypeParameterValue": "1",
+      "ActionTypeDescription": "Skips the next target-based action.",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourRoom",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "10",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "87": {
+    "_attrs": {
+      "ActionTypeId": "87",
+      "ActionTypeName": "Skip Next Ammo Action",
+      "RoomType": "None",
+      "ActionTypeCategory": "SetItem",
+      "ActionTypeKey": "SkipSetItem",
+      "ActionTypeParameterValue": "1",
+      "ActionTypeDescription": "Skips the next ammo-based action.",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourRoom",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "10",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "88": {
+    "_attrs": {
+      "ActionTypeId": "88",
+      "ActionTypeName": "Skip Next Special Power Action",
+      "RoomType": "None",
+      "ActionTypeCategory": "UseSpecialPower",
+      "ActionTypeKey": "SkipSpecialPower",
+      "ActionTypeParameterValue": "1",
+      "ActionTypeDescription": "Skips the next special power action.",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourCharacter",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "10",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "89": {
+    "_attrs": {
+      "ActionTypeId": "89",
+      "ActionTypeName": "Set Highest HP",
+      "RoomType": "Carrier",
+      "ActionTypeCategory": "SetItem",
+      "ActionTypeKey": "SetHighestHP",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Sets current assigned ammo to the highest HP stat ammo available",
+      "ActionTypeParameterRelativity": "Highest",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourShip",
+      "ConditionTypeParameter": "Hp",
+      "ColorString": "",
+      "RequiredResearchDesignId": "95",
+      "OrderIndex": "15",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "90": {
+    "_attrs": {
+      "ActionTypeId": "90",
+      "ActionTypeName": "Set Highest HP",
+      "RoomType": "Android",
+      "ActionTypeCategory": "SetItem",
+      "ActionTypeKey": "SetHighestHP",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Sets current assigned ammo to the highest HP stat ammo available",
+      "ActionTypeParameterRelativity": "Highest",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourShip",
+      "ConditionTypeParameter": "Hp",
+      "ColorString": "",
+      "RequiredResearchDesignId": "95",
+      "OrderIndex": "16",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "91": {
+    "_attrs": {
+      "ActionTypeId": "91",
+      "ActionTypeName": "Set Highest Speed",
+      "RoomType": "None",
+      "ActionTypeCategory": "SetItem",
+      "ActionTypeKey": "SetHighestSpeed",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Sets current assigned ammo to the highest speed stat ammo available",
+      "ActionTypeParameterRelativity": "Highest",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourShip",
+      "ConditionTypeParameter": "Speed",
+      "ColorString": "",
+      "RequiredResearchDesignId": "96",
+      "OrderIndex": "17",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "92": {
+    "_attrs": {
+      "ActionTypeId": "92",
+      "ActionTypeName": "Set Highest Attack Distance",
+      "RoomType": "Carrier",
+      "ActionTypeCategory": "SetItem",
+      "ActionTypeKey": "SetHighestAttackDistance",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Sets current assigned ammo to the highest Attack Distance stat ammo available",
+      "ActionTypeParameterRelativity": "Highest",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourShip",
+      "ConditionTypeParameter": "MinRange",
+      "ColorString": "",
+      "RequiredResearchDesignId": "96",
+      "OrderIndex": "18",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "94": {
+    "_attrs": {
+      "ActionTypeId": "94",
+      "ActionTypeName": "Keep Current Power",
+      "RoomType": "None",
+      "ActionTypeCategory": "SetPower",
+      "ActionTypeKey": "KeepCurrentPower",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Keeps the current assigned power.",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "None",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "95": {
+    "_attrs": {
+      "ActionTypeId": "95",
+      "ActionTypeName": "Target Enemy Anti-Teleport",
+      "RoomType": "AntiTeleport",
+      "ActionTypeCategory": "Target",
+      "ActionTypeKey": "TargetEnemyAntiTeleport",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Set current target to an enemy Anti-Teleport type room",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "EnemyShip",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "97": {
+    "_attrs": {
+      "ActionTypeId": "97",
+      "ActionTypeName": "Target Enemy Booster",
+      "RoomType": "Booster",
+      "ActionTypeCategory": "Target",
+      "ActionTypeKey": "TargetEnemyBooster",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Set current target to an enemy Booster type room",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "EnemyShip",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "99": {
+    "_attrs": {
+      "ActionTypeId": "99",
+      "ActionTypeName": "Target Your Anti-Teleport",
+      "RoomType": "AntiTeleport",
+      "ActionTypeCategory": "Target",
+      "ActionTypeKey": "TargetYourAnti-Teleport",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Sets current target to a friendly Anti-Teleport type weapon room",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourShip",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "101": {
+    "_attrs": {
+      "ActionTypeId": "101",
+      "ActionTypeName": "Target Your Booster",
+      "RoomType": "Booster",
+      "ActionTypeCategory": "Target",
+      "ActionTypeKey": "TargetYourBooster",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Sets current target to a friendly Booster type weapon room",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourShip",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  }
+}
