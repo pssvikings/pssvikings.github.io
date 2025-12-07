@@ -46,7 +46,11 @@ async function handleImageCache(request) {
 
     // If not in cache or expired, fetch fresh
     try {
-        const networkResponse = await fetch(request);
+        const networkResponse = await fetch(request, {
+            credentials: 'omit',
+            referrer: 'no-referrer',
+            referrerPolicy: 'no-referrer',
+        });
         if (networkResponse.ok) {
             const responseToCache = networkResponse.clone();
             const headers = new Headers(responseToCache.headers);
