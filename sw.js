@@ -31,43 +31,45 @@ self.addEventListener('fetch', (event) => {
 
 async function handleImageCache(request) {
     const cache = await caches.open(CACHE_NAME);
+    const cacheKey = new Request(request.url, { method: request.method });
+    const metaKey = new Request(request.url + '::sw-meta');
 
-    // Try cache first
-    const cachedResponse = await cache.match(request);
-    if (cachedResponse) {
-        const cacheTime = cachedResponse.headers.get('sw-cache-time');
-        if (cacheTime) {
-            const age = Date.now() - Number.parseInt(cacheTime, 10);
-            if (age < CACHE_EXPIRY_MS) {
-                return cachedResponse;
-            }
-        }
+    const cachedResponse = await cache.match(cacheKey);
+    const metaResponse = await cache.match(metaKey);
+
+    if (cachedResponse && metaResponse) {
+        const cacheTime = Number(await (await cache.match(metaKey)).text());
+        if (Date.now() - cacheTime < CACHE_EXPIRY_MS) return cachedResponse;
+    } else if (cachedResponse && !metaResponse) {
+        return cachedResponse;
     }
 
-    // If not in cache or expired, fetch fresh
     try {
-        const networkResponse = await fetch(request, {
+        const headers = new Headers(request.headers);
+        headers.delete('referer');
+        headers.delete('referrer');
+
+        const init = {
+            method: request.method,
+            headers,
+            body: request.method !== 'GET' && request.method !== 'HEAD' ? await request.clone().arrayBuffer() : undefined,
             credentials: 'omit',
-            referrer: 'no-referrer',
+            referrer: '',
             referrerPolicy: 'no-referrer',
-        });
-        if (networkResponse.ok) {
-            const responseToCache = networkResponse.clone();
-            const headers = new Headers(responseToCache.headers);
-            headers.set('sw-cache-time', String(Date.now()));
-            const modifiedResponse = new Response(responseToCache.body, {
-                status: responseToCache.status,
-                statusText: responseToCache.statusText,
-                headers,
-            });
-            cache.put(request, modifiedResponse);
+            redirect: 'follow',
+            mode: 'cors',
+        };
+
+        const networkResponse = await fetch(new Request(request.url, init));
+
+        if (networkResponse && (networkResponse.ok || networkResponse.type === 'opaque')) {
+            await cache.put(cacheKey, networkResponse.clone());
+            await cache.put(metaKey, new Response(String(Date.now())));
         }
+
         return networkResponse;
-    } catch {
-        // Network failed, return cached if available
-        if (cachedResponse) {
-            return cachedResponse;
-        }
-        throw new Error('Network request failed and no cache available');
+    } catch (err) {
+        if (cachedResponse) return cachedResponse;
+        throw err;
     }
 }
