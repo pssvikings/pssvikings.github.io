@@ -1,1 +1,0 @@
-(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,38228,t=>{"use strict";var e=t.i(43476),i=t.i(91494);function o(){return(0,e.jsx)(i.ShipDataRoute,{title:"Room Actions",children:(0,e.jsx)("div",{className:"p-8 text-muted-foreground",children:"Room actions view is not available."})})}t.s(["default",()=>o])}]);

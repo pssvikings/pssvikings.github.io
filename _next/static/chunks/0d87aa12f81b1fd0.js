@@ -1,1 +1,0 @@
-(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,85319,t=>{"use strict";var e=t.i(43476),i=t.i(91494);function a(){return(0,e.jsx)(i.ShipDataRoute,{title:"Battles",children:(0,e.jsx)("div",{className:"p-8 text-muted-foreground",children:"Battles view is not available."})})}t.s(["default",()=>a])}]);
