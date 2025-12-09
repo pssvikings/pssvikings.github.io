@@ -8898,5 +8898,85 @@
       "RoomCategoryType": "None",
       "ConditionParameterArgument": "0"
     }
+  },
+  "480": {
+    "_attrs": {
+      "ConditionTypeId": "480",
+      "ConditionTypeName": "Active Friendly Crafts <= 15",
+      "ConditionTypeDescription": "This condition is true when there are 15 or less friendly crafts currently active in battle",
+      "ConditionTypeAvailability": "3",
+      "ConditionTypeCategory": "YourCraft",
+      "ConditionTypeComparison": "Lower",
+      "ConditionTypeParameterValue": "16",
+      "ConditionTypeKey": "Count",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "Count",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "5",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "481": {
+    "_attrs": {
+      "ConditionTypeId": "481",
+      "ConditionTypeName": "Active Friendly Craft > 15",
+      "ConditionTypeDescription": "This condition is true when there are more than 15 friendly crafts currently active in battle",
+      "ConditionTypeAvailability": "3",
+      "ConditionTypeCategory": "YourCraft",
+      "ConditionTypeComparison": "Higher",
+      "ConditionTypeParameterValue": "15",
+      "ConditionTypeKey": "Count",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "Count",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "6",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "482": {
+    "_attrs": {
+      "ConditionTypeId": "482",
+      "ConditionTypeName": "Active Friendly Crafts <= 20",
+      "ConditionTypeDescription": "This condition is true when there are 20 or less friendly crafts currently active in battle",
+      "ConditionTypeAvailability": "3",
+      "ConditionTypeCategory": "YourCraft",
+      "ConditionTypeComparison": "Lower",
+      "ConditionTypeParameterValue": "21",
+      "ConditionTypeKey": "Count",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "Count",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "7",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "483": {
+    "_attrs": {
+      "ConditionTypeId": "483",
+      "ConditionTypeName": "Active Friendly Craft > 20",
+      "ConditionTypeDescription": "This condition is true when there are more than 20 friendly crafts currently active in battle",
+      "ConditionTypeAvailability": "3",
+      "ConditionTypeCategory": "YourCraft",
+      "ConditionTypeComparison": "Higher",
+      "ConditionTypeParameterValue": "20",
+      "ConditionTypeKey": "Count",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "Count",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "8",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
   }
 }
