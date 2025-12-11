@@ -65,6 +65,11 @@ async function handleImageCache(request) {
         if (networkResponse && (networkResponse.ok || networkResponse.type === 'opaque')) {
             await cache.put(cacheKey, networkResponse.clone());
             await cache.put(metaKey, new Response(String(Date.now())));
+        } else if (networkResponse && networkResponse.status === 404) {
+            // Cache 404 responses for 24 hours to prevent retries
+            const notFoundResponse = new Response(null, { status: 404, statusText: 'Not Found' });
+            await cache.put(cacheKey, notFoundResponse.clone());
+            await cache.put(metaKey, new Response(String(Date.now())));
         }
 
         return networkResponse;
