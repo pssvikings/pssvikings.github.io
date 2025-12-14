@@ -2,5 +2,5 @@
 2:"$Sreact.suspense"
 3:I[16416,["/_next/static/chunks/2f948b6c6bdf9c3b.js","/_next/static/chunks/7d25c1585cafd3b4.js","/_next/static/chunks/9915c44959ce953a.js","/_next/static/chunks/d90fb9915996b5c6.js","/_next/static/chunks/15010d4aa0ef9918.js","/_next/static/chunks/7757c9354d385ad0.js","/_next/static/chunks/d907394052961174.js"],"AuthCallbackClient"]
 4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
-0:{"buildId":"AYkkqxo6UOoGzFbueBlqe","rsc":["$","$1","c",{"children":[["$","$2",null,{"fallback":["$","div",null,{"className":"p-8","children":"Signing in…"}],"children":["$","$L3",null,{}]}],[["$","script","script-0",{"src":"/_next/static/chunks/d907394052961174.js","async":true}]],["$","$L4",null,{"children":["$","$2",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"c88gDZol8iLQlMTVeCuMW","rsc":["$","$1","c",{"children":[["$","$2",null,{"fallback":["$","div",null,{"className":"p-8","children":"Signing in…"}],"children":["$","$L3",null,{}]}],[["$","script","script-0",{"src":"/_next/static/chunks/d907394052961174.js","async":true}]],["$","$L4",null,{"children":["$","$2",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
 5:null
