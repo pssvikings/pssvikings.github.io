@@ -51916,5 +51916,107 @@
         }
       ]
     }
+  },
+  "542": {
+    "_attrs": {
+      "CharacterDesignId": "542",
+      "CharacterDesignName": "Nikola Tesla",
+      "CharacterHeadPartId": "2374",
+      "CharacterBodyPartId": "2375",
+      "GenderType": "Male",
+      "RaceType": "White",
+      "Hp": "6",
+      "Pilot": "1",
+      "Attack": "0.8",
+      "FireResistance": "0",
+      "Repair": "1.8",
+      "Weapon": "2",
+      "Science": "15",
+      "Engine": "6",
+      "Research": "5",
+      "Level": "1",
+      "WalkingSpeed": "1",
+      "MinShipLevel": "1",
+      "FinalHp": "10",
+      "FinalPilot": "4",
+      "FinalAttack": "1.2",
+      "FinalRepair": "2.9",
+      "FinalWeapon": "4",
+      "FinalScience": "26",
+      "FinalEngine": "5",
+      "FinalResearch": "5",
+      "CharacterLegPartId": "2376",
+      "Rarity": "Special",
+      "ProgressionType": "Linear",
+      "CharacterDesignDescription": "Famous for his experments with exotic energies that electrified the globe - rarely recognized for his passion of violin and piano.",
+      "XpRequirementScale": "1",
+      "MaxCharacterLevel": "40",
+      "SpecialAbilityType": "Freeze",
+      "SpecialAbilityArgument": "120",
+      "SpecialAbilityFinalArgument": "200",
+      "ProfileSpriteId": "28320",
+      "RunSpeed": "2",
+      "TrainingCapacity": "100",
+      "EquipmentMask": "20",
+      "SpeechVoice": "",
+      "SpeechPhrases": "",
+      "SpeechRate": "1",
+      "SpeechPitch": "1",
+      "Flags": "1",
+      "RootCharacterDesignId": "542",
+      "MaxCount": "0",
+      "Tags": "",
+      "BoostValuesString": "6,4,0",
+      "Metadata": "{\"CharacterAttackType\":\"Ranged\",\"WeaponSpriteId\":\"7917\"}",
+      "TapSoundFileId": "5764",
+      "ActionSoundFileId": "5763",
+      "CollectionDesignId": "24"
+    },
+    "CharacterParts": {
+      "CharacterPart": [
+        {
+          "_attrs": {
+            "CharacterPartId": "2374",
+            "CharacterPartName": "NikolaTeslaHead",
+            "CharacterPartType": "Head",
+            "StandardSpriteId": "28314",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "28315"
+          }
+        },
+        {
+          "_attrs": {
+            "CharacterPartId": "2375",
+            "CharacterPartName": "NikolaTeslaBody",
+            "CharacterPartType": "Body",
+            "StandardSpriteId": "28316",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "28317"
+          }
+        },
+        {
+          "_attrs": {
+            "CharacterPartId": "2376",
+            "CharacterPartName": "NikolaTeslaLeg",
+            "CharacterPartType": "Leg",
+            "StandardSpriteId": "28318",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "28319"
+          }
+        }
+      ]
+    }
   }
 }
