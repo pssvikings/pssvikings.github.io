@@ -45064,7 +45064,7 @@
       "RootRoomDesignId": "103",
       "RefillUnitCost": "0",
       "DefaultDefenceBonus": "0",
-      "PriceString": "mineral:3000000",
+      "PriceString": "mineral:2500000",
       "SortIndex": "0",
       "Flags": "8",
       "TargetType": "None",
