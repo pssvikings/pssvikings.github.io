@@ -30,20 +30,31 @@ async function cacheFirst(request, isSpriteRequest) {
     const cached = await cache.match(request);
     if (cached) return cached;
 
-    const fetchOpts = isSpriteRequest
-        ? {
+    // For cross-origin sprite downloads, we use a `no-cors` Request so the browser
+    // can return an opaque response (which we can still cache).
+    const fetchRequest = isSpriteRequest
+        ? new Request(request.url, {
+              method: 'GET',
               mode: 'no-cors',
               credentials: 'omit',
               referrer: '',
               referrerPolicy: 'no-referrer',
-          }
-        : { referrerPolicy: 'no-referrer' };
-
-    const response = await fetch(request, fetchOpts);
+          })
+        : request;
 
     try {
-        await cache.put(request, response.clone());
-    } catch {}
+        const response = await fetch(fetchRequest, { referrerPolicy: 'no-referrer' });
 
-    return response;
+        try {
+            await cache.put(request, response.clone());
+        } catch {}
+
+        return response;
+    } catch (err) {
+        const fallback = await cache.match(request);
+        if (fallback) return fallback;
+
+        // Let the request fail in a controlled way.
+        return Response.error();
+    }
 }
