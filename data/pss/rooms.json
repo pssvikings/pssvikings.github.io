@@ -41474,7 +41474,7 @@
       "TargetType": "None",
       "SupportedGridTypes": "1",
       "EnhancementType": "Science",
-      "CooldownTime": "80",
+      "CooldownTime": "60",
       "RequirementString": "",
       "Range": "3",
       "RefillCostString": "",
