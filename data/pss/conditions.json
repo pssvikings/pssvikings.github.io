@@ -16,7 +16,8 @@
       "RequiredResearchDesignId": "0",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "2": {
@@ -36,7 +37,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "2",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "3": {
@@ -56,7 +58,8 @@
       "RequiredResearchDesignId": "94",
       "OrderIndex": "4",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "5": {
@@ -76,7 +79,8 @@
       "RequiredResearchDesignId": "0",
       "OrderIndex": "8",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "8": {
@@ -96,7 +100,8 @@
       "RequiredResearchDesignId": "94",
       "OrderIndex": "5",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "10": {
@@ -116,7 +121,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "2",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "11": {
@@ -136,7 +142,8 @@
       "RequiredResearchDesignId": "94",
       "OrderIndex": "4",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "13": {
@@ -156,7 +163,8 @@
       "RequiredResearchDesignId": "0",
       "OrderIndex": "8",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "16": {
@@ -176,7 +184,8 @@
       "RequiredResearchDesignId": "94",
       "OrderIndex": "5",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "18": {
@@ -196,7 +205,8 @@
       "RequiredResearchDesignId": "0",
       "OrderIndex": "1",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "21": {
@@ -216,7 +226,8 @@
       "RequiredResearchDesignId": "0",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "22": {
@@ -236,7 +247,8 @@
       "RequiredResearchDesignId": "0",
       "OrderIndex": "9",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "26": {
@@ -256,7 +268,8 @@
       "RequiredResearchDesignId": "0",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "27": {
@@ -276,7 +289,8 @@
       "RequiredResearchDesignId": "0",
       "OrderIndex": "1",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "28": {
@@ -296,7 +310,8 @@
       "RequiredResearchDesignId": "0",
       "OrderIndex": "9",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "32": {
@@ -316,7 +331,8 @@
       "RequiredResearchDesignId": "0",
       "OrderIndex": "1",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "33": {
@@ -336,7 +352,8 @@
       "RequiredResearchDesignId": "0",
       "OrderIndex": "8",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "34": {
@@ -356,7 +373,8 @@
       "RequiredResearchDesignId": "0",
       "OrderIndex": "1",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "35": {
@@ -376,7 +394,8 @@
       "RequiredResearchDesignId": "0",
       "OrderIndex": "1",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "36": {
@@ -396,7 +415,8 @@
       "RequiredResearchDesignId": "0",
       "OrderIndex": "1",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "37": {
@@ -416,7 +436,8 @@
       "RequiredResearchDesignId": "94",
       "OrderIndex": "1",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "38": {
@@ -436,7 +457,8 @@
       "RequiredResearchDesignId": "0",
       "OrderIndex": "1",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "39": {
@@ -456,7 +478,8 @@
       "RequiredResearchDesignId": "0",
       "OrderIndex": "1",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "40": {
@@ -476,7 +499,8 @@
       "RequiredResearchDesignId": "0",
       "OrderIndex": "8",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "41": {
@@ -496,7 +520,8 @@
       "RequiredResearchDesignId": "94",
       "OrderIndex": "4",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "42": {
@@ -516,7 +541,8 @@
       "RequiredResearchDesignId": "0",
       "OrderIndex": "8",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "43": {
@@ -536,7 +562,8 @@
       "RequiredResearchDesignId": "94",
       "OrderIndex": "4",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "44": {
@@ -556,7 +583,8 @@
       "RequiredResearchDesignId": "0",
       "OrderIndex": "8",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "45": {
@@ -576,7 +604,8 @@
       "RequiredResearchDesignId": "94",
       "OrderIndex": "4",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "46": {
@@ -596,7 +625,8 @@
       "RequiredResearchDesignId": "0",
       "OrderIndex": "8",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "47": {
@@ -616,7 +646,8 @@
       "RequiredResearchDesignId": "94",
       "OrderIndex": "4",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "48": {
@@ -636,7 +667,8 @@
       "RequiredResearchDesignId": "94",
       "OrderIndex": "8",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "49": {
@@ -656,7 +688,8 @@
       "RequiredResearchDesignId": "94",
       "OrderIndex": "4",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "50": {
@@ -676,7 +709,8 @@
       "RequiredResearchDesignId": "0",
       "OrderIndex": "8",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "51": {
@@ -696,7 +730,8 @@
       "RequiredResearchDesignId": "94",
       "OrderIndex": "4",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "52": {
@@ -716,7 +751,8 @@
       "RequiredResearchDesignId": "0",
       "OrderIndex": "8",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "53": {
@@ -736,7 +772,8 @@
       "RequiredResearchDesignId": "94",
       "OrderIndex": "4",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "54": {
@@ -756,7 +793,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "2",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "55": {
@@ -776,7 +814,8 @@
       "RequiredResearchDesignId": "94",
       "OrderIndex": "8",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "56": {
@@ -796,7 +835,8 @@
       "RequiredResearchDesignId": "94",
       "OrderIndex": "4",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "57": {
@@ -816,7 +856,8 @@
       "RequiredResearchDesignId": "94",
       "OrderIndex": "1",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "58": {
@@ -836,7 +877,8 @@
       "RequiredResearchDesignId": "94",
       "OrderIndex": "1",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "59": {
@@ -856,7 +898,8 @@
       "RequiredResearchDesignId": "0",
       "OrderIndex": "8",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "60": {
@@ -876,7 +919,8 @@
       "RequiredResearchDesignId": "94",
       "OrderIndex": "4",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "61": {
@@ -896,7 +940,8 @@
       "RequiredResearchDesignId": "94",
       "OrderIndex": "1",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "2"
     }
   },
   "62": {
@@ -916,7 +961,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "8",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "63": {
@@ -936,7 +982,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "4",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "64": {
@@ -956,7 +1003,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "1",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "65": {
@@ -976,7 +1024,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "1",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "66": {
@@ -996,7 +1045,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "8",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "67": {
@@ -1016,7 +1066,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "4",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "68": {
@@ -1036,7 +1087,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "69": {
@@ -1056,7 +1108,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "8",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "70": {
@@ -1076,7 +1129,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "71": {
@@ -1096,7 +1150,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "1",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "72": {
@@ -1116,7 +1171,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "2",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "73": {
@@ -1136,7 +1192,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "3",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "74": {
@@ -1156,7 +1213,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "75": {
@@ -1176,7 +1234,8 @@
       "RequiredResearchDesignId": "94",
       "OrderIndex": "1",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "76": {
@@ -1196,7 +1255,8 @@
       "RequiredResearchDesignId": "94",
       "OrderIndex": "8",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "77": {
@@ -1216,7 +1276,8 @@
       "RequiredResearchDesignId": "94",
       "OrderIndex": "8",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "78": {
@@ -1236,7 +1297,8 @@
       "RequiredResearchDesignId": "94",
       "OrderIndex": "4",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "79": {
@@ -1256,7 +1318,8 @@
       "RequiredResearchDesignId": "94",
       "OrderIndex": "1",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "80": {
@@ -1276,7 +1339,8 @@
       "RequiredResearchDesignId": "94",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "2"
     }
   },
   "81": {
@@ -1296,7 +1360,8 @@
       "RequiredResearchDesignId": "94",
       "OrderIndex": "1",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "2"
     }
   },
   "82": {
@@ -1316,7 +1381,8 @@
       "RequiredResearchDesignId": "94",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "2"
     }
   },
   "83": {
@@ -1336,7 +1402,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "84": {
@@ -1356,7 +1423,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "85": {
@@ -1376,7 +1444,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "8",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "86": {
@@ -1396,7 +1465,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "4",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "87": {
@@ -1416,7 +1486,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "8",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "88": {
@@ -1436,7 +1507,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "4",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "89": {
@@ -1456,7 +1528,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "1",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "90": {
@@ -1476,7 +1549,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "1",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "91": {
@@ -1496,7 +1570,8 @@
       "RequiredResearchDesignId": "94",
       "OrderIndex": "5",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "92": {
@@ -1516,7 +1591,8 @@
       "RequiredResearchDesignId": "94",
       "OrderIndex": "4",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "93": {
@@ -1536,7 +1612,8 @@
       "RequiredResearchDesignId": "94",
       "OrderIndex": "4",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "94": {
@@ -1556,7 +1633,8 @@
       "RequiredResearchDesignId": "94",
       "OrderIndex": "5",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "95": {
@@ -1576,7 +1654,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "2",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "96": {
@@ -1596,7 +1675,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "2",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "97": {
@@ -1616,7 +1696,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "9",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "98": {
@@ -1636,7 +1717,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "5",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "99": {
@@ -1656,7 +1738,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "9",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "100": {
@@ -1676,7 +1759,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "9",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "101": {
@@ -1696,7 +1780,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "102": {
@@ -1716,7 +1801,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "1",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "103": {
@@ -1736,7 +1822,8 @@
       "RequiredResearchDesignId": "0",
       "OrderIndex": "8",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "104": {
@@ -1756,7 +1843,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "4",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "105": {
@@ -1776,7 +1864,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "6",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "106": {
@@ -1796,7 +1885,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "6",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "107": {
@@ -1816,7 +1906,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "6",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "108": {
@@ -1836,7 +1927,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "3",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "109": {
@@ -1856,7 +1948,8 @@
       "RequiredResearchDesignId": "94",
       "OrderIndex": "5",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "110": {
@@ -1876,7 +1969,8 @@
       "RequiredResearchDesignId": "0",
       "OrderIndex": "9",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "111": {
@@ -1896,7 +1990,8 @@
       "RequiredResearchDesignId": "0",
       "OrderIndex": "9",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "112": {
@@ -1916,7 +2011,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "6",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "113": {
@@ -1936,7 +2032,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "6",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "114": {
@@ -1956,7 +2053,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "6",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "115": {
@@ -1976,7 +2074,8 @@
       "RequiredResearchDesignId": "0",
       "OrderIndex": "9",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "116": {
@@ -1996,7 +2095,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "3",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "117": {
@@ -2016,7 +2116,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "7",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "118": {
@@ -2036,7 +2137,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "3",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "119": {
@@ -2056,7 +2158,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "7",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "120": {
@@ -2076,7 +2179,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "121": {
@@ -2096,7 +2200,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "122": {
@@ -2116,7 +2221,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "3",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "123": {
@@ -2136,7 +2242,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "3",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "124": {
@@ -2156,7 +2263,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "7",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "125": {
@@ -2176,7 +2284,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "7",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "126": {
@@ -2196,7 +2305,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "7",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "127": {
@@ -2216,7 +2326,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "7",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "128": {
@@ -2236,7 +2347,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "2",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "129": {
@@ -2256,7 +2368,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "3",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "130": {
@@ -2276,7 +2389,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "131": {
@@ -2296,7 +2410,8 @@
       "RequiredResearchDesignId": "63",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "132": {
@@ -2316,7 +2431,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "133": {
@@ -2336,7 +2452,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "134": {
@@ -2356,7 +2473,8 @@
       "RequiredResearchDesignId": "63",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "135": {
@@ -2376,7 +2494,8 @@
       "RequiredResearchDesignId": "63",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "136": {
@@ -2396,7 +2515,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "137": {
@@ -2416,7 +2536,8 @@
       "RequiredResearchDesignId": "0",
       "OrderIndex": "1",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "138": {
@@ -2436,7 +2557,8 @@
       "RequiredResearchDesignId": "0",
       "OrderIndex": "8",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "139": {
@@ -2456,7 +2578,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "140": {
@@ -2476,7 +2599,8 @@
       "RequiredResearchDesignId": "94",
       "OrderIndex": "4",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "141": {
@@ -2496,7 +2620,8 @@
       "RequiredResearchDesignId": "94",
       "OrderIndex": "5",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "142": {
@@ -2516,7 +2641,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "2",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "143": {
@@ -2536,7 +2662,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "9",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "144": {
@@ -2556,7 +2683,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "1",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "145": {
@@ -2576,7 +2704,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "6",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "146": {
@@ -2596,7 +2725,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "3",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "147": {
@@ -2616,7 +2746,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "7",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "148": {
@@ -2636,7 +2767,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "149": {
@@ -2656,7 +2788,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "150": {
@@ -2676,7 +2809,8 @@
       "RequiredResearchDesignId": "0",
       "OrderIndex": "1",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "151": {
@@ -2696,7 +2830,8 @@
       "RequiredResearchDesignId": "0",
       "OrderIndex": "8",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "152": {
@@ -2716,7 +2851,8 @@
       "RequiredResearchDesignId": "94",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "153": {
@@ -2736,7 +2872,8 @@
       "RequiredResearchDesignId": "94",
       "OrderIndex": "4",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "154": {
@@ -2756,7 +2893,8 @@
       "RequiredResearchDesignId": "94",
       "OrderIndex": "5",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "155": {
@@ -2776,7 +2914,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "2",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "156": {
@@ -2796,7 +2935,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "9",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "157": {
@@ -2816,7 +2956,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "1",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "158": {
@@ -2836,7 +2977,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "6",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "159": {
@@ -2856,7 +2998,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "3",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "160": {
@@ -2876,7 +3019,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "7",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "161": {
@@ -2896,7 +3040,8 @@
       "RequiredResearchDesignId": "0",
       "OrderIndex": "1",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "162": {
@@ -2916,7 +3061,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "163": {
@@ -2936,7 +3082,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "164": {
@@ -2956,7 +3103,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "165": {
@@ -2976,7 +3124,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "1",
       "RoomCategoryType": "Superweapon",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "166": {
@@ -2996,7 +3145,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "8",
       "RoomCategoryType": "Superweapon",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "167": {
@@ -3016,7 +3166,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "4",
       "RoomCategoryType": "Superweapon",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "173": {
@@ -3036,7 +3187,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "174": {
@@ -3056,7 +3208,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "175": {
@@ -3076,7 +3229,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "176": {
@@ -3096,7 +3250,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "1",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "177": {
@@ -3116,7 +3271,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "1",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "178": {
@@ -3136,7 +3292,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "179": {
@@ -3156,7 +3313,8 @@
       "RequiredResearchDesignId": "63",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "180": {
@@ -3176,7 +3334,8 @@
       "RequiredResearchDesignId": "63",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "181": {
@@ -3196,7 +3355,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "182": {
@@ -3216,7 +3376,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "184": {
@@ -3236,7 +3397,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "2",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "185": {
@@ -3256,7 +3418,8 @@
       "RequiredResearchDesignId": "94",
       "OrderIndex": "4",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "186": {
@@ -3276,7 +3439,8 @@
       "RequiredResearchDesignId": "0",
       "OrderIndex": "8",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "187": {
@@ -3296,7 +3460,8 @@
       "RequiredResearchDesignId": "94",
       "OrderIndex": "5",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "188": {
@@ -3316,7 +3481,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "6",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "189": {
@@ -3336,7 +3502,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "3",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "190": {
@@ -3356,7 +3523,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "7",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "191": {
@@ -3376,7 +3544,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "2",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "192": {
@@ -3396,7 +3565,8 @@
       "RequiredResearchDesignId": "94",
       "OrderIndex": "4",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "193": {
@@ -3416,7 +3586,8 @@
       "RequiredResearchDesignId": "0",
       "OrderIndex": "8",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "194": {
@@ -3436,7 +3607,8 @@
       "RequiredResearchDesignId": "94",
       "OrderIndex": "5",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "195": {
@@ -3456,7 +3628,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "6",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "196": {
@@ -3476,7 +3649,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "3",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "197": {
@@ -3496,7 +3670,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "7",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "198": {
@@ -3516,7 +3691,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "1",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "199": {
@@ -3536,7 +3712,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "200": {
@@ -3556,7 +3733,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "1",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "201": {
@@ -3576,7 +3754,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "202": {
@@ -3596,7 +3775,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "1",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "203": {
@@ -3616,7 +3796,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "204": {
@@ -3636,7 +3817,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "1",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "205": {
@@ -3656,7 +3838,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "206": {
@@ -3676,7 +3859,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "207": {
@@ -3696,7 +3880,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "208": {
@@ -3716,7 +3901,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "10",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "209": {
@@ -3736,7 +3922,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "10",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "210": {
@@ -3756,7 +3943,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "1",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "211": {
@@ -3776,7 +3964,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "1",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "212": {
@@ -3796,7 +3985,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "2",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "213": {
@@ -3816,7 +4006,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "2",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "214": {
@@ -3836,7 +4027,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "4",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "215": {
@@ -3856,7 +4048,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "4",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "216": {
@@ -3876,7 +4069,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "9",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "217": {
@@ -3896,7 +4090,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "9",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "218": {
@@ -3916,7 +4111,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "3",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "219": {
@@ -3936,7 +4132,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "3",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "220": {
@@ -3956,7 +4153,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "5",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "221": {
@@ -3976,7 +4174,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "5",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "222": {
@@ -3996,7 +4195,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "6",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "223": {
@@ -4016,7 +4216,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "6",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "224": {
@@ -4036,7 +4237,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "7",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "225": {
@@ -4056,7 +4258,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "7",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "227": {
@@ -4076,7 +4279,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "8",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "228": {
@@ -4096,7 +4300,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "229": {
@@ -4116,7 +4321,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "10",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "230": {
@@ -4136,7 +4342,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "2",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "231": {
@@ -4156,7 +4363,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "4",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "232": {
@@ -4176,7 +4384,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "9",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "233": {
@@ -4196,7 +4405,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "1",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "234": {
@@ -4216,7 +4426,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "5",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "235": {
@@ -4236,7 +4447,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "3",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "236": {
@@ -4256,7 +4468,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "7",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "237": {
@@ -4276,7 +4489,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "6",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "238": {
@@ -4296,7 +4510,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "8",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "239": {
@@ -4316,7 +4531,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "240": {
@@ -4336,7 +4552,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "10",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "241": {
@@ -4356,7 +4573,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "1",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "242": {
@@ -4376,7 +4594,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "2",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "243": {
@@ -4396,7 +4615,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "4",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "244": {
@@ -4416,7 +4636,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "9",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "245": {
@@ -4436,7 +4657,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "3",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "246": {
@@ -4456,7 +4678,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "6",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "247": {
@@ -4476,7 +4699,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "5",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "248": {
@@ -4496,7 +4720,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "7",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "249": {
@@ -4516,7 +4741,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "3",
       "RoomCategoryType": "Superweapon",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "250": {
@@ -4536,7 +4762,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "2",
       "RoomCategoryType": "Superweapon",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "251": {
@@ -4556,7 +4783,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "5",
       "RoomCategoryType": "Superweapon",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "252": {
@@ -4576,7 +4804,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "4",
       "RoomCategoryType": "Superweapon",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "253": {
@@ -4596,7 +4825,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "6",
       "RoomCategoryType": "Superweapon",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "254": {
@@ -4616,7 +4846,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "7",
       "RoomCategoryType": "Superweapon",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "255": {
@@ -4636,7 +4867,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "8",
       "RoomCategoryType": "Superweapon",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "256": {
@@ -4656,7 +4888,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "9",
       "RoomCategoryType": "Superweapon",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "258": {
@@ -4676,7 +4909,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "1",
       "RoomCategoryType": "Superweapon",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "259": {
@@ -4696,7 +4930,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "3",
       "RoomCategoryType": "Superweapon",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "260": {
@@ -4716,7 +4951,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "2",
       "RoomCategoryType": "Superweapon",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "261": {
@@ -4736,7 +4972,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "5",
       "RoomCategoryType": "Superweapon",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "262": {
@@ -4756,7 +4993,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "6",
       "RoomCategoryType": "Superweapon",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "263": {
@@ -4776,7 +5014,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "7",
       "RoomCategoryType": "Superweapon",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "264": {
@@ -4796,7 +5035,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "9",
       "RoomCategoryType": "Superweapon",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "265": {
@@ -4816,7 +5056,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "266": {
@@ -4836,7 +5077,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "267": {
@@ -4856,7 +5098,8 @@
       "RequiredResearchDesignId": "0",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "268": {
@@ -4876,7 +5119,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "269": {
@@ -4896,7 +5140,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "270": {
@@ -4916,7 +5161,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "271": {
@@ -4936,7 +5182,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "272": {
@@ -4956,7 +5203,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "273": {
@@ -4976,7 +5224,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "274": {
@@ -4996,7 +5245,8 @@
       "RequiredResearchDesignId": "94",
       "OrderIndex": "4",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "275": {
@@ -5016,7 +5266,8 @@
       "RequiredResearchDesignId": "94",
       "OrderIndex": "2",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "276": {
@@ -5036,7 +5287,8 @@
       "RequiredResearchDesignId": "94",
       "OrderIndex": "6",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "277": {
@@ -5056,7 +5308,8 @@
       "RequiredResearchDesignId": "94",
       "OrderIndex": "2",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "278": {
@@ -5076,7 +5329,8 @@
       "RequiredResearchDesignId": "94",
       "OrderIndex": "6",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "279": {
@@ -5096,7 +5350,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "9",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "280": {
@@ -5116,7 +5371,8 @@
       "RequiredResearchDesignId": "0",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "281": {
@@ -5136,7 +5392,8 @@
       "RequiredResearchDesignId": "0",
       "OrderIndex": "1",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "282": {
@@ -5156,7 +5413,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "2",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "283": {
@@ -5176,7 +5434,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "3",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "284": {
@@ -5196,7 +5455,8 @@
       "RequiredResearchDesignId": "94",
       "OrderIndex": "4",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "285": {
@@ -5216,7 +5476,8 @@
       "RequiredResearchDesignId": "94",
       "OrderIndex": "5",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "286": {
@@ -5236,7 +5497,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "6",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "287": {
@@ -5256,7 +5518,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "7",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "288": {
@@ -5276,7 +5539,8 @@
       "RequiredResearchDesignId": "0",
       "OrderIndex": "8",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "289": {
@@ -5296,7 +5560,8 @@
       "RequiredResearchDesignId": "0",
       "OrderIndex": "9",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "292": {
@@ -5316,7 +5581,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "293": {
@@ -5336,7 +5602,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "1",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "294": {
@@ -5356,7 +5623,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "295": {
@@ -5376,7 +5644,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "1",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "296": {
@@ -5396,7 +5665,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "3",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "297": {
@@ -5416,7 +5686,8 @@
       "RequiredResearchDesignId": "94",
       "OrderIndex": "4",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "298": {
@@ -5436,7 +5707,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "299": {
@@ -5456,7 +5728,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "1",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "300": {
@@ -5476,7 +5749,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "2",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "301": {
@@ -5496,7 +5770,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "3",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "302": {
@@ -5516,7 +5791,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "4",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "303": {
@@ -5536,7 +5812,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "5",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "304": {
@@ -5556,7 +5833,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "6",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "305": {
@@ -5576,7 +5854,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "7",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "306": {
@@ -5596,7 +5875,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "2",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "307": {
@@ -5616,7 +5896,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "3",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "308": {
@@ -5636,7 +5917,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "4",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "309": {
@@ -5656,7 +5938,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "5",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "310": {
@@ -5676,7 +5959,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "6",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "311": {
@@ -5696,7 +5980,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "7",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "312": {
@@ -5716,7 +6001,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "313": {
@@ -5736,7 +6022,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "1",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "314": {
@@ -5756,7 +6043,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "2",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "315": {
@@ -5776,7 +6064,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "3",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "316": {
@@ -5796,7 +6085,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "4",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "317": {
@@ -5816,7 +6106,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "5",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "318": {
@@ -5836,7 +6127,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "319": {
@@ -5856,7 +6148,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "1",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "320": {
@@ -5876,7 +6169,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "2",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "321": {
@@ -5896,7 +6190,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "3",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "322": {
@@ -5916,7 +6211,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "4",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "323": {
@@ -5936,7 +6232,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "5",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "324": {
@@ -5956,7 +6253,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "6",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "325": {
@@ -5976,7 +6274,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "7",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "326": {
@@ -5996,7 +6295,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "8",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "327": {
@@ -6016,7 +6316,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "328": {
@@ -6036,7 +6337,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "1",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "329": {
@@ -6056,7 +6358,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "2",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "330": {
@@ -6076,7 +6379,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "3",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "331": {
@@ -6096,7 +6400,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "4",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "332": {
@@ -6116,7 +6421,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "5",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "333": {
@@ -6136,7 +6442,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "6",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "334": {
@@ -6156,7 +6463,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "7",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "335": {
@@ -6176,7 +6484,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "8",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "336": {
@@ -6196,7 +6505,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "6",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "337": {
@@ -6216,7 +6526,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "7",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "338": {
@@ -6236,7 +6547,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "339": {
@@ -6256,7 +6568,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "1",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "340": {
@@ -6276,7 +6589,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "2",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "341": {
@@ -6296,7 +6610,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "3",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "342": {
@@ -6316,7 +6631,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "4",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "343": {
@@ -6336,7 +6652,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "5",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "344": {
@@ -6356,7 +6673,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "6",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "345": {
@@ -6376,7 +6694,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "7",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "346": {
@@ -6396,7 +6715,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "8",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "347": {
@@ -6416,7 +6736,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "9",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "348": {
@@ -6436,7 +6757,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "349": {
@@ -6456,7 +6778,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "1",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "350": {
@@ -6476,7 +6799,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "2",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "351": {
@@ -6496,7 +6820,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "3",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "352": {
@@ -6516,7 +6841,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "4",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "353": {
@@ -6536,7 +6862,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "5",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "354": {
@@ -6556,7 +6883,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "7",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "355": {
@@ -6576,7 +6904,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "6",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "356": {
@@ -6596,7 +6925,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "2",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "357": {
@@ -6616,7 +6946,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "3",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "358": {
@@ -6636,7 +6967,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "4",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "359": {
@@ -6656,7 +6988,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "7",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "360": {
@@ -6676,7 +7009,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "6",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "361": {
@@ -6696,7 +7030,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "5",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "362": {
@@ -6716,7 +7051,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "9",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "363": {
@@ -6736,7 +7072,8 @@
       "RequiredResearchDesignId": "0",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "364": {
@@ -6756,7 +7093,8 @@
       "RequiredResearchDesignId": "0",
       "OrderIndex": "1",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "365": {
@@ -6776,7 +7114,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "2",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "366": {
@@ -6796,7 +7135,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "3",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "367": {
@@ -6816,7 +7156,8 @@
       "RequiredResearchDesignId": "94",
       "OrderIndex": "4",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "368": {
@@ -6836,7 +7177,8 @@
       "RequiredResearchDesignId": "94",
       "OrderIndex": "5",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "369": {
@@ -6856,7 +7198,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "6",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "370": {
@@ -6876,7 +7219,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "7",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "371": {
@@ -6896,7 +7240,8 @@
       "RequiredResearchDesignId": "0",
       "OrderIndex": "8",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "372": {
@@ -6916,7 +7261,8 @@
       "RequiredResearchDesignId": "0",
       "OrderIndex": "9",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "373": {
@@ -6936,7 +7282,8 @@
       "RequiredResearchDesignId": "0",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "374": {
@@ -6956,7 +7303,8 @@
       "RequiredResearchDesignId": "0",
       "OrderIndex": "1",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "375": {
@@ -6976,7 +7324,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "2",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "376": {
@@ -6996,7 +7345,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "3",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "377": {
@@ -7016,7 +7366,8 @@
       "RequiredResearchDesignId": "94",
       "OrderIndex": "4",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "378": {
@@ -7036,7 +7387,8 @@
       "RequiredResearchDesignId": "94",
       "OrderIndex": "5",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "379": {
@@ -7056,7 +7408,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "6",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "380": {
@@ -7076,7 +7429,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "7",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "381": {
@@ -7096,7 +7450,8 @@
       "RequiredResearchDesignId": "0",
       "OrderIndex": "8",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "382": {
@@ -7116,7 +7471,8 @@
       "RequiredResearchDesignId": "0",
       "OrderIndex": "9",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "383": {
@@ -7136,7 +7492,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "2",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "384": {
@@ -7156,7 +7513,8 @@
       "RequiredResearchDesignId": "0",
       "OrderIndex": "1",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "385": {
@@ -7176,7 +7534,8 @@
       "RequiredResearchDesignId": "0",
       "OrderIndex": "8",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "386": {
@@ -7196,7 +7555,8 @@
       "RequiredResearchDesignId": "94",
       "OrderIndex": "4",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "390": {
@@ -7216,7 +7576,8 @@
       "RequiredResearchDesignId": "0",
       "OrderIndex": "1",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "391": {
@@ -7236,7 +7597,8 @@
       "RequiredResearchDesignId": "0",
       "OrderIndex": "8",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "392": {
@@ -7256,7 +7618,8 @@
       "RequiredResearchDesignId": "94",
       "OrderIndex": "4",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "396": {
@@ -7276,7 +7639,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "397": {
@@ -7296,7 +7660,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "1",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "398": {
@@ -7316,7 +7681,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "2",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "399": {
@@ -7336,7 +7702,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "3",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "400": {
@@ -7356,7 +7723,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "401": {
@@ -7376,7 +7744,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "1",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "402": {
@@ -7396,7 +7765,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "2",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "403": {
@@ -7416,7 +7786,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "3",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "404": {
@@ -7433,10 +7804,11 @@
       "RoomType": "None",
       "ConditionTypeParameter": "Count",
       "ColorString": "",
-      "RequiredResearchDesignId": "213",
+      "RequiredResearchDesignId": "95",
       "OrderIndex": "2",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "2"
     }
   },
   "405": {
@@ -7453,10 +7825,11 @@
       "RoomType": "None",
       "ConditionTypeParameter": "Count",
       "ColorString": "",
-      "RequiredResearchDesignId": "213",
+      "RequiredResearchDesignId": "95",
       "OrderIndex": "3",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "2"
     }
   },
   "406": {
@@ -7473,10 +7846,11 @@
       "RoomType": "None",
       "ConditionTypeParameter": "Count",
       "ColorString": "",
-      "RequiredResearchDesignId": "213",
+      "RequiredResearchDesignId": "95",
       "OrderIndex": "4",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "2"
     }
   },
   "407": {
@@ -7493,10 +7867,11 @@
       "RoomType": "None",
       "ConditionTypeParameter": "Count",
       "ColorString": "",
-      "RequiredResearchDesignId": "213",
+      "RequiredResearchDesignId": "95",
       "OrderIndex": "5",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "2"
     }
   },
   "408": {
@@ -7513,10 +7888,11 @@
       "RoomType": "None",
       "ConditionTypeParameter": "Count",
       "ColorString": "",
-      "RequiredResearchDesignId": "213",
+      "RequiredResearchDesignId": "95",
       "OrderIndex": "2",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "2"
     }
   },
   "409": {
@@ -7533,10 +7909,11 @@
       "RoomType": "None",
       "ConditionTypeParameter": "Count",
       "ColorString": "",
-      "RequiredResearchDesignId": "213",
+      "RequiredResearchDesignId": "95",
       "OrderIndex": "3",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "2"
     }
   },
   "410": {
@@ -7553,10 +7930,11 @@
       "RoomType": "None",
       "ConditionTypeParameter": "Count",
       "ColorString": "",
-      "RequiredResearchDesignId": "213",
+      "RequiredResearchDesignId": "95",
       "OrderIndex": "4",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "2"
     }
   },
   "411": {
@@ -7573,10 +7951,11 @@
       "RoomType": "None",
       "ConditionTypeParameter": "Count",
       "ColorString": "",
-      "RequiredResearchDesignId": "213",
+      "RequiredResearchDesignId": "95",
       "OrderIndex": "5",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "2"
     }
   },
   "413": {
@@ -7596,7 +7975,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "2",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "414": {
@@ -7616,7 +7996,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "3",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "415": {
@@ -7636,7 +8017,8 @@
       "RequiredResearchDesignId": "94",
       "OrderIndex": "4",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "416": {
@@ -7656,7 +8038,8 @@
       "RequiredResearchDesignId": "94",
       "OrderIndex": "5",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "417": {
@@ -7676,7 +8059,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "6",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "418": {
@@ -7696,7 +8080,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "7",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "419": {
@@ -7716,7 +8101,8 @@
       "RequiredResearchDesignId": "0",
       "OrderIndex": "8",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "420": {
@@ -7736,7 +8122,8 @@
       "RequiredResearchDesignId": "0",
       "OrderIndex": "9",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "422": {
@@ -7756,7 +8143,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "2",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "423": {
@@ -7776,7 +8164,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "3",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "424": {
@@ -7796,7 +8185,8 @@
       "RequiredResearchDesignId": "94",
       "OrderIndex": "4",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "425": {
@@ -7816,7 +8206,8 @@
       "RequiredResearchDesignId": "94",
       "OrderIndex": "5",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "426": {
@@ -7836,7 +8227,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "6",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "427": {
@@ -7856,7 +8248,8 @@
       "RequiredResearchDesignId": "0",
       "OrderIndex": "8",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "428": {
@@ -7876,7 +8269,8 @@
       "RequiredResearchDesignId": "95",
       "OrderIndex": "7",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "429": {
@@ -7896,7 +8290,8 @@
       "RequiredResearchDesignId": "0",
       "OrderIndex": "9",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "430": {
@@ -7916,7 +8311,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "431": {
@@ -7936,7 +8332,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "1",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "432": {
@@ -7956,7 +8353,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "433": {
@@ -7976,7 +8374,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "1",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "1"
+      "ConditionParameterArgument": "1",
+      "ConditionCategoryArgument": "0"
     }
   },
   "434": {
@@ -7996,7 +8395,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "2",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "2"
+      "ConditionParameterArgument": "2",
+      "ConditionCategoryArgument": "0"
     }
   },
   "435": {
@@ -8016,7 +8416,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "3",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "3"
+      "ConditionParameterArgument": "3",
+      "ConditionCategoryArgument": "0"
     }
   },
   "436": {
@@ -8036,7 +8437,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "4",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "4"
+      "ConditionParameterArgument": "4",
+      "ConditionCategoryArgument": "0"
     }
   },
   "437": {
@@ -8056,7 +8458,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "5",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "5"
+      "ConditionParameterArgument": "5",
+      "ConditionCategoryArgument": "0"
     }
   },
   "438": {
@@ -8076,7 +8479,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "2",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "439": {
@@ -8096,7 +8500,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "3",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "440": {
@@ -8116,7 +8521,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "4",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "441": {
@@ -8136,7 +8542,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "5",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "442": {
@@ -8156,7 +8563,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "6",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "443": {
@@ -8176,7 +8584,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "7",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "444": {
@@ -8196,7 +8605,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "8",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "445": {
@@ -8216,7 +8626,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "9",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "446": {
@@ -8236,7 +8647,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "2",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "447": {
@@ -8256,7 +8668,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "3",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "448": {
@@ -8276,7 +8689,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "4",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "449": {
@@ -8296,7 +8710,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "6",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "450": {
@@ -8316,7 +8731,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "5",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "451": {
@@ -8336,7 +8752,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "7",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "452": {
@@ -8356,7 +8773,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "8",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "453": {
@@ -8376,7 +8794,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "9",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "454": {
@@ -8396,7 +8815,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "2",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "455": {
@@ -8416,7 +8836,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "3",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "456": {
@@ -8436,7 +8857,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "4",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "457": {
@@ -8456,7 +8878,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "5",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "458": {
@@ -8476,7 +8899,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "6",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "459": {
@@ -8496,7 +8920,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "7",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "460": {
@@ -8516,7 +8941,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "8",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "461": {
@@ -8536,7 +8962,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "9",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "462": {
@@ -8556,7 +8983,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "2",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "463": {
@@ -8576,7 +9004,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "3",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "464": {
@@ -8596,7 +9025,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "4",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "465": {
@@ -8616,7 +9046,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "5",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "466": {
@@ -8636,7 +9067,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "6",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "467": {
@@ -8656,7 +9088,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "7",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "468": {
@@ -8676,7 +9109,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "8",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "469": {
@@ -8696,7 +9130,8 @@
       "RequiredResearchDesignId": "96",
       "OrderIndex": "9",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "470": {
@@ -8716,7 +9151,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "8",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "471": {
@@ -8736,7 +9172,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "8",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "472": {
@@ -8756,7 +9193,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "473": {
@@ -8776,7 +9214,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "474": {
@@ -8796,7 +9235,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "1",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "475": {
@@ -8816,7 +9256,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "1",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "476": {
@@ -8836,7 +9277,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "3",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "477": {
@@ -8856,7 +9298,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "4",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "478": {
@@ -8876,7 +9319,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "3",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "479": {
@@ -8896,7 +9340,8 @@
       "RequiredResearchDesignId": "213",
       "OrderIndex": "4",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
     }
   },
   "480": {
@@ -8913,10 +9358,11 @@
       "RoomType": "None",
       "ConditionTypeParameter": "Count",
       "ColorString": "",
-      "RequiredResearchDesignId": "213",
+      "RequiredResearchDesignId": "95",
       "OrderIndex": "5",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "2"
     }
   },
   "481": {
@@ -8933,10 +9379,11 @@
       "RoomType": "None",
       "ConditionTypeParameter": "Count",
       "ColorString": "",
-      "RequiredResearchDesignId": "213",
+      "RequiredResearchDesignId": "95",
       "OrderIndex": "6",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "2"
     }
   },
   "482": {
@@ -8953,10 +9400,11 @@
       "RoomType": "None",
       "ConditionTypeParameter": "Count",
       "ColorString": "",
-      "RequiredResearchDesignId": "213",
+      "RequiredResearchDesignId": "95",
       "OrderIndex": "7",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "2"
     }
   },
   "483": {
@@ -8973,10 +9421,851 @@
       "RoomType": "None",
       "ConditionTypeParameter": "Count",
       "ColorString": "",
+      "RequiredResearchDesignId": "95",
+      "OrderIndex": "8",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "2"
+    }
+  },
+  "484": {
+    "_attrs": {
+      "ConditionTypeId": "484",
+      "ConditionTypeName": "All Friendly Rooms Undamaged",
+      "ConditionTypeDescription": "This condition is true when all friendly rooms' HP are at maximum",
+      "ConditionTypeAvailability": "3",
+      "ConditionTypeCategory": "AllFriendlyRoom",
+      "ConditionTypeComparison": "HigherOrEqualPercentage",
+      "ConditionTypeParameterValue": "100",
+      "ConditionTypeKey": "Hp",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "Hp",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "485": {
+    "_attrs": {
+      "ConditionTypeId": "485",
+      "ConditionTypeName": "All Friendly Rooms No Enemy Crew",
+      "ConditionTypeDescription": "This condition is true when all friendly rooms have no enemy crews targeting them",
+      "ConditionTypeAvailability": "3",
+      "ConditionTypeCategory": "AllFriendlyRoom",
+      "ConditionTypeComparison": "Equal",
+      "ConditionTypeParameterValue": "0",
+      "ConditionTypeKey": "EnemyCount",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "EnemyCount",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "486": {
+    "_attrs": {
+      "ConditionTypeId": "486",
+      "ConditionTypeName": "All Friendly Rooms No Friendly Crew",
+      "ConditionTypeDescription": "This condition is true when all friendly rooms have no friendly crews targeting them",
+      "ConditionTypeAvailability": "3",
+      "ConditionTypeCategory": "AllFriendlyRoom",
+      "ConditionTypeComparison": "Equal",
+      "ConditionTypeParameterValue": "0",
+      "ConditionTypeKey": "FriendlyCount",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "FriendlyCount",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "487": {
+    "_attrs": {
+      "ConditionTypeId": "487",
+      "ConditionTypeName": "All Enemy Rooms Undamaged",
+      "ConditionTypeDescription": "This condition is true when all enemy rooms' HP are at maximum",
+      "ConditionTypeAvailability": "3",
+      "ConditionTypeCategory": "AllEnemyRoom",
+      "ConditionTypeComparison": "HigherOrEqualPercentage",
+      "ConditionTypeParameterValue": "100",
+      "ConditionTypeKey": "Hp",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "Hp",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "488": {
+    "_attrs": {
+      "ConditionTypeId": "488",
+      "ConditionTypeName": "All Friendly Rooms Destroyed",
+      "ConditionTypeDescription": "This condition is true when all friendly rooms have been destroyed",
+      "ConditionTypeAvailability": "3",
+      "ConditionTypeCategory": "AllFriendlyRoom",
+      "ConditionTypeComparison": "LowerOrEqualPercentage",
+      "ConditionTypeParameterValue": "0",
+      "ConditionTypeKey": "Hp",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "Hp",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "1",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "489": {
+    "_attrs": {
+      "ConditionTypeId": "489",
+      "ConditionTypeName": "All Enemy Rooms No Enemy Crew",
+      "ConditionTypeDescription": "This condition is true when all enemy rooms have no enemy crews targeting them",
+      "ConditionTypeAvailability": "3",
+      "ConditionTypeCategory": "AllEnemyRoom",
+      "ConditionTypeComparison": "Equal",
+      "ConditionTypeParameterValue": "0",
+      "ConditionTypeKey": "EnemyCount",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "EnemyCount",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "490": {
+    "_attrs": {
+      "ConditionTypeId": "490",
+      "ConditionTypeName": "All Enemy Rooms No Friendly Crew",
+      "ConditionTypeDescription": "This condition is true when all enemy rooms have no friendly crews targeting them",
+      "ConditionTypeAvailability": "3",
+      "ConditionTypeCategory": "AllEnemyRoom",
+      "ConditionTypeComparison": "Equal",
+      "ConditionTypeParameterValue": "0",
+      "ConditionTypeKey": "FriendlyCount",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "FriendlyCount",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "491": {
+    "_attrs": {
+      "ConditionTypeId": "491",
+      "ConditionTypeName": "All Enemy Rooms Destroyed",
+      "ConditionTypeDescription": "This condition is true when all enemy rooms have been destroyed",
+      "ConditionTypeAvailability": "3",
+      "ConditionTypeCategory": "AllEnemyRoom",
+      "ConditionTypeComparison": "LowerOrEqualPercentage",
+      "ConditionTypeParameterValue": "0",
+      "ConditionTypeKey": "Hp",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "Hp",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "1",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "492": {
+    "_attrs": {
+      "ConditionTypeId": "492",
+      "ConditionTypeName": "No Active Friendly Defensive Craft",
+      "ConditionTypeDescription": "This condition is true when there are no friendly Defensive crafts currently active in battle",
+      "ConditionTypeAvailability": "3",
+      "ConditionTypeCategory": "YourCraft",
+      "ConditionTypeComparison": "Equal",
+      "ConditionTypeParameterValue": "0",
+      "ConditionTypeKey": "Count",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "Count",
+      "ColorString": "",
+      "RequiredResearchDesignId": "96",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "1"
+    }
+  },
+  "493": {
+    "_attrs": {
+      "ConditionTypeId": "493",
+      "ConditionTypeName": "Active Friendly Defensive Craft > 0",
+      "ConditionTypeDescription": "This condition is true when there are friendly Defensive crafts currently active in battle",
+      "ConditionTypeAvailability": "3",
+      "ConditionTypeCategory": "YourCraft",
+      "ConditionTypeComparison": "Higher",
+      "ConditionTypeParameterValue": "0",
+      "ConditionTypeKey": "Count",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "Count",
+      "ColorString": "",
+      "RequiredResearchDesignId": "96",
+      "OrderIndex": "1",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "1"
+    }
+  },
+  "494": {
+    "_attrs": {
+      "ConditionTypeId": "494",
+      "ConditionTypeName": "Active Friendly Defensive Craft <= 5",
+      "ConditionTypeDescription": "This condition is true when there are 5 or less friendly Defensive crafts currently active in battle",
+      "ConditionTypeAvailability": "3",
+      "ConditionTypeCategory": "YourCraft",
+      "ConditionTypeComparison": "Lower",
+      "ConditionTypeParameterValue": "6",
+      "ConditionTypeKey": "Count",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "Count",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "2",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "1"
+    }
+  },
+  "495": {
+    "_attrs": {
+      "ConditionTypeId": "495",
+      "ConditionTypeName": "Active Friendly Defensive Crafts > 5",
+      "ConditionTypeDescription": "This condition is true when there are more than 5 friendly Defensive crafts currently active in battle",
+      "ConditionTypeAvailability": "3",
+      "ConditionTypeCategory": "YourCraft",
+      "ConditionTypeComparison": "Higher",
+      "ConditionTypeParameterValue": "5",
+      "ConditionTypeKey": "Count",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "Count",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "3",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "1"
+    }
+  },
+  "496": {
+    "_attrs": {
+      "ConditionTypeId": "496",
+      "ConditionTypeName": "Active Friendly Defensive Crafts <= 10",
+      "ConditionTypeDescription": "This condition is true when there are 10 or less friendly Defensive crafts currently active in battle",
+      "ConditionTypeAvailability": "3",
+      "ConditionTypeCategory": "YourCraft",
+      "ConditionTypeComparison": "Lower",
+      "ConditionTypeParameterValue": "11",
+      "ConditionTypeKey": "Count",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "Count",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "4",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "1"
+    }
+  },
+  "497": {
+    "_attrs": {
+      "ConditionTypeId": "497",
+      "ConditionTypeName": "Active Friendly Defensive Craft > 10",
+      "ConditionTypeDescription": "This condition is true when there are more than 10 friendly Defensive crafts currently active in battle",
+      "ConditionTypeAvailability": "3",
+      "ConditionTypeCategory": "YourCraft",
+      "ConditionTypeComparison": "Higher",
+      "ConditionTypeParameterValue": "10",
+      "ConditionTypeKey": "Count",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "Count",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "5",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "1"
+    }
+  },
+  "498": {
+    "_attrs": {
+      "ConditionTypeId": "498",
+      "ConditionTypeName": "Active Friendly Defensive Crafts <= 15",
+      "ConditionTypeDescription": "This condition is true when there are 15 or less friendly Defensive crafts currently active in battle",
+      "ConditionTypeAvailability": "3",
+      "ConditionTypeCategory": "YourCraft",
+      "ConditionTypeComparison": "Lower",
+      "ConditionTypeParameterValue": "16",
+      "ConditionTypeKey": "Count",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "Count",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "6",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "1"
+    }
+  },
+  "499": {
+    "_attrs": {
+      "ConditionTypeId": "499",
+      "ConditionTypeName": "Active Friendly Defensive Craft > 15",
+      "ConditionTypeDescription": "This condition is true when there are more than 15 friendly Defensive crafts currently active in battle",
+      "ConditionTypeAvailability": "3",
+      "ConditionTypeCategory": "YourCraft",
+      "ConditionTypeComparison": "Higher",
+      "ConditionTypeParameterValue": "15",
+      "ConditionTypeKey": "Count",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "Count",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "7",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "1"
+    }
+  },
+  "500": {
+    "_attrs": {
+      "ConditionTypeId": "500",
+      "ConditionTypeName": "Active Friendly Defensive Crafts <= 20",
+      "ConditionTypeDescription": "This condition is true when there are 20 or less friendly Defensive crafts currently active in battle",
+      "ConditionTypeAvailability": "3",
+      "ConditionTypeCategory": "YourCraft",
+      "ConditionTypeComparison": "Lower",
+      "ConditionTypeParameterValue": "21",
+      "ConditionTypeKey": "Count",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "Count",
+      "ColorString": "",
       "RequiredResearchDesignId": "213",
       "OrderIndex": "8",
       "RoomCategoryType": "None",
-      "ConditionParameterArgument": "0"
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "1"
+    }
+  },
+  "501": {
+    "_attrs": {
+      "ConditionTypeId": "501",
+      "ConditionTypeName": "Active Friendly Defensive Craft > 20",
+      "ConditionTypeDescription": "This condition is true when there are more than 20 friendly Defensive crafts currently active in battle",
+      "ConditionTypeAvailability": "3",
+      "ConditionTypeCategory": "YourCraft",
+      "ConditionTypeComparison": "Higher",
+      "ConditionTypeParameterValue": "20",
+      "ConditionTypeKey": "Count",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "Count",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "9",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "1"
+    }
+  },
+  "502": {
+    "_attrs": {
+      "ConditionTypeId": "502",
+      "ConditionTypeName": "No Active Friendly Assault Craft",
+      "ConditionTypeDescription": "This condition is true when there are no friendly Assault crafts currently active in battle",
+      "ConditionTypeAvailability": "3",
+      "ConditionTypeCategory": "YourCraft",
+      "ConditionTypeComparison": "Equal",
+      "ConditionTypeParameterValue": "0",
+      "ConditionTypeKey": "Count",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "Count",
+      "ColorString": "",
+      "RequiredResearchDesignId": "96",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "503": {
+    "_attrs": {
+      "ConditionTypeId": "503",
+      "ConditionTypeName": "Active Friendly Assault Craft > 0",
+      "ConditionTypeDescription": "This condition is true when there are friendly Assault crafts currently active in battle",
+      "ConditionTypeAvailability": "3",
+      "ConditionTypeCategory": "YourCraft",
+      "ConditionTypeComparison": "Higher",
+      "ConditionTypeParameterValue": "0",
+      "ConditionTypeKey": "Count",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "Count",
+      "ColorString": "",
+      "RequiredResearchDesignId": "96",
+      "OrderIndex": "1",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "504": {
+    "_attrs": {
+      "ConditionTypeId": "504",
+      "ConditionTypeName": "Active Friendly Assault Craft <= 5",
+      "ConditionTypeDescription": "This condition is true when there are 5 or less friendly Assault crafts currently active in battle",
+      "ConditionTypeAvailability": "3",
+      "ConditionTypeCategory": "YourCraft",
+      "ConditionTypeComparison": "Lower",
+      "ConditionTypeParameterValue": "6",
+      "ConditionTypeKey": "Count",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "Count",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "2",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "505": {
+    "_attrs": {
+      "ConditionTypeId": "505",
+      "ConditionTypeName": "Active Friendly Assault Crafts > 5",
+      "ConditionTypeDescription": "This condition is true when there are more than 5 friendly Assault crafts currently active in battle",
+      "ConditionTypeAvailability": "3",
+      "ConditionTypeCategory": "YourCraft",
+      "ConditionTypeComparison": "Higher",
+      "ConditionTypeParameterValue": "5",
+      "ConditionTypeKey": "Count",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "Count",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "3",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "506": {
+    "_attrs": {
+      "ConditionTypeId": "506",
+      "ConditionTypeName": "Active Friendly Assault Crafts <= 10",
+      "ConditionTypeDescription": "This condition is true when there are 10 or less friendly Assault crafts currently active in battle",
+      "ConditionTypeAvailability": "3",
+      "ConditionTypeCategory": "YourCraft",
+      "ConditionTypeComparison": "Lower",
+      "ConditionTypeParameterValue": "11",
+      "ConditionTypeKey": "Count",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "Count",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "4",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "507": {
+    "_attrs": {
+      "ConditionTypeId": "507",
+      "ConditionTypeName": "Active Friendly Assault Craft > 10",
+      "ConditionTypeDescription": "This condition is true when there are more than 10 friendly Assault crafts currently active in battle",
+      "ConditionTypeAvailability": "3",
+      "ConditionTypeCategory": "YourCraft",
+      "ConditionTypeComparison": "Higher",
+      "ConditionTypeParameterValue": "10",
+      "ConditionTypeKey": "Count",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "Count",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "5",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "508": {
+    "_attrs": {
+      "ConditionTypeId": "508",
+      "ConditionTypeName": "Active Friendly Assault Crafts <= 15",
+      "ConditionTypeDescription": "This condition is true when there are 15 or less friendly Assault crafts currently active in battle",
+      "ConditionTypeAvailability": "3",
+      "ConditionTypeCategory": "YourCraft",
+      "ConditionTypeComparison": "Lower",
+      "ConditionTypeParameterValue": "16",
+      "ConditionTypeKey": "Count",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "Count",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "6",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "509": {
+    "_attrs": {
+      "ConditionTypeId": "509",
+      "ConditionTypeName": "Active Friendly Assault Craft > 15",
+      "ConditionTypeDescription": "This condition is true when there are more than 15 friendly Assault crafts currently active in battle",
+      "ConditionTypeAvailability": "3",
+      "ConditionTypeCategory": "YourCraft",
+      "ConditionTypeComparison": "Higher",
+      "ConditionTypeParameterValue": "15",
+      "ConditionTypeKey": "Count",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "Count",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "7",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "510": {
+    "_attrs": {
+      "ConditionTypeId": "510",
+      "ConditionTypeName": "Active Friendly Assault Craft > 20",
+      "ConditionTypeDescription": "This condition is true when there are more than 20 friendly Assault crafts currently active in battle",
+      "ConditionTypeAvailability": "3",
+      "ConditionTypeCategory": "YourCraft",
+      "ConditionTypeComparison": "Higher",
+      "ConditionTypeParameterValue": "20",
+      "ConditionTypeKey": "Count",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "Count",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "9",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "511": {
+    "_attrs": {
+      "ConditionTypeId": "511",
+      "ConditionTypeName": "Active Friendly Assault Crafts <= 20",
+      "ConditionTypeDescription": "This condition is true when there are 20 or less friendly Assault crafts currently active in battle",
+      "ConditionTypeAvailability": "3",
+      "ConditionTypeCategory": "YourCraft",
+      "ConditionTypeComparison": "Lower",
+      "ConditionTypeParameterValue": "21",
+      "ConditionTypeKey": "Count",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "Count",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "8",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "513": {
+    "_attrs": {
+      "ConditionTypeId": "513",
+      "ConditionTypeName": "Active Enemy Assault Craft",
+      "ConditionTypeDescription": "This condition is true when any enemy Assault crafts are currently active in battle",
+      "ConditionTypeAvailability": "3",
+      "ConditionTypeCategory": "EnemyCraft",
+      "ConditionTypeComparison": "Higher",
+      "ConditionTypeParameterValue": "0",
+      "ConditionTypeKey": "Count",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "Count",
+      "ColorString": "",
+      "RequiredResearchDesignId": "96",
+      "OrderIndex": "1",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "514": {
+    "_attrs": {
+      "ConditionTypeId": "514",
+      "ConditionTypeName": "No Active Enemy Assault Craft",
+      "ConditionTypeDescription": "This condition is true when there are no enemy Assault crafts currently active in battle ",
+      "ConditionTypeAvailability": "3",
+      "ConditionTypeCategory": "EnemyCraft",
+      "ConditionTypeComparison": "Equal",
+      "ConditionTypeParameterValue": "0",
+      "ConditionTypeKey": "Count",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "Count",
+      "ColorString": "",
+      "RequiredResearchDesignId": "96",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "515": {
+    "_attrs": {
+      "ConditionTypeId": "515",
+      "ConditionTypeName": "Active Enemy Assault Craft <= 5",
+      "ConditionTypeDescription": "This condition is true when there are 5 or less enemy Assault crafts currently active in battle",
+      "ConditionTypeAvailability": "3",
+      "ConditionTypeCategory": "EnemyCraft",
+      "ConditionTypeComparison": "Lower",
+      "ConditionTypeParameterValue": "6",
+      "ConditionTypeKey": "Count",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "Count",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "2",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "516": {
+    "_attrs": {
+      "ConditionTypeId": "516",
+      "ConditionTypeName": "Active Enemy Assault Crafts > 5",
+      "ConditionTypeDescription": "This condition is true when there are more than 5 enemy Assault crafts currently active in battle",
+      "ConditionTypeAvailability": "3",
+      "ConditionTypeCategory": "EnemyCraft",
+      "ConditionTypeComparison": "Higher",
+      "ConditionTypeParameterValue": "5",
+      "ConditionTypeKey": "Count",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "Count",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "3",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "517": {
+    "_attrs": {
+      "ConditionTypeId": "517",
+      "ConditionTypeName": "Active Enemy Assault Crafts <= 10",
+      "ConditionTypeDescription": "This condition is true when there are 10 or less enemy Assault crafts currently active in battle",
+      "ConditionTypeAvailability": "3",
+      "ConditionTypeCategory": "EnemyCraft",
+      "ConditionTypeComparison": "Lower",
+      "ConditionTypeParameterValue": "11",
+      "ConditionTypeKey": "Count",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "Count",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "4",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "518": {
+    "_attrs": {
+      "ConditionTypeId": "518",
+      "ConditionTypeName": "Active Enemy Assault Craft > 10",
+      "ConditionTypeDescription": "This condition is true when there are more than 10 enemy Assault crafts currently active in battle",
+      "ConditionTypeAvailability": "3",
+      "ConditionTypeCategory": "EnemyCraft",
+      "ConditionTypeComparison": "Higher",
+      "ConditionTypeParameterValue": "10",
+      "ConditionTypeKey": "Count",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "Count",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "5",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "519": {
+    "_attrs": {
+      "ConditionTypeId": "519",
+      "ConditionTypeName": "No Active Enemy Defensive Craft",
+      "ConditionTypeDescription": "This condition is true when there are no enemy Defensive crafts currently active in battle ",
+      "ConditionTypeAvailability": "3",
+      "ConditionTypeCategory": "EnemyCraft",
+      "ConditionTypeComparison": "Equal",
+      "ConditionTypeParameterValue": "0",
+      "ConditionTypeKey": "Count",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "Count",
+      "ColorString": "",
+      "RequiredResearchDesignId": "96",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "520": {
+    "_attrs": {
+      "ConditionTypeId": "520",
+      "ConditionTypeName": "Active Enemy Defensive Craft",
+      "ConditionTypeDescription": "This condition is true when any enemy Defensive crafts are currently active in battle",
+      "ConditionTypeAvailability": "3",
+      "ConditionTypeCategory": "EnemyCraft",
+      "ConditionTypeComparison": "Higher",
+      "ConditionTypeParameterValue": "0",
+      "ConditionTypeKey": "Count",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "Count",
+      "ColorString": "",
+      "RequiredResearchDesignId": "96",
+      "OrderIndex": "1",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "1"
+    }
+  },
+  "521": {
+    "_attrs": {
+      "ConditionTypeId": "521",
+      "ConditionTypeName": "Active Enemy Defensive Craft <= 5",
+      "ConditionTypeDescription": "This condition is true when there are 5 or less enemy Defensive crafts currently active in battle",
+      "ConditionTypeAvailability": "3",
+      "ConditionTypeCategory": "EnemyCraft",
+      "ConditionTypeComparison": "Lower",
+      "ConditionTypeParameterValue": "6",
+      "ConditionTypeKey": "Count",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "Count",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "2",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "1"
+    }
+  },
+  "522": {
+    "_attrs": {
+      "ConditionTypeId": "522",
+      "ConditionTypeName": "Active Enemy Defensive Crafts > 5",
+      "ConditionTypeDescription": "This condition is true when there are more than 5 enemy Defensive crafts currently active in battle",
+      "ConditionTypeAvailability": "3",
+      "ConditionTypeCategory": "EnemyCraft",
+      "ConditionTypeComparison": "Higher",
+      "ConditionTypeParameterValue": "5",
+      "ConditionTypeKey": "Count",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "Count",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "3",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "1"
+    }
+  },
+  "523": {
+    "_attrs": {
+      "ConditionTypeId": "523",
+      "ConditionTypeName": "Active Enemy Defensive Crafts <= 10",
+      "ConditionTypeDescription": "This condition is true when there are 10 or less enemy Defensive crafts currently active in battle",
+      "ConditionTypeAvailability": "3",
+      "ConditionTypeCategory": "EnemyCraft",
+      "ConditionTypeComparison": "Lower",
+      "ConditionTypeParameterValue": "11",
+      "ConditionTypeKey": "Count",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "Count",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "4",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "1"
+    }
+  },
+  "524": {
+    "_attrs": {
+      "ConditionTypeId": "524",
+      "ConditionTypeName": "Active Enemy Defensive Craft > 10",
+      "ConditionTypeDescription": "This condition is true when there are more than 10 enemy Defensive crafts currently active in battle",
+      "ConditionTypeAvailability": "3",
+      "ConditionTypeCategory": "EnemyCraft",
+      "ConditionTypeComparison": "Higher",
+      "ConditionTypeParameterValue": "10",
+      "ConditionTypeKey": "Count",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "Count",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "5",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "1"
     }
   }
 }

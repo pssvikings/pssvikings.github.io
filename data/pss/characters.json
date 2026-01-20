@@ -51917,6 +51917,210 @@
       ]
     }
   },
+  "540": {
+    "_attrs": {
+      "CharacterDesignId": "540",
+      "CharacterDesignName": "Station Service Droid",
+      "CharacterHeadPartId": "1571",
+      "CharacterBodyPartId": "1572",
+      "GenderType": "Female",
+      "RaceType": "Robot",
+      "Hp": "20",
+      "Pilot": "0",
+      "Attack": "2",
+      "FireResistance": "100",
+      "Repair": "5",
+      "Weapon": "0",
+      "Science": "0",
+      "Engine": "0",
+      "Research": "0",
+      "Level": "6",
+      "WalkingSpeed": "3",
+      "MinShipLevel": "1",
+      "FinalHp": "20",
+      "FinalPilot": "0",
+      "FinalAttack": "2",
+      "FinalRepair": "5",
+      "FinalWeapon": "0",
+      "FinalScience": "0",
+      "FinalEngine": "0",
+      "FinalResearch": "0",
+      "CharacterLegPartId": "1573",
+      "Rarity": "Common",
+      "ProgressionType": "Linear",
+      "CharacterDesignDescription": "A humble droid ready to serve its wise master.",
+      "XpRequirementScale": "1",
+      "MaxCharacterLevel": "40",
+      "SpecialAbilityType": "HealSameRoomCharacters",
+      "SpecialAbilityArgument": "40",
+      "SpecialAbilityFinalArgument": "40",
+      "ProfileSpriteId": "5506",
+      "RunSpeed": "3",
+      "TrainingCapacity": "0",
+      "EquipmentMask": "0",
+      "SpeechVoice": "",
+      "SpeechPhrases": "",
+      "SpeechRate": "1",
+      "SpeechPitch": "1",
+      "Flags": "0",
+      "RootCharacterDesignId": "166",
+      "MaxCount": "0",
+      "Tags": "",
+      "BoostValuesString": "6,4,0",
+      "Metadata": "",
+      "TapSoundFileId": "5772",
+      "ActionSoundFileId": "5772",
+      "CollectionDesignId": "0"
+    },
+    "CharacterParts": {
+      "CharacterPart": [
+        {
+          "_attrs": {
+            "CharacterPartId": "1571",
+            "CharacterPartName": "RepairDroid_Lv6_Head",
+            "CharacterPartType": "Head",
+            "StandardSpriteId": "15156",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "15157"
+          }
+        },
+        {
+          "_attrs": {
+            "CharacterPartId": "1572",
+            "CharacterPartName": "RepairDroid_Lv6_Body",
+            "CharacterPartType": "Body",
+            "StandardSpriteId": "15160",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "15161"
+          }
+        },
+        {
+          "_attrs": {
+            "CharacterPartId": "1573",
+            "CharacterPartName": "RepairDroid_Lv6_Leg",
+            "CharacterPartType": "Leg",
+            "StandardSpriteId": "15164",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "15165"
+          }
+        }
+      ]
+    }
+  },
+  "541": {
+    "_attrs": {
+      "CharacterDesignId": "541",
+      "CharacterDesignName": "Station Defender Droid",
+      "CharacterHeadPartId": "1568",
+      "CharacterBodyPartId": "1569",
+      "GenderType": "Male",
+      "RaceType": "Robot",
+      "Hp": "40",
+      "Pilot": "0",
+      "Attack": "5",
+      "FireResistance": "50",
+      "Repair": "0.5",
+      "Weapon": "0",
+      "Science": "0",
+      "Engine": "0",
+      "Research": "0",
+      "Level": "6",
+      "WalkingSpeed": "3",
+      "MinShipLevel": "1",
+      "FinalHp": "40",
+      "FinalPilot": "0",
+      "FinalAttack": "5",
+      "FinalRepair": "0.5",
+      "FinalWeapon": "0",
+      "FinalScience": "0",
+      "FinalEngine": "0",
+      "FinalResearch": "0",
+      "CharacterLegPartId": "1570",
+      "Rarity": "Common",
+      "ProgressionType": "Linear",
+      "CharacterDesignDescription": "A heavy defender droid ready to stop intruders.",
+      "XpRequirementScale": "1",
+      "MaxCharacterLevel": "40",
+      "SpecialAbilityType": "DamageToCurrentEnemy",
+      "SpecialAbilityArgument": "15",
+      "SpecialAbilityFinalArgument": "15",
+      "ProfileSpriteId": "4635",
+      "RunSpeed": "3",
+      "TrainingCapacity": "0",
+      "EquipmentMask": "0",
+      "SpeechVoice": "",
+      "SpeechPhrases": "",
+      "SpeechRate": "1",
+      "SpeechPitch": "1",
+      "Flags": "0",
+      "RootCharacterDesignId": "172",
+      "MaxCount": "0",
+      "Tags": "",
+      "BoostValuesString": "6,4,0",
+      "Metadata": "",
+      "TapSoundFileId": "5772",
+      "ActionSoundFileId": "5772",
+      "CollectionDesignId": "0"
+    },
+    "CharacterParts": {
+      "CharacterPart": [
+        {
+          "_attrs": {
+            "CharacterPartId": "1568",
+            "CharacterPartName": "DefenceDroidLv6_head",
+            "CharacterPartType": "Head",
+            "StandardSpriteId": "15144",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "15145"
+          }
+        },
+        {
+          "_attrs": {
+            "CharacterPartId": "1569",
+            "CharacterPartName": "DefenceDroidLv6_body",
+            "CharacterPartType": "Body",
+            "StandardSpriteId": "15148",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "15149"
+          }
+        },
+        {
+          "_attrs": {
+            "CharacterPartId": "1570",
+            "CharacterPartName": "DefenceDroidLv6_Leg",
+            "CharacterPartType": "Leg",
+            "StandardSpriteId": "15152",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "15153"
+          }
+        }
+      ]
+    }
+  },
   "542": {
     "_attrs": {
       "CharacterDesignId": "542",
