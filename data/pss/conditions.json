@@ -941,7 +941,7 @@
       "OrderIndex": "1",
       "RoomCategoryType": "None",
       "ConditionParameterArgument": "0",
-      "ConditionCategoryArgument": "2"
+      "ConditionCategoryArgument": "-1"
     }
   },
   "62": {
@@ -1340,7 +1340,7 @@
       "OrderIndex": "0",
       "RoomCategoryType": "None",
       "ConditionParameterArgument": "0",
-      "ConditionCategoryArgument": "2"
+      "ConditionCategoryArgument": "-1"
     }
   },
   "81": {
@@ -1361,7 +1361,7 @@
       "OrderIndex": "1",
       "RoomCategoryType": "None",
       "ConditionParameterArgument": "0",
-      "ConditionCategoryArgument": "2"
+      "ConditionCategoryArgument": "-1"
     }
   },
   "82": {
@@ -1382,7 +1382,7 @@
       "OrderIndex": "0",
       "RoomCategoryType": "None",
       "ConditionParameterArgument": "0",
-      "ConditionCategoryArgument": "2"
+      "ConditionCategoryArgument": "-1"
     }
   },
   "83": {
@@ -7808,7 +7808,7 @@
       "OrderIndex": "2",
       "RoomCategoryType": "None",
       "ConditionParameterArgument": "0",
-      "ConditionCategoryArgument": "2"
+      "ConditionCategoryArgument": "-1"
     }
   },
   "405": {
@@ -7829,7 +7829,7 @@
       "OrderIndex": "3",
       "RoomCategoryType": "None",
       "ConditionParameterArgument": "0",
-      "ConditionCategoryArgument": "2"
+      "ConditionCategoryArgument": "-1"
     }
   },
   "406": {
@@ -7850,7 +7850,7 @@
       "OrderIndex": "4",
       "RoomCategoryType": "None",
       "ConditionParameterArgument": "0",
-      "ConditionCategoryArgument": "2"
+      "ConditionCategoryArgument": "-1"
     }
   },
   "407": {
@@ -7871,7 +7871,7 @@
       "OrderIndex": "5",
       "RoomCategoryType": "None",
       "ConditionParameterArgument": "0",
-      "ConditionCategoryArgument": "2"
+      "ConditionCategoryArgument": "-1"
     }
   },
   "408": {
@@ -7892,7 +7892,7 @@
       "OrderIndex": "2",
       "RoomCategoryType": "None",
       "ConditionParameterArgument": "0",
-      "ConditionCategoryArgument": "2"
+      "ConditionCategoryArgument": "-1"
     }
   },
   "409": {
@@ -7913,7 +7913,7 @@
       "OrderIndex": "3",
       "RoomCategoryType": "None",
       "ConditionParameterArgument": "0",
-      "ConditionCategoryArgument": "2"
+      "ConditionCategoryArgument": "-1"
     }
   },
   "410": {
@@ -7934,7 +7934,7 @@
       "OrderIndex": "4",
       "RoomCategoryType": "None",
       "ConditionParameterArgument": "0",
-      "ConditionCategoryArgument": "2"
+      "ConditionCategoryArgument": "-1"
     }
   },
   "411": {
@@ -7955,7 +7955,7 @@
       "OrderIndex": "5",
       "RoomCategoryType": "None",
       "ConditionParameterArgument": "0",
-      "ConditionCategoryArgument": "2"
+      "ConditionCategoryArgument": "-1"
     }
   },
   "413": {
@@ -9362,7 +9362,7 @@
       "OrderIndex": "5",
       "RoomCategoryType": "None",
       "ConditionParameterArgument": "0",
-      "ConditionCategoryArgument": "2"
+      "ConditionCategoryArgument": "-1"
     }
   },
   "481": {
@@ -9383,7 +9383,7 @@
       "OrderIndex": "6",
       "RoomCategoryType": "None",
       "ConditionParameterArgument": "0",
-      "ConditionCategoryArgument": "2"
+      "ConditionCategoryArgument": "-1"
     }
   },
   "482": {
@@ -9404,7 +9404,7 @@
       "OrderIndex": "7",
       "RoomCategoryType": "None",
       "ConditionParameterArgument": "0",
-      "ConditionCategoryArgument": "2"
+      "ConditionCategoryArgument": "-1"
     }
   },
   "483": {
@@ -9425,7 +9425,7 @@
       "OrderIndex": "8",
       "RoomCategoryType": "None",
       "ConditionParameterArgument": "0",
-      "ConditionCategoryArgument": "2"
+      "ConditionCategoryArgument": "-1"
     }
   },
   "484": {
