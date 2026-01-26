@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,29006,i=>{"use strict";var t=i.i(43476),e=i.i(18566);i.i(52269);var a=i.i(20320);function o(){let i=(0,e.useSearchParams)(),o=i.get("date")??void 0,s=i.get("division")??void 0;return(0,t.jsx)(a.FleetdataPage,{initialRef:o,initialDivision:s})}i.s(["default",()=>o])}]);
