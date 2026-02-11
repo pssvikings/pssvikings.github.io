@@ -831,6 +831,38 @@
       "TriggerAnimationId": "0"
     }
   },
+  "34": {
+    "_attrs": {
+      "CollectionDesignId": "34",
+      "CollectionName": "Section 9",
+      "MinCombo": "3",
+      "MaxCombo": "6",
+      "EnhancementType": "CloakAttack",
+      "BaseEnhancementValue": "50",
+      "Flags": "0",
+      "CollectionType": "Character",
+      "CollectionDescription": "'We're just ghosts in the machine.'",
+      "SpriteId": "30050",
+      "ColorString": "255,255,255",
+      "StepEnhancementValue": "25",
+      "IconSpriteId": "30051",
+      "TriggerType": "ChangeRoom",
+      "Argument": "1200",
+      "BaseChance": "100",
+      "StepChance": "0",
+      "MaxUse": "1",
+      "AbilityName": "Thermoptic Camouflage",
+      "AbilityIconSpriteId": "30057",
+      "CooldownTime": "0",
+      "Metadata": "",
+      "StepCooldownTime": "0",
+      "StepMaxUse": "0",
+      "TriggerArgument": "0",
+      "TriggerArgumentComparison": "Higher",
+      "HaloAnimationId": "1263",
+      "TriggerAnimationId": "0"
+    }
+  },
   "35": {
     "_attrs": {
       "CollectionDesignId": "35",

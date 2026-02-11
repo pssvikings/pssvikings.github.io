@@ -52222,5 +52222,617 @@
         }
       ]
     }
+  },
+  "543": {
+    "_attrs": {
+      "CharacterDesignId": "543",
+      "CharacterDesignName": "Motoko Kusanagi",
+      "CharacterHeadPartId": "2419",
+      "CharacterBodyPartId": "2420",
+      "GenderType": "Female",
+      "RaceType": "White",
+      "Hp": "7",
+      "Pilot": "3",
+      "Attack": "1.6",
+      "FireResistance": "100",
+      "Repair": "0",
+      "Weapon": "17",
+      "Science": "0",
+      "Engine": "3",
+      "Research": "3",
+      "Level": "1",
+      "WalkingSpeed": "2",
+      "MinShipLevel": "1",
+      "FinalHp": "11",
+      "FinalPilot": "3",
+      "FinalAttack": "3",
+      "FinalRepair": "0",
+      "FinalWeapon": "27",
+      "FinalScience": "0",
+      "FinalEngine": "3",
+      "FinalResearch": "3",
+      "CharacterLegPartId": "2421",
+      "Rarity": "Legendary",
+      "ProgressionType": "Linear",
+      "CharacterDesignDescription": "Known as 'Major.' A fully cybernetic body makes her the perfect fit for the cyber warfare division.",
+      "XpRequirementScale": "1",
+      "MaxCharacterLevel": "40",
+      "SpecialAbilityType": "AddReload",
+      "SpecialAbilityArgument": "20",
+      "SpecialAbilityFinalArgument": "50",
+      "ProfileSpriteId": "29993",
+      "RunSpeed": "2",
+      "TrainingCapacity": "110",
+      "EquipmentMask": "24",
+      "SpeechVoice": "",
+      "SpeechPhrases": "",
+      "SpeechRate": "1",
+      "SpeechPitch": "1",
+      "Flags": "1",
+      "RootCharacterDesignId": "543",
+      "MaxCount": "0",
+      "Tags": "",
+      "BoostValuesString": "6,4,0",
+      "Metadata": "",
+      "TapSoundFileId": "5751",
+      "ActionSoundFileId": "5753",
+      "CollectionDesignId": "34"
+    },
+    "CharacterParts": {
+      "CharacterPart": [
+        {
+          "_attrs": {
+            "CharacterPartId": "2419",
+            "CharacterPartName": "MotokoKusanagiHead",
+            "CharacterPartType": "Head",
+            "StandardSpriteId": "29987",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "29988"
+          }
+        },
+        {
+          "_attrs": {
+            "CharacterPartId": "2420",
+            "CharacterPartName": "MotokoKusanagiBody",
+            "CharacterPartType": "Body",
+            "StandardSpriteId": "29989",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "29990"
+          }
+        },
+        {
+          "_attrs": {
+            "CharacterPartId": "2421",
+            "CharacterPartName": "MotokoKusanagiLeg",
+            "CharacterPartType": "Leg",
+            "StandardSpriteId": "29991",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "29992"
+          }
+        }
+      ]
+    }
+  },
+  "544": {
+    "_attrs": {
+      "CharacterDesignId": "544",
+      "CharacterDesignName": "Daisuke Aramaki",
+      "CharacterHeadPartId": "2431",
+      "CharacterBodyPartId": "2432",
+      "GenderType": "Male",
+      "RaceType": "Asian",
+      "Hp": "5",
+      "Pilot": "4",
+      "Attack": "1.2",
+      "FireResistance": "0",
+      "Repair": "2",
+      "Weapon": "14",
+      "Science": "15",
+      "Engine": "3",
+      "Research": "4",
+      "Level": "1",
+      "WalkingSpeed": "1",
+      "MinShipLevel": "1",
+      "FinalHp": "9",
+      "FinalPilot": "8",
+      "FinalAttack": "2",
+      "FinalRepair": "3.2",
+      "FinalWeapon": "23",
+      "FinalScience": "23",
+      "FinalEngine": "6",
+      "FinalResearch": "4",
+      "CharacterLegPartId": "2433",
+      "Rarity": "Special",
+      "ProgressionType": "Linear",
+      "CharacterDesignDescription": "The head of Section 9, this shrewd political player represents the diplomatic front of the organization.",
+      "XpRequirementScale": "1",
+      "MaxCharacterLevel": "40",
+      "SpecialAbilityType": "Freeze",
+      "SpecialAbilityArgument": "100",
+      "SpecialAbilityFinalArgument": "240",
+      "ProfileSpriteId": "30021",
+      "RunSpeed": "2",
+      "TrainingCapacity": "100",
+      "EquipmentMask": "20",
+      "SpeechVoice": "",
+      "SpeechPhrases": "",
+      "SpeechRate": "1",
+      "SpeechPitch": "1",
+      "Flags": "1",
+      "RootCharacterDesignId": "544",
+      "MaxCount": "0",
+      "Tags": "",
+      "BoostValuesString": "6,4,0",
+      "Metadata": "",
+      "TapSoundFileId": "5764",
+      "ActionSoundFileId": "5763",
+      "CollectionDesignId": "34"
+    },
+    "CharacterParts": {
+      "CharacterPart": [
+        {
+          "_attrs": {
+            "CharacterPartId": "2431",
+            "CharacterPartName": "AramakiHead",
+            "CharacterPartType": "Head",
+            "StandardSpriteId": "30015",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "30016"
+          }
+        },
+        {
+          "_attrs": {
+            "CharacterPartId": "2432",
+            "CharacterPartName": "AramakiBody",
+            "CharacterPartType": "Body",
+            "StandardSpriteId": "30017",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "30018"
+          }
+        },
+        {
+          "_attrs": {
+            "CharacterPartId": "2433",
+            "CharacterPartName": "AramakiLeg",
+            "CharacterPartType": "Leg",
+            "StandardSpriteId": "30019",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "30020"
+          }
+        }
+      ]
+    }
+  },
+  "545": {
+    "_attrs": {
+      "CharacterDesignId": "545",
+      "CharacterDesignName": "Batou",
+      "CharacterHeadPartId": "2422",
+      "CharacterBodyPartId": "2423",
+      "GenderType": "Male",
+      "RaceType": "Asian",
+      "Hp": "6",
+      "Pilot": "3",
+      "Attack": "2",
+      "FireResistance": "30",
+      "Repair": "1",
+      "Weapon": "5",
+      "Science": "1",
+      "Engine": "2",
+      "Research": "4",
+      "Level": "1",
+      "WalkingSpeed": "1",
+      "MinShipLevel": "1",
+      "FinalHp": "10",
+      "FinalPilot": "4",
+      "FinalAttack": "3.7",
+      "FinalRepair": "1.5",
+      "FinalWeapon": "9",
+      "FinalScience": "1",
+      "FinalEngine": "2",
+      "FinalResearch": "4",
+      "CharacterLegPartId": "2424",
+      "Rarity": "Special",
+      "ProgressionType": "Linear",
+      "CharacterDesignDescription": "The Major's second in command. An expert fighter and tactician, with a wry sense of humour.",
+      "XpRequirementScale": "1",
+      "MaxCharacterLevel": "40",
+      "SpecialAbilityType": "DamageToSameRoomCharacters",
+      "SpecialAbilityArgument": "3",
+      "SpecialAbilityFinalArgument": "6",
+      "ProfileSpriteId": "30000",
+      "RunSpeed": "3",
+      "TrainingCapacity": "100",
+      "EquipmentMask": "10",
+      "SpeechVoice": "",
+      "SpeechPhrases": "",
+      "SpeechRate": "1",
+      "SpeechPitch": "1",
+      "Flags": "1",
+      "RootCharacterDesignId": "545",
+      "MaxCount": "0",
+      "Tags": "",
+      "BoostValuesString": "6,4,0",
+      "Metadata": "",
+      "TapSoundFileId": "5764",
+      "ActionSoundFileId": "5763",
+      "CollectionDesignId": "34"
+    },
+    "CharacterParts": {
+      "CharacterPart": [
+        {
+          "_attrs": {
+            "CharacterPartId": "2422",
+            "CharacterPartName": "RealBatouHead",
+            "CharacterPartType": "Head",
+            "StandardSpriteId": "29994",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "29995"
+          }
+        },
+        {
+          "_attrs": {
+            "CharacterPartId": "2423",
+            "CharacterPartName": "RealBatouBody",
+            "CharacterPartType": "Body",
+            "StandardSpriteId": "29996",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "29997"
+          }
+        },
+        {
+          "_attrs": {
+            "CharacterPartId": "2424",
+            "CharacterPartName": "RealBatouLeg",
+            "CharacterPartType": "Leg",
+            "StandardSpriteId": "29998",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "29999"
+          }
+        }
+      ]
+    }
+  },
+  "546": {
+    "_attrs": {
+      "CharacterDesignId": "546",
+      "CharacterDesignName": "Tachikoma",
+      "CharacterHeadPartId": "2434",
+      "CharacterBodyPartId": "2435",
+      "GenderType": "Female",
+      "RaceType": "Robot",
+      "Hp": "6",
+      "Pilot": "1",
+      "Attack": "2.5",
+      "FireResistance": "40",
+      "Repair": "0.6",
+      "Weapon": "1",
+      "Science": "2",
+      "Engine": "1",
+      "Research": "4",
+      "Level": "1",
+      "WalkingSpeed": "2",
+      "MinShipLevel": "1",
+      "FinalHp": "10",
+      "FinalPilot": "1",
+      "FinalAttack": "3.4",
+      "FinalRepair": "1",
+      "FinalWeapon": "1",
+      "FinalScience": "3",
+      "FinalEngine": "1",
+      "FinalResearch": "4",
+      "CharacterLegPartId": "2436",
+      "Rarity": "Special",
+      "ProgressionType": "Linear",
+      "CharacterDesignDescription": "Driven by a powerful AI, these autonomous spider tanks serves Section 9 in urban combat engagements.",
+      "XpRequirementScale": "1",
+      "MaxCharacterLevel": "40",
+      "SpecialAbilityType": "DamageToRoom",
+      "SpecialAbilityArgument": "3",
+      "SpecialAbilityFinalArgument": "7",
+      "ProfileSpriteId": "30028",
+      "RunSpeed": "3",
+      "TrainingCapacity": "100",
+      "EquipmentMask": "24",
+      "SpeechVoice": "",
+      "SpeechPhrases": "",
+      "SpeechRate": "1",
+      "SpeechPitch": "1",
+      "Flags": "1",
+      "RootCharacterDesignId": "546",
+      "MaxCount": "0",
+      "Tags": "",
+      "BoostValuesString": "6,4,0",
+      "Metadata": "",
+      "TapSoundFileId": "5751",
+      "ActionSoundFileId": "5753",
+      "CollectionDesignId": "34"
+    },
+    "CharacterParts": {
+      "CharacterPart": [
+        {
+          "_attrs": {
+            "CharacterPartId": "2434",
+            "CharacterPartName": "TachikomaHead",
+            "CharacterPartType": "Head",
+            "StandardSpriteId": "30022",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "30023"
+          }
+        },
+        {
+          "_attrs": {
+            "CharacterPartId": "2435",
+            "CharacterPartName": "TachikomaBody",
+            "CharacterPartType": "Body",
+            "StandardSpriteId": "30024",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "30025"
+          }
+        },
+        {
+          "_attrs": {
+            "CharacterPartId": "2436",
+            "CharacterPartName": "TachikomaLeg",
+            "CharacterPartType": "Leg",
+            "StandardSpriteId": "30026",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "30027"
+          }
+        }
+      ]
+    }
+  },
+  "547": {
+    "_attrs": {
+      "CharacterDesignId": "547",
+      "CharacterDesignName": "Purin Esaki",
+      "CharacterHeadPartId": "2428",
+      "CharacterBodyPartId": "2429",
+      "GenderType": "Female",
+      "RaceType": "Asian",
+      "Hp": "5",
+      "Pilot": "2",
+      "Attack": "2",
+      "FireResistance": "10",
+      "Repair": "2.2",
+      "Weapon": "1",
+      "Science": "7",
+      "Engine": "7",
+      "Research": "4",
+      "Level": "1",
+      "WalkingSpeed": "1",
+      "MinShipLevel": "1",
+      "FinalHp": "9",
+      "FinalPilot": "4",
+      "FinalAttack": "3",
+      "FinalRepair": "3.4",
+      "FinalWeapon": "3",
+      "FinalScience": "10",
+      "FinalEngine": "10",
+      "FinalResearch": "4",
+      "CharacterLegPartId": "2430",
+      "Rarity": "Special",
+      "ProgressionType": "Linear",
+      "CharacterDesignDescription": "A child prodigy and certified genius, this cybernetically enhanced youth runs Tachikoma maintainence for Section 9.",
+      "XpRequirementScale": "1",
+      "MaxCharacterLevel": "40",
+      "SpecialAbilityType": "DeductReload",
+      "SpecialAbilityArgument": "380",
+      "SpecialAbilityFinalArgument": "740",
+      "ProfileSpriteId": "30014",
+      "RunSpeed": "3",
+      "TrainingCapacity": "100",
+      "EquipmentMask": "20",
+      "SpeechVoice": "",
+      "SpeechPhrases": "",
+      "SpeechRate": "1",
+      "SpeechPitch": "1",
+      "Flags": "1",
+      "RootCharacterDesignId": "547",
+      "MaxCount": "0",
+      "Tags": "",
+      "BoostValuesString": "6,4,0",
+      "Metadata": "",
+      "TapSoundFileId": "5751",
+      "ActionSoundFileId": "5753",
+      "CollectionDesignId": "34"
+    },
+    "CharacterParts": {
+      "CharacterPart": [
+        {
+          "_attrs": {
+            "CharacterPartId": "2428",
+            "CharacterPartName": "PurinHead",
+            "CharacterPartType": "Head",
+            "StandardSpriteId": "30008",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "30009"
+          }
+        },
+        {
+          "_attrs": {
+            "CharacterPartId": "2429",
+            "CharacterPartName": "PurinBody",
+            "CharacterPartType": "Body",
+            "StandardSpriteId": "30010",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "30011"
+          }
+        },
+        {
+          "_attrs": {
+            "CharacterPartId": "2430",
+            "CharacterPartName": "PurinLeg",
+            "CharacterPartType": "Leg",
+            "StandardSpriteId": "30012",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "30013"
+          }
+        }
+      ]
+    }
+  },
+  "548": {
+    "_attrs": {
+      "CharacterDesignId": "548",
+      "CharacterDesignName": "Togusa",
+      "CharacterHeadPartId": "2425",
+      "CharacterBodyPartId": "2426",
+      "GenderType": "Male",
+      "RaceType": "Asian",
+      "Hp": "6",
+      "Pilot": "14",
+      "Attack": "1.1",
+      "FireResistance": "0",
+      "Repair": "2.1",
+      "Weapon": "4",
+      "Science": "1",
+      "Engine": "2",
+      "Research": "4",
+      "Level": "1",
+      "WalkingSpeed": "1",
+      "MinShipLevel": "1",
+      "FinalHp": "10",
+      "FinalPilot": "25",
+      "FinalAttack": "3.6",
+      "FinalRepair": "1.5",
+      "FinalWeapon": "7",
+      "FinalScience": "1",
+      "FinalEngine": "4",
+      "FinalResearch": "4",
+      "CharacterLegPartId": "2427",
+      "Rarity": "Special",
+      "ProgressionType": "Linear",
+      "CharacterDesignDescription": "One of the few Section 9 members without a military background, he's keen to prove his worth in the field.",
+      "XpRequirementScale": "1",
+      "MaxCharacterLevel": "40",
+      "SpecialAbilityType": "AddReload",
+      "SpecialAbilityArgument": "35",
+      "SpecialAbilityFinalArgument": "55",
+      "ProfileSpriteId": "30007",
+      "RunSpeed": "2",
+      "TrainingCapacity": "100",
+      "EquipmentMask": "9",
+      "SpeechVoice": "",
+      "SpeechPhrases": "",
+      "SpeechRate": "1",
+      "SpeechPitch": "1",
+      "Flags": "1",
+      "RootCharacterDesignId": "548",
+      "MaxCount": "0",
+      "Tags": "",
+      "BoostValuesString": "6,4,0",
+      "Metadata": "",
+      "TapSoundFileId": "5764",
+      "ActionSoundFileId": "5763",
+      "CollectionDesignId": "34"
+    },
+    "CharacterParts": {
+      "CharacterPart": [
+        {
+          "_attrs": {
+            "CharacterPartId": "2425",
+            "CharacterPartName": "TogusaHead",
+            "CharacterPartType": "Head",
+            "StandardSpriteId": "30001",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "30002"
+          }
+        },
+        {
+          "_attrs": {
+            "CharacterPartId": "2426",
+            "CharacterPartName": "TogusaBody",
+            "CharacterPartType": "Body",
+            "StandardSpriteId": "30003",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "30004"
+          }
+        },
+        {
+          "_attrs": {
+            "CharacterPartId": "2427",
+            "CharacterPartName": "TogusaLeg",
+            "CharacterPartType": "Leg",
+            "StandardSpriteId": "30005",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "30006"
+          }
+        }
+      ]
+    }
   }
 }

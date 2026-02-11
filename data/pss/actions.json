@@ -1558,5 +1558,25 @@
       "RoomCategoryType": "None",
       "ConditionParameterArgument": "0"
     }
+  },
+  "104": {
+    "_attrs": {
+      "ActionTypeId": "104",
+      "ActionTypeName": "Target Your Bridge",
+      "RoomType": "Bridge",
+      "ActionTypeCategory": "Target",
+      "ActionTypeKey": "TargetYourBridge",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Set current target to a friendly Bridge type room",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourShip",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "0",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
   }
 }
