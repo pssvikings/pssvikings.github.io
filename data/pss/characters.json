@@ -40626,7 +40626,7 @@
       "CharacterLegPartId": "1638",
       "Rarity": "Special",
       "ProgressionType": "EaseIn",
-      "CharacterDesignDescription": "Reinforced Evacuation Droid. This shy guy is programmed to brace and protect, helping others to escape. 15 Tonnes of fun!",
+      "CharacterDesignDescription": "Reinforced Evacuation Droid. This shy guy is programmed to brace and protect, helping others to escape. 15 Tons of fun!",
       "XpRequirementScale": "1",
       "MaxCharacterLevel": "40",
       "SpecialAbilityType": "ProtectRoom",
@@ -40646,8 +40646,8 @@
       "Tags": "",
       "BoostValuesString": "6,4,0",
       "Metadata": "{\"CharacterAttackType\":\"Melee\",\"WeaponSpriteId\":\"11430\"}",
-      "TapSoundFileId": "5772",
-      "ActionSoundFileId": "5772",
+      "TapSoundFileId": "3517",
+      "ActionSoundFileId": "3519",
       "CollectionDesignId": "10"
     },
     "CharacterParts": {
