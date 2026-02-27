@@ -9095,7 +9095,7 @@
   "468": {
     "_attrs": {
       "ConditionTypeId": "468",
-      "ConditionTypeName": "Enemy Ship Enemy Crew < 20",
+      "ConditionTypeName": "Enemy Ship Enemy Crew <= 20",
       "ConditionTypeDescription": "This condition is true when the enemy ship contains 20 or less enemy crews inside it",
       "ConditionTypeAvailability": "3",
       "ConditionTypeCategory": "EnemyShip",
