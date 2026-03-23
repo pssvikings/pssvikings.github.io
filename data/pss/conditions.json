@@ -10267,5 +10267,110 @@
       "ConditionParameterArgument": "0",
       "ConditionCategoryArgument": "1"
     }
+  },
+  "525": {
+    "_attrs": {
+      "ConditionTypeId": "525",
+      "ConditionTypeName": "Origin Room Has No Assigned Power",
+      "ConditionTypeDescription": "This condition is true when the subject's starting room has no assigned power.",
+      "ConditionTypeAvailability": "2",
+      "ConditionTypeCategory": "OriginRoom",
+      "ConditionTypeComparison": "Equal",
+      "ConditionTypeParameterValue": "0",
+      "ConditionTypeKey": "ShipPower",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "ShipPower",
+      "ColorString": "",
+      "RequiredResearchDesignId": "95",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "526": {
+    "_attrs": {
+      "ConditionTypeId": "526",
+      "ConditionTypeName": "Origin Room Has Assigned Power",
+      "ConditionTypeDescription": "This condition is true when the subject's starting room has assigned power.",
+      "ConditionTypeAvailability": "2",
+      "ConditionTypeCategory": "OriginRoom",
+      "ConditionTypeComparison": "Higher",
+      "ConditionTypeParameterValue": "0",
+      "ConditionTypeKey": "ShipPower",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "ShipPower",
+      "ColorString": "",
+      "RequiredResearchDesignId": "95",
+      "OrderIndex": "1",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "527": {
+    "_attrs": {
+      "ConditionTypeId": "527",
+      "ConditionTypeName": "Origin Room Assigned Power > 50%",
+      "ConditionTypeDescription": "This condition is true when the subject's starting room has more than 50% assigned power.",
+      "ConditionTypeAvailability": "2",
+      "ConditionTypeCategory": "OriginRoom",
+      "ConditionTypeComparison": "HigherPercentage",
+      "ConditionTypeParameterValue": "50",
+      "ConditionTypeKey": "ShipPower",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "ShipPower",
+      "ColorString": "",
+      "RequiredResearchDesignId": "96",
+      "OrderIndex": "3",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "528": {
+    "_attrs": {
+      "ConditionTypeId": "528",
+      "ConditionTypeName": "Origin Room Has Full Assigned Power",
+      "ConditionTypeDescription": "This condition is true when the subject's starting room has full assigned power.",
+      "ConditionTypeAvailability": "2",
+      "ConditionTypeCategory": "OriginRoom",
+      "ConditionTypeComparison": "HigherOrEqualPercentage",
+      "ConditionTypeParameterValue": "100",
+      "ConditionTypeKey": "ShipPower",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "ShipPower",
+      "ColorString": "",
+      "RequiredResearchDesignId": "94",
+      "OrderIndex": "4",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "529": {
+    "_attrs": {
+      "ConditionTypeId": "529",
+      "ConditionTypeName": "Origin Room Assigned Power <= 50%",
+      "ConditionTypeDescription": "This condition is true when the subject's starting room has 50% or less assigned power.",
+      "ConditionTypeAvailability": "2",
+      "ConditionTypeCategory": "OriginRoom",
+      "ConditionTypeComparison": "LowerOrEqualPercentage",
+      "ConditionTypeParameterValue": "50",
+      "ConditionTypeKey": "ShipPower",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "ShipPower",
+      "ColorString": "",
+      "RequiredResearchDesignId": "96",
+      "OrderIndex": "2",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
   }
 }
