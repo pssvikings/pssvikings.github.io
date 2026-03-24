@@ -52834,5 +52834,107 @@
         }
       ]
     }
+  },
+  "549": {
+    "_attrs": {
+      "CharacterDesignId": "549",
+      "CharacterDesignName": "Kitty Kultist",
+      "CharacterHeadPartId": "2441",
+      "CharacterBodyPartId": "2442",
+      "GenderType": "Female",
+      "RaceType": "Animal",
+      "Hp": "4",
+      "Pilot": "3",
+      "Attack": "1.1",
+      "FireResistance": "0",
+      "Repair": "1.8",
+      "Weapon": "4",
+      "Science": "10",
+      "Engine": "3",
+      "Research": "5",
+      "Level": "1",
+      "WalkingSpeed": "1",
+      "MinShipLevel": "1",
+      "FinalHp": "9",
+      "FinalPilot": "5",
+      "FinalAttack": "1.6",
+      "FinalRepair": "3.2",
+      "FinalWeapon": "7",
+      "FinalScience": "26",
+      "FinalEngine": "5",
+      "FinalResearch": "5",
+      "CharacterLegPartId": "2443",
+      "Rarity": "Special",
+      "ProgressionType": "Linear",
+      "CharacterDesignDescription": "We're getting the band back together!",
+      "XpRequirementScale": "1",
+      "MaxCharacterLevel": "40",
+      "SpecialAbilityType": "Freeze",
+      "SpecialAbilityArgument": "80",
+      "SpecialAbilityFinalArgument": "300",
+      "ProfileSpriteId": "30115",
+      "RunSpeed": "3",
+      "TrainingCapacity": "100",
+      "EquipmentMask": "10",
+      "SpeechVoice": "",
+      "SpeechPhrases": "",
+      "SpeechRate": "1",
+      "SpeechPitch": "1",
+      "Flags": "1",
+      "RootCharacterDesignId": "549",
+      "MaxCount": "0",
+      "Tags": "",
+      "BoostValuesString": "6,4,0",
+      "Metadata": "{\"CharacterAttackType\":\"Melee\",\"WeaponSpriteId\":\"30149\"}",
+      "TapSoundFileId": "5767",
+      "ActionSoundFileId": "5767",
+      "CollectionDesignId": "3"
+    },
+    "CharacterParts": {
+      "CharacterPart": [
+        {
+          "_attrs": {
+            "CharacterPartId": "2441",
+            "CharacterPartName": "KittyKultistHead",
+            "CharacterPartType": "Head",
+            "StandardSpriteId": "30109",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "30110"
+          }
+        },
+        {
+          "_attrs": {
+            "CharacterPartId": "2442",
+            "CharacterPartName": "KittyKultistBody",
+            "CharacterPartType": "Body",
+            "StandardSpriteId": "30111",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "30112"
+          }
+        },
+        {
+          "_attrs": {
+            "CharacterPartId": "2443",
+            "CharacterPartName": "KittyKultistLeg",
+            "CharacterPartType": "Leg",
+            "StandardSpriteId": "30113",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "30114"
+          }
+        }
+      ]
+    }
   }
 }
