@@ -5862,7 +5862,7 @@
     "_attrs": {
       "ConditionTypeId": "306",
       "ConditionTypeName": "Current Room Reload <= 25%",
-      "ConditionTypeDescription": "This condition is true when current room has 25% or less reload time elapsed.",
+      "ConditionTypeDescription": "This condition is true when current friendly room has 25% or less reload time elapsed.",
       "ConditionTypeAvailability": "3",
       "ConditionTypeCategory": "CurrentRoom",
       "ConditionTypeComparison": "LowerOrEqualPercentage",
@@ -5883,7 +5883,7 @@
     "_attrs": {
       "ConditionTypeId": "307",
       "ConditionTypeName": "Current Room Reload > 25%",
-      "ConditionTypeDescription": "This condition is true when current room has more than 25% reload time elapsed.",
+      "ConditionTypeDescription": "This condition is true when current friendly room has more than 25% reload time elapsed.",
       "ConditionTypeAvailability": "3",
       "ConditionTypeCategory": "CurrentRoom",
       "ConditionTypeComparison": "HigherPercentage",
@@ -5904,7 +5904,7 @@
     "_attrs": {
       "ConditionTypeId": "308",
       "ConditionTypeName": "Current Room Reload <= 50%",
-      "ConditionTypeDescription": "This condition is true when current room has 50% or less reload time elapsed.",
+      "ConditionTypeDescription": "This condition is true when current friendly room has 50% or less reload time elapsed.",
       "ConditionTypeAvailability": "3",
       "ConditionTypeCategory": "CurrentRoom",
       "ConditionTypeComparison": "LowerOrEqualPercentage",
@@ -5925,7 +5925,7 @@
     "_attrs": {
       "ConditionTypeId": "309",
       "ConditionTypeName": "Current Room Reload > 50%",
-      "ConditionTypeDescription": "This condition is true when current room has more than 50% reload time elapsed.",
+      "ConditionTypeDescription": "This condition is true when current friendly room has more than 50% reload time elapsed.",
       "ConditionTypeAvailability": "3",
       "ConditionTypeCategory": "CurrentRoom",
       "ConditionTypeComparison": "HigherPercentage",
@@ -5946,7 +5946,7 @@
     "_attrs": {
       "ConditionTypeId": "310",
       "ConditionTypeName": "Current Room Reload <= 75%",
-      "ConditionTypeDescription": "This condition is true when current room has 75% or less reload time elapsed.",
+      "ConditionTypeDescription": "This condition is true when current friendly room has 75% or less reload time elapsed.",
       "ConditionTypeAvailability": "3",
       "ConditionTypeCategory": "CurrentRoom",
       "ConditionTypeComparison": "LowerOrEqualPercentage",
@@ -5967,7 +5967,7 @@
     "_attrs": {
       "ConditionTypeId": "311",
       "ConditionTypeName": "Current Room Reload > 75%",
-      "ConditionTypeDescription": "This condition is true when current room has more than 75% reload time elapsed.",
+      "ConditionTypeDescription": "This condition is true when current friendly room has more than 75% reload time elapsed.",
       "ConditionTypeAvailability": "3",
       "ConditionTypeCategory": "CurrentRoom",
       "ConditionTypeComparison": "HigherPercentage",
@@ -5988,7 +5988,7 @@
     "_attrs": {
       "ConditionTypeId": "312",
       "ConditionTypeName": "Current Room Not On Cooldown",
-      "ConditionTypeDescription": "This condition is true when current room is not currently on cooldown.",
+      "ConditionTypeDescription": "This condition is true when current friendly room is not currently on cooldown.",
       "ConditionTypeAvailability": "3",
       "ConditionTypeCategory": "CurrentRoom",
       "ConditionTypeComparison": "Equal",
@@ -6009,7 +6009,7 @@
     "_attrs": {
       "ConditionTypeId": "313",
       "ConditionTypeName": "Current Room On Cooldown",
-      "ConditionTypeDescription": "This condition is true when current room is currently on cooldown.",
+      "ConditionTypeDescription": "This condition is true when current friendly room is currently on cooldown.",
       "ConditionTypeAvailability": "3",
       "ConditionTypeCategory": "CurrentRoom",
       "ConditionTypeComparison": "Higher",
@@ -6030,7 +6030,7 @@
     "_attrs": {
       "ConditionTypeId": "314",
       "ConditionTypeName": "Current Room Cooldown <= 25%",
-      "ConditionTypeDescription": "This condition is true when current room has 25% or less cooldown time remaining.",
+      "ConditionTypeDescription": "This condition is true when current friendly room has 25% or less cooldown time remaining.",
       "ConditionTypeAvailability": "3",
       "ConditionTypeCategory": "CurrentRoom",
       "ConditionTypeComparison": "LowerOrEqualPercentage",
@@ -6051,7 +6051,7 @@
     "_attrs": {
       "ConditionTypeId": "315",
       "ConditionTypeName": "Current Room Cooldown > 25%",
-      "ConditionTypeDescription": "This condition is true when current room has more than 25% cooldown time remaining.",
+      "ConditionTypeDescription": "This condition is true when current friendly room has more than 25% cooldown time remaining.",
       "ConditionTypeAvailability": "3",
       "ConditionTypeCategory": "CurrentRoom",
       "ConditionTypeComparison": "HigherPercentage",
@@ -6072,7 +6072,7 @@
     "_attrs": {
       "ConditionTypeId": "316",
       "ConditionTypeName": "Current Room Cooldown <= 50%",
-      "ConditionTypeDescription": "This condition is true when current room has 50% or less cooldown time remaining.",
+      "ConditionTypeDescription": "This condition is true when current friendly room has 50% or less cooldown time remaining.",
       "ConditionTypeAvailability": "3",
       "ConditionTypeCategory": "CurrentRoom",
       "ConditionTypeComparison": "LowerOrEqualPercentage",
@@ -6093,7 +6093,7 @@
     "_attrs": {
       "ConditionTypeId": "317",
       "ConditionTypeName": "Current Room Cooldown > 50%",
-      "ConditionTypeDescription": "This condition is true when current room has more than 50% cooldown time remaining.",
+      "ConditionTypeDescription": "This condition is true when current friendly room has more than 50% cooldown time remaining.",
       "ConditionTypeAvailability": "3",
       "ConditionTypeCategory": "CurrentRoom",
       "ConditionTypeComparison": "HigherPercentage",
@@ -6492,7 +6492,7 @@
     "_attrs": {
       "ConditionTypeId": "336",
       "ConditionTypeName": "Current Room Cooldown <= 75%",
-      "ConditionTypeDescription": "This condition is true when current room has 75% or less cooldown time remaining.",
+      "ConditionTypeDescription": "This condition is true when current friendly room has 75% or less cooldown time remaining.",
       "ConditionTypeAvailability": "3",
       "ConditionTypeCategory": "CurrentRoom",
       "ConditionTypeComparison": "LowerOrEqualPercentage",
@@ -6513,7 +6513,7 @@
     "_attrs": {
       "ConditionTypeId": "337",
       "ConditionTypeName": "Current Room Cooldown > 75%",
-      "ConditionTypeDescription": "This condition is true when current room has more than 75% cooldown time remaining.",
+      "ConditionTypeDescription": "This condition is true when current friendly room has more than 75% cooldown time remaining.",
       "ConditionTypeAvailability": "3",
       "ConditionTypeCategory": "CurrentRoom",
       "ConditionTypeComparison": "HigherPercentage",
@@ -6723,7 +6723,7 @@
     "_attrs": {
       "ConditionTypeId": "347",
       "ConditionTypeName": "Current Room Reload Full",
-      "ConditionTypeDescription": "This condition is true when current room has completed reloading and is ready for activation.",
+      "ConditionTypeDescription": "This condition is true when current friendly room has completed reloading and is ready for activation.",
       "ConditionTypeAvailability": "3",
       "ConditionTypeCategory": "CurrentRoom",
       "ConditionTypeComparison": "HigherOrEqualPercentage",
@@ -9138,7 +9138,7 @@
     "_attrs": {
       "ConditionTypeId": "470",
       "ConditionTypeName": "Current Room Reload Not Full",
-      "ConditionTypeDescription": "This condition is true when current room is still currently reloading.",
+      "ConditionTypeDescription": "This condition is true when current friendly room is still currently reloading.",
       "ConditionTypeAvailability": "3",
       "ConditionTypeCategory": "CurrentRoom",
       "ConditionTypeComparison": "LowerPercentage",
@@ -9180,7 +9180,7 @@
     "_attrs": {
       "ConditionTypeId": "472",
       "ConditionTypeName": "Current Room Reload Empty",
-      "ConditionTypeDescription": "This condition is true when current room has no reload progress.",
+      "ConditionTypeDescription": "This condition is true when current friendly room has no reload progress.",
       "ConditionTypeAvailability": "3",
       "ConditionTypeCategory": "CurrentRoom",
       "ConditionTypeComparison": "Equal",
@@ -9222,7 +9222,7 @@
     "_attrs": {
       "ConditionTypeId": "474",
       "ConditionTypeName": "Current Room Reload Not Empty",
-      "ConditionTypeDescription": "This condition is true when current room has any reload progress.",
+      "ConditionTypeDescription": "This condition is true when current friendly room has any reload progress.",
       "ConditionTypeAvailability": "3",
       "ConditionTypeCategory": "CurrentRoom",
       "ConditionTypeComparison": "Higher",
@@ -10368,6 +10368,363 @@
       "ColorString": "",
       "RequiredResearchDesignId": "96",
       "OrderIndex": "2",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "531": {
+    "_attrs": {
+      "ConditionTypeId": "531",
+      "ConditionTypeName": "Origin Room Not EMPed",
+      "ConditionTypeDescription": "This condition is true when the subject's starting room is not under the EMP effect",
+      "ConditionTypeAvailability": "2",
+      "ConditionTypeCategory": "OriginRoom",
+      "ConditionTypeComparison": "Equal",
+      "ConditionTypeParameterValue": "0",
+      "ConditionTypeKey": "EMPLength",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "EMPLength",
+      "ColorString": "",
+      "RequiredResearchDesignId": "96",
+      "OrderIndex": "1",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "533": {
+    "_attrs": {
+      "ConditionTypeId": "533",
+      "ConditionTypeName": "Your Ship Has 1 Available Power",
+      "ConditionTypeDescription": "This condition is true when your ship has only 1 available power remaining.",
+      "ConditionTypeAvailability": "3",
+      "ConditionTypeCategory": "YourShip",
+      "ConditionTypeComparison": "Equal",
+      "ConditionTypeParameterValue": "1",
+      "ConditionTypeKey": "ShipPower",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "ShipPower",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "9",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "534": {
+    "_attrs": {
+      "ConditionTypeId": "534",
+      "ConditionTypeName": "Your Ship Available Power > 1",
+      "ConditionTypeDescription": "This condition is true when your ship has more than 1 available power remaining.",
+      "ConditionTypeAvailability": "3",
+      "ConditionTypeCategory": "YourShip",
+      "ConditionTypeComparison": "Higher",
+      "ConditionTypeParameterValue": "1",
+      "ConditionTypeKey": "ShipPower",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "ShipPower",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "10",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "535": {
+    "_attrs": {
+      "ConditionTypeId": "535",
+      "ConditionTypeName": "Has Arrived At Destination",
+      "ConditionTypeDescription": "This condition is true when this crew has arrived at its destination.",
+      "ConditionTypeAvailability": "2",
+      "ConditionTypeCategory": "Current",
+      "ConditionTypeComparison": "NotEqual",
+      "ConditionTypeParameterValue": "0",
+      "ConditionTypeKey": "Arrived",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "Arrived",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "536": {
+    "_attrs": {
+      "ConditionTypeId": "536",
+      "ConditionTypeName": "Not Arrived At Destination",
+      "ConditionTypeDescription": "This condition is true when this crew has not arrived at its destination.",
+      "ConditionTypeAvailability": "2",
+      "ConditionTypeCategory": "Current",
+      "ConditionTypeComparison": "Equal",
+      "ConditionTypeParameterValue": "0",
+      "ConditionTypeKey": "Arrived",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "Arrived",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "1",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "537": {
+    "_attrs": {
+      "ConditionTypeId": "537",
+      "ConditionTypeName": "Is On Own Ship",
+      "ConditionTypeDescription": "This condition is true when this crew is currently on its own ship.",
+      "ConditionTypeAvailability": "2",
+      "ConditionTypeCategory": "Current",
+      "ConditionTypeComparison": "Equal",
+      "ConditionTypeParameterValue": "0",
+      "ConditionTypeKey": "OnAnotherShip",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "OnAnotherShip",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "538": {
+    "_attrs": {
+      "ConditionTypeId": "538",
+      "ConditionTypeName": "Is On Enemy Ship",
+      "ConditionTypeDescription": "This condition is true when this crew is currently on the enemy ship.",
+      "ConditionTypeAvailability": "2",
+      "ConditionTypeCategory": "Current",
+      "ConditionTypeComparison": "NotEqual",
+      "ConditionTypeParameterValue": "0",
+      "ConditionTypeKey": "OnAnotherShip",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "OnAnotherShip",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "1",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "539": {
+    "_attrs": {
+      "ConditionTypeId": "539",
+      "ConditionTypeName": "Is In Combat",
+      "ConditionTypeDescription": "This condition is true when this crew is currently in combat with an enemy.",
+      "ConditionTypeAvailability": "2",
+      "ConditionTypeCategory": "Current",
+      "ConditionTypeComparison": "NotEqual",
+      "ConditionTypeParameterValue": "0",
+      "ConditionTypeKey": "InCombat",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "InCombat",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "540": {
+    "_attrs": {
+      "ConditionTypeId": "540",
+      "ConditionTypeName": "Is Not In Combat",
+      "ConditionTypeDescription": "This condition is true when this crew is currently not in combat with an enemy.",
+      "ConditionTypeAvailability": "2",
+      "ConditionTypeCategory": "Current",
+      "ConditionTypeComparison": "Equal",
+      "ConditionTypeParameterValue": "0",
+      "ConditionTypeKey": "InCombat",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "InCombat",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "1",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "541": {
+    "_attrs": {
+      "ConditionTypeId": "541",
+      "ConditionTypeName": "Is In Queue",
+      "ConditionTypeDescription": "This condition is true when this crew is currently in a room queue.",
+      "ConditionTypeAvailability": "2",
+      "ConditionTypeCategory": "Current",
+      "ConditionTypeComparison": "NotEqual",
+      "ConditionTypeParameterValue": "0",
+      "ConditionTypeKey": "InQueue",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "InQueue",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "542": {
+    "_attrs": {
+      "ConditionTypeId": "542",
+      "ConditionTypeName": "Is Not In Queue",
+      "ConditionTypeDescription": "This condition is true when this crew is currently not in a room queue.",
+      "ConditionTypeAvailability": "2",
+      "ConditionTypeCategory": "Current",
+      "ConditionTypeComparison": "Equal",
+      "ConditionTypeParameterValue": "0",
+      "ConditionTypeKey": "InQueue",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "InQueue",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "1",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "543": {
+    "_attrs": {
+      "ConditionTypeId": "543",
+      "ConditionTypeName": "Current Room Has Queued Crews",
+      "ConditionTypeDescription": "This condition is true when the current friendly room has queued crews.",
+      "ConditionTypeAvailability": "3",
+      "ConditionTypeCategory": "CurrentRoom",
+      "ConditionTypeComparison": "Higher",
+      "ConditionTypeParameterValue": "0",
+      "ConditionTypeKey": "InQueue",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "InQueue",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "544": {
+    "_attrs": {
+      "ConditionTypeId": "544",
+      "ConditionTypeName": "Current Room Has No Queued Crews",
+      "ConditionTypeDescription": "This condition is true when the current friendly room has no queued crews.",
+      "ConditionTypeAvailability": "3",
+      "ConditionTypeCategory": "CurrentRoom",
+      "ConditionTypeComparison": "Equal",
+      "ConditionTypeParameterValue": "0",
+      "ConditionTypeKey": "InQueue",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "InQueue",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "1",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "545": {
+    "_attrs": {
+      "ConditionTypeId": "545",
+      "ConditionTypeName": "Your Ship Available Power <= 5",
+      "ConditionTypeDescription": "This condition is true when your ship has 5 or less available power remaining.",
+      "ConditionTypeAvailability": "3",
+      "ConditionTypeCategory": "YourShip",
+      "ConditionTypeComparison": "Lower",
+      "ConditionTypeParameterValue": "6",
+      "ConditionTypeKey": "ShipPower",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "ShipPower",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "11",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "546": {
+    "_attrs": {
+      "ConditionTypeId": "546",
+      "ConditionTypeName": "Your Ship Available Power > 5",
+      "ConditionTypeDescription": "This condition is true when your ship has more than 5 available power remaining.",
+      "ConditionTypeAvailability": "3",
+      "ConditionTypeCategory": "YourShip",
+      "ConditionTypeComparison": "Higher",
+      "ConditionTypeParameterValue": "5",
+      "ConditionTypeKey": "ShipPower",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "ShipPower",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "12",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "547": {
+    "_attrs": {
+      "ConditionTypeId": "547",
+      "ConditionTypeName": "Friendly Room Has Queued Crews",
+      "ConditionTypeDescription": "This condition is true when a friendly room has queued crews.",
+      "ConditionTypeAvailability": "3",
+      "ConditionTypeCategory": "YourRoom",
+      "ConditionTypeComparison": "Higher",
+      "ConditionTypeParameterValue": "0",
+      "ConditionTypeKey": "InQueue",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "InQueue",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "548": {
+    "_attrs": {
+      "ConditionTypeId": "548",
+      "ConditionTypeName": "Friendly Room Has No Queued Crews",
+      "ConditionTypeDescription": "This condition is true when a friendly room has no queued crews.",
+      "ConditionTypeAvailability": "3",
+      "ConditionTypeCategory": "YourRoom",
+      "ConditionTypeComparison": "Equal",
+      "ConditionTypeParameterValue": "0",
+      "ConditionTypeKey": "InQueue",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "InQueue",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "1",
       "RoomCategoryType": "None",
       "ConditionParameterArgument": "0",
       "ConditionCategoryArgument": "0"

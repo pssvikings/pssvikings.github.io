@@ -1578,5 +1578,25 @@
       "RoomCategoryType": "None",
       "ConditionParameterArgument": "0"
     }
+  },
+  "105": {
+    "_attrs": {
+      "ActionTypeId": "105",
+      "ActionTypeName": "Keep Current Ammo",
+      "RoomType": "None",
+      "ActionTypeCategory": "SetItem",
+      "ActionTypeKey": "KeepCurrentItem",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Keeps the current assigned ammo.",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "None",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
   }
 }
