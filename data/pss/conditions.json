@@ -10729,5 +10729,47 @@
       "ConditionParameterArgument": "0",
       "ConditionCategoryArgument": "0"
     }
+  },
+  "549": {
+    "_attrs": {
+      "ConditionTypeId": "549",
+      "ConditionTypeName": "Origin Room Has Queued Crews",
+      "ConditionTypeDescription": "This condition is true when the subject's starting room has queued crews.",
+      "ConditionTypeAvailability": "3",
+      "ConditionTypeCategory": "OriginRoom",
+      "ConditionTypeComparison": "Higher",
+      "ConditionTypeParameterValue": "0",
+      "ConditionTypeKey": "InQueue",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "InQueue",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "550": {
+    "_attrs": {
+      "ConditionTypeId": "550",
+      "ConditionTypeName": "Origin Room Has No Queued Crews",
+      "ConditionTypeDescription": "This condition is true when the subject's starting room has no queued crews.",
+      "ConditionTypeAvailability": "3",
+      "ConditionTypeCategory": "OriginRoom",
+      "ConditionTypeComparison": "Equal",
+      "ConditionTypeParameterValue": "0",
+      "ConditionTypeKey": "InQueue",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "InQueue",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "1",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
   }
 }
