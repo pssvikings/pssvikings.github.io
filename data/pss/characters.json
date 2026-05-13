@@ -52936,5 +52936,107 @@
         }
       ]
     }
+  },
+  "550": {
+    "_attrs": {
+      "CharacterDesignId": "550",
+      "CharacterDesignName": "Creeping Death",
+      "CharacterHeadPartId": "2449",
+      "CharacterBodyPartId": "2448",
+      "GenderType": "Unknown",
+      "RaceType": "Unknown",
+      "Hp": "5",
+      "Pilot": "2",
+      "Attack": "1.8",
+      "FireResistance": "0",
+      "Repair": "1.2",
+      "Weapon": "2",
+      "Science": "1",
+      "Engine": "2",
+      "Research": "3",
+      "Level": "1",
+      "WalkingSpeed": "1",
+      "MinShipLevel": "1",
+      "FinalHp": "12",
+      "FinalPilot": "2",
+      "FinalAttack": "3.4",
+      "FinalRepair": "2",
+      "FinalWeapon": "21",
+      "FinalScience": "3",
+      "FinalEngine": "5",
+      "FinalResearch": "3",
+      "CharacterLegPartId": "2450",
+      "Rarity": "Special",
+      "ProgressionType": "Linear",
+      "CharacterDesignDescription": "Do you know the Mushroom Man? Seems like a fun guy.",
+      "XpRequirementScale": "1",
+      "MaxCharacterLevel": "40",
+      "SpecialAbilityType": "Freeze",
+      "SpecialAbilityArgument": "140",
+      "SpecialAbilityFinalArgument": "280",
+      "ProfileSpriteId": "32662",
+      "RunSpeed": "2",
+      "TrainingCapacity": "100",
+      "EquipmentMask": "24",
+      "SpeechVoice": "",
+      "SpeechPhrases": "",
+      "SpeechRate": "1",
+      "SpeechPitch": "1",
+      "Flags": "1",
+      "RootCharacterDesignId": "550",
+      "MaxCount": "0",
+      "Tags": "",
+      "BoostValuesString": "6,4,0",
+      "Metadata": "{\"CharacterAttackType\":\"Melee\"}",
+      "TapSoundFileId": "5781",
+      "ActionSoundFileId": "5781",
+      "CollectionDesignId": "25"
+    },
+    "CharacterParts": {
+      "CharacterPart": [
+        {
+          "_attrs": {
+            "CharacterPartId": "2449",
+            "CharacterPartName": "MushroomGolem_Head",
+            "CharacterPartType": "Head",
+            "StandardSpriteId": "32658",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "32659"
+          }
+        },
+        {
+          "_attrs": {
+            "CharacterPartId": "2448",
+            "CharacterPartName": "MushroomGolem_Body",
+            "CharacterPartType": "Body",
+            "StandardSpriteId": "32660",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "32661"
+          }
+        },
+        {
+          "_attrs": {
+            "CharacterPartId": "2450",
+            "CharacterPartName": "MushroomGolem_Legs",
+            "CharacterPartType": "Leg",
+            "StandardSpriteId": "32656",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "32657"
+          }
+        }
+      ]
+    }
   }
 }
