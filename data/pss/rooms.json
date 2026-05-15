@@ -47208,7 +47208,7 @@
       "RoomVariantType": "0",
       "StarbasePriceString": "",
       "MinStarbaseShipLevel": "1",
-      "UpgradeFromRoomDesignId": "819",
+      "UpgradeFromRoomDesignId": "0",
       "MissileDesignId": "0",
       "InteriorAssetId": "0",
       "ExteriorAssetId": "0",
