@@ -53038,5 +53038,413 @@
         }
       ]
     }
+  },
+  "563": {
+    "_attrs": {
+      "CharacterDesignId": "563",
+      "CharacterDesignName": "Rainbow Civilian Pilot",
+      "CharacterHeadPartId": "2458",
+      "CharacterBodyPartId": "2459",
+      "GenderType": "Male",
+      "RaceType": "White",
+      "Hp": "4",
+      "Pilot": "11",
+      "Attack": "1.3",
+      "FireResistance": "0",
+      "Repair": "1.4",
+      "Weapon": "1",
+      "Science": "3",
+      "Engine": "3",
+      "Research": "10",
+      "Level": "1",
+      "WalkingSpeed": "1",
+      "MinShipLevel": "1",
+      "FinalHp": "7",
+      "FinalPilot": "25",
+      "FinalAttack": "2",
+      "FinalRepair": "2.5",
+      "FinalWeapon": "1",
+      "FinalScience": "9",
+      "FinalEngine": "9",
+      "FinalResearch": "10",
+      "CharacterLegPartId": "2460",
+      "Rarity": "Epic",
+      "ProgressionType": "Linear",
+      "CharacterDesignDescription": "An Inspiration for millions, this peppy pilot is leading the charge on extraterrestrial exploration!",
+      "XpRequirementScale": "1",
+      "MaxCharacterLevel": "40",
+      "SpecialAbilityType": "AddReload",
+      "SpecialAbilityArgument": "15",
+      "SpecialAbilityFinalArgument": "40",
+      "ProfileSpriteId": "16854",
+      "RunSpeed": "2",
+      "TrainingCapacity": "80",
+      "EquipmentMask": "18",
+      "SpeechVoice": "",
+      "SpeechPhrases": "",
+      "SpeechRate": "1",
+      "SpeechPitch": "1",
+      "Flags": "1",
+      "RootCharacterDesignId": "447",
+      "MaxCount": "0",
+      "Tags": "",
+      "BoostValuesString": "6,4,0",
+      "Metadata": "",
+      "TapSoundFileId": "5764",
+      "ActionSoundFileId": "5763",
+      "CollectionDesignId": "30"
+    },
+    "CharacterParts": {
+      "CharacterPart": [
+        {
+          "_attrs": {
+            "CharacterPartId": "2458",
+            "CharacterPartName": "RainbowCivilianPilotHead",
+            "CharacterPartType": "Head",
+            "StandardSpriteId": "33077",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "33078"
+          }
+        },
+        {
+          "_attrs": {
+            "CharacterPartId": "2459",
+            "CharacterPartName": "RainbowCivilianPilotBody",
+            "CharacterPartType": "Body",
+            "StandardSpriteId": "33079",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "33080"
+          }
+        },
+        {
+          "_attrs": {
+            "CharacterPartId": "2460",
+            "CharacterPartName": "RainbowCivilianPilotLeg",
+            "CharacterPartType": "Leg",
+            "StandardSpriteId": "33081",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "33082"
+          }
+        }
+      ]
+    }
+  },
+  "564": {
+    "_attrs": {
+      "CharacterDesignId": "564",
+      "CharacterDesignName": "Rainbow Saboteur Pianist",
+      "CharacterHeadPartId": "2461",
+      "CharacterBodyPartId": "2462",
+      "GenderType": "Male",
+      "RaceType": "Black",
+      "Hp": "5",
+      "Pilot": "2",
+      "Attack": "1.7",
+      "FireResistance": "10",
+      "Repair": "1",
+      "Weapon": "13",
+      "Science": "2",
+      "Engine": "2",
+      "Research": "3",
+      "Level": "1",
+      "WalkingSpeed": "1",
+      "MinShipLevel": "1",
+      "FinalHp": "9",
+      "FinalPilot": "10",
+      "FinalAttack": "2.8",
+      "FinalRepair": "2",
+      "FinalWeapon": "25",
+      "FinalScience": "10",
+      "FinalEngine": "10",
+      "FinalResearch": "3",
+      "CharacterLegPartId": "2463",
+      "Rarity": "Hero",
+      "ProgressionType": "Linear",
+      "CharacterDesignDescription": "Piano Shops require heavy tie-ups with Space Banks! Justice for musicians! - Sponsored by IG~mbluehawk",
+      "XpRequirementScale": "1",
+      "MaxCharacterLevel": "40",
+      "SpecialAbilityType": "HealSameRoomCharacters",
+      "SpecialAbilityArgument": "3",
+      "SpecialAbilityFinalArgument": "6",
+      "ProfileSpriteId": "16589",
+      "RunSpeed": "2",
+      "TrainingCapacity": "90",
+      "EquipmentMask": "10",
+      "SpeechVoice": "",
+      "SpeechPhrases": "",
+      "SpeechRate": "1",
+      "SpeechPitch": "1",
+      "Flags": "1",
+      "RootCharacterDesignId": "432",
+      "MaxCount": "0",
+      "Tags": "",
+      "BoostValuesString": "6,4,0",
+      "Metadata": "",
+      "TapSoundFileId": "5764",
+      "ActionSoundFileId": "5763",
+      "CollectionDesignId": "24"
+    },
+    "CharacterParts": {
+      "CharacterPart": [
+        {
+          "_attrs": {
+            "CharacterPartId": "2461",
+            "CharacterPartName": "RainbowPianistHead",
+            "CharacterPartType": "Head",
+            "StandardSpriteId": "33083",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "33084"
+          }
+        },
+        {
+          "_attrs": {
+            "CharacterPartId": "2462",
+            "CharacterPartName": "RainbowPianistBody",
+            "CharacterPartType": "Body",
+            "StandardSpriteId": "33085",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "33086"
+          }
+        },
+        {
+          "_attrs": {
+            "CharacterPartId": "2463",
+            "CharacterPartName": "RainbowPianistLeg",
+            "CharacterPartType": "Leg",
+            "StandardSpriteId": "33087",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "33088"
+          }
+        }
+      ]
+    }
+  },
+  "565": {
+    "_attrs": {
+      "CharacterDesignId": "565",
+      "CharacterDesignName": "Rainbow Snow Joe",
+      "CharacterHeadPartId": "2467",
+      "CharacterBodyPartId": "2468",
+      "GenderType": "Unknown",
+      "RaceType": "Robot",
+      "Hp": "2",
+      "Pilot": "1",
+      "Attack": "1",
+      "FireResistance": "0",
+      "Repair": "1.5",
+      "Weapon": "2",
+      "Science": "4",
+      "Engine": "2",
+      "Research": "3",
+      "Level": "1",
+      "WalkingSpeed": "1",
+      "MinShipLevel": "1",
+      "FinalHp": "8",
+      "FinalPilot": "4",
+      "FinalAttack": "2.2",
+      "FinalRepair": "3",
+      "FinalWeapon": "8",
+      "FinalScience": "15",
+      "FinalEngine": "6",
+      "FinalResearch": "9",
+      "CharacterLegPartId": "2469",
+      "Rarity": "Epic",
+      "ProgressionType": "EaseOut",
+      "CharacterDesignDescription": "Regards others with an icy stare, before giving them the cold shoulder.",
+      "XpRequirementScale": "1",
+      "MaxCharacterLevel": "40",
+      "SpecialAbilityType": "Freeze",
+      "SpecialAbilityArgument": "100",
+      "SpecialAbilityFinalArgument": "300",
+      "ProfileSpriteId": "11216",
+      "RunSpeed": "2",
+      "TrainingCapacity": "70",
+      "EquipmentMask": "5",
+      "SpeechVoice": "",
+      "SpeechPhrases": "",
+      "SpeechRate": "1",
+      "SpeechPitch": "1",
+      "Flags": "17",
+      "RootCharacterDesignId": "313",
+      "MaxCount": "0",
+      "Tags": "",
+      "BoostValuesString": "6,4,0",
+      "Metadata": "{\"CharacterAttackType\":\"Melee\",\"WeaponSpriteId\":\"11176\"}",
+      "TapSoundFileId": "5764",
+      "ActionSoundFileId": "5763",
+      "CollectionDesignId": "22"
+    },
+    "CharacterParts": {
+      "CharacterPart": [
+        {
+          "_attrs": {
+            "CharacterPartId": "2467",
+            "CharacterPartName": "RainbowSnowJoeHead",
+            "CharacterPartType": "Head",
+            "StandardSpriteId": "33099",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "33100"
+          }
+        },
+        {
+          "_attrs": {
+            "CharacterPartId": "2468",
+            "CharacterPartName": "RainbowSnowJoeBody",
+            "CharacterPartType": "Body",
+            "StandardSpriteId": "33101",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "33102"
+          }
+        },
+        {
+          "_attrs": {
+            "CharacterPartId": "2469",
+            "CharacterPartName": "RainbowSnowJoeLeg",
+            "CharacterPartType": "Leg",
+            "StandardSpriteId": "33103",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "33104"
+          }
+        }
+      ]
+    }
+  },
+  "566": {
+    "_attrs": {
+      "CharacterDesignId": "566",
+      "CharacterDesignName": "Rainbow Hairdresser",
+      "CharacterHeadPartId": "2464",
+      "CharacterBodyPartId": "2465",
+      "GenderType": "Male",
+      "RaceType": "Asian",
+      "Hp": "3",
+      "Pilot": "0",
+      "Attack": "1.9",
+      "FireResistance": "1",
+      "Repair": "1.9",
+      "Weapon": "12",
+      "Science": "13",
+      "Engine": "6",
+      "Research": "1",
+      "Level": "1",
+      "WalkingSpeed": "1",
+      "MinShipLevel": "1",
+      "FinalHp": "7",
+      "FinalPilot": "12",
+      "FinalAttack": "3",
+      "FinalRepair": "3.1",
+      "FinalWeapon": "21",
+      "FinalScience": "18",
+      "FinalEngine": "9",
+      "FinalResearch": "19",
+      "CharacterLegPartId": "2466",
+      "Rarity": "Epic",
+      "ProgressionType": "EaseIn",
+      "CharacterDesignDescription": "Handsome and dashing, Hairdresser has devoted his life to bringing a little style to the galaxy.",
+      "XpRequirementScale": "1",
+      "MaxCharacterLevel": "40",
+      "SpecialAbilityType": "AddReload",
+      "SpecialAbilityArgument": "35",
+      "SpecialAbilityFinalArgument": "45",
+      "ProfileSpriteId": "4816",
+      "RunSpeed": "2",
+      "TrainingCapacity": "80",
+      "EquipmentMask": "6",
+      "SpeechVoice": "",
+      "SpeechPhrases": "",
+      "SpeechRate": "1",
+      "SpeechPitch": "1",
+      "Flags": "1",
+      "RootCharacterDesignId": "154",
+      "MaxCount": "0",
+      "Tags": "",
+      "BoostValuesString": "6,4,0",
+      "Metadata": "",
+      "TapSoundFileId": "5751",
+      "ActionSoundFileId": "5763",
+      "CollectionDesignId": "24"
+    },
+    "CharacterParts": {
+      "CharacterPart": [
+        {
+          "_attrs": {
+            "CharacterPartId": "2464",
+            "CharacterPartName": "RainbowHairdresserHead",
+            "CharacterPartType": "Head",
+            "StandardSpriteId": "33093",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "33094"
+          }
+        },
+        {
+          "_attrs": {
+            "CharacterPartId": "2465",
+            "CharacterPartName": "RainbowHairdresserBody",
+            "CharacterPartType": "Body",
+            "StandardSpriteId": "33095",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "33096"
+          }
+        },
+        {
+          "_attrs": {
+            "CharacterPartId": "2466",
+            "CharacterPartName": "RainbowHairdresserLeg",
+            "CharacterPartType": "Leg",
+            "StandardSpriteId": "33097",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "33098"
+          }
+        }
+      ]
+    }
   }
 }
