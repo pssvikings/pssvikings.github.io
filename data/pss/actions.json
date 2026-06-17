@@ -1598,5 +1598,125 @@
       "RoomCategoryType": "None",
       "ConditionParameterArgument": "0"
     }
+  },
+  "106": {
+    "_attrs": {
+      "ActionTypeId": "106",
+      "ActionTypeName": "Target Closest Crafts",
+      "RoomType": "None",
+      "ActionTypeCategory": "Target",
+      "ActionTypeKey": "SetTargetMode",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Sets current target priority to crafts that are closest to the room.",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "EnemyCraft",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "107": {
+    "_attrs": {
+      "ActionTypeId": "107",
+      "ActionTypeName": "Target Furthest Crafts",
+      "RoomType": "None",
+      "ActionTypeCategory": "Target",
+      "ActionTypeKey": "SetTargetMode",
+      "ActionTypeParameterValue": "1",
+      "ActionTypeDescription": "Sets current target priority to crafts that are furthest from the room.",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "EnemyCraft",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "108": {
+    "_attrs": {
+      "ActionTypeId": "108",
+      "ActionTypeName": "Target Strongest Crafts",
+      "RoomType": "None",
+      "ActionTypeCategory": "Target",
+      "ActionTypeKey": "SetTargetMode",
+      "ActionTypeParameterValue": "2",
+      "ActionTypeDescription": "Sets current target priority to crafts that have the highest HP.",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "EnemyCraft",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "109": {
+    "_attrs": {
+      "ActionTypeId": "109",
+      "ActionTypeName": "Target Weakest Crafts",
+      "RoomType": "None",
+      "ActionTypeCategory": "Target",
+      "ActionTypeKey": "SetTargetMode",
+      "ActionTypeParameterValue": "2",
+      "ActionTypeDescription": "Sets current target priority to crafts that have the lowest HP.",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "EnemyCraft",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "110": {
+    "_attrs": {
+      "ActionTypeId": "110",
+      "ActionTypeName": "Target Enemy Reviver",
+      "RoomType": "Reviver",
+      "ActionTypeCategory": "Target",
+      "ActionTypeKey": "TargetEnemyReviver",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Set current target to an enemy Reviver type room",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "EnemyShip",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "0",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "111": {
+    "_attrs": {
+      "ActionTypeId": "111",
+      "ActionTypeName": "Target Your Reviver",
+      "RoomType": "Reviver",
+      "ActionTypeCategory": "Target",
+      "ActionTypeKey": "TargetYourReviver",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Sets current target to a friendly Reviver type weapon room",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourShip",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "0",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
   }
 }
