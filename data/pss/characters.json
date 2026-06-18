@@ -54670,5 +54670,107 @@
         }
       ]
     }
+  },
+  "575": {
+    "_attrs": {
+      "CharacterDesignId": "575",
+      "CharacterDesignName": "Autonomous Jefferson",
+      "CharacterHeadPartId": "2529",
+      "CharacterBodyPartId": "2530",
+      "GenderType": "Male",
+      "RaceType": "Robot",
+      "Hp": "5",
+      "Pilot": "3",
+      "Attack": "2.1",
+      "FireResistance": "30",
+      "Repair": "1.4",
+      "Weapon": "2",
+      "Science": "2",
+      "Engine": "1",
+      "Research": "4",
+      "Level": "1",
+      "WalkingSpeed": "1",
+      "MinShipLevel": "1",
+      "FinalHp": "10",
+      "FinalPilot": "4",
+      "FinalAttack": "3.3",
+      "FinalRepair": "2.5",
+      "FinalWeapon": "5",
+      "FinalScience": "5",
+      "FinalEngine": "4",
+      "FinalResearch": "4",
+      "CharacterLegPartId": "2531",
+      "Rarity": "Special",
+      "ProgressionType": "Linear",
+      "CharacterDesignDescription": "Will attack either patriots or tyrants equally, but really just wants to be happy.",
+      "XpRequirementScale": "1",
+      "MaxCharacterLevel": "40",
+      "SpecialAbilityType": "DamageToSameRoomCharacters",
+      "SpecialAbilityArgument": "3",
+      "SpecialAbilityFinalArgument": "8",
+      "ProfileSpriteId": "33325",
+      "RunSpeed": "2",
+      "TrainingCapacity": "100",
+      "EquipmentMask": "20",
+      "SpeechVoice": "",
+      "SpeechPhrases": "",
+      "SpeechRate": "1",
+      "SpeechPitch": "1",
+      "Flags": "1",
+      "RootCharacterDesignId": "575",
+      "MaxCount": "0",
+      "Tags": "",
+      "BoostValuesString": "6,4,0",
+      "Metadata": "{\"CharacterAttackType\":\"Melee\",\"WeaponSpriteId\":\"16497\"}",
+      "TapSoundFileId": "5772",
+      "ActionSoundFileId": "5772",
+      "CollectionDesignId": "28"
+    },
+    "CharacterParts": {
+      "CharacterPart": [
+        {
+          "_attrs": {
+            "CharacterPartId": "2529",
+            "CharacterPartName": "AutonomousJeffersonHead",
+            "CharacterPartType": "Head",
+            "StandardSpriteId": "33319",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "33320"
+          }
+        },
+        {
+          "_attrs": {
+            "CharacterPartId": "2530",
+            "CharacterPartName": "AutonomousJeffersonBody",
+            "CharacterPartType": "Body",
+            "StandardSpriteId": "33321",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "33322"
+          }
+        },
+        {
+          "_attrs": {
+            "CharacterPartId": "2531",
+            "CharacterPartName": "AutonomousJeffersonLeg",
+            "CharacterPartType": "Leg",
+            "StandardSpriteId": "33323",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "33324"
+          }
+        }
+      ]
+    }
   }
 }
