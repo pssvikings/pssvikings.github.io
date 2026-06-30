@@ -347560,8 +347560,8 @@
       "SpriteId": "33277",
       "ImageFileId": "10615",
       "X": "0",
-      "Y": "2",
-      "Width": "20",
+      "Y": "1",
+      "Width": "8",
       "Height": "8",
       "SpriteKey": "Tie"
     }
@@ -347582,8 +347582,8 @@
       "SpriteId": "33279",
       "ImageFileId": "10616",
       "X": "0",
-      "Y": "2",
-      "Width": "20",
+      "Y": "0",
+      "Width": "8",
       "Height": "9",
       "SpriteKey": "BossTie"
     }
@@ -348180,6 +348180,182 @@
       "Width": "32",
       "Height": "22",
       "SpriteKey": "IronSandbugDestroyedBorder"
+    }
+  },
+  "33334": {
+    "_attrs": {
+      "SpriteId": "33334",
+      "ImageFileId": "10635",
+      "X": "0",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "TeleportRoom_Lv11_1"
+    }
+  },
+  "33335": {
+    "_attrs": {
+      "SpriteId": "33335",
+      "ImageFileId": "10635",
+      "X": "75",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "TeleportRoom_Lv11_2"
+    }
+  },
+  "33341": {
+    "_attrs": {
+      "SpriteId": "33341",
+      "ImageFileId": "10635",
+      "X": "150",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "TeleportRoom_Lv11_3"
+    }
+  },
+  "33342": {
+    "_attrs": {
+      "SpriteId": "33342",
+      "ImageFileId": "10635",
+      "X": "225",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "TeleportRoom_Lv11_4"
+    }
+  },
+  "33343": {
+    "_attrs": {
+      "SpriteId": "33343",
+      "ImageFileId": "10635",
+      "X": "300",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "TeleportRoom_Lv11_5"
+    }
+  },
+  "33344": {
+    "_attrs": {
+      "SpriteId": "33344",
+      "ImageFileId": "10635",
+      "X": "0",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "TeleportRoom_Lv11_6"
+    }
+  },
+  "33345": {
+    "_attrs": {
+      "SpriteId": "33345",
+      "ImageFileId": "10635",
+      "X": "75",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "TeleportRoom_Lv11_7"
+    }
+  },
+  "33346": {
+    "_attrs": {
+      "SpriteId": "33346",
+      "ImageFileId": "10635",
+      "X": "150",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "TeleportRoom_Lv11_8"
+    }
+  },
+  "33347": {
+    "_attrs": {
+      "SpriteId": "33347",
+      "ImageFileId": "10635",
+      "X": "225",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "TeleportRoom_Lv11_9"
+    }
+  },
+  "33348": {
+    "_attrs": {
+      "SpriteId": "33348",
+      "ImageFileId": "10635",
+      "X": "300",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "TeleportRoom_Lv11_10"
+    }
+  },
+  "33349": {
+    "_attrs": {
+      "SpriteId": "33349",
+      "ImageFileId": "3604",
+      "X": "3",
+      "Y": "1966",
+      "Width": "511",
+      "Height": "50",
+      "SpriteKey": "CharacterCollection_KennysGifs"
+    }
+  },
+  "33350": {
+    "_attrs": {
+      "SpriteId": "33350",
+      "ImageFileId": "3604",
+      "X": "23",
+      "Y": "1946",
+      "Width": "18",
+      "Height": "18",
+      "SpriteKey": "CharacterCollection_KennysGifs_icon"
+    }
+  },
+  "33351": {
+    "_attrs": {
+      "SpriteId": "33351",
+      "ImageFileId": "10636",
+      "X": "0",
+      "Y": "0",
+      "Width": "116",
+      "Height": "148",
+      "SpriteKey": "PodCard_BP35"
+    }
+  },
+  "33353": {
+    "_attrs": {
+      "SpriteId": "33353",
+      "ImageFileId": "10652",
+      "X": "0",
+      "Y": "0",
+      "Width": "220",
+      "Height": "130",
+      "SpriteKey": "LoadingScene_Kennysgifs_L"
+    }
+  },
+  "33354": {
+    "_attrs": {
+      "SpriteId": "33354",
+      "ImageFileId": "10653",
+      "X": "0",
+      "Y": "0",
+      "Width": "220",
+      "Height": "130",
+      "SpriteKey": "LoadingScene_Kennysgifs_R"
+    }
+  },
+  "33355": {
+    "_attrs": {
+      "SpriteId": "33355",
+      "ImageFileId": "10654",
+      "X": "4",
+      "Y": "4",
+      "Width": "534",
+      "Height": "244",
+      "SpriteKey": "BankPromoKennysgifs"
     }
   }
 }

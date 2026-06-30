@@ -54671,6 +54671,108 @@
       ]
     }
   },
+  "567": {
+    "_attrs": {
+      "CharacterDesignId": "567",
+      "CharacterDesignName": "Delois",
+      "CharacterHeadPartId": "2455",
+      "CharacterBodyPartId": "2456",
+      "GenderType": "Male",
+      "RaceType": "Animal",
+      "Hp": "5",
+      "Pilot": "14",
+      "Attack": "1.8",
+      "FireResistance": "30",
+      "Repair": "1.4",
+      "Weapon": "6",
+      "Science": "3",
+      "Engine": "5",
+      "Research": "5",
+      "Level": "1",
+      "WalkingSpeed": "1",
+      "MinShipLevel": "1",
+      "FinalHp": "11",
+      "FinalPilot": "27",
+      "FinalAttack": "3.1",
+      "FinalRepair": "2.6",
+      "FinalWeapon": "14",
+      "FinalScience": "10",
+      "FinalEngine": "13",
+      "FinalResearch": "10",
+      "CharacterLegPartId": "2457",
+      "Rarity": "Legendary",
+      "ProgressionType": "Linear",
+      "CharacterDesignDescription": "A mercenary who once worked for the Federation, now patrols the galaxy, keeping it safe for everyone.",
+      "XpRequirementScale": "1",
+      "MaxCharacterLevel": "40",
+      "SpecialAbilityType": "Freeze",
+      "SpecialAbilityArgument": "120",
+      "SpecialAbilityFinalArgument": "300",
+      "ProfileSpriteId": "32928",
+      "RunSpeed": "2",
+      "TrainingCapacity": "110",
+      "EquipmentMask": "6",
+      "SpeechVoice": "",
+      "SpeechPhrases": "",
+      "SpeechRate": "1",
+      "SpeechPitch": "1",
+      "Flags": "3",
+      "RootCharacterDesignId": "567",
+      "MaxCount": "0",
+      "Tags": "",
+      "BoostValuesString": "6,4,0",
+      "Metadata": "",
+      "TapSoundFileId": "5849",
+      "ActionSoundFileId": "5849",
+      "CollectionDesignId": "5"
+    },
+    "CharacterParts": {
+      "CharacterPart": [
+        {
+          "_attrs": {
+            "CharacterPartId": "2455",
+            "CharacterPartName": "DeloisHead",
+            "CharacterPartType": "Head",
+            "StandardSpriteId": "32922",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "32923"
+          }
+        },
+        {
+          "_attrs": {
+            "CharacterPartId": "2456",
+            "CharacterPartName": "DeloisBody",
+            "CharacterPartType": "Body",
+            "StandardSpriteId": "32924",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "32925"
+          }
+        },
+        {
+          "_attrs": {
+            "CharacterPartId": "2457",
+            "CharacterPartName": "DeloisLeg",
+            "CharacterPartType": "Leg",
+            "StandardSpriteId": "32926",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "32927"
+          }
+        }
+      ]
+    }
+  },
   "575": {
     "_attrs": {
       "CharacterDesignId": "575",
