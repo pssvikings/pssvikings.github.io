@@ -958,5 +958,37 @@
       "HaloAnimationId": "1263",
       "TriggerAnimationId": "0"
     }
+  },
+  "38": {
+    "_attrs": {
+      "CollectionDesignId": "38",
+      "CollectionName": "KennysGifs",
+      "MinCombo": "2",
+      "MaxCombo": "6",
+      "EnhancementType": "ResurrectSkill",
+      "BaseEnhancementValue": "40",
+      "Flags": "0",
+      "CollectionType": "Character",
+      "CollectionDescription": "Rejuvinate your lost loved ones with the cutest of kisses. Mwah!",
+      "SpriteId": "33349",
+      "ColorString": "0,174,255",
+      "StepEnhancementValue": "15",
+      "IconSpriteId": "33350",
+      "TriggerType": "Death",
+      "Argument": "0",
+      "BaseChance": "100",
+      "StepChance": "0",
+      "MaxUse": "999999",
+      "AbilityName": "Smooch!",
+      "AbilityIconSpriteId": "8868",
+      "CooldownTime": "0",
+      "Metadata": "",
+      "StepCooldownTime": "0",
+      "StepMaxUse": "0",
+      "TriggerArgument": "0",
+      "TriggerArgumentComparison": "LowerOrEqual",
+      "HaloAnimationId": "1263",
+      "TriggerAnimationId": "104"
+    }
   }
 }

@@ -348357,5 +348357,269 @@
       "Height": "244",
       "SpriteKey": "BankPromoKennysgifs"
     }
+  },
+  "33357": {
+    "_attrs": {
+      "SpriteId": "33357",
+      "ImageFileId": "10655",
+      "X": "0",
+      "Y": "0",
+      "Width": "100",
+      "Height": "50",
+      "SpriteKey": "E.X.O.DFC_I_0"
+    }
+  },
+  "33358": {
+    "_attrs": {
+      "SpriteId": "33358",
+      "ImageFileId": "10655",
+      "X": "100",
+      "Y": "0",
+      "Width": "100",
+      "Height": "50",
+      "SpriteKey": "E.X.O.DFC_I_1"
+    }
+  },
+  "33359": {
+    "_attrs": {
+      "SpriteId": "33359",
+      "ImageFileId": "10655",
+      "X": "200",
+      "Y": "0",
+      "Width": "100",
+      "Height": "50",
+      "SpriteKey": "E.X.O.DFC_I_2"
+    }
+  },
+  "33360": {
+    "_attrs": {
+      "SpriteId": "33360",
+      "ImageFileId": "10655",
+      "X": "0",
+      "Y": "50",
+      "Width": "100",
+      "Height": "50",
+      "SpriteKey": "E.X.O.DFC_I_3"
+    }
+  },
+  "33361": {
+    "_attrs": {
+      "SpriteId": "33361",
+      "ImageFileId": "10655",
+      "X": "100",
+      "Y": "50",
+      "Width": "100",
+      "Height": "50",
+      "SpriteKey": "E.X.O.DFC_I_4"
+    }
+  },
+  "33362": {
+    "_attrs": {
+      "SpriteId": "33362",
+      "ImageFileId": "10655",
+      "X": "200",
+      "Y": "50",
+      "Width": "100",
+      "Height": "50",
+      "SpriteKey": "E.X.O.DFC_I_5"
+    }
+  },
+  "33363": {
+    "_attrs": {
+      "SpriteId": "33363",
+      "ImageFileId": "10655",
+      "X": "0",
+      "Y": "100",
+      "Width": "100",
+      "Height": "50",
+      "SpriteKey": "E.X.O.DFC_I_6"
+    }
+  },
+  "33364": {
+    "_attrs": {
+      "SpriteId": "33364",
+      "ImageFileId": "10655",
+      "X": "100",
+      "Y": "100",
+      "Width": "100",
+      "Height": "50",
+      "SpriteKey": "E.X.O.DFC_I_7"
+    }
+  },
+  "33365": {
+    "_attrs": {
+      "SpriteId": "33365",
+      "ImageFileId": "10655",
+      "X": "200",
+      "Y": "100",
+      "Width": "100",
+      "Height": "50",
+      "SpriteKey": "E.X.O.DFC_I_8"
+    }
+  },
+  "33366": {
+    "_attrs": {
+      "SpriteId": "33366",
+      "ImageFileId": "10655",
+      "X": "0",
+      "Y": "150",
+      "Width": "100",
+      "Height": "50",
+      "SpriteKey": "E.X.O.DFC_I_9"
+    }
+  },
+  "33367": {
+    "_attrs": {
+      "SpriteId": "33367",
+      "ImageFileId": "10656",
+      "X": "0",
+      "Y": "0",
+      "Width": "100",
+      "Height": "50",
+      "SpriteKey": "E.X.O.DFC_ID_0"
+    }
+  },
+  "33368": {
+    "_attrs": {
+      "SpriteId": "33368",
+      "ImageFileId": "10656",
+      "X": "100",
+      "Y": "0",
+      "Width": "100",
+      "Height": "50",
+      "SpriteKey": "E.X.O.DFC_ID_1"
+    }
+  },
+  "33369": {
+    "_attrs": {
+      "SpriteId": "33369",
+      "ImageFileId": "10656",
+      "X": "200",
+      "Y": "0",
+      "Width": "100",
+      "Height": "50",
+      "SpriteKey": "E.X.O.DFC_ID_2"
+    }
+  },
+  "33370": {
+    "_attrs": {
+      "SpriteId": "33370",
+      "ImageFileId": "10656",
+      "X": "0",
+      "Y": "50",
+      "Width": "100",
+      "Height": "50",
+      "SpriteKey": "E.X.O.DFC_ID_3"
+    }
+  },
+  "33371": {
+    "_attrs": {
+      "SpriteId": "33371",
+      "ImageFileId": "10656",
+      "X": "100",
+      "Y": "50",
+      "Width": "100",
+      "Height": "50",
+      "SpriteKey": "E.X.O.DFC_ID_4"
+    }
+  },
+  "33372": {
+    "_attrs": {
+      "SpriteId": "33372",
+      "ImageFileId": "10656",
+      "X": "200",
+      "Y": "50",
+      "Width": "100",
+      "Height": "50",
+      "SpriteKey": "E.X.O.DFC_ID_5"
+    }
+  },
+  "33373": {
+    "_attrs": {
+      "SpriteId": "33373",
+      "ImageFileId": "10656",
+      "X": "0",
+      "Y": "100",
+      "Width": "100",
+      "Height": "50",
+      "SpriteKey": "E.X.O.DFC_ID_6"
+    }
+  },
+  "33374": {
+    "_attrs": {
+      "SpriteId": "33374",
+      "ImageFileId": "10656",
+      "X": "100",
+      "Y": "100",
+      "Width": "100",
+      "Height": "50",
+      "SpriteKey": "E.X.O.DFC_ID_7"
+    }
+  },
+  "33375": {
+    "_attrs": {
+      "SpriteId": "33375",
+      "ImageFileId": "10656",
+      "X": "200",
+      "Y": "100",
+      "Width": "100",
+      "Height": "50",
+      "SpriteKey": "E.X.O.DFC_ID_8"
+    }
+  },
+  "33376": {
+    "_attrs": {
+      "SpriteId": "33376",
+      "ImageFileId": "10656",
+      "X": "0",
+      "Y": "150",
+      "Width": "100",
+      "Height": "50",
+      "SpriteKey": "E.X.O.DFC_ID_9"
+    }
+  },
+  "33377": {
+    "_attrs": {
+      "SpriteId": "33377",
+      "ImageFileId": "10657",
+      "X": "0",
+      "Y": "0",
+      "Width": "100",
+      "Height": "50",
+      "SpriteKey": "E.X.O.DFC_ID_10"
+    }
+  },
+  "33378": {
+    "_attrs": {
+      "SpriteId": "33378",
+      "ImageFileId": "10657",
+      "X": "100",
+      "Y": "0",
+      "Width": "100",
+      "Height": "50",
+      "SpriteKey": "E.X.O.DFC_ID_11"
+    }
+  },
+  "33379": {
+    "_attrs": {
+      "SpriteId": "33379",
+      "ImageFileId": "10657",
+      "X": "0",
+      "Y": "50",
+      "Width": "100",
+      "Height": "50",
+      "SpriteKey": "E.X.O.DFC_ID_12"
+    }
+  },
+  "33380": {
+    "_attrs": {
+      "SpriteId": "33380",
+      "ImageFileId": "10657",
+      "X": "100",
+      "Y": "50",
+      "Width": "100",
+      "Height": "50",
+      "SpriteKey": "E.X.O.DFC_ID_13"
+    }
   }
 }
