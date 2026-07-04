@@ -1646,7 +1646,7 @@
       "RoomType": "None",
       "ActionTypeCategory": "Target",
       "ActionTypeKey": "SetTargetMode",
-      "ActionTypeParameterValue": "2",
+      "ActionTypeParameterValue": "3",
       "ActionTypeDescription": "Sets current target priority to crafts that have the highest HP.",
       "ActionTypeParameterRelativity": "None",
       "ImageSpriteId": "4",
