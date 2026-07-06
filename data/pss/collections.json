@@ -966,7 +966,7 @@
       "MinCombo": "2",
       "MaxCombo": "6",
       "EnhancementType": "ResurrectSkill",
-      "BaseEnhancementValue": "10",
+      "BaseEnhancementValue": "40",
       "Flags": "0",
       "CollectionType": "Character",
       "CollectionDescription": "Rejuvinate your lost loved ones with the cutest of kisses. Mwah!",
