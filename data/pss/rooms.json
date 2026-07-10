@@ -52750,7 +52750,7 @@
       "RootRoomDesignId": "5",
       "RefillUnitCost": "0",
       "DefaultDefenceBonus": "0",
-      "PriceString": "gas:1500000",
+      "PriceString": "gas:750000",
       "SortIndex": "0",
       "Flags": "8",
       "TargetType": "None",
