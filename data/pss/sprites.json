@@ -348621,5 +348621,324 @@
       "Height": "50",
       "SpriteKey": "E.X.O.DFC_ID_13"
     }
+  },
+  "33381": {
+    "_attrs": {
+      "SpriteId": "33381",
+      "ImageFileId": "10658",
+      "X": "0",
+      "Y": "0",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "VisiriMechbay_Galatic1"
+    }
+  },
+  "33382": {
+    "_attrs": {
+      "SpriteId": "33382",
+      "ImageFileId": "10658",
+      "X": "50",
+      "Y": "0",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "VisiriMechbay_Galatic2"
+    }
+  },
+  "33383": {
+    "_attrs": {
+      "SpriteId": "33383",
+      "ImageFileId": "10658",
+      "X": "100",
+      "Y": "0",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "VisiriMechbay_Galatic3"
+    }
+  },
+  "33384": {
+    "_attrs": {
+      "SpriteId": "33384",
+      "ImageFileId": "10658",
+      "X": "150",
+      "Y": "0",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "VisiriMechbay_Galatic4"
+    }
+  },
+  "33385": {
+    "_attrs": {
+      "SpriteId": "33385",
+      "ImageFileId": "10658",
+      "X": "200",
+      "Y": "0",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "VisiriMechbay_Galatic5"
+    }
+  },
+  "33386": {
+    "_attrs": {
+      "SpriteId": "33386",
+      "ImageFileId": "10658",
+      "X": "250",
+      "Y": "0",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "VisiriMechbay_Galatic6"
+    }
+  },
+  "33387": {
+    "_attrs": {
+      "SpriteId": "33387",
+      "ImageFileId": "10658",
+      "X": "300",
+      "Y": "0",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "VisiriMechbay_Galatic7"
+    }
+  },
+  "33388": {
+    "_attrs": {
+      "SpriteId": "33388",
+      "ImageFileId": "10658",
+      "X": "0",
+      "Y": "50",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "VisiriMechbay_Galatic8"
+    }
+  },
+  "33389": {
+    "_attrs": {
+      "SpriteId": "33389",
+      "ImageFileId": "10658",
+      "X": "50",
+      "Y": "50",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "VisiriMechbay_Galatic9"
+    }
+  },
+  "33390": {
+    "_attrs": {
+      "SpriteId": "33390",
+      "ImageFileId": "10658",
+      "X": "100",
+      "Y": "50",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "VisiriMechbay_Galatic10"
+    }
+  },
+  "33391": {
+    "_attrs": {
+      "SpriteId": "33391",
+      "ImageFileId": "10658",
+      "X": "150",
+      "Y": "50",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "VisiriMechbay_Galatic11"
+    }
+  },
+  "33392": {
+    "_attrs": {
+      "SpriteId": "33392",
+      "ImageFileId": "10658",
+      "X": "200",
+      "Y": "50",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "VisiriMechbay_Galatic12"
+    }
+  },
+  "33393": {
+    "_attrs": {
+      "SpriteId": "33393",
+      "ImageFileId": "10658",
+      "X": "250",
+      "Y": "50",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "VisiriMechbay_Galatic13"
+    }
+  },
+  "33394": {
+    "_attrs": {
+      "SpriteId": "33394",
+      "ImageFileId": "10658",
+      "X": "300",
+      "Y": "50",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "VisiriMechbay_Galatic14"
+    }
+  },
+  "33395": {
+    "_attrs": {
+      "SpriteId": "33395",
+      "ImageFileId": "10658",
+      "X": "0",
+      "Y": "100",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "VisiriMechbay_Galatic15"
+    }
+  },
+  "33396": {
+    "_attrs": {
+      "SpriteId": "33396",
+      "ImageFileId": "10658",
+      "X": "50",
+      "Y": "100",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "VisiriMechbay_Galatic16"
+    }
+  },
+  "33397": {
+    "_attrs": {
+      "SpriteId": "33397",
+      "ImageFileId": "10658",
+      "X": "100",
+      "Y": "100",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "VisiriMechbay_Galatic17"
+    }
+  },
+  "33398": {
+    "_attrs": {
+      "SpriteId": "33398",
+      "ImageFileId": "10658",
+      "X": "150",
+      "Y": "100",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "VisiriMechbay_Galatic18"
+    }
+  },
+  "33399": {
+    "_attrs": {
+      "SpriteId": "33399",
+      "ImageFileId": "10658",
+      "X": "200",
+      "Y": "100",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "VisiriMechbay_Galatic19"
+    }
+  },
+  "33400": {
+    "_attrs": {
+      "SpriteId": "33400",
+      "ImageFileId": "10658",
+      "X": "250",
+      "Y": "100",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "VisiriMechbay_Galatic20"
+    }
+  },
+  "33401": {
+    "_attrs": {
+      "SpriteId": "33401",
+      "ImageFileId": "10658",
+      "X": "300",
+      "Y": "100",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "VisiriMechbay_Galatic21"
+    }
+  },
+  "33402": {
+    "_attrs": {
+      "SpriteId": "33402",
+      "ImageFileId": "10658",
+      "X": "0",
+      "Y": "150",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "VisiriMechbay_Galatic22"
+    }
+  },
+  "33403": {
+    "_attrs": {
+      "SpriteId": "33403",
+      "ImageFileId": "10658",
+      "X": "50",
+      "Y": "150",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "VisiriMechbay_Galatic23"
+    }
+  },
+  "33404": {
+    "_attrs": {
+      "SpriteId": "33404",
+      "ImageFileId": "10658",
+      "X": "100",
+      "Y": "150",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "VisiriMechbay_Galatic24"
+    }
+  },
+  "33405": {
+    "_attrs": {
+      "SpriteId": "33405",
+      "ImageFileId": "10658",
+      "X": "150",
+      "Y": "150",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "VisiriMechbay_Galatic25"
+    }
+  },
+  "33406": {
+    "_attrs": {
+      "SpriteId": "33406",
+      "ImageFileId": "10658",
+      "X": "200",
+      "Y": "150",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "VisiriMechbay_Galatic26"
+    }
+  },
+  "33407": {
+    "_attrs": {
+      "SpriteId": "33407",
+      "ImageFileId": "10658",
+      "X": "250",
+      "Y": "150",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "VisiriMechbay_Galatic27"
+    }
+  },
+  "33408": {
+    "_attrs": {
+      "SpriteId": "33408",
+      "ImageFileId": "10658",
+      "X": "300",
+      "Y": "150",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "VisiriMechbay_Galatic28"
+    }
+  },
+  "33409": {
+    "_attrs": {
+      "SpriteId": "33409",
+      "ImageFileId": "6934",
+      "X": "630",
+      "Y": "145",
+      "Width": "25",
+      "Height": "24",
+      "SpriteKey": "VisiriMechbay_Galatic_kit"
+    }
   }
 }
