@@ -103713,8 +103713,8 @@
       "ImageFileId": "797",
       "X": "0",
       "Y": "0",
-      "Width": "667",
-      "Height": "375",
+      "Width": "1024",
+      "Height": "768",
       "SpriteKey": "Warning"
     }
   },
@@ -348939,6 +348939,50 @@
       "Width": "25",
       "Height": "24",
       "SpriteKey": "VisiriMechbay_Galatic_kit"
+    }
+  },
+  "33410": {
+    "_attrs": {
+      "SpriteId": "33410",
+      "ImageFileId": "1537",
+      "X": "1081",
+      "Y": "1215",
+      "Width": "17",
+      "Height": "15",
+      "SpriteKey": "UGCSkinIcon"
+    }
+  },
+  "33411": {
+    "_attrs": {
+      "SpriteId": "33411",
+      "ImageFileId": "10659",
+      "X": "0",
+      "Y": "1",
+      "Width": "200",
+      "Height": "12",
+      "SpriteKey": "IonCannonLaserAnimation_Compressed01"
+    }
+  },
+  "33412": {
+    "_attrs": {
+      "SpriteId": "33412",
+      "ImageFileId": "10659",
+      "X": "0",
+      "Y": "14",
+      "Width": "200",
+      "Height": "28",
+      "SpriteKey": "IonCannonLaserAnimation_Compressed02"
+    }
+  },
+  "33413": {
+    "_attrs": {
+      "SpriteId": "33413",
+      "ImageFileId": "10659",
+      "X": "0",
+      "Y": "43",
+      "Width": "200",
+      "Height": "46",
+      "SpriteKey": "IonCannonLaserAnimation_Compressed03"
     }
   }
 }
