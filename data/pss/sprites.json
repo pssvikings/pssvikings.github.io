@@ -348984,5 +348984,2073 @@
       "Height": "46",
       "SpriteKey": "IonCannonLaserAnimation_Compressed03"
     }
+  },
+  "33414": {
+    "_attrs": {
+      "SpriteId": "33414",
+      "ImageFileId": "10660",
+      "X": "0",
+      "Y": "2",
+      "Width": "20",
+      "Height": "9",
+      "SpriteKey": "TB_Crew01Body"
+    }
+  },
+  "33415": {
+    "_attrs": {
+      "SpriteId": "33415",
+      "ImageFileId": "10660",
+      "X": "20",
+      "Y": "2",
+      "Width": "20",
+      "Height": "9",
+      "SpriteKey": "TB_Crew01BodyActive"
+    }
+  },
+  "33416": {
+    "_attrs": {
+      "SpriteId": "33416",
+      "ImageFileId": "10661",
+      "X": "0",
+      "Y": "2",
+      "Width": "20",
+      "Height": "17",
+      "SpriteKey": "TB_Crew01Head"
+    }
+  },
+  "33417": {
+    "_attrs": {
+      "SpriteId": "33417",
+      "ImageFileId": "10661",
+      "X": "20",
+      "Y": "2",
+      "Width": "20",
+      "Height": "17",
+      "SpriteKey": "TB_Crew01HeadActive"
+    }
+  },
+  "33418": {
+    "_attrs": {
+      "SpriteId": "33418",
+      "ImageFileId": "10662",
+      "X": "0",
+      "Y": "2",
+      "Width": "20",
+      "Height": "5",
+      "SpriteKey": "TB_Crew01Leg"
+    }
+  },
+  "33419": {
+    "_attrs": {
+      "SpriteId": "33419",
+      "ImageFileId": "10662",
+      "X": "20",
+      "Y": "2",
+      "Width": "20",
+      "Height": "5",
+      "SpriteKey": "TB_Crew01LegActive"
+    }
+  },
+  "33420": {
+    "_attrs": {
+      "SpriteId": "33420",
+      "ImageFileId": "10663",
+      "X": "0",
+      "Y": "2",
+      "Width": "24",
+      "Height": "11",
+      "SpriteKey": "TB_Crew02Body"
+    }
+  },
+  "33421": {
+    "_attrs": {
+      "SpriteId": "33421",
+      "ImageFileId": "10663",
+      "X": "24",
+      "Y": "2",
+      "Width": "24",
+      "Height": "11",
+      "SpriteKey": "TB_Crew02BodyActive"
+    }
+  },
+  "33422": {
+    "_attrs": {
+      "SpriteId": "33422",
+      "ImageFileId": "10664",
+      "X": "0",
+      "Y": "2",
+      "Width": "24",
+      "Height": "16",
+      "SpriteKey": "TB_Crew02Head"
+    }
+  },
+  "33423": {
+    "_attrs": {
+      "SpriteId": "33423",
+      "ImageFileId": "10664",
+      "X": "24",
+      "Y": "2",
+      "Width": "24",
+      "Height": "16",
+      "SpriteKey": "TB_Crew02HeadActive"
+    }
+  },
+  "33424": {
+    "_attrs": {
+      "SpriteId": "33424",
+      "ImageFileId": "10665",
+      "X": "0",
+      "Y": "2",
+      "Width": "24",
+      "Height": "5",
+      "SpriteKey": "TB_Crew02Leg"
+    }
+  },
+  "33425": {
+    "_attrs": {
+      "SpriteId": "33425",
+      "ImageFileId": "10665",
+      "X": "24",
+      "Y": "2",
+      "Width": "24",
+      "Height": "5",
+      "SpriteKey": "TB_Crew02LegActive"
+    }
+  },
+  "33426": {
+    "_attrs": {
+      "SpriteId": "33426",
+      "ImageFileId": "10666",
+      "X": "0",
+      "Y": "2",
+      "Width": "24",
+      "Height": "12",
+      "SpriteKey": "TB_Crew03Body"
+    }
+  },
+  "33427": {
+    "_attrs": {
+      "SpriteId": "33427",
+      "ImageFileId": "10666",
+      "X": "24",
+      "Y": "2",
+      "Width": "24",
+      "Height": "12",
+      "SpriteKey": "TB_Crew03BodyActive"
+    }
+  },
+  "33428": {
+    "_attrs": {
+      "SpriteId": "33428",
+      "ImageFileId": "10667",
+      "X": "0",
+      "Y": "2",
+      "Width": "24",
+      "Height": "16",
+      "SpriteKey": "TB_Crew03Head"
+    }
+  },
+  "33429": {
+    "_attrs": {
+      "SpriteId": "33429",
+      "ImageFileId": "10667",
+      "X": "24",
+      "Y": "2",
+      "Width": "24",
+      "Height": "16",
+      "SpriteKey": "TB_Crew03HeadActive"
+    }
+  },
+  "33430": {
+    "_attrs": {
+      "SpriteId": "33430",
+      "ImageFileId": "10668",
+      "X": "0",
+      "Y": "2",
+      "Width": "24",
+      "Height": "5",
+      "SpriteKey": "TB_Crew03Leg"
+    }
+  },
+  "33431": {
+    "_attrs": {
+      "SpriteId": "33431",
+      "ImageFileId": "10668",
+      "X": "24",
+      "Y": "2",
+      "Width": "24",
+      "Height": "5",
+      "SpriteKey": "TB_Crew03LegActive"
+    }
+  },
+  "33432": {
+    "_attrs": {
+      "SpriteId": "33432",
+      "ImageFileId": "10669",
+      "X": "0",
+      "Y": "2",
+      "Width": "24",
+      "Height": "12",
+      "SpriteKey": "TB_Crew04Body"
+    }
+  },
+  "33433": {
+    "_attrs": {
+      "SpriteId": "33433",
+      "ImageFileId": "10669",
+      "X": "24",
+      "Y": "2",
+      "Width": "24",
+      "Height": "12",
+      "SpriteKey": "TB_Crew04BodyActive"
+    }
+  },
+  "33434": {
+    "_attrs": {
+      "SpriteId": "33434",
+      "ImageFileId": "10670",
+      "X": "0",
+      "Y": "2",
+      "Width": "24",
+      "Height": "16",
+      "SpriteKey": "TB_Crew04Head"
+    }
+  },
+  "33435": {
+    "_attrs": {
+      "SpriteId": "33435",
+      "ImageFileId": "10670",
+      "X": "24",
+      "Y": "2",
+      "Width": "24",
+      "Height": "16",
+      "SpriteKey": "TB_Crew04HeadActive"
+    }
+  },
+  "33436": {
+    "_attrs": {
+      "SpriteId": "33436",
+      "ImageFileId": "10671",
+      "X": "0",
+      "Y": "2",
+      "Width": "24",
+      "Height": "5",
+      "SpriteKey": "TB_Crew04Leg"
+    }
+  },
+  "33437": {
+    "_attrs": {
+      "SpriteId": "33437",
+      "ImageFileId": "10671",
+      "X": "24",
+      "Y": "2",
+      "Width": "24",
+      "Height": "5",
+      "SpriteKey": "TB_Crew04LegActive"
+    }
+  },
+  "33438": {
+    "_attrs": {
+      "SpriteId": "33438",
+      "ImageFileId": "10672",
+      "X": "0",
+      "Y": "2",
+      "Width": "24",
+      "Height": "12",
+      "SpriteKey": "TB_Crew05Body"
+    }
+  },
+  "33439": {
+    "_attrs": {
+      "SpriteId": "33439",
+      "ImageFileId": "10672",
+      "X": "24",
+      "Y": "2",
+      "Width": "24",
+      "Height": "12",
+      "SpriteKey": "TB_Crew05BodyActive"
+    }
+  },
+  "33440": {
+    "_attrs": {
+      "SpriteId": "33440",
+      "ImageFileId": "10673",
+      "X": "0",
+      "Y": "2",
+      "Width": "24",
+      "Height": "18",
+      "SpriteKey": "TB_Crew05Head"
+    }
+  },
+  "33441": {
+    "_attrs": {
+      "SpriteId": "33441",
+      "ImageFileId": "10673",
+      "X": "24",
+      "Y": "2",
+      "Width": "24",
+      "Height": "18",
+      "SpriteKey": "TB_Crew05HeadActive"
+    }
+  },
+  "33442": {
+    "_attrs": {
+      "SpriteId": "33442",
+      "ImageFileId": "10674",
+      "X": "0",
+      "Y": "2",
+      "Width": "24",
+      "Height": "12",
+      "SpriteKey": "TB_Crew06Body"
+    }
+  },
+  "33443": {
+    "_attrs": {
+      "SpriteId": "33443",
+      "ImageFileId": "10674",
+      "X": "24",
+      "Y": "2",
+      "Width": "24",
+      "Height": "12",
+      "SpriteKey": "TB_Crew06BodyActive"
+    }
+  },
+  "33444": {
+    "_attrs": {
+      "SpriteId": "33444",
+      "ImageFileId": "10675",
+      "X": "0",
+      "Y": "2",
+      "Width": "24",
+      "Height": "15",
+      "SpriteKey": "TB_Crew06Head"
+    }
+  },
+  "33445": {
+    "_attrs": {
+      "SpriteId": "33445",
+      "ImageFileId": "10675",
+      "X": "24",
+      "Y": "2",
+      "Width": "24",
+      "Height": "15",
+      "SpriteKey": "TB_Crew06HeadActive"
+    }
+  },
+  "33446": {
+    "_attrs": {
+      "SpriteId": "33446",
+      "ImageFileId": "10676",
+      "X": "0",
+      "Y": "0",
+      "Width": "121",
+      "Height": "179",
+      "SpriteKey": "TB_Crew01Profile"
+    }
+  },
+  "33447": {
+    "_attrs": {
+      "SpriteId": "33447",
+      "ImageFileId": "10677",
+      "X": "0",
+      "Y": "0",
+      "Width": "151",
+      "Height": "190",
+      "SpriteKey": "TB_Crew02Profile"
+    }
+  },
+  "33448": {
+    "_attrs": {
+      "SpriteId": "33448",
+      "ImageFileId": "10678",
+      "X": "0",
+      "Y": "0",
+      "Width": "170",
+      "Height": "195",
+      "SpriteKey": "TB_Crew03Profile"
+    }
+  },
+  "33449": {
+    "_attrs": {
+      "SpriteId": "33449",
+      "ImageFileId": "10679",
+      "X": "0",
+      "Y": "0",
+      "Width": "160",
+      "Height": "200",
+      "SpriteKey": "TB_Crew04Profile"
+    }
+  },
+  "33450": {
+    "_attrs": {
+      "SpriteId": "33450",
+      "ImageFileId": "10680",
+      "X": "0",
+      "Y": "0",
+      "Width": "123",
+      "Height": "200",
+      "SpriteKey": "TB_Crew05Profile"
+    }
+  },
+  "33451": {
+    "_attrs": {
+      "SpriteId": "33451",
+      "ImageFileId": "10681",
+      "X": "0",
+      "Y": "0",
+      "Width": "153",
+      "Height": "196",
+      "SpriteKey": "TB_Crew06Profile"
+    }
+  },
+  "33452": {
+    "_attrs": {
+      "SpriteId": "33452",
+      "ImageFileId": "3604",
+      "X": "3",
+      "Y": "2020",
+      "Width": "511",
+      "Height": "50",
+      "SpriteKey": "CharacterCollection_TB"
+    }
+  },
+  "33453": {
+    "_attrs": {
+      "SpriteId": "33453",
+      "ImageFileId": "3604",
+      "X": "43",
+      "Y": "1946",
+      "Width": "18",
+      "Height": "18",
+      "SpriteKey": "CharacterCollection_TB_icon"
+    }
+  },
+  "33454": {
+    "_attrs": {
+      "SpriteId": "33454",
+      "ImageFileId": "10682",
+      "X": "1",
+      "Y": "1",
+      "Width": "19",
+      "Height": "19",
+      "SpriteKey": "TB_Accessorylv101"
+    }
+  },
+  "33455": {
+    "_attrs": {
+      "SpriteId": "33455",
+      "ImageFileId": "10682",
+      "X": "21",
+      "Y": "1",
+      "Width": "19",
+      "Height": "19",
+      "SpriteKey": "TB_Accessorylv102"
+    }
+  },
+  "33456": {
+    "_attrs": {
+      "SpriteId": "33456",
+      "ImageFileId": "10682",
+      "X": "41",
+      "Y": "1",
+      "Width": "19",
+      "Height": "19",
+      "SpriteKey": "TB_Accessorylv103"
+    }
+  },
+  "33457": {
+    "_attrs": {
+      "SpriteId": "33457",
+      "ImageFileId": "10683",
+      "X": "1",
+      "Y": "1",
+      "Width": "22",
+      "Height": "23",
+      "SpriteKey": "TB_Accessorylv201"
+    }
+  },
+  "33458": {
+    "_attrs": {
+      "SpriteId": "33458",
+      "ImageFileId": "10683",
+      "X": "24",
+      "Y": "1",
+      "Width": "22",
+      "Height": "23",
+      "SpriteKey": "TB_Accessorylv202"
+    }
+  },
+  "33459": {
+    "_attrs": {
+      "SpriteId": "33459",
+      "ImageFileId": "10683",
+      "X": "47",
+      "Y": "1",
+      "Width": "22",
+      "Height": "23",
+      "SpriteKey": "TB_Accessorylv203"
+    }
+  },
+  "33460": {
+    "_attrs": {
+      "SpriteId": "33460",
+      "ImageFileId": "10683",
+      "X": "70",
+      "Y": "1",
+      "Width": "22",
+      "Height": "23",
+      "SpriteKey": "TB_Accessorylv204"
+    }
+  },
+  "33461": {
+    "_attrs": {
+      "SpriteId": "33461",
+      "ImageFileId": "10683",
+      "X": "93",
+      "Y": "1",
+      "Width": "22",
+      "Height": "23",
+      "SpriteKey": "TB_Accessorylv205"
+    }
+  },
+  "33462": {
+    "_attrs": {
+      "SpriteId": "33462",
+      "ImageFileId": "10683",
+      "X": "116",
+      "Y": "1",
+      "Width": "22",
+      "Height": "23",
+      "SpriteKey": "TB_Accessorylv206"
+    }
+  },
+  "33463": {
+    "_attrs": {
+      "SpriteId": "33463",
+      "ImageFileId": "10684",
+      "X": "0",
+      "Y": "0",
+      "Width": "107",
+      "Height": "111",
+      "SpriteKey": "TB_AccessoryProfile"
+    }
+  },
+  "33464": {
+    "_attrs": {
+      "SpriteId": "33464",
+      "ImageFileId": "10685",
+      "X": "1",
+      "Y": "1",
+      "Width": "23",
+      "Height": "25",
+      "SpriteKey": "TB_Beacon01"
+    }
+  },
+  "33465": {
+    "_attrs": {
+      "SpriteId": "33465",
+      "ImageFileId": "10685",
+      "X": "25",
+      "Y": "1",
+      "Width": "23",
+      "Height": "25",
+      "SpriteKey": "TB_Beacon02"
+    }
+  },
+  "33466": {
+    "_attrs": {
+      "SpriteId": "33466",
+      "ImageFileId": "10685",
+      "X": "49",
+      "Y": "1",
+      "Width": "23",
+      "Height": "25",
+      "SpriteKey": "TB_Beacon03"
+    }
+  },
+  "33467": {
+    "_attrs": {
+      "SpriteId": "33467",
+      "ImageFileId": "10685",
+      "X": "73",
+      "Y": "1",
+      "Width": "23",
+      "Height": "25",
+      "SpriteKey": "TB_Beacon04"
+    }
+  },
+  "33507": {
+    "_attrs": {
+      "SpriteId": "33507",
+      "ImageFileId": "6934",
+      "X": "630",
+      "Y": "118",
+      "Width": "26",
+      "Height": "26",
+      "SpriteKey": "TB_RoomSkin_kit"
+    }
+  },
+  "33508": {
+    "_attrs": {
+      "SpriteId": "33508",
+      "ImageFileId": "6934",
+      "X": "641",
+      "Y": "289",
+      "Width": "39",
+      "Height": "21",
+      "SpriteKey": "TB_CrewPod"
+    }
+  },
+  "33509": {
+    "_attrs": {
+      "SpriteId": "33509",
+      "ImageFileId": "10696",
+      "X": "0",
+      "Y": "0",
+      "Width": "220",
+      "Height": "130",
+      "SpriteKey": "TB_LoadingScene_L"
+    }
+  },
+  "33510": {
+    "_attrs": {
+      "SpriteId": "33510",
+      "ImageFileId": "10697",
+      "X": "0",
+      "Y": "0",
+      "Width": "220",
+      "Height": "130",
+      "SpriteKey": "TB_LoadingScene_R"
+    }
+  },
+  "33511": {
+    "_attrs": {
+      "SpriteId": "33511",
+      "ImageFileId": "10698",
+      "X": "4",
+      "Y": "4",
+      "Width": "534",
+      "Height": "281",
+      "SpriteKey": "TB_BPInfoPanel"
+    }
+  },
+  "33512": {
+    "_attrs": {
+      "SpriteId": "33512",
+      "ImageFileId": "10699",
+      "X": "0",
+      "Y": "0",
+      "Width": "116",
+      "Height": "148",
+      "SpriteKey": "TB_PodCard"
+    }
+  },
+  "33513": {
+    "_attrs": {
+      "SpriteId": "33513",
+      "ImageFileId": "10700",
+      "X": "0",
+      "Y": "0",
+      "Width": "887",
+      "Height": "184",
+      "SpriteKey": "TB_PrologueBg"
+    }
+  },
+  "33514": {
+    "_attrs": {
+      "SpriteId": "33514",
+      "ImageFileId": "10701",
+      "X": "0",
+      "Y": "0",
+      "Width": "411",
+      "Height": "184",
+      "SpriteKey": "TB_PrologueFg"
+    }
+  },
+  "33515": {
+    "_attrs": {
+      "SpriteId": "33515",
+      "ImageFileId": "10702",
+      "X": "0",
+      "Y": "0",
+      "Width": "137",
+      "Height": "132",
+      "SpriteKey": "TB_RoomCard"
+    }
+  },
+  "33516": {
+    "_attrs": {
+      "SpriteId": "33516",
+      "ImageFileId": "10704",
+      "X": "0",
+      "Y": "0",
+      "Width": "274",
+      "Height": "129",
+      "SpriteKey": "TB_Subtitle_EN"
+    }
+  },
+  "33517": {
+    "_attrs": {
+      "SpriteId": "33517",
+      "ImageFileId": "10705",
+      "X": "0",
+      "Y": "0",
+      "Width": "542",
+      "Height": "289",
+      "SpriteKey": "TB_BankPromoBg"
+    }
+  },
+  "33518": {
+    "_attrs": {
+      "SpriteId": "33518",
+      "ImageFileId": "10705",
+      "X": "4",
+      "Y": "294",
+      "Width": "534",
+      "Height": "244",
+      "SpriteKey": "TB_BankPromo01"
+    }
+  },
+  "33519": {
+    "_attrs": {
+      "SpriteId": "33519",
+      "ImageFileId": "10705",
+      "X": "544",
+      "Y": "1",
+      "Width": "534",
+      "Height": "244",
+      "SpriteKey": "TB_BankPromo02"
+    }
+  },
+  "33520": {
+    "_attrs": {
+      "SpriteId": "33520",
+      "ImageFileId": "10705",
+      "X": "544",
+      "Y": "247",
+      "Width": "534",
+      "Height": "244",
+      "SpriteKey": "TB_BankPromo03"
+    }
+  },
+  "33521": {
+    "_attrs": {
+      "SpriteId": "33521",
+      "ImageFileId": "10705",
+      "X": "544",
+      "Y": "493",
+      "Width": "534",
+      "Height": "244",
+      "SpriteKey": "TB_BankPromo04"
+    }
+  },
+  "33522": {
+    "_attrs": {
+      "SpriteId": "33522",
+      "ImageFileId": "1391",
+      "X": "574",
+      "Y": "30",
+      "Width": "35",
+      "Height": "23",
+      "SpriteKey": "TB_T2Blueprint"
+    }
+  },
+  "33523": {
+    "_attrs": {
+      "SpriteId": "33523",
+      "ImageFileId": "1391",
+      "X": "574",
+      "Y": "55",
+      "Width": "23",
+      "Height": "35",
+      "SpriteKey": "TB_T5Blueprint"
+    }
+  },
+  "33524": {
+    "_attrs": {
+      "SpriteId": "33524",
+      "ImageFileId": "10707",
+      "X": "0",
+      "Y": "0",
+      "Width": "2048",
+      "Height": "793",
+      "SpriteKey": "TB_SpaceBg"
+    }
+  },
+  "33525": {
+    "_attrs": {
+      "SpriteId": "33525",
+      "ImageFileId": "10706",
+      "X": "0",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "TeleportRoom_Lv11_animationsheet1"
+    }
+  },
+  "33526": {
+    "_attrs": {
+      "SpriteId": "33526",
+      "ImageFileId": "10706",
+      "X": "75",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "TeleportRoom_Lv11_animationsheet2"
+    }
+  },
+  "33527": {
+    "_attrs": {
+      "SpriteId": "33527",
+      "ImageFileId": "10706",
+      "X": "150",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "TeleportRoom_Lv11_animationsheet3"
+    }
+  },
+  "33528": {
+    "_attrs": {
+      "SpriteId": "33528",
+      "ImageFileId": "10706",
+      "X": "225",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "TeleportRoom_Lv11_animationsheet4"
+    }
+  },
+  "33529": {
+    "_attrs": {
+      "SpriteId": "33529",
+      "ImageFileId": "10706",
+      "X": "300",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "TeleportRoom_Lv11_animationsheet5"
+    }
+  },
+  "33535": {
+    "_attrs": {
+      "SpriteId": "33535",
+      "ImageFileId": "10708",
+      "X": "0",
+      "Y": "0",
+      "Width": "2025",
+      "Height": "600",
+      "SpriteKey": "TB_T2Ship_lv13_exterior"
+    }
+  },
+  "33536": {
+    "_attrs": {
+      "SpriteId": "33536",
+      "ImageFileId": "10709",
+      "X": "0",
+      "Y": "0",
+      "Width": "2025",
+      "Height": "600",
+      "SpriteKey": "TB_T2Ship_lv13_interior"
+    }
+  },
+  "33537": {
+    "_attrs": {
+      "SpriteId": "33537",
+      "ImageFileId": "10710",
+      "X": "0",
+      "Y": "0",
+      "Width": "2025",
+      "Height": "600",
+      "SpriteKey": "TB_T2Ship_lv13_interior_T2"
+    }
+  },
+  "33538": {
+    "_attrs": {
+      "SpriteId": "33538",
+      "ImageFileId": "10712",
+      "X": "0",
+      "Y": "0",
+      "Width": "2025",
+      "Height": "600",
+      "SpriteKey": "TB_T2Ship_lv14_interior_T2"
+    }
+  },
+  "33539": {
+    "_attrs": {
+      "SpriteId": "33539",
+      "ImageFileId": "10713",
+      "X": "0",
+      "Y": "0",
+      "Width": "2025",
+      "Height": "600",
+      "SpriteKey": "TB_T2Ship_lv14_interior"
+    }
+  },
+  "33540": {
+    "_attrs": {
+      "SpriteId": "33540",
+      "ImageFileId": "10714",
+      "X": "0",
+      "Y": "0",
+      "Width": "1325",
+      "Height": "925",
+      "SpriteKey": "TB_T5Ship_Part1_exterior"
+    }
+  },
+  "33541": {
+    "_attrs": {
+      "SpriteId": "33541",
+      "ImageFileId": "10715",
+      "X": "0",
+      "Y": "0",
+      "Width": "1325",
+      "Height": "925",
+      "SpriteKey": "TB_T5Ship_Part1_interior"
+    }
+  },
+  "33542": {
+    "_attrs": {
+      "SpriteId": "33542",
+      "ImageFileId": "10716",
+      "X": "1",
+      "Y": "76",
+      "Width": "102",
+      "Height": "28",
+      "SpriteKey": "TB_MinishipsT2"
+    }
+  },
+  "33543": {
+    "_attrs": {
+      "SpriteId": "33543",
+      "ImageFileId": "10716",
+      "X": "1",
+      "Y": "1",
+      "Width": "127",
+      "Height": "74",
+      "SpriteKey": "TB_MinishipsT5"
+    }
+  },
+  "33544": {
+    "_attrs": {
+      "SpriteId": "33544",
+      "ImageFileId": "10717",
+      "X": "0",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "Rocket Artillery Launcher_Lv4_1"
+    }
+  },
+  "33545": {
+    "_attrs": {
+      "SpriteId": "33545",
+      "ImageFileId": "10717",
+      "X": "75",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "Rocket Artillery Launcher_Lv4_2"
+    }
+  },
+  "33546": {
+    "_attrs": {
+      "SpriteId": "33546",
+      "ImageFileId": "10717",
+      "X": "150",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "Rocket Artillery Launcher_Lv4_3"
+    }
+  },
+  "33547": {
+    "_attrs": {
+      "SpriteId": "33547",
+      "ImageFileId": "10717",
+      "X": "75",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "Rocket Artillery Launcher_Lv4_5"
+    }
+  },
+  "33548": {
+    "_attrs": {
+      "SpriteId": "33548",
+      "ImageFileId": "10717",
+      "X": "0",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "Rocket Artillery Launcher_Lv4_4"
+    }
+  },
+  "33549": {
+    "_attrs": {
+      "SpriteId": "33549",
+      "ImageFileId": "10717",
+      "X": "0",
+      "Y": "100",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "Rocket Artillery Launcher_Lv4_7"
+    }
+  },
+  "33550": {
+    "_attrs": {
+      "SpriteId": "33550",
+      "ImageFileId": "10717",
+      "X": "75",
+      "Y": "100",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "Rocket Artillery Launcher_Lv4_8"
+    }
+  },
+  "33551": {
+    "_attrs": {
+      "SpriteId": "33551",
+      "ImageFileId": "10717",
+      "X": "150",
+      "Y": "100",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "Rocket Artillery Launcher_Lv4_9"
+    }
+  },
+  "33552": {
+    "_attrs": {
+      "SpriteId": "33552",
+      "ImageFileId": "10717",
+      "X": "75",
+      "Y": "150",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "Rocket Artillery Launcher_Lv4_11"
+    }
+  },
+  "33553": {
+    "_attrs": {
+      "SpriteId": "33553",
+      "ImageFileId": "10717",
+      "X": "150",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "Rocket Artillery Launcher_Lv4_6"
+    }
+  },
+  "33554": {
+    "_attrs": {
+      "SpriteId": "33554",
+      "ImageFileId": "10717",
+      "X": "150",
+      "Y": "150",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "Rocket Artillery Launcher_Lv4_12"
+    }
+  },
+  "33555": {
+    "_attrs": {
+      "SpriteId": "33555",
+      "ImageFileId": "10717",
+      "X": "0",
+      "Y": "200",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "Rocket Artillery Launcher_Lv4_13"
+    }
+  },
+  "33556": {
+    "_attrs": {
+      "SpriteId": "33556",
+      "ImageFileId": "10717",
+      "X": "0",
+      "Y": "150",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "Rocket Artillery Launcher_Lv4_10"
+    }
+  },
+  "33557": {
+    "_attrs": {
+      "SpriteId": "33557",
+      "ImageFileId": "10718",
+      "X": "0",
+      "Y": "0",
+      "Width": "116",
+      "Height": "164",
+      "SpriteKey": "TB_CardBg"
+    }
+  },
+  "33560": {
+    "_attrs": {
+      "SpriteId": "33560",
+      "ImageFileId": "10719",
+      "X": "0",
+      "Y": "0",
+      "Width": "268",
+      "Height": "197",
+      "SpriteKey": "TB_Sticker1"
+    }
+  },
+  "33561": {
+    "_attrs": {
+      "SpriteId": "33561",
+      "ImageFileId": "10719",
+      "X": "268",
+      "Y": "0",
+      "Width": "268",
+      "Height": "197",
+      "SpriteKey": "TB_Sticker2"
+    }
+  },
+  "33562": {
+    "_attrs": {
+      "SpriteId": "33562",
+      "ImageFileId": "10719",
+      "X": "536",
+      "Y": "0",
+      "Width": "268",
+      "Height": "197",
+      "SpriteKey": "TB_Sticker3"
+    }
+  },
+  "33563": {
+    "_attrs": {
+      "SpriteId": "33563",
+      "ImageFileId": "10719",
+      "X": "0",
+      "Y": "197",
+      "Width": "268",
+      "Height": "197",
+      "SpriteKey": "TB_Sticker4"
+    }
+  },
+  "33564": {
+    "_attrs": {
+      "SpriteId": "33564",
+      "ImageFileId": "10719",
+      "X": "268",
+      "Y": "197",
+      "Width": "268",
+      "Height": "197",
+      "SpriteKey": "TB_Sticker5"
+    }
+  },
+  "33565": {
+    "_attrs": {
+      "SpriteId": "33565",
+      "ImageFileId": "10719",
+      "X": "536",
+      "Y": "197",
+      "Width": "268",
+      "Height": "197",
+      "SpriteKey": "TB_Sticker6"
+    }
+  },
+  "33566": {
+    "_attrs": {
+      "SpriteId": "33566",
+      "ImageFileId": "10719",
+      "X": "0",
+      "Y": "394",
+      "Width": "268",
+      "Height": "197",
+      "SpriteKey": "TB_Sticker7"
+    }
+  },
+  "33567": {
+    "_attrs": {
+      "SpriteId": "33567",
+      "ImageFileId": "10719",
+      "X": "268",
+      "Y": "394",
+      "Width": "268",
+      "Height": "197",
+      "SpriteKey": "TB_Sticker8"
+    }
+  },
+  "33568": {
+    "_attrs": {
+      "SpriteId": "33568",
+      "ImageFileId": "10719",
+      "X": "536",
+      "Y": "394",
+      "Width": "268",
+      "Height": "197",
+      "SpriteKey": "TB_Sticker9"
+    }
+  },
+  "33569": {
+    "_attrs": {
+      "SpriteId": "33569",
+      "ImageFileId": "10719",
+      "X": "0",
+      "Y": "591",
+      "Width": "268",
+      "Height": "197",
+      "SpriteKey": "TB_Sticker10"
+    }
+  },
+  "33570": {
+    "_attrs": {
+      "SpriteId": "33570",
+      "ImageFileId": "10719",
+      "X": "268",
+      "Y": "591",
+      "Width": "268",
+      "Height": "197",
+      "SpriteKey": "TB_Sticker11"
+    }
+  },
+  "33571": {
+    "_attrs": {
+      "SpriteId": "33571",
+      "ImageFileId": "10719",
+      "X": "536",
+      "Y": "591",
+      "Width": "268",
+      "Height": "197",
+      "SpriteKey": "TB_Sticker12"
+    }
+  },
+  "33572": {
+    "_attrs": {
+      "SpriteId": "33572",
+      "ImageFileId": "696",
+      "X": "171",
+      "Y": "300",
+      "Width": "71",
+      "Height": "53",
+      "SpriteKey": "Reinforce_ResearchIcon"
+    }
+  },
+  "33573": {
+    "_attrs": {
+      "SpriteId": "33573",
+      "ImageFileId": "10720",
+      "X": "1",
+      "Y": "0",
+      "Width": "1325",
+      "Height": "925",
+      "SpriteKey": "TB_T5Ship_Part1_EX_interior"
+    }
+  },
+  "33574": {
+    "_attrs": {
+      "SpriteId": "33574",
+      "ImageFileId": "10721",
+      "X": "0",
+      "Y": "0",
+      "Width": "600",
+      "Height": "925",
+      "SpriteKey": "TB_T5Ship_Left"
+    }
+  },
+  "33575": {
+    "_attrs": {
+      "SpriteId": "33575",
+      "ImageFileId": "10722",
+      "X": "0",
+      "Y": "0",
+      "Width": "1325",
+      "Height": "425",
+      "SpriteKey": "TB_T5Ship_Bottom"
+    }
+  },
+  "33576": {
+    "_attrs": {
+      "SpriteId": "33576",
+      "ImageFileId": "10723",
+      "X": "22",
+      "Y": "1",
+      "Width": "20",
+      "Height": "9",
+      "SpriteKey": "TheMouseStandard"
+    }
+  },
+  "33577": {
+    "_attrs": {
+      "SpriteId": "33577",
+      "ImageFileId": "10723",
+      "X": "43",
+      "Y": "1",
+      "Width": "20",
+      "Height": "9",
+      "SpriteKey": "TheMouseActive"
+    }
+  },
+  "33578": {
+    "_attrs": {
+      "SpriteId": "33578",
+      "ImageFileId": "10723",
+      "X": "1",
+      "Y": "2",
+      "Width": "20",
+      "Height": "8",
+      "SpriteKey": "TheMouseDead"
+    }
+  },
+  "33579": {
+    "_attrs": {
+      "SpriteId": "33579",
+      "ImageFileId": "1834",
+      "X": "284",
+      "Y": "1",
+      "Width": "48",
+      "Height": "35",
+      "SpriteKey": "TBSticker_icon"
+    }
+  },
+  "33580": {
+    "_attrs": {
+      "SpriteId": "33580",
+      "ImageFileId": "10724",
+      "X": "0",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "Bedroom_CaptainQuarters_1"
+    }
+  },
+  "33581": {
+    "_attrs": {
+      "SpriteId": "33581",
+      "ImageFileId": "10724",
+      "X": "75",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "Bedroom_CaptainQuarters_2"
+    }
+  },
+  "33582": {
+    "_attrs": {
+      "SpriteId": "33582",
+      "ImageFileId": "10724",
+      "X": "150",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "Bedroom_CaptainQuarters_3"
+    }
+  },
+  "33583": {
+    "_attrs": {
+      "SpriteId": "33583",
+      "ImageFileId": "10724",
+      "X": "225",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "Bedroom_CaptainQuarters_4"
+    }
+  },
+  "33584": {
+    "_attrs": {
+      "SpriteId": "33584",
+      "ImageFileId": "10724",
+      "X": "300",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "Bedroom_CaptainQuarters_5"
+    }
+  },
+  "33585": {
+    "_attrs": {
+      "SpriteId": "33585",
+      "ImageFileId": "10724",
+      "X": "375",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "Bedroom_CaptainQuarters_6"
+    }
+  },
+  "33586": {
+    "_attrs": {
+      "SpriteId": "33586",
+      "ImageFileId": "10724",
+      "X": "450",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "Bedroom_CaptainQuarters_7"
+    }
+  },
+  "33587": {
+    "_attrs": {
+      "SpriteId": "33587",
+      "ImageFileId": "10724",
+      "X": "0",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "Bedroom_CaptainQuarters_8"
+    }
+  },
+  "33588": {
+    "_attrs": {
+      "SpriteId": "33588",
+      "ImageFileId": "10724",
+      "X": "75",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "Bedroom_CaptainQuarters_9"
+    }
+  },
+  "33589": {
+    "_attrs": {
+      "SpriteId": "33589",
+      "ImageFileId": "10724",
+      "X": "150",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "Bedroom_CaptainQuarters_10"
+    }
+  },
+  "33590": {
+    "_attrs": {
+      "SpriteId": "33590",
+      "ImageFileId": "10724",
+      "X": "225",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "Bedroom_CaptainQuarters_11"
+    }
+  },
+  "33591": {
+    "_attrs": {
+      "SpriteId": "33591",
+      "ImageFileId": "10724",
+      "X": "300",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "Bedroom_CaptainQuarters_12"
+    }
+  },
+  "33592": {
+    "_attrs": {
+      "SpriteId": "33592",
+      "ImageFileId": "10724",
+      "X": "375",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "Bedroom_CaptainQuarters_13"
+    }
+  },
+  "33593": {
+    "_attrs": {
+      "SpriteId": "33593",
+      "ImageFileId": "10724",
+      "X": "450",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "Bedroom_CaptainQuarters_14"
+    }
+  },
+  "33594": {
+    "_attrs": {
+      "SpriteId": "33594",
+      "ImageFileId": "10724",
+      "X": "0",
+      "Y": "100",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "Bedroom_CaptainQuarters_15"
+    }
+  },
+  "33595": {
+    "_attrs": {
+      "SpriteId": "33595",
+      "ImageFileId": "10724",
+      "X": "75",
+      "Y": "100",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "Bedroom_CaptainQuarters_16"
+    }
+  },
+  "33596": {
+    "_attrs": {
+      "SpriteId": "33596",
+      "ImageFileId": "10724",
+      "X": "150",
+      "Y": "100",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "Bedroom_CaptainQuarters_17"
+    }
+  },
+  "33597": {
+    "_attrs": {
+      "SpriteId": "33597",
+      "ImageFileId": "10724",
+      "X": "225",
+      "Y": "100",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "Bedroom_CaptainQuarters_18"
+    }
+  },
+  "33598": {
+    "_attrs": {
+      "SpriteId": "33598",
+      "ImageFileId": "10724",
+      "X": "300",
+      "Y": "100",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "Bedroom_CaptainQuarters_19"
+    }
+  },
+  "33599": {
+    "_attrs": {
+      "SpriteId": "33599",
+      "ImageFileId": "10724",
+      "X": "375",
+      "Y": "100",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "Bedroom_CaptainQuarters_20"
+    }
+  },
+  "33600": {
+    "_attrs": {
+      "SpriteId": "33600",
+      "ImageFileId": "10724",
+      "X": "450",
+      "Y": "100",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "Bedroom_CaptainQuarters_21"
+    }
+  },
+  "33601": {
+    "_attrs": {
+      "SpriteId": "33601",
+      "ImageFileId": "10724",
+      "X": "0",
+      "Y": "150",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "Bedroom_CaptainQuarters_22"
+    }
+  },
+  "33602": {
+    "_attrs": {
+      "SpriteId": "33602",
+      "ImageFileId": "10724",
+      "X": "75",
+      "Y": "150",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "Bedroom_CaptainQuarters_23"
+    }
+  },
+  "33603": {
+    "_attrs": {
+      "SpriteId": "33603",
+      "ImageFileId": "10724",
+      "X": "150",
+      "Y": "150",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "Bedroom_CaptainQuarters_24"
+    }
+  },
+  "33604": {
+    "_attrs": {
+      "SpriteId": "33604",
+      "ImageFileId": "10724",
+      "X": "225",
+      "Y": "150",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "Bedroom_CaptainQuarters_25"
+    }
+  },
+  "33605": {
+    "_attrs": {
+      "SpriteId": "33605",
+      "ImageFileId": "10724",
+      "X": "300",
+      "Y": "150",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "Bedroom_CaptainQuarters_26"
+    }
+  },
+  "33606": {
+    "_attrs": {
+      "SpriteId": "33606",
+      "ImageFileId": "10724",
+      "X": "375",
+      "Y": "150",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "Bedroom_CaptainQuarters_27"
+    }
+  },
+  "33607": {
+    "_attrs": {
+      "SpriteId": "33607",
+      "ImageFileId": "10724",
+      "X": "450",
+      "Y": "150",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "Bedroom_CaptainQuarters_28"
+    }
+  },
+  "33608": {
+    "_attrs": {
+      "SpriteId": "33608",
+      "ImageFileId": "6934",
+      "X": "630",
+      "Y": "170",
+      "Width": "26",
+      "Height": "27",
+      "SpriteKey": "Bedroom_CaptainQuarters_kit"
+    }
+  },
+  "33468": {
+    "_attrs": {
+      "SpriteId": "33468",
+      "ImageFileId": "10685",
+      "X": "97",
+      "Y": "1",
+      "Width": "23",
+      "Height": "25",
+      "SpriteKey": "TB_Beacon05"
+    }
+  },
+  "33469": {
+    "_attrs": {
+      "SpriteId": "33469",
+      "ImageFileId": "10685",
+      "X": "121",
+      "Y": "1",
+      "Width": "23",
+      "Height": "25",
+      "SpriteKey": "TB_Beacon06"
+    }
+  },
+  "33470": {
+    "_attrs": {
+      "SpriteId": "33470",
+      "ImageFileId": "10685",
+      "X": "145",
+      "Y": "1",
+      "Width": "23",
+      "Height": "25",
+      "SpriteKey": "TB_Beacon07"
+    }
+  },
+  "33471": {
+    "_attrs": {
+      "SpriteId": "33471",
+      "ImageFileId": "10685",
+      "X": "169",
+      "Y": "1",
+      "Width": "23",
+      "Height": "25",
+      "SpriteKey": "TB_Beacon08"
+    }
+  },
+  "33472": {
+    "_attrs": {
+      "SpriteId": "33472",
+      "ImageFileId": "10685",
+      "X": "193",
+      "Y": "1",
+      "Width": "23",
+      "Height": "25",
+      "SpriteKey": "TB_BeaconBorder"
+    }
+  },
+  "33473": {
+    "_attrs": {
+      "SpriteId": "33473",
+      "ImageFileId": "10685",
+      "X": "217",
+      "Y": "1",
+      "Width": "23",
+      "Height": "25",
+      "SpriteKey": "TB_BeaconDestroyed"
+    }
+  },
+  "33474": {
+    "_attrs": {
+      "SpriteId": "33474",
+      "ImageFileId": "10685",
+      "X": "241",
+      "Y": "1",
+      "Width": "23",
+      "Height": "25",
+      "SpriteKey": "TB_BeaconDestroyedBorder"
+    }
+  },
+  "33475": {
+    "_attrs": {
+      "SpriteId": "33475",
+      "ImageFileId": "10686",
+      "X": "0",
+      "Y": "0",
+      "Width": "77",
+      "Height": "110",
+      "SpriteKey": "TB_BeaconProfile"
+    }
+  },
+  "33476": {
+    "_attrs": {
+      "SpriteId": "33476",
+      "ImageFileId": "10687",
+      "X": "0",
+      "Y": "2",
+      "Width": "22",
+      "Height": "9",
+      "SpriteKey": "TB_BodyEquiplv1"
+    }
+  },
+  "33477": {
+    "_attrs": {
+      "SpriteId": "33477",
+      "ImageFileId": "10688",
+      "X": "0",
+      "Y": "2",
+      "Width": "24",
+      "Height": "9",
+      "SpriteKey": "TB_BodyEquiplv2"
+    }
+  },
+  "33478": {
+    "_attrs": {
+      "SpriteId": "33478",
+      "ImageFileId": "10689",
+      "X": "0",
+      "Y": "0",
+      "Width": "83",
+      "Height": "105",
+      "SpriteKey": "TB_BodyEquipProfile"
+    }
+  },
+  "33479": {
+    "_attrs": {
+      "SpriteId": "33479",
+      "ImageFileId": "10690",
+      "X": "0",
+      "Y": "2",
+      "Width": "12",
+      "Height": "5",
+      "SpriteKey": "TB_LegEquiplv1"
+    }
+  },
+  "33480": {
+    "_attrs": {
+      "SpriteId": "33480",
+      "ImageFileId": "10690",
+      "X": "12",
+      "Y": "2",
+      "Width": "12",
+      "Height": "5",
+      "SpriteKey": "TB_LegEquiplv1Active"
+    }
+  },
+  "33481": {
+    "_attrs": {
+      "SpriteId": "33481",
+      "ImageFileId": "10691",
+      "X": "0",
+      "Y": "2",
+      "Width": "12",
+      "Height": "5",
+      "SpriteKey": "TB_LegEquiplv2"
+    }
+  },
+  "33482": {
+    "_attrs": {
+      "SpriteId": "33482",
+      "ImageFileId": "10691",
+      "X": "12",
+      "Y": "2",
+      "Width": "12",
+      "Height": "5",
+      "SpriteKey": "TB_LegEquiplv2Active"
+    }
+  },
+  "33483": {
+    "_attrs": {
+      "SpriteId": "33483",
+      "ImageFileId": "10692",
+      "X": "0",
+      "Y": "0",
+      "Width": "49",
+      "Height": "114",
+      "SpriteKey": "TB_LegEquipProfile"
+    }
+  },
+  "33484": {
+    "_attrs": {
+      "SpriteId": "33484",
+      "ImageFileId": "10693",
+      "X": "1",
+      "Y": "1",
+      "Width": "20",
+      "Height": "9",
+      "SpriteKey": "TB_Pet01"
+    }
+  },
+  "33485": {
+    "_attrs": {
+      "SpriteId": "33485",
+      "ImageFileId": "10693",
+      "X": "22",
+      "Y": "1",
+      "Width": "20",
+      "Height": "9",
+      "SpriteKey": "TB_Pet02"
+    }
+  },
+  "33486": {
+    "_attrs": {
+      "SpriteId": "33486",
+      "ImageFileId": "10694",
+      "X": "0",
+      "Y": "0",
+      "Width": "98",
+      "Height": "112",
+      "SpriteKey": "TB_PetProfile"
+    }
+  },
+  "33487": {
+    "_attrs": {
+      "SpriteId": "33487",
+      "ImageFileId": "10695",
+      "X": "0",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "TB_RoomSkin01"
+    }
+  },
+  "33488": {
+    "_attrs": {
+      "SpriteId": "33488",
+      "ImageFileId": "10695",
+      "X": "75",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "TB_RoomSkin02"
+    }
+  },
+  "33489": {
+    "_attrs": {
+      "SpriteId": "33489",
+      "ImageFileId": "10695",
+      "X": "150",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "TB_RoomSkin03"
+    }
+  },
+  "33490": {
+    "_attrs": {
+      "SpriteId": "33490",
+      "ImageFileId": "10695",
+      "X": "225",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "TB_RoomSkin04"
+    }
+  },
+  "33491": {
+    "_attrs": {
+      "SpriteId": "33491",
+      "ImageFileId": "10695",
+      "X": "300",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "TB_RoomSkin05"
+    }
+  },
+  "33492": {
+    "_attrs": {
+      "SpriteId": "33492",
+      "ImageFileId": "10695",
+      "X": "375",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "TB_RoomSkin06"
+    }
+  },
+  "33493": {
+    "_attrs": {
+      "SpriteId": "33493",
+      "ImageFileId": "10695",
+      "X": "450",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "TB_RoomSkin07"
+    }
+  },
+  "33494": {
+    "_attrs": {
+      "SpriteId": "33494",
+      "ImageFileId": "10695",
+      "X": "525",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "TB_RoomSkin08"
+    }
+  },
+  "33495": {
+    "_attrs": {
+      "SpriteId": "33495",
+      "ImageFileId": "10695",
+      "X": "600",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "TB_RoomSkin09"
+    }
+  },
+  "33496": {
+    "_attrs": {
+      "SpriteId": "33496",
+      "ImageFileId": "10695",
+      "X": "675",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "TB_RoomSkin10"
+    }
+  },
+  "33497": {
+    "_attrs": {
+      "SpriteId": "33497",
+      "ImageFileId": "10695",
+      "X": "0",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "TB_RoomSkin11"
+    }
+  },
+  "33498": {
+    "_attrs": {
+      "SpriteId": "33498",
+      "ImageFileId": "10695",
+      "X": "75",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "TB_RoomSkin12"
+    }
+  },
+  "33499": {
+    "_attrs": {
+      "SpriteId": "33499",
+      "ImageFileId": "10695",
+      "X": "150",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "TB_RoomSkin13"
+    }
+  },
+  "33500": {
+    "_attrs": {
+      "SpriteId": "33500",
+      "ImageFileId": "10695",
+      "X": "225",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "TB_RoomSkin14"
+    }
+  },
+  "33501": {
+    "_attrs": {
+      "SpriteId": "33501",
+      "ImageFileId": "10695",
+      "X": "300",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "TB_RoomSkin15"
+    }
+  },
+  "33502": {
+    "_attrs": {
+      "SpriteId": "33502",
+      "ImageFileId": "10695",
+      "X": "375",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "TB_RoomSkin16"
+    }
+  },
+  "33503": {
+    "_attrs": {
+      "SpriteId": "33503",
+      "ImageFileId": "10695",
+      "X": "450",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "TB_RoomSkin17"
+    }
+  },
+  "33504": {
+    "_attrs": {
+      "SpriteId": "33504",
+      "ImageFileId": "10695",
+      "X": "525",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "TB_RoomSkin18"
+    }
+  },
+  "33505": {
+    "_attrs": {
+      "SpriteId": "33505",
+      "ImageFileId": "10695",
+      "X": "600",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "TB_RoomSkin19"
+    }
+  },
+  "33506": {
+    "_attrs": {
+      "SpriteId": "33506",
+      "ImageFileId": "10695",
+      "X": "675",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "TB_RoomSkin20"
+    }
   }
 }
