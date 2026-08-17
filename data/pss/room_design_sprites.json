@@ -66423,7 +66423,7 @@
     "_attrs": {
       "RoomDesignSpriteId": "5472",
       "RoomDesignId": "800",
-      "SpriteId": "32317",
+      "SpriteId": "23248",
       "RoomSpriteType": "Exterior",
       "RoomEffectType": "None",
       "RoomEffectParameter": "0",
@@ -78278,6 +78278,24 @@
       "Metadata": "",
       "RaceId": "0",
       "AnimationId": "2463",
+      "SkinKey": "0"
+    }
+  },
+  "6384": {
+    "_attrs": {
+      "RoomDesignSpriteId": "6384",
+      "RoomDesignId": "696",
+      "SpriteId": "19575",
+      "RoomSpriteType": "Interior Activate",
+      "RoomEffectType": "None",
+      "RoomEffectParameter": "0",
+      "SkinName": "",
+      "SkinDescription": "",
+      "RequirementString": "",
+      "Flags": "0",
+      "Metadata": "",
+      "RaceId": "0",
+      "AnimationId": "2474",
       "SkinKey": "0"
     }
   },

@@ -12689,11 +12689,191 @@
       "AnimationEffectType": "Multiply"
     }
   },
+  "2474": {
+    "_attrs": {
+      "AnimationId": "2474",
+      "Key": "Rocket Artillery Launcher_Lv4",
+      "AnimationSprites": "33544,33545,33546,33548,33547,33553,33549,33550,33551,33556,33552,33554,33555",
+      "Duration": "50",
+      "AnimationEffectType": "None"
+    }
+  },
   "2476": {
     "_attrs": {
       "AnimationId": "2476",
       "Key": "Bedroom_CaptainQuarters",
       "AnimationSprites": "33580,33581,33582,33583,33584,33585,33586,33587,33588,33589,33590,33591,33592,33593,33594,33595,33596,33597,33598,33599,33600,33601,33602,33603,33604,33605,33606,33607",
+      "Duration": "160",
+      "AnimationEffectType": "None"
+    }
+  },
+  "2479": {
+    "_attrs": {
+      "AnimationId": "2479",
+      "Key": "mechanicalbunnygirl_I",
+      "AnimationSprites": "33633,33634,33635,33636,33637,33638,33639,33640,33641,33642,33643,33644,33645,33646,33647,33648,33649,33650,33651,33652,33653,33654,33655,33656,33657,33658,33659,33660,33661,33662",
+      "Duration": "200",
+      "AnimationEffectType": "None"
+    }
+  },
+  "2480": {
+    "_attrs": {
+      "AnimationId": "2480",
+      "Key": "mechanicalbunnygirl_IA",
+      "AnimationSprites": "33693,33694,33695,33696,33697,33698,33699,33700,33701,33702,33703,33704",
+      "Duration": "160",
+      "AnimationEffectType": "None"
+    }
+  },
+  "2481": {
+    "_attrs": {
+      "AnimationId": "2481",
+      "Key": "mechanicalbunnygirl_ID",
+      "AnimationSprites": "33747,33748,33749,33750,33751",
+      "Duration": "80",
+      "AnimationEffectType": "None"
+    }
+  },
+  "2482": {
+    "_attrs": {
+      "AnimationId": "2482",
+      "Key": "CatEarClinic_I",
+      "AnimationSprites": "33752,33753,33754,33755,33756,33757,33758,33759,33760,33761,33762,33763,33764,33765,33766,33767,33768,33769,33770,33771,33772,33773,33774,33775",
+      "Duration": "200",
+      "AnimationEffectType": "None"
+    }
+  },
+  "2483": {
+    "_attrs": {
+      "AnimationId": "2483",
+      "Key": "CatEarClinic_ID",
+      "AnimationSprites": "33800,33801,33802,33803,33804,33805",
+      "Duration": "40",
+      "AnimationEffectType": "None"
+    }
+  },
+  "2484": {
+    "_attrs": {
+      "AnimationId": "2484",
+      "Key": "Stingerspammer_I",
+      "AnimationSprites": "33809,33812,33813,33814,33815,33816,33817,33818,33819,33820,33821,33822,33823,33824,33825,33826,33827,33828,33829,33830,33831,33832,33833,33834,33835,33836,33837,33838,33839,33840,33841,33842,33843,33844,33845,33846,33847,33848,33809",
+      "Duration": "40",
+      "AnimationEffectType": "None"
+    }
+  },
+  "2485": {
+    "_attrs": {
+      "AnimationId": "2485",
+      "Key": "AshenRocketsurferPhoenix_I",
+      "AnimationSprites": "33849,33850,33851,33852",
+      "Duration": "40",
+      "AnimationEffectType": "None"
+    }
+  },
+  "2486": {
+    "_attrs": {
+      "AnimationId": "2486",
+      "Key": "AshenRocketsurferPhoenix_ID",
+      "AnimationSprites": "33857,33858,33859,33860",
+      "Duration": "40",
+      "AnimationEffectType": "None"
+    }
+  },
+  "2487": {
+    "_attrs": {
+      "AnimationId": "2487",
+      "Key": "AshenRocketsurferPhoenix_IA",
+      "AnimationSprites": "33869,33870,33871,33872,33873,33874,33875,33876,33877,33878,33879,33880,33881,33882,33883,33884",
+      "Duration": "80",
+      "AnimationEffectType": "None"
+    }
+  },
+  "2488": {
+    "_attrs": {
+      "AnimationId": "2488",
+      "Key": "AshenRocketsurferPhoenix_E",
+      "AnimationSprites": "33909,33910,33911,33912",
+      "Duration": "40",
+      "AnimationEffectType": "None"
+    }
+  },
+  "2489": {
+    "_attrs": {
+      "AnimationId": "2489",
+      "Key": "AshenRocketsurferPhoenix_ED",
+      "AnimationSprites": "33941,33942,33943,33944",
+      "Duration": "40",
+      "AnimationEffectType": "None"
+    }
+  },
+  "2490": {
+    "_attrs": {
+      "AnimationId": "2490",
+      "Key": "MalevolentShrine_I",
+      "AnimationSprites": "33948,33945,33946,33947",
+      "Duration": "40",
+      "AnimationEffectType": "None"
+    }
+  },
+  "2491": {
+    "_attrs": {
+      "AnimationId": "2491",
+      "Key": "MalevolentShrine_ID",
+      "AnimationSprites": "33953,33954,33955,33959,33960,33961,33957,33958,33956,33963,33962",
+      "Duration": "40",
+      "AnimationEffectType": "None"
+    }
+  },
+  "2492": {
+    "_attrs": {
+      "AnimationId": "2492",
+      "Key": "PBHMassTeleporter_IA",
+      "AnimationSprites": "33970,33971,33972,33973,33974,33975",
+      "Duration": "40",
+      "AnimationEffectType": "None"
+    }
+  },
+  "2493": {
+    "_attrs": {
+      "AnimationId": "2493",
+      "Key": "PBHMassTeleporter_ID",
+      "AnimationSprites": "33985,33986",
+      "Duration": "40",
+      "AnimationEffectType": "None"
+    }
+  },
+  "2494": {
+    "_attrs": {
+      "AnimationId": "2494",
+      "Key": "FMS-FederationMissileSilo_IA",
+      "AnimationSprites": "34015,34015,34015,34015,34015,34015,34015,34015,34015,34015,34015,34015,34015,34015,34015,34015,34015,34014,34013,34012,34011,34010,34009,34008,34007,34006,34005,34004,34003,34002,34001,34000",
+      "Duration": "120",
+      "AnimationEffectType": "None"
+    }
+  },
+  "2495": {
+    "_attrs": {
+      "AnimationId": "2495",
+      "Key": "BBH-BigBombHangar_I",
+      "AnimationSprites": "34040",
+      "Duration": "80",
+      "AnimationEffectType": "None"
+    }
+  },
+  "2496": {
+    "_attrs": {
+      "AnimationId": "2496",
+      "Key": "BBH-BigBombHangar_IA",
+      "AnimationSprites": "34078,34078,34078,34078,34078,34078,34078,34078,34077,34076,34075,34074,34073,34072,34071,34070,34069,34068,34067",
+      "Duration": "80",
+      "AnimationEffectType": "None"
+    }
+  },
+  "2505": {
+    "_attrs": {
+      "AnimationId": "2505",
+      "Key": "DefenderCapacitor_N",
+      "AnimationSprites": "34098,34098,34099,34100,34101,34102,34102,34103,34104,34104,34105,34105,34106,34106,34107,34107,34107,34106,34106,34105,34105,34104,34114,34114,34115,34115,34117,34118,34119,34120,34121,34122,34116,34115,34115,34114,34114,34104,34105,34105,34106,34106,34107,34107,34108,34109,34110,34111,34112,34113,34106,34106,34105,34104",
       "Duration": "160",
       "AnimationEffectType": "None"
     }

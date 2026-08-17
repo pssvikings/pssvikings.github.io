@@ -313433,6 +313433,3790 @@
       "SpriteKey": "Blinky02"
     }
   },
+  "33812": {
+    "_attrs": {
+      "SpriteId": "33812",
+      "ImageFileId": "10742",
+      "X": "125",
+      "Y": "0",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "Stingerspammer_I_3"
+    }
+  },
+  "33813": {
+    "_attrs": {
+      "SpriteId": "33813",
+      "ImageFileId": "10742",
+      "X": "250",
+      "Y": "0",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "Stingerspammer_I_4"
+    }
+  },
+  "33814": {
+    "_attrs": {
+      "SpriteId": "33814",
+      "ImageFileId": "10742",
+      "X": "375",
+      "Y": "0",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "Stingerspammer_I_5"
+    }
+  },
+  "33815": {
+    "_attrs": {
+      "SpriteId": "33815",
+      "ImageFileId": "10742",
+      "X": "500",
+      "Y": "0",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "Stingerspammer_I_6"
+    }
+  },
+  "33816": {
+    "_attrs": {
+      "SpriteId": "33816",
+      "ImageFileId": "10742",
+      "X": "625",
+      "Y": "0",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "Stingerspammer_I_7"
+    }
+  },
+  "33817": {
+    "_attrs": {
+      "SpriteId": "33817",
+      "ImageFileId": "10742",
+      "X": "0",
+      "Y": "50",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "Stingerspammer_I_8"
+    }
+  },
+  "33818": {
+    "_attrs": {
+      "SpriteId": "33818",
+      "ImageFileId": "10742",
+      "X": "125",
+      "Y": "50",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "Stingerspammer_I_9"
+    }
+  },
+  "33819": {
+    "_attrs": {
+      "SpriteId": "33819",
+      "ImageFileId": "10742",
+      "X": "250",
+      "Y": "50",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "Stingerspammer_I_10"
+    }
+  },
+  "33820": {
+    "_attrs": {
+      "SpriteId": "33820",
+      "ImageFileId": "10742",
+      "X": "375",
+      "Y": "50",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "Stingerspammer_I_11"
+    }
+  },
+  "33821": {
+    "_attrs": {
+      "SpriteId": "33821",
+      "ImageFileId": "10742",
+      "X": "500",
+      "Y": "50",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "Stingerspammer_I_12"
+    }
+  },
+  "33822": {
+    "_attrs": {
+      "SpriteId": "33822",
+      "ImageFileId": "10742",
+      "X": "625",
+      "Y": "50",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "Stingerspammer_I_13"
+    }
+  },
+  "33823": {
+    "_attrs": {
+      "SpriteId": "33823",
+      "ImageFileId": "10742",
+      "X": "0",
+      "Y": "100",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "Stingerspammer_I_14"
+    }
+  },
+  "33824": {
+    "_attrs": {
+      "SpriteId": "33824",
+      "ImageFileId": "10742",
+      "X": "125",
+      "Y": "100",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "Stingerspammer_I_15"
+    }
+  },
+  "33825": {
+    "_attrs": {
+      "SpriteId": "33825",
+      "ImageFileId": "10742",
+      "X": "250",
+      "Y": "100",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "Stingerspammer_I_16"
+    }
+  },
+  "33826": {
+    "_attrs": {
+      "SpriteId": "33826",
+      "ImageFileId": "10742",
+      "X": "375",
+      "Y": "100",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "Stingerspammer_I_17"
+    }
+  },
+  "33827": {
+    "_attrs": {
+      "SpriteId": "33827",
+      "ImageFileId": "10742",
+      "X": "500",
+      "Y": "100",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "Stingerspammer_I_18"
+    }
+  },
+  "33828": {
+    "_attrs": {
+      "SpriteId": "33828",
+      "ImageFileId": "10742",
+      "X": "625",
+      "Y": "100",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "Stingerspammer_I_19"
+    }
+  },
+  "33829": {
+    "_attrs": {
+      "SpriteId": "33829",
+      "ImageFileId": "10742",
+      "X": "0",
+      "Y": "150",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "Stingerspammer_I_20"
+    }
+  },
+  "33830": {
+    "_attrs": {
+      "SpriteId": "33830",
+      "ImageFileId": "10742",
+      "X": "125",
+      "Y": "150",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "Stingerspammer_I_21"
+    }
+  },
+  "33831": {
+    "_attrs": {
+      "SpriteId": "33831",
+      "ImageFileId": "10742",
+      "X": "250",
+      "Y": "150",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "Stingerspammer_I_22"
+    }
+  },
+  "33832": {
+    "_attrs": {
+      "SpriteId": "33832",
+      "ImageFileId": "10742",
+      "X": "375",
+      "Y": "150",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "Stingerspammer_I_23"
+    }
+  },
+  "33833": {
+    "_attrs": {
+      "SpriteId": "33833",
+      "ImageFileId": "10742",
+      "X": "500",
+      "Y": "150",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "Stingerspammer_I_24"
+    }
+  },
+  "33834": {
+    "_attrs": {
+      "SpriteId": "33834",
+      "ImageFileId": "10742",
+      "X": "625",
+      "Y": "150",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "Stingerspammer_I_25"
+    }
+  },
+  "33835": {
+    "_attrs": {
+      "SpriteId": "33835",
+      "ImageFileId": "10742",
+      "X": "0",
+      "Y": "200",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "Stingerspammer_I_26"
+    }
+  },
+  "33836": {
+    "_attrs": {
+      "SpriteId": "33836",
+      "ImageFileId": "10742",
+      "X": "125",
+      "Y": "200",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "Stingerspammer_I_27"
+    }
+  },
+  "33837": {
+    "_attrs": {
+      "SpriteId": "33837",
+      "ImageFileId": "10742",
+      "X": "250",
+      "Y": "200",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "Stingerspammer_I_28"
+    }
+  },
+  "33838": {
+    "_attrs": {
+      "SpriteId": "33838",
+      "ImageFileId": "10742",
+      "X": "375",
+      "Y": "200",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "Stingerspammer_I_29"
+    }
+  },
+  "33839": {
+    "_attrs": {
+      "SpriteId": "33839",
+      "ImageFileId": "10742",
+      "X": "500",
+      "Y": "200",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "Stingerspammer_I_30"
+    }
+  },
+  "33840": {
+    "_attrs": {
+      "SpriteId": "33840",
+      "ImageFileId": "10742",
+      "X": "625",
+      "Y": "200",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "Stingerspammer_I_31"
+    }
+  },
+  "33841": {
+    "_attrs": {
+      "SpriteId": "33841",
+      "ImageFileId": "10742",
+      "X": "0",
+      "Y": "250",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "Stingerspammer_I_32"
+    }
+  },
+  "33842": {
+    "_attrs": {
+      "SpriteId": "33842",
+      "ImageFileId": "10742",
+      "X": "125",
+      "Y": "250",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "Stingerspammer_I_33"
+    }
+  },
+  "33843": {
+    "_attrs": {
+      "SpriteId": "33843",
+      "ImageFileId": "10742",
+      "X": "250",
+      "Y": "250",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "Stingerspammer_I_34"
+    }
+  },
+  "33844": {
+    "_attrs": {
+      "SpriteId": "33844",
+      "ImageFileId": "10742",
+      "X": "375",
+      "Y": "250",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "Stingerspammer_I_35"
+    }
+  },
+  "33845": {
+    "_attrs": {
+      "SpriteId": "33845",
+      "ImageFileId": "10742",
+      "X": "500",
+      "Y": "250",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "Stingerspammer_I_36"
+    }
+  },
+  "33846": {
+    "_attrs": {
+      "SpriteId": "33846",
+      "ImageFileId": "10742",
+      "X": "625",
+      "Y": "250",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "Stingerspammer_I_37"
+    }
+  },
+  "33847": {
+    "_attrs": {
+      "SpriteId": "33847",
+      "ImageFileId": "10742",
+      "X": "0",
+      "Y": "300",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "Stingerspammer_I_38"
+    }
+  },
+  "33848": {
+    "_attrs": {
+      "SpriteId": "33848",
+      "ImageFileId": "10742",
+      "X": "125",
+      "Y": "300",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "Stingerspammer_I_39"
+    }
+  },
+  "33849": {
+    "_attrs": {
+      "SpriteId": "33849",
+      "ImageFileId": "10744",
+      "X": "0",
+      "Y": "0",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_I_0"
+    }
+  },
+  "33850": {
+    "_attrs": {
+      "SpriteId": "33850",
+      "ImageFileId": "10744",
+      "X": "100",
+      "Y": "0",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_I_1"
+    }
+  },
+  "33851": {
+    "_attrs": {
+      "SpriteId": "33851",
+      "ImageFileId": "10744",
+      "X": "0",
+      "Y": "75",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_I_2"
+    }
+  },
+  "33852": {
+    "_attrs": {
+      "SpriteId": "33852",
+      "ImageFileId": "10744",
+      "X": "100",
+      "Y": "75",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_I_3"
+    }
+  },
+  "33853": {
+    "_attrs": {
+      "SpriteId": "33853",
+      "ImageFileId": "10745",
+      "X": "0",
+      "Y": "0",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_ID_0"
+    }
+  },
+  "33854": {
+    "_attrs": {
+      "SpriteId": "33854",
+      "ImageFileId": "10745",
+      "X": "100",
+      "Y": "0",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_ID_1"
+    }
+  },
+  "33855": {
+    "_attrs": {
+      "SpriteId": "33855",
+      "ImageFileId": "10745",
+      "X": "0",
+      "Y": "75",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_ID_2"
+    }
+  },
+  "33856": {
+    "_attrs": {
+      "SpriteId": "33856",
+      "ImageFileId": "10745",
+      "X": "100",
+      "Y": "75",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_ID_3"
+    }
+  },
+  "33857": {
+    "_attrs": {
+      "SpriteId": "33857",
+      "ImageFileId": "10746",
+      "X": "0",
+      "Y": "0",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_ID_4"
+    }
+  },
+  "33858": {
+    "_attrs": {
+      "SpriteId": "33858",
+      "ImageFileId": "10746",
+      "X": "100",
+      "Y": "0",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_ID_5"
+    }
+  },
+  "33859": {
+    "_attrs": {
+      "SpriteId": "33859",
+      "ImageFileId": "10746",
+      "X": "0",
+      "Y": "75",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_ID_6"
+    }
+  },
+  "33860": {
+    "_attrs": {
+      "SpriteId": "33860",
+      "ImageFileId": "10746",
+      "X": "100",
+      "Y": "75",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_ID_7"
+    }
+  },
+  "33861": {
+    "_attrs": {
+      "SpriteId": "33861",
+      "ImageFileId": "10747",
+      "X": "0",
+      "Y": "0",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_IA_0"
+    }
+  },
+  "33862": {
+    "_attrs": {
+      "SpriteId": "33862",
+      "ImageFileId": "10747",
+      "X": "100",
+      "Y": "0",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_IA_1"
+    }
+  },
+  "33863": {
+    "_attrs": {
+      "SpriteId": "33863",
+      "ImageFileId": "10747",
+      "X": "0",
+      "Y": "75",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_IA_2"
+    }
+  },
+  "33864": {
+    "_attrs": {
+      "SpriteId": "33864",
+      "ImageFileId": "10747",
+      "X": "100",
+      "Y": "75",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_IA_3"
+    }
+  },
+  "33865": {
+    "_attrs": {
+      "SpriteId": "33865",
+      "ImageFileId": "10748",
+      "X": "0",
+      "Y": "0",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_IA_4"
+    }
+  },
+  "33866": {
+    "_attrs": {
+      "SpriteId": "33866",
+      "ImageFileId": "10748",
+      "X": "100",
+      "Y": "0",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_IA_5"
+    }
+  },
+  "33867": {
+    "_attrs": {
+      "SpriteId": "33867",
+      "ImageFileId": "10748",
+      "X": "0",
+      "Y": "75",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_IA_6"
+    }
+  },
+  "33868": {
+    "_attrs": {
+      "SpriteId": "33868",
+      "ImageFileId": "10748",
+      "X": "100",
+      "Y": "75",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_IA_7"
+    }
+  },
+  "33869": {
+    "_attrs": {
+      "SpriteId": "33869",
+      "ImageFileId": "10749",
+      "X": "0",
+      "Y": "0",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_IA_8"
+    }
+  },
+  "33870": {
+    "_attrs": {
+      "SpriteId": "33870",
+      "ImageFileId": "10749",
+      "X": "100",
+      "Y": "0",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_IA_9"
+    }
+  },
+  "33871": {
+    "_attrs": {
+      "SpriteId": "33871",
+      "ImageFileId": "10749",
+      "X": "200",
+      "Y": "0",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_IA_10"
+    }
+  },
+  "33872": {
+    "_attrs": {
+      "SpriteId": "33872",
+      "ImageFileId": "10749",
+      "X": "300",
+      "Y": "0",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_IA_11"
+    }
+  },
+  "33873": {
+    "_attrs": {
+      "SpriteId": "33873",
+      "ImageFileId": "10749",
+      "X": "0",
+      "Y": "75",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_IA_12"
+    }
+  },
+  "33874": {
+    "_attrs": {
+      "SpriteId": "33874",
+      "ImageFileId": "10749",
+      "X": "100",
+      "Y": "75",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_IA_13"
+    }
+  },
+  "33875": {
+    "_attrs": {
+      "SpriteId": "33875",
+      "ImageFileId": "10749",
+      "X": "200",
+      "Y": "75",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_IA_14"
+    }
+  },
+  "33876": {
+    "_attrs": {
+      "SpriteId": "33876",
+      "ImageFileId": "10749",
+      "X": "300",
+      "Y": "75",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_IA_15"
+    }
+  },
+  "33877": {
+    "_attrs": {
+      "SpriteId": "33877",
+      "ImageFileId": "10749",
+      "X": "0",
+      "Y": "150",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_IA_16"
+    }
+  },
+  "33878": {
+    "_attrs": {
+      "SpriteId": "33878",
+      "ImageFileId": "10749",
+      "X": "100",
+      "Y": "150",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_IA_17"
+    }
+  },
+  "33879": {
+    "_attrs": {
+      "SpriteId": "33879",
+      "ImageFileId": "10749",
+      "X": "200",
+      "Y": "150",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_IA_18"
+    }
+  },
+  "33880": {
+    "_attrs": {
+      "SpriteId": "33880",
+      "ImageFileId": "10749",
+      "X": "300",
+      "Y": "150",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_IA_19"
+    }
+  },
+  "33881": {
+    "_attrs": {
+      "SpriteId": "33881",
+      "ImageFileId": "10749",
+      "X": "0",
+      "Y": "225",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_IA_20"
+    }
+  },
+  "33882": {
+    "_attrs": {
+      "SpriteId": "33882",
+      "ImageFileId": "10749",
+      "X": "100",
+      "Y": "225",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_IA_21"
+    }
+  },
+  "33883": {
+    "_attrs": {
+      "SpriteId": "33883",
+      "ImageFileId": "10749",
+      "X": "200",
+      "Y": "225",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_IA_22"
+    }
+  },
+  "33884": {
+    "_attrs": {
+      "SpriteId": "33884",
+      "ImageFileId": "10749",
+      "X": "300",
+      "Y": "225",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_IA_23"
+    }
+  },
+  "33885": {
+    "_attrs": {
+      "SpriteId": "33885",
+      "ImageFileId": "10750",
+      "X": "0",
+      "Y": "0",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_E_0"
+    }
+  },
+  "33886": {
+    "_attrs": {
+      "SpriteId": "33886",
+      "ImageFileId": "10750",
+      "X": "100",
+      "Y": "0",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_E_1"
+    }
+  },
+  "33887": {
+    "_attrs": {
+      "SpriteId": "33887",
+      "ImageFileId": "10750",
+      "X": "0",
+      "Y": "75",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_E_2"
+    }
+  },
+  "33888": {
+    "_attrs": {
+      "SpriteId": "33888",
+      "ImageFileId": "10750",
+      "X": "100",
+      "Y": "75",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_E_3"
+    }
+  },
+  "33889": {
+    "_attrs": {
+      "SpriteId": "33889",
+      "ImageFileId": "10751",
+      "X": "0",
+      "Y": "0",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_E_4"
+    }
+  },
+  "33890": {
+    "_attrs": {
+      "SpriteId": "33890",
+      "ImageFileId": "10751",
+      "X": "100",
+      "Y": "0",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_E_5"
+    }
+  },
+  "33891": {
+    "_attrs": {
+      "SpriteId": "33891",
+      "ImageFileId": "10751",
+      "X": "0",
+      "Y": "75",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_E_6"
+    }
+  },
+  "33892": {
+    "_attrs": {
+      "SpriteId": "33892",
+      "ImageFileId": "10751",
+      "X": "100",
+      "Y": "75",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_E_7"
+    }
+  },
+  "33893": {
+    "_attrs": {
+      "SpriteId": "33893",
+      "ImageFileId": "10752",
+      "X": "0",
+      "Y": "0",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_E_8"
+    }
+  },
+  "33894": {
+    "_attrs": {
+      "SpriteId": "33894",
+      "ImageFileId": "10752",
+      "X": "100",
+      "Y": "0",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_E_9"
+    }
+  },
+  "33895": {
+    "_attrs": {
+      "SpriteId": "33895",
+      "ImageFileId": "10752",
+      "X": "200",
+      "Y": "0",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_E_10"
+    }
+  },
+  "33896": {
+    "_attrs": {
+      "SpriteId": "33896",
+      "ImageFileId": "10752",
+      "X": "300",
+      "Y": "0",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_E_11"
+    }
+  },
+  "33897": {
+    "_attrs": {
+      "SpriteId": "33897",
+      "ImageFileId": "10752",
+      "X": "0",
+      "Y": "75",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_E_12"
+    }
+  },
+  "33898": {
+    "_attrs": {
+      "SpriteId": "33898",
+      "ImageFileId": "10752",
+      "X": "100",
+      "Y": "75",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_E_13"
+    }
+  },
+  "33899": {
+    "_attrs": {
+      "SpriteId": "33899",
+      "ImageFileId": "10752",
+      "X": "200",
+      "Y": "75",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_E_14"
+    }
+  },
+  "33900": {
+    "_attrs": {
+      "SpriteId": "33900",
+      "ImageFileId": "10752",
+      "X": "300",
+      "Y": "75",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_E_15"
+    }
+  },
+  "33901": {
+    "_attrs": {
+      "SpriteId": "33901",
+      "ImageFileId": "10752",
+      "X": "0",
+      "Y": "150",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_E_16"
+    }
+  },
+  "33902": {
+    "_attrs": {
+      "SpriteId": "33902",
+      "ImageFileId": "10752",
+      "X": "100",
+      "Y": "150",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_E_17"
+    }
+  },
+  "33903": {
+    "_attrs": {
+      "SpriteId": "33903",
+      "ImageFileId": "10752",
+      "X": "200",
+      "Y": "150",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_E_18"
+    }
+  },
+  "33904": {
+    "_attrs": {
+      "SpriteId": "33904",
+      "ImageFileId": "10752",
+      "X": "300",
+      "Y": "150",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_E_19"
+    }
+  },
+  "33905": {
+    "_attrs": {
+      "SpriteId": "33905",
+      "ImageFileId": "10752",
+      "X": "0",
+      "Y": "225",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_E_20"
+    }
+  },
+  "33906": {
+    "_attrs": {
+      "SpriteId": "33906",
+      "ImageFileId": "10752",
+      "X": "100",
+      "Y": "225",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_E_21"
+    }
+  },
+  "33907": {
+    "_attrs": {
+      "SpriteId": "33907",
+      "ImageFileId": "10752",
+      "X": "200",
+      "Y": "225",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_E_22"
+    }
+  },
+  "33908": {
+    "_attrs": {
+      "SpriteId": "33908",
+      "ImageFileId": "10752",
+      "X": "300",
+      "Y": "225",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_E_23"
+    }
+  },
+  "33909": {
+    "_attrs": {
+      "SpriteId": "33909",
+      "ImageFileId": "10753",
+      "X": "0",
+      "Y": "0",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_E_24"
+    }
+  },
+  "33910": {
+    "_attrs": {
+      "SpriteId": "33910",
+      "ImageFileId": "10753",
+      "X": "100",
+      "Y": "0",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_E_25"
+    }
+  },
+  "33911": {
+    "_attrs": {
+      "SpriteId": "33911",
+      "ImageFileId": "10753",
+      "X": "0",
+      "Y": "75",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_E_26"
+    }
+  },
+  "33912": {
+    "_attrs": {
+      "SpriteId": "33912",
+      "ImageFileId": "10753",
+      "X": "100",
+      "Y": "75",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_E_27"
+    }
+  },
+  "33913": {
+    "_attrs": {
+      "SpriteId": "33913",
+      "ImageFileId": "10754",
+      "X": "0",
+      "Y": "0",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_ED_0"
+    }
+  },
+  "33914": {
+    "_attrs": {
+      "SpriteId": "33914",
+      "ImageFileId": "10754",
+      "X": "100",
+      "Y": "0",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_ED_1"
+    }
+  },
+  "33915": {
+    "_attrs": {
+      "SpriteId": "33915",
+      "ImageFileId": "10754",
+      "X": "0",
+      "Y": "75",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_ED_2"
+    }
+  },
+  "33916": {
+    "_attrs": {
+      "SpriteId": "33916",
+      "ImageFileId": "10754",
+      "X": "100",
+      "Y": "75",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_ED_3"
+    }
+  },
+  "33917": {
+    "_attrs": {
+      "SpriteId": "33917",
+      "ImageFileId": "10755",
+      "X": "0",
+      "Y": "0",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_ED_4"
+    }
+  },
+  "33918": {
+    "_attrs": {
+      "SpriteId": "33918",
+      "ImageFileId": "10755",
+      "X": "100",
+      "Y": "0",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_ED_5"
+    }
+  },
+  "33919": {
+    "_attrs": {
+      "SpriteId": "33919",
+      "ImageFileId": "10755",
+      "X": "0",
+      "Y": "75",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_ED_6"
+    }
+  },
+  "33920": {
+    "_attrs": {
+      "SpriteId": "33920",
+      "ImageFileId": "10755",
+      "X": "100",
+      "Y": "75",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_ED_7"
+    }
+  },
+  "33921": {
+    "_attrs": {
+      "SpriteId": "33921",
+      "ImageFileId": "10756",
+      "X": "0",
+      "Y": "0",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_ED_8"
+    }
+  },
+  "33922": {
+    "_attrs": {
+      "SpriteId": "33922",
+      "ImageFileId": "10756",
+      "X": "100",
+      "Y": "0",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_ED_9"
+    }
+  },
+  "33923": {
+    "_attrs": {
+      "SpriteId": "33923",
+      "ImageFileId": "10756",
+      "X": "200",
+      "Y": "0",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_ED_10"
+    }
+  },
+  "33924": {
+    "_attrs": {
+      "SpriteId": "33924",
+      "ImageFileId": "10756",
+      "X": "300",
+      "Y": "0",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_ED_11"
+    }
+  },
+  "33925": {
+    "_attrs": {
+      "SpriteId": "33925",
+      "ImageFileId": "10756",
+      "X": "0",
+      "Y": "75",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_ED_12"
+    }
+  },
+  "33926": {
+    "_attrs": {
+      "SpriteId": "33926",
+      "ImageFileId": "10756",
+      "X": "100",
+      "Y": "75",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_ED_13"
+    }
+  },
+  "33927": {
+    "_attrs": {
+      "SpriteId": "33927",
+      "ImageFileId": "10756",
+      "X": "200",
+      "Y": "75",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_ED_14"
+    }
+  },
+  "33928": {
+    "_attrs": {
+      "SpriteId": "33928",
+      "ImageFileId": "10756",
+      "X": "300",
+      "Y": "75",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_ED_15"
+    }
+  },
+  "33929": {
+    "_attrs": {
+      "SpriteId": "33929",
+      "ImageFileId": "10756",
+      "X": "0",
+      "Y": "150",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_ED_16"
+    }
+  },
+  "33930": {
+    "_attrs": {
+      "SpriteId": "33930",
+      "ImageFileId": "10756",
+      "X": "100",
+      "Y": "150",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_ED_17"
+    }
+  },
+  "33931": {
+    "_attrs": {
+      "SpriteId": "33931",
+      "ImageFileId": "10756",
+      "X": "200",
+      "Y": "150",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_ED_18"
+    }
+  },
+  "33932": {
+    "_attrs": {
+      "SpriteId": "33932",
+      "ImageFileId": "10756",
+      "X": "300",
+      "Y": "150",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_ED_19"
+    }
+  },
+  "33933": {
+    "_attrs": {
+      "SpriteId": "33933",
+      "ImageFileId": "10756",
+      "X": "0",
+      "Y": "225",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_ED_20"
+    }
+  },
+  "33934": {
+    "_attrs": {
+      "SpriteId": "33934",
+      "ImageFileId": "10756",
+      "X": "100",
+      "Y": "225",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_ED_21"
+    }
+  },
+  "33935": {
+    "_attrs": {
+      "SpriteId": "33935",
+      "ImageFileId": "10756",
+      "X": "200",
+      "Y": "225",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_ED_22"
+    }
+  },
+  "33936": {
+    "_attrs": {
+      "SpriteId": "33936",
+      "ImageFileId": "10756",
+      "X": "300",
+      "Y": "225",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_ED_23"
+    }
+  },
+  "33937": {
+    "_attrs": {
+      "SpriteId": "33937",
+      "ImageFileId": "10757",
+      "X": "0",
+      "Y": "0",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_ED_24"
+    }
+  },
+  "33938": {
+    "_attrs": {
+      "SpriteId": "33938",
+      "ImageFileId": "10757",
+      "X": "100",
+      "Y": "0",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_ED_25"
+    }
+  },
+  "33939": {
+    "_attrs": {
+      "SpriteId": "33939",
+      "ImageFileId": "10757",
+      "X": "0",
+      "Y": "75",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_ED_26"
+    }
+  },
+  "33940": {
+    "_attrs": {
+      "SpriteId": "33940",
+      "ImageFileId": "10757",
+      "X": "100",
+      "Y": "75",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_ED_27"
+    }
+  },
+  "33941": {
+    "_attrs": {
+      "SpriteId": "33941",
+      "ImageFileId": "10759",
+      "X": "0",
+      "Y": "0",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_ED_28"
+    }
+  },
+  "33942": {
+    "_attrs": {
+      "SpriteId": "33942",
+      "ImageFileId": "10759",
+      "X": "100",
+      "Y": "0",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_ED_29"
+    }
+  },
+  "33943": {
+    "_attrs": {
+      "SpriteId": "33943",
+      "ImageFileId": "10759",
+      "X": "0",
+      "Y": "75",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_ED_30"
+    }
+  },
+  "33944": {
+    "_attrs": {
+      "SpriteId": "33944",
+      "ImageFileId": "10759",
+      "X": "100",
+      "Y": "75",
+      "Width": "100",
+      "Height": "75",
+      "SpriteKey": "AshenRocketsurferPhoenix_ED_31"
+    }
+  },
+  "33945": {
+    "_attrs": {
+      "SpriteId": "33945",
+      "ImageFileId": "10760",
+      "X": "75",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "MalevolentShrine_I_0"
+    }
+  },
+  "33946": {
+    "_attrs": {
+      "SpriteId": "33946",
+      "ImageFileId": "10760",
+      "X": "0",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "MalevolentShrine_I_1"
+    }
+  },
+  "33947": {
+    "_attrs": {
+      "SpriteId": "33947",
+      "ImageFileId": "10760",
+      "X": "75",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "MalevolentShrine_I_2"
+    }
+  },
+  "33948": {
+    "_attrs": {
+      "SpriteId": "33948",
+      "ImageFileId": "10760",
+      "X": "0",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "MalevolentShrine_I_3"
+    }
+  },
+  "33949": {
+    "_attrs": {
+      "SpriteId": "33949",
+      "ImageFileId": "10761",
+      "X": "75",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "MalevolentShrine_ID_0"
+    }
+  },
+  "33950": {
+    "_attrs": {
+      "SpriteId": "33950",
+      "ImageFileId": "10761",
+      "X": "0",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "MalevolentShrine_ID_1"
+    }
+  },
+  "33951": {
+    "_attrs": {
+      "SpriteId": "33951",
+      "ImageFileId": "10761",
+      "X": "75",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "MalevolentShrine_ID_2"
+    }
+  },
+  "33952": {
+    "_attrs": {
+      "SpriteId": "33952",
+      "ImageFileId": "10761",
+      "X": "0",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "MalevolentShrine_ID_3"
+    }
+  },
+  "33953": {
+    "_attrs": {
+      "SpriteId": "33953",
+      "ImageFileId": "10762",
+      "X": "0",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "MalevolentShrine_ID_4"
+    }
+  },
+  "33954": {
+    "_attrs": {
+      "SpriteId": "33954",
+      "ImageFileId": "10762",
+      "X": "75",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "MalevolentShrine_ID_5"
+    }
+  },
+  "33955": {
+    "_attrs": {
+      "SpriteId": "33955",
+      "ImageFileId": "10762",
+      "X": "150",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "MalevolentShrine_ID_6"
+    }
+  },
+  "33956": {
+    "_attrs": {
+      "SpriteId": "33956",
+      "ImageFileId": "10762",
+      "X": "150",
+      "Y": "100",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "MalevolentShrine_ID_7"
+    }
+  },
+  "33957": {
+    "_attrs": {
+      "SpriteId": "33957",
+      "ImageFileId": "10762",
+      "X": "0",
+      "Y": "100",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "MalevolentShrine_ID_8"
+    }
+  },
+  "33958": {
+    "_attrs": {
+      "SpriteId": "33958",
+      "ImageFileId": "10762",
+      "X": "75",
+      "Y": "100",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "MalevolentShrine_ID_9"
+    }
+  },
+  "33959": {
+    "_attrs": {
+      "SpriteId": "33959",
+      "ImageFileId": "10762",
+      "X": "0",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "MalevolentShrine_ID_10"
+    }
+  },
+  "33960": {
+    "_attrs": {
+      "SpriteId": "33960",
+      "ImageFileId": "10762",
+      "X": "75",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "MalevolentShrine_ID_11"
+    }
+  },
+  "33961": {
+    "_attrs": {
+      "SpriteId": "33961",
+      "ImageFileId": "10762",
+      "X": "150",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "MalevolentShrine_ID_12"
+    }
+  },
+  "33962": {
+    "_attrs": {
+      "SpriteId": "33962",
+      "ImageFileId": "10762",
+      "X": "75",
+      "Y": "150",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "MalevolentShrine_ID_13"
+    }
+  },
+  "33963": {
+    "_attrs": {
+      "SpriteId": "33963",
+      "ImageFileId": "10762",
+      "X": "0",
+      "Y": "150",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "MalevolentShrine_ID_14"
+    }
+  },
+  "33964": {
+    "_attrs": {
+      "SpriteId": "33964",
+      "ImageFileId": "10763",
+      "X": "0",
+      "Y": "0",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "PBHMassTeleporter_I_0"
+    }
+  },
+  "33965": {
+    "_attrs": {
+      "SpriteId": "33965",
+      "ImageFileId": "10763",
+      "X": "0",
+      "Y": "0",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "PBHMassTeleporter_I_1"
+    }
+  },
+  "33966": {
+    "_attrs": {
+      "SpriteId": "33966",
+      "ImageFileId": "10763",
+      "X": "0",
+      "Y": "0",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "PBHMassTeleporter_I_2"
+    }
+  },
+  "33967": {
+    "_attrs": {
+      "SpriteId": "33967",
+      "ImageFileId": "10764",
+      "X": "0",
+      "Y": "0",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "PBHMassTeleporter_IA_0"
+    }
+  },
+  "33968": {
+    "_attrs": {
+      "SpriteId": "33968",
+      "ImageFileId": "10764",
+      "X": "0",
+      "Y": "0",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "PBHMassTeleporter_IA_1"
+    }
+  },
+  "33969": {
+    "_attrs": {
+      "SpriteId": "33969",
+      "ImageFileId": "10764",
+      "X": "0",
+      "Y": "0",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "PBHMassTeleporter_IA_2"
+    }
+  },
+  "33970": {
+    "_attrs": {
+      "SpriteId": "33970",
+      "ImageFileId": "10765",
+      "X": "0",
+      "Y": "0",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "PBHMassTeleporter_IA_3"
+    }
+  },
+  "33971": {
+    "_attrs": {
+      "SpriteId": "33971",
+      "ImageFileId": "10765",
+      "X": "125",
+      "Y": "0",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "PBHMassTeleporter_IA_4"
+    }
+  },
+  "33972": {
+    "_attrs": {
+      "SpriteId": "33972",
+      "ImageFileId": "10765",
+      "X": "0",
+      "Y": "50",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "PBHMassTeleporter_IA_5"
+    }
+  },
+  "33973": {
+    "_attrs": {
+      "SpriteId": "33973",
+      "ImageFileId": "10765",
+      "X": "125",
+      "Y": "50",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "PBHMassTeleporter_IA_6"
+    }
+  },
+  "33974": {
+    "_attrs": {
+      "SpriteId": "33974",
+      "ImageFileId": "10765",
+      "X": "0",
+      "Y": "100",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "PBHMassTeleporter_IA_7"
+    }
+  },
+  "33975": {
+    "_attrs": {
+      "SpriteId": "33975",
+      "ImageFileId": "10765",
+      "X": "125",
+      "Y": "100",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "PBHMassTeleporter_IA_8"
+    }
+  },
+  "33976": {
+    "_attrs": {
+      "SpriteId": "33976",
+      "ImageFileId": "10766",
+      "X": "0",
+      "Y": "0",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "PBHMassTeleporter_ID_0"
+    }
+  },
+  "33977": {
+    "_attrs": {
+      "SpriteId": "33977",
+      "ImageFileId": "10766",
+      "X": "0",
+      "Y": "0",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "PBHMassTeleporter_ID_1"
+    }
+  },
+  "33978": {
+    "_attrs": {
+      "SpriteId": "33978",
+      "ImageFileId": "10766",
+      "X": "0",
+      "Y": "0",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "PBHMassTeleporter_ID_2"
+    }
+  },
+  "33979": {
+    "_attrs": {
+      "SpriteId": "33979",
+      "ImageFileId": "10767",
+      "X": "0",
+      "Y": "0",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "PBHMassTeleporter_ID_3"
+    }
+  },
+  "33980": {
+    "_attrs": {
+      "SpriteId": "33980",
+      "ImageFileId": "10767",
+      "X": "125",
+      "Y": "0",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "PBHMassTeleporter_ID_4"
+    }
+  },
+  "33981": {
+    "_attrs": {
+      "SpriteId": "33981",
+      "ImageFileId": "10767",
+      "X": "0",
+      "Y": "50",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "PBHMassTeleporter_ID_5"
+    }
+  },
+  "33982": {
+    "_attrs": {
+      "SpriteId": "33982",
+      "ImageFileId": "10767",
+      "X": "125",
+      "Y": "50",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "PBHMassTeleporter_ID_6"
+    }
+  },
+  "33983": {
+    "_attrs": {
+      "SpriteId": "33983",
+      "ImageFileId": "10767",
+      "X": "0",
+      "Y": "100",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "PBHMassTeleporter_ID_7"
+    }
+  },
+  "33984": {
+    "_attrs": {
+      "SpriteId": "33984",
+      "ImageFileId": "10767",
+      "X": "125",
+      "Y": "100",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "PBHMassTeleporter_ID_8"
+    }
+  },
+  "33985": {
+    "_attrs": {
+      "SpriteId": "33985",
+      "ImageFileId": "10768",
+      "X": "0",
+      "Y": "0",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "PBHMassTeleporter_ID_9"
+    }
+  },
+  "33986": {
+    "_attrs": {
+      "SpriteId": "33986",
+      "ImageFileId": "10768",
+      "X": "0",
+      "Y": "50",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "PBHMassTeleporter_ID_10"
+    }
+  },
+  "33987": {
+    "_attrs": {
+      "SpriteId": "33987",
+      "ImageFileId": "10769",
+      "X": "0",
+      "Y": "0",
+      "Width": "75",
+      "Height": "75",
+      "SpriteKey": "FMS-FederationMissileSilo_N_0"
+    }
+  },
+  "33988": {
+    "_attrs": {
+      "SpriteId": "33988",
+      "ImageFileId": "10769",
+      "X": "0",
+      "Y": "0",
+      "Width": "75",
+      "Height": "75",
+      "SpriteKey": "FMS-FederationMissileSilo_N_1"
+    }
+  },
+  "33989": {
+    "_attrs": {
+      "SpriteId": "33989",
+      "ImageFileId": "10769",
+      "X": "0",
+      "Y": "0",
+      "Width": "75",
+      "Height": "75",
+      "SpriteKey": "FMS-FederationMissileSilo_N_2"
+    }
+  },
+  "33990": {
+    "_attrs": {
+      "SpriteId": "33990",
+      "ImageFileId": "10770",
+      "X": "0",
+      "Y": "0",
+      "Width": "75",
+      "Height": "75",
+      "SpriteKey": "FMS-FederationMissileSilo_I_0"
+    }
+  },
+  "33991": {
+    "_attrs": {
+      "SpriteId": "33991",
+      "ImageFileId": "10770",
+      "X": "0",
+      "Y": "0",
+      "Width": "75",
+      "Height": "75",
+      "SpriteKey": "FMS-FederationMissileSilo_I_1"
+    }
+  },
+  "33992": {
+    "_attrs": {
+      "SpriteId": "33992",
+      "ImageFileId": "10770",
+      "X": "0",
+      "Y": "0",
+      "Width": "75",
+      "Height": "75",
+      "SpriteKey": "FMS-FederationMissileSilo_I_2"
+    }
+  },
+  "33993": {
+    "_attrs": {
+      "SpriteId": "33993",
+      "ImageFileId": "10771",
+      "X": "0",
+      "Y": "0",
+      "Width": "75",
+      "Height": "75",
+      "SpriteKey": "FMS-FederationMissileSilo_I_3"
+    }
+  },
+  "33994": {
+    "_attrs": {
+      "SpriteId": "33994",
+      "ImageFileId": "10771",
+      "X": "0",
+      "Y": "0",
+      "Width": "75",
+      "Height": "75",
+      "SpriteKey": "FMS-FederationMissileSilo_I_4"
+    }
+  },
+  "33995": {
+    "_attrs": {
+      "SpriteId": "33995",
+      "ImageFileId": "10772",
+      "X": "0",
+      "Y": "0",
+      "Width": "75",
+      "Height": "75",
+      "SpriteKey": "FMS-FederationMissileSilo_IA_0"
+    }
+  },
+  "33996": {
+    "_attrs": {
+      "SpriteId": "33996",
+      "ImageFileId": "10772",
+      "X": "0",
+      "Y": "0",
+      "Width": "75",
+      "Height": "75",
+      "SpriteKey": "FMS-FederationMissileSilo_IA_1"
+    }
+  },
+  "33997": {
+    "_attrs": {
+      "SpriteId": "33997",
+      "ImageFileId": "10772",
+      "X": "0",
+      "Y": "0",
+      "Width": "75",
+      "Height": "75",
+      "SpriteKey": "FMS-FederationMissileSilo_IA_2"
+    }
+  },
+  "33998": {
+    "_attrs": {
+      "SpriteId": "33998",
+      "ImageFileId": "10773",
+      "X": "0",
+      "Y": "0",
+      "Width": "75",
+      "Height": "75",
+      "SpriteKey": "FMS-FederationMissileSilo_IA_3"
+    }
+  },
+  "33999": {
+    "_attrs": {
+      "SpriteId": "33999",
+      "ImageFileId": "10773",
+      "X": "0",
+      "Y": "0",
+      "Width": "75",
+      "Height": "75",
+      "SpriteKey": "FMS-FederationMissileSilo_IA_4"
+    }
+  },
+  "34000": {
+    "_attrs": {
+      "SpriteId": "34000",
+      "ImageFileId": "10774",
+      "X": "75",
+      "Y": "375",
+      "Width": "75",
+      "Height": "75",
+      "SpriteKey": "FMS-FederationMissileSilo_IA_5"
+    }
+  },
+  "34001": {
+    "_attrs": {
+      "SpriteId": "34001",
+      "ImageFileId": "10774",
+      "X": "0",
+      "Y": "375",
+      "Width": "75",
+      "Height": "75",
+      "SpriteKey": "FMS-FederationMissileSilo_IA_6"
+    }
+  },
+  "34002": {
+    "_attrs": {
+      "SpriteId": "34002",
+      "ImageFileId": "10774",
+      "X": "375",
+      "Y": "300",
+      "Width": "75",
+      "Height": "75",
+      "SpriteKey": "FMS-FederationMissileSilo_IA_7"
+    }
+  },
+  "34003": {
+    "_attrs": {
+      "SpriteId": "34003",
+      "ImageFileId": "10774",
+      "X": "300",
+      "Y": "300",
+      "Width": "75",
+      "Height": "75",
+      "SpriteKey": "FMS-FederationMissileSilo_IA_8"
+    }
+  },
+  "34004": {
+    "_attrs": {
+      "SpriteId": "34004",
+      "ImageFileId": "10774",
+      "X": "225",
+      "Y": "300",
+      "Width": "75",
+      "Height": "75",
+      "SpriteKey": "FMS-FederationMissileSilo_IA_9"
+    }
+  },
+  "34005": {
+    "_attrs": {
+      "SpriteId": "34005",
+      "ImageFileId": "10774",
+      "X": "150",
+      "Y": "300",
+      "Width": "75",
+      "Height": "75",
+      "SpriteKey": "FMS-FederationMissileSilo_IA_10"
+    }
+  },
+  "34006": {
+    "_attrs": {
+      "SpriteId": "34006",
+      "ImageFileId": "10774",
+      "X": "75",
+      "Y": "300",
+      "Width": "75",
+      "Height": "75",
+      "SpriteKey": "FMS-FederationMissileSilo_IA_11"
+    }
+  },
+  "34007": {
+    "_attrs": {
+      "SpriteId": "34007",
+      "ImageFileId": "10774",
+      "X": "0",
+      "Y": "300",
+      "Width": "75",
+      "Height": "75",
+      "SpriteKey": "FMS-FederationMissileSilo_IA_12"
+    }
+  },
+  "34008": {
+    "_attrs": {
+      "SpriteId": "34008",
+      "ImageFileId": "10774",
+      "X": "375",
+      "Y": "225",
+      "Width": "75",
+      "Height": "75",
+      "SpriteKey": "FMS-FederationMissileSilo_IA_13"
+    }
+  },
+  "34009": {
+    "_attrs": {
+      "SpriteId": "34009",
+      "ImageFileId": "10774",
+      "X": "300",
+      "Y": "225",
+      "Width": "75",
+      "Height": "75",
+      "SpriteKey": "FMS-FederationMissileSilo_IA_14"
+    }
+  },
+  "34010": {
+    "_attrs": {
+      "SpriteId": "34010",
+      "ImageFileId": "10774",
+      "X": "225",
+      "Y": "225",
+      "Width": "75",
+      "Height": "75",
+      "SpriteKey": "FMS-FederationMissileSilo_IA_15"
+    }
+  },
+  "34011": {
+    "_attrs": {
+      "SpriteId": "34011",
+      "ImageFileId": "10774",
+      "X": "150",
+      "Y": "225",
+      "Width": "75",
+      "Height": "75",
+      "SpriteKey": "FMS-FederationMissileSilo_IA_16"
+    }
+  },
+  "34012": {
+    "_attrs": {
+      "SpriteId": "34012",
+      "ImageFileId": "10774",
+      "X": "75",
+      "Y": "225",
+      "Width": "75",
+      "Height": "75",
+      "SpriteKey": "FMS-FederationMissileSilo_IA_17"
+    }
+  },
+  "34013": {
+    "_attrs": {
+      "SpriteId": "34013",
+      "ImageFileId": "10774",
+      "X": "0",
+      "Y": "225",
+      "Width": "75",
+      "Height": "75",
+      "SpriteKey": "FMS-FederationMissileSilo_IA_18"
+    }
+  },
+  "34014": {
+    "_attrs": {
+      "SpriteId": "34014",
+      "ImageFileId": "10774",
+      "X": "375",
+      "Y": "150",
+      "Width": "75",
+      "Height": "75",
+      "SpriteKey": "FMS-FederationMissileSilo_IA_19"
+    }
+  },
+  "34015": {
+    "_attrs": {
+      "SpriteId": "34015",
+      "ImageFileId": "10774",
+      "X": "300",
+      "Y": "150",
+      "Width": "75",
+      "Height": "75",
+      "SpriteKey": "FMS-FederationMissileSilo_IA_20"
+    }
+  },
+  "34016": {
+    "_attrs": {
+      "SpriteId": "34016",
+      "ImageFileId": "10775",
+      "X": "0",
+      "Y": "0",
+      "Width": "75",
+      "Height": "75",
+      "SpriteKey": "FMS-FederationMissileSilo_E_0"
+    }
+  },
+  "34017": {
+    "_attrs": {
+      "SpriteId": "34017",
+      "ImageFileId": "10775",
+      "X": "0",
+      "Y": "0",
+      "Width": "75",
+      "Height": "75",
+      "SpriteKey": "FMS-FederationMissileSilo_E_1"
+    }
+  },
+  "34018": {
+    "_attrs": {
+      "SpriteId": "34018",
+      "ImageFileId": "10775",
+      "X": "0",
+      "Y": "0",
+      "Width": "75",
+      "Height": "75",
+      "SpriteKey": "FMS-FederationMissileSilo_E_2"
+    }
+  },
+  "34019": {
+    "_attrs": {
+      "SpriteId": "34019",
+      "ImageFileId": "10776",
+      "X": "0",
+      "Y": "0",
+      "Width": "75",
+      "Height": "75",
+      "SpriteKey": "FMS-FederationMissileSilo_E_3"
+    }
+  },
+  "34020": {
+    "_attrs": {
+      "SpriteId": "34020",
+      "ImageFileId": "10776",
+      "X": "0",
+      "Y": "0",
+      "Width": "75",
+      "Height": "75",
+      "SpriteKey": "FMS-FederationMissileSilo_E_4"
+    }
+  },
+  "34021": {
+    "_attrs": {
+      "SpriteId": "34021",
+      "ImageFileId": "10777",
+      "X": "75",
+      "Y": "375",
+      "Width": "75",
+      "Height": "75",
+      "SpriteKey": "FMS-FederationMissileSilo_E_5"
+    }
+  },
+  "34022": {
+    "_attrs": {
+      "SpriteId": "34022",
+      "ImageFileId": "10777",
+      "X": "0",
+      "Y": "375",
+      "Width": "75",
+      "Height": "75",
+      "SpriteKey": "FMS-FederationMissileSilo_E_6"
+    }
+  },
+  "34023": {
+    "_attrs": {
+      "SpriteId": "34023",
+      "ImageFileId": "10777",
+      "X": "375",
+      "Y": "300",
+      "Width": "75",
+      "Height": "75",
+      "SpriteKey": "FMS-FederationMissileSilo_E_7"
+    }
+  },
+  "34024": {
+    "_attrs": {
+      "SpriteId": "34024",
+      "ImageFileId": "10777",
+      "X": "300",
+      "Y": "300",
+      "Width": "75",
+      "Height": "75",
+      "SpriteKey": "FMS-FederationMissileSilo_E_8"
+    }
+  },
+  "34025": {
+    "_attrs": {
+      "SpriteId": "34025",
+      "ImageFileId": "10777",
+      "X": "225",
+      "Y": "300",
+      "Width": "75",
+      "Height": "75",
+      "SpriteKey": "FMS-FederationMissileSilo_E_9"
+    }
+  },
+  "34026": {
+    "_attrs": {
+      "SpriteId": "34026",
+      "ImageFileId": "10777",
+      "X": "150",
+      "Y": "300",
+      "Width": "75",
+      "Height": "75",
+      "SpriteKey": "FMS-FederationMissileSilo_E_10"
+    }
+  },
+  "34027": {
+    "_attrs": {
+      "SpriteId": "34027",
+      "ImageFileId": "10777",
+      "X": "75",
+      "Y": "300",
+      "Width": "75",
+      "Height": "75",
+      "SpriteKey": "FMS-FederationMissileSilo_E_11"
+    }
+  },
+  "34028": {
+    "_attrs": {
+      "SpriteId": "34028",
+      "ImageFileId": "10777",
+      "X": "0",
+      "Y": "300",
+      "Width": "75",
+      "Height": "75",
+      "SpriteKey": "FMS-FederationMissileSilo_E_12"
+    }
+  },
+  "34029": {
+    "_attrs": {
+      "SpriteId": "34029",
+      "ImageFileId": "10777",
+      "X": "375",
+      "Y": "225",
+      "Width": "75",
+      "Height": "75",
+      "SpriteKey": "FMS-FederationMissileSilo_E_13"
+    }
+  },
+  "34030": {
+    "_attrs": {
+      "SpriteId": "34030",
+      "ImageFileId": "10777",
+      "X": "300",
+      "Y": "225",
+      "Width": "75",
+      "Height": "75",
+      "SpriteKey": "FMS-FederationMissileSilo_E_14"
+    }
+  },
+  "34031": {
+    "_attrs": {
+      "SpriteId": "34031",
+      "ImageFileId": "10777",
+      "X": "225",
+      "Y": "225",
+      "Width": "75",
+      "Height": "75",
+      "SpriteKey": "FMS-FederationMissileSilo_E_15"
+    }
+  },
+  "34032": {
+    "_attrs": {
+      "SpriteId": "34032",
+      "ImageFileId": "10777",
+      "X": "150",
+      "Y": "225",
+      "Width": "75",
+      "Height": "75",
+      "SpriteKey": "FMS-FederationMissileSilo_E_16"
+    }
+  },
+  "34033": {
+    "_attrs": {
+      "SpriteId": "34033",
+      "ImageFileId": "10777",
+      "X": "75",
+      "Y": "225",
+      "Width": "75",
+      "Height": "75",
+      "SpriteKey": "FMS-FederationMissileSilo_E_17"
+    }
+  },
+  "34034": {
+    "_attrs": {
+      "SpriteId": "34034",
+      "ImageFileId": "10777",
+      "X": "0",
+      "Y": "225",
+      "Width": "75",
+      "Height": "75",
+      "SpriteKey": "FMS-FederationMissileSilo_E_18"
+    }
+  },
+  "34035": {
+    "_attrs": {
+      "SpriteId": "34035",
+      "ImageFileId": "10777",
+      "X": "375",
+      "Y": "150",
+      "Width": "75",
+      "Height": "75",
+      "SpriteKey": "FMS-FederationMissileSilo_E_19"
+    }
+  },
+  "34036": {
+    "_attrs": {
+      "SpriteId": "34036",
+      "ImageFileId": "10777",
+      "X": "300",
+      "Y": "150",
+      "Width": "75",
+      "Height": "75",
+      "SpriteKey": "FMS-FederationMissileSilo_E_20"
+    }
+  },
+  "34037": {
+    "_attrs": {
+      "SpriteId": "34037",
+      "ImageFileId": "10778",
+      "X": "0",
+      "Y": "0",
+      "Width": "75",
+      "Height": "75",
+      "SpriteKey": "FMS-FederationMissileSilo_E_21"
+    }
+  },
+  "34038": {
+    "_attrs": {
+      "SpriteId": "34038",
+      "ImageFileId": "10778",
+      "X": "0",
+      "Y": "0",
+      "Width": "75",
+      "Height": "75",
+      "SpriteKey": "FMS-FederationMissileSilo_E_22"
+    }
+  },
+  "34039": {
+    "_attrs": {
+      "SpriteId": "34039",
+      "ImageFileId": "10779",
+      "X": "0",
+      "Y": "0",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "BBH-BigBombHangar_I_0"
+    }
+  },
+  "34040": {
+    "_attrs": {
+      "SpriteId": "34040",
+      "ImageFileId": "10780",
+      "X": "0",
+      "Y": "0",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "BBH-BigBombHangar_I_1"
+    }
+  },
+  "34041": {
+    "_attrs": {
+      "SpriteId": "34041",
+      "ImageFileId": "10781",
+      "X": "0",
+      "Y": "0",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "BBH-BigBombHangar_E_0"
+    }
+  },
+  "34042": {
+    "_attrs": {
+      "SpriteId": "34042",
+      "ImageFileId": "10782",
+      "X": "0",
+      "Y": "0",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "BBH-BigBombHangar_E_1"
+    }
+  },
+  "34043": {
+    "_attrs": {
+      "SpriteId": "34043",
+      "ImageFileId": "10783",
+      "X": "0",
+      "Y": "0",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "BBH-BigBombHangar_E_2"
+    }
+  },
+  "34044": {
+    "_attrs": {
+      "SpriteId": "34044",
+      "ImageFileId": "10783",
+      "X": "0",
+      "Y": "0",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "BBH-BigBombHangar_E_3"
+    }
+  },
+  "34045": {
+    "_attrs": {
+      "SpriteId": "34045",
+      "ImageFileId": "10784",
+      "X": "0",
+      "Y": "0",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "BBH-BigBombHangar_ID_0"
+    }
+  },
+  "34046": {
+    "_attrs": {
+      "SpriteId": "34046",
+      "ImageFileId": "10785",
+      "X": "0",
+      "Y": "0",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "BBH-BigBombHangar_ID_1"
+    }
+  },
+  "34047": {
+    "_attrs": {
+      "SpriteId": "34047",
+      "ImageFileId": "10786",
+      "X": "0",
+      "Y": "0",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "BBH-BigBombHangar_ID_2"
+    }
+  },
+  "34048": {
+    "_attrs": {
+      "SpriteId": "34048",
+      "ImageFileId": "10786",
+      "X": "0",
+      "Y": "0",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "BBH-BigBombHangar_ID_3"
+    }
+  },
+  "34049": {
+    "_attrs": {
+      "SpriteId": "34049",
+      "ImageFileId": "10787",
+      "X": "0",
+      "Y": "0",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "BBH-BigBombHangar_ID_4"
+    }
+  },
+  "34050": {
+    "_attrs": {
+      "SpriteId": "34050",
+      "ImageFileId": "10787",
+      "X": "0",
+      "Y": "0",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "BBH-BigBombHangar_ID_5"
+    }
+  },
+  "34051": {
+    "_attrs": {
+      "SpriteId": "34051",
+      "ImageFileId": "10788",
+      "X": "0",
+      "Y": "0",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "BBH-BigBombHangar_ED_0"
+    }
+  },
+  "34052": {
+    "_attrs": {
+      "SpriteId": "34052",
+      "ImageFileId": "10789",
+      "X": "0",
+      "Y": "0",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "BBH-BigBombHangar_ED_1"
+    }
+  },
+  "34053": {
+    "_attrs": {
+      "SpriteId": "34053",
+      "ImageFileId": "10790",
+      "X": "0",
+      "Y": "0",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "BBH-BigBombHangar_ED_2"
+    }
+  },
+  "34054": {
+    "_attrs": {
+      "SpriteId": "34054",
+      "ImageFileId": "10790",
+      "X": "0",
+      "Y": "0",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "BBH-BigBombHangar_ED_3"
+    }
+  },
+  "34055": {
+    "_attrs": {
+      "SpriteId": "34055",
+      "ImageFileId": "10791",
+      "X": "0",
+      "Y": "0",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "BBH-BigBombHangar_ED_4"
+    }
+  },
+  "34056": {
+    "_attrs": {
+      "SpriteId": "34056",
+      "ImageFileId": "10791",
+      "X": "0",
+      "Y": "0",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "BBH-BigBombHangar_ED_5"
+    }
+  },
+  "34057": {
+    "_attrs": {
+      "SpriteId": "34057",
+      "ImageFileId": "10792",
+      "X": "0",
+      "Y": "0",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "BBH-BigBombHangar_ED_6"
+    }
+  },
+  "34058": {
+    "_attrs": {
+      "SpriteId": "34058",
+      "ImageFileId": "10792",
+      "X": "0",
+      "Y": "0",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "BBH-BigBombHangar_ED_7"
+    }
+  },
+  "34059": {
+    "_attrs": {
+      "SpriteId": "34059",
+      "ImageFileId": "10793",
+      "X": "0",
+      "Y": "0",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "BBH-BigBombHangar_IA_0"
+    }
+  },
+  "34060": {
+    "_attrs": {
+      "SpriteId": "34060",
+      "ImageFileId": "10794",
+      "X": "0",
+      "Y": "0",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "BBH-BigBombHangar_IA_1"
+    }
+  },
+  "34061": {
+    "_attrs": {
+      "SpriteId": "34061",
+      "ImageFileId": "10795",
+      "X": "0",
+      "Y": "0",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "BBH-BigBombHangar_IA_2"
+    }
+  },
+  "34062": {
+    "_attrs": {
+      "SpriteId": "34062",
+      "ImageFileId": "10795",
+      "X": "0",
+      "Y": "0",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "BBH-BigBombHangar_IA_3"
+    }
+  },
+  "34063": {
+    "_attrs": {
+      "SpriteId": "34063",
+      "ImageFileId": "10796",
+      "X": "0",
+      "Y": "0",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "BBH-BigBombHangar_IA_4"
+    }
+  },
+  "34064": {
+    "_attrs": {
+      "SpriteId": "34064",
+      "ImageFileId": "10796",
+      "X": "0",
+      "Y": "0",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "BBH-BigBombHangar_IA_5"
+    }
+  },
+  "34065": {
+    "_attrs": {
+      "SpriteId": "34065",
+      "ImageFileId": "10797",
+      "X": "0",
+      "Y": "0",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "BBH-BigBombHangar_IA_6"
+    }
+  },
+  "34066": {
+    "_attrs": {
+      "SpriteId": "34066",
+      "ImageFileId": "10797",
+      "X": "0",
+      "Y": "0",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "BBH-BigBombHangar_IA_7"
+    }
+  },
+  "34067": {
+    "_attrs": {
+      "SpriteId": "34067",
+      "ImageFileId": "10798",
+      "X": "250",
+      "Y": "200",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "BBH-BigBombHangar_IA_8"
+    }
+  },
+  "34068": {
+    "_attrs": {
+      "SpriteId": "34068",
+      "ImageFileId": "10798",
+      "X": "125",
+      "Y": "200",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "BBH-BigBombHangar_IA_9"
+    }
+  },
+  "34069": {
+    "_attrs": {
+      "SpriteId": "34069",
+      "ImageFileId": "10798",
+      "X": "0",
+      "Y": "200",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "BBH-BigBombHangar_IA_10"
+    }
+  },
+  "34070": {
+    "_attrs": {
+      "SpriteId": "34070",
+      "ImageFileId": "10798",
+      "X": "375",
+      "Y": "150",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "BBH-BigBombHangar_IA_11"
+    }
+  },
+  "34071": {
+    "_attrs": {
+      "SpriteId": "34071",
+      "ImageFileId": "10798",
+      "X": "250",
+      "Y": "150",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "BBH-BigBombHangar_IA_12"
+    }
+  },
+  "34072": {
+    "_attrs": {
+      "SpriteId": "34072",
+      "ImageFileId": "10798",
+      "X": "125",
+      "Y": "150",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "BBH-BigBombHangar_IA_13"
+    }
+  },
+  "34073": {
+    "_attrs": {
+      "SpriteId": "34073",
+      "ImageFileId": "10798",
+      "X": "0",
+      "Y": "150",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "BBH-BigBombHangar_IA_14"
+    }
+  },
+  "34074": {
+    "_attrs": {
+      "SpriteId": "34074",
+      "ImageFileId": "10798",
+      "X": "375",
+      "Y": "100",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "BBH-BigBombHangar_IA_15"
+    }
+  },
+  "34075": {
+    "_attrs": {
+      "SpriteId": "34075",
+      "ImageFileId": "10798",
+      "X": "250",
+      "Y": "100",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "BBH-BigBombHangar_IA_16"
+    }
+  },
+  "34076": {
+    "_attrs": {
+      "SpriteId": "34076",
+      "ImageFileId": "10798",
+      "X": "125",
+      "Y": "100",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "BBH-BigBombHangar_IA_17"
+    }
+  },
+  "34077": {
+    "_attrs": {
+      "SpriteId": "34077",
+      "ImageFileId": "10798",
+      "X": "0",
+      "Y": "100",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "BBH-BigBombHangar_IA_18"
+    }
+  },
+  "34078": {
+    "_attrs": {
+      "SpriteId": "34078",
+      "ImageFileId": "10798",
+      "X": "375",
+      "Y": "50",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "BBH-BigBombHangar_IA_19"
+    }
+  },
+  "34079": {
+    "_attrs": {
+      "SpriteId": "34079",
+      "ImageFileId": "10803",
+      "X": "0",
+      "Y": "0",
+      "Width": "150",
+      "Height": "211",
+      "SpriteKey": "Miru_N_0"
+    }
+  },
+  "34080": {
+    "_attrs": {
+      "SpriteId": "34080",
+      "ImageFileId": "10803",
+      "X": "0",
+      "Y": "0",
+      "Width": "1000",
+      "Height": "1000",
+      "SpriteKey": "Miru_N_1"
+    }
+  },
+  "34081": {
+    "_attrs": {
+      "SpriteId": "34081",
+      "ImageFileId": "10803",
+      "X": "0",
+      "Y": "0",
+      "Width": "1000",
+      "Height": "1000",
+      "SpriteKey": "Miru_N_2"
+    }
+  },
+  "34082": {
+    "_attrs": {
+      "SpriteId": "34082",
+      "ImageFileId": "10804",
+      "X": "0",
+      "Y": "0",
+      "Width": "500",
+      "Height": "500",
+      "SpriteKey": "CertifiedKrillIssue_N_0"
+    }
+  },
+  "34083": {
+    "_attrs": {
+      "SpriteId": "34083",
+      "ImageFileId": "10804",
+      "X": "0",
+      "Y": "0",
+      "Width": "500",
+      "Height": "500",
+      "SpriteKey": "CertifiedKrillIssue_N_1"
+    }
+  },
+  "34084": {
+    "_attrs": {
+      "SpriteId": "34084",
+      "ImageFileId": "10804",
+      "X": "0",
+      "Y": "0",
+      "Width": "500",
+      "Height": "500",
+      "SpriteKey": "CertifiedKrillIssue_N_2"
+    }
+  },
+  "34085": {
+    "_attrs": {
+      "SpriteId": "34085",
+      "ImageFileId": "10805",
+      "X": "0",
+      "Y": "0",
+      "Width": "256",
+      "Height": "250",
+      "SpriteKey": "HungrySloth_N_0"
+    }
+  },
+  "34086": {
+    "_attrs": {
+      "SpriteId": "34086",
+      "ImageFileId": "10805",
+      "X": "0",
+      "Y": "0",
+      "Width": "256",
+      "Height": "250",
+      "SpriteKey": "HungrySloth_N_1"
+    }
+  },
+  "34087": {
+    "_attrs": {
+      "SpriteId": "34087",
+      "ImageFileId": "10805",
+      "X": "0",
+      "Y": "0",
+      "Width": "256",
+      "Height": "250",
+      "SpriteKey": "HungrySloth_N_2"
+    }
+  },
+  "34088": {
+    "_attrs": {
+      "SpriteId": "34088",
+      "ImageFileId": "10806",
+      "X": "0",
+      "Y": "0",
+      "Width": "256",
+      "Height": "250",
+      "SpriteKey": "HungrySloth_N_3"
+    }
+  },
+  "34089": {
+    "_attrs": {
+      "SpriteId": "34089",
+      "ImageFileId": "10807",
+      "X": "0",
+      "Y": "0",
+      "Width": "86",
+      "Height": "76",
+      "SpriteKey": "Danger!Explosives!_N_0"
+    }
+  },
+  "34090": {
+    "_attrs": {
+      "SpriteId": "34090",
+      "ImageFileId": "10807",
+      "X": "0",
+      "Y": "0",
+      "Width": "86",
+      "Height": "76",
+      "SpriteKey": "Danger!Explosives!_N_1"
+    }
+  },
+  "34091": {
+    "_attrs": {
+      "SpriteId": "34091",
+      "ImageFileId": "10807",
+      "X": "0",
+      "Y": "0",
+      "Width": "86",
+      "Height": "76",
+      "SpriteKey": "Danger!Explosives!_N_2"
+    }
+  },
+  "34092": {
+    "_attrs": {
+      "SpriteId": "34092",
+      "ImageFileId": "10808",
+      "X": "0",
+      "Y": "0",
+      "Width": "550",
+      "Height": "554",
+      "SpriteKey": "Archiessticker_N_0"
+    }
+  },
+  "34093": {
+    "_attrs": {
+      "SpriteId": "34093",
+      "ImageFileId": "10808",
+      "X": "0",
+      "Y": "0",
+      "Width": "550",
+      "Height": "554",
+      "SpriteKey": "Archiessticker_N_1"
+    }
+  },
+  "34094": {
+    "_attrs": {
+      "SpriteId": "34094",
+      "ImageFileId": "10808",
+      "X": "0",
+      "Y": "0",
+      "Width": "550",
+      "Height": "554",
+      "SpriteKey": "Archiessticker_N_2"
+    }
+  },
+  "34095": {
+    "_attrs": {
+      "SpriteId": "34095",
+      "ImageFileId": "10809",
+      "X": "0",
+      "Y": "0",
+      "Width": "240",
+      "Height": "240",
+      "SpriteKey": "ex-machina_zhwi_N_0"
+    }
+  },
+  "34096": {
+    "_attrs": {
+      "SpriteId": "34096",
+      "ImageFileId": "10809",
+      "X": "0",
+      "Y": "0",
+      "Width": "240",
+      "Height": "240",
+      "SpriteKey": "ex-machina_zhwi_N_1"
+    }
+  },
+  "34097": {
+    "_attrs": {
+      "SpriteId": "34097",
+      "ImageFileId": "10809",
+      "X": "0",
+      "Y": "0",
+      "Width": "240",
+      "Height": "240",
+      "SpriteKey": "ex-machina_zhwi_N_2"
+    }
+  },
+  "34098": {
+    "_attrs": {
+      "SpriteId": "34098",
+      "ImageFileId": "10810",
+      "X": "100",
+      "Y": "0",
+      "Width": "25",
+      "Height": "50",
+      "SpriteKey": "DefenderCapacitor_N_0"
+    }
+  },
+  "34099": {
+    "_attrs": {
+      "SpriteId": "34099",
+      "ImageFileId": "10810",
+      "X": "125",
+      "Y": "0",
+      "Width": "25",
+      "Height": "50",
+      "SpriteKey": "DefenderCapacitor_N_1"
+    }
+  },
+  "34100": {
+    "_attrs": {
+      "SpriteId": "34100",
+      "ImageFileId": "10810",
+      "X": "150",
+      "Y": "0",
+      "Width": "25",
+      "Height": "50",
+      "SpriteKey": "DefenderCapacitor_N_2"
+    }
+  },
+  "34101": {
+    "_attrs": {
+      "SpriteId": "34101",
+      "ImageFileId": "10810",
+      "X": "175",
+      "Y": "0",
+      "Width": "25",
+      "Height": "50",
+      "SpriteKey": "DefenderCapacitor_N_3"
+    }
+  },
+  "34102": {
+    "_attrs": {
+      "SpriteId": "34102",
+      "ImageFileId": "10810",
+      "X": "25",
+      "Y": "50",
+      "Width": "25",
+      "Height": "50",
+      "SpriteKey": "DefenderCapacitor_N_4"
+    }
+  },
+  "34103": {
+    "_attrs": {
+      "SpriteId": "34103",
+      "ImageFileId": "10810",
+      "X": "50",
+      "Y": "50",
+      "Width": "25",
+      "Height": "50",
+      "SpriteKey": "DefenderCapacitor_N_5"
+    }
+  },
+  "34104": {
+    "_attrs": {
+      "SpriteId": "34104",
+      "ImageFileId": "10810",
+      "X": "50",
+      "Y": "400",
+      "Width": "25",
+      "Height": "50",
+      "SpriteKey": "DefenderCapacitor_N_6"
+    }
+  },
+  "34105": {
+    "_attrs": {
+      "SpriteId": "34105",
+      "ImageFileId": "10810",
+      "X": "0",
+      "Y": "400",
+      "Width": "25",
+      "Height": "50",
+      "SpriteKey": "DefenderCapacitor_N_7"
+    }
+  },
+  "34106": {
+    "_attrs": {
+      "SpriteId": "34106",
+      "ImageFileId": "10810",
+      "X": "150",
+      "Y": "350",
+      "Width": "25",
+      "Height": "50",
+      "SpriteKey": "DefenderCapacitor_N_8"
+    }
+  },
+  "34107": {
+    "_attrs": {
+      "SpriteId": "34107",
+      "ImageFileId": "10810",
+      "X": "125",
+      "Y": "300",
+      "Width": "25",
+      "Height": "50",
+      "SpriteKey": "DefenderCapacitor_N_9"
+    }
+  },
+  "34108": {
+    "_attrs": {
+      "SpriteId": "34108",
+      "ImageFileId": "10810",
+      "X": "150",
+      "Y": "300",
+      "Width": "25",
+      "Height": "50",
+      "SpriteKey": "DefenderCapacitor_N_10"
+    }
+  },
+  "34109": {
+    "_attrs": {
+      "SpriteId": "34109",
+      "ImageFileId": "10810",
+      "X": "175",
+      "Y": "300",
+      "Width": "25",
+      "Height": "50",
+      "SpriteKey": "DefenderCapacitor_N_11"
+    }
+  },
+  "34110": {
+    "_attrs": {
+      "SpriteId": "34110",
+      "ImageFileId": "10810",
+      "X": "0",
+      "Y": "350",
+      "Width": "25",
+      "Height": "50",
+      "SpriteKey": "DefenderCapacitor_N_12"
+    }
+  },
+  "34111": {
+    "_attrs": {
+      "SpriteId": "34111",
+      "ImageFileId": "10810",
+      "X": "25",
+      "Y": "350",
+      "Width": "25",
+      "Height": "50",
+      "SpriteKey": "DefenderCapacitor_N_13"
+    }
+  },
+  "34112": {
+    "_attrs": {
+      "SpriteId": "34112",
+      "ImageFileId": "10810",
+      "X": "50",
+      "Y": "350",
+      "Width": "25",
+      "Height": "50",
+      "SpriteKey": "DefenderCapacitor_N_14"
+    }
+  },
+  "34113": {
+    "_attrs": {
+      "SpriteId": "34113",
+      "ImageFileId": "10810",
+      "X": "75",
+      "Y": "350",
+      "Width": "25",
+      "Height": "50",
+      "SpriteKey": "DefenderCapacitor_N_15"
+    }
+  },
+  "34114": {
+    "_attrs": {
+      "SpriteId": "34114",
+      "ImageFileId": "10810",
+      "X": "125",
+      "Y": "250",
+      "Width": "25",
+      "Height": "50",
+      "SpriteKey": "DefenderCapacitor_N_16"
+    }
+  },
+  "34115": {
+    "_attrs": {
+      "SpriteId": "34115",
+      "ImageFileId": "10810",
+      "X": "75",
+      "Y": "250",
+      "Width": "25",
+      "Height": "50",
+      "SpriteKey": "DefenderCapacitor_N_17"
+    }
+  },
+  "34116": {
+    "_attrs": {
+      "SpriteId": "34116",
+      "ImageFileId": "10810",
+      "X": "25",
+      "Y": "250",
+      "Width": "25",
+      "Height": "50",
+      "SpriteKey": "DefenderCapacitor_N_18"
+    }
+  },
+  "34117": {
+    "_attrs": {
+      "SpriteId": "34117",
+      "ImageFileId": "10810",
+      "X": "75",
+      "Y": "200",
+      "Width": "25",
+      "Height": "50",
+      "SpriteKey": "DefenderCapacitor_N_19"
+    }
+  },
+  "34118": {
+    "_attrs": {
+      "SpriteId": "34118",
+      "ImageFileId": "10810",
+      "X": "100",
+      "Y": "200",
+      "Width": "25",
+      "Height": "50",
+      "SpriteKey": "DefenderCapacitor_N_20"
+    }
+  },
+  "34119": {
+    "_attrs": {
+      "SpriteId": "34119",
+      "ImageFileId": "10810",
+      "X": "125",
+      "Y": "200",
+      "Width": "25",
+      "Height": "50",
+      "SpriteKey": "DefenderCapacitor_N_21"
+    }
+  },
+  "34120": {
+    "_attrs": {
+      "SpriteId": "34120",
+      "ImageFileId": "10810",
+      "X": "150",
+      "Y": "200",
+      "Width": "25",
+      "Height": "50",
+      "SpriteKey": "DefenderCapacitor_N_22"
+    }
+  },
+  "34121": {
+    "_attrs": {
+      "SpriteId": "34121",
+      "ImageFileId": "10810",
+      "X": "175",
+      "Y": "200",
+      "Width": "25",
+      "Height": "50",
+      "SpriteKey": "DefenderCapacitor_N_23"
+    }
+  },
+  "34122": {
+    "_attrs": {
+      "SpriteId": "34122",
+      "ImageFileId": "10810",
+      "X": "0",
+      "Y": "250",
+      "Width": "25",
+      "Height": "50",
+      "SpriteKey": "DefenderCapacitor_N_24"
+    }
+  },
+  "34123": {
+    "_attrs": {
+      "SpriteId": "34123",
+      "ImageFileId": "10822",
+      "X": "0",
+      "Y": "0",
+      "Width": "24",
+      "Height": "24",
+      "SpriteKey": "zhwi_ico"
+    }
+  },
+  "34124": {
+    "_attrs": {
+      "SpriteId": "34124",
+      "ImageFileId": "10821",
+      "X": "0",
+      "Y": "0",
+      "Width": "24",
+      "Height": "24",
+      "SpriteKey": "skillissue_ico"
+    }
+  },
+  "34125": {
+    "_attrs": {
+      "SpriteId": "34125",
+      "ImageFileId": "10820",
+      "X": "0",
+      "Y": "0",
+      "Width": "24",
+      "Height": "24",
+      "SpriteKey": "miru_ico"
+    }
+  },
+  "34126": {
+    "_attrs": {
+      "SpriteId": "34126",
+      "ImageFileId": "10819",
+      "X": "0",
+      "Y": "0",
+      "Width": "24",
+      "Height": "24",
+      "SpriteKey": "hungryslot_ico"
+    }
+  },
+  "34127": {
+    "_attrs": {
+      "SpriteId": "34127",
+      "ImageFileId": "10818",
+      "X": "0",
+      "Y": "0",
+      "Width": "24",
+      "Height": "24",
+      "SpriteKey": "dexplode_ico"
+    }
+  },
+  "34128": {
+    "_attrs": {
+      "SpriteId": "34128",
+      "ImageFileId": "10817",
+      "X": "0",
+      "Y": "0",
+      "Width": "24",
+      "Height": "24",
+      "SpriteKey": "archies_ico"
+    }
+  },
+  "34129": {
+    "_attrs": {
+      "SpriteId": "34129",
+      "ImageFileId": "10879",
+      "X": "100",
+      "Y": "0",
+      "Width": "25",
+      "Height": "50",
+      "SpriteKey": "DefenderCapacitor_ID_0"
+    }
+  },
+  "34130": {
+    "_attrs": {
+      "SpriteId": "34130",
+      "ImageFileId": "10879",
+      "X": "125",
+      "Y": "0",
+      "Width": "25",
+      "Height": "50",
+      "SpriteKey": "DefenderCapacitor_ID_1"
+    }
+  },
+  "34131": {
+    "_attrs": {
+      "SpriteId": "34131",
+      "ImageFileId": "10879",
+      "X": "150",
+      "Y": "0",
+      "Width": "25",
+      "Height": "50",
+      "SpriteKey": "DefenderCapacitor_ID_2"
+    }
+  },
+  "34132": {
+    "_attrs": {
+      "SpriteId": "34132",
+      "ImageFileId": "10879",
+      "X": "175",
+      "Y": "0",
+      "Width": "25",
+      "Height": "50",
+      "SpriteKey": "DefenderCapacitor_ID_3"
+    }
+  },
+  "34133": {
+    "_attrs": {
+      "SpriteId": "34133",
+      "ImageFileId": "10879",
+      "X": "25",
+      "Y": "50",
+      "Width": "25",
+      "Height": "50",
+      "SpriteKey": "DefenderCapacitor_ID_4"
+    }
+  },
+  "34134": {
+    "_attrs": {
+      "SpriteId": "34134",
+      "ImageFileId": "10879",
+      "X": "50",
+      "Y": "50",
+      "Width": "25",
+      "Height": "50",
+      "SpriteKey": "DefenderCapacitor_ID_5"
+    }
+  },
+  "34135": {
+    "_attrs": {
+      "SpriteId": "34135",
+      "ImageFileId": "10879",
+      "X": "50",
+      "Y": "400",
+      "Width": "25",
+      "Height": "50",
+      "SpriteKey": "DefenderCapacitor_ID_6"
+    }
+  },
+  "34136": {
+    "_attrs": {
+      "SpriteId": "34136",
+      "ImageFileId": "10879",
+      "X": "0",
+      "Y": "400",
+      "Width": "25",
+      "Height": "50",
+      "SpriteKey": "DefenderCapacitor_ID_7"
+    }
+  },
+  "34137": {
+    "_attrs": {
+      "SpriteId": "34137",
+      "ImageFileId": "10879",
+      "X": "150",
+      "Y": "350",
+      "Width": "25",
+      "Height": "50",
+      "SpriteKey": "DefenderCapacitor_ID_8"
+    }
+  },
+  "34138": {
+    "_attrs": {
+      "SpriteId": "34138",
+      "ImageFileId": "10879",
+      "X": "125",
+      "Y": "300",
+      "Width": "25",
+      "Height": "50",
+      "SpriteKey": "DefenderCapacitor_ID_9"
+    }
+  },
+  "34139": {
+    "_attrs": {
+      "SpriteId": "34139",
+      "ImageFileId": "10879",
+      "X": "150",
+      "Y": "300",
+      "Width": "25",
+      "Height": "50",
+      "SpriteKey": "DefenderCapacitor_ID_10"
+    }
+  },
+  "34140": {
+    "_attrs": {
+      "SpriteId": "34140",
+      "ImageFileId": "10879",
+      "X": "175",
+      "Y": "300",
+      "Width": "25",
+      "Height": "50",
+      "SpriteKey": "DefenderCapacitor_ID_11"
+    }
+  },
+  "34141": {
+    "_attrs": {
+      "SpriteId": "34141",
+      "ImageFileId": "10879",
+      "X": "0",
+      "Y": "350",
+      "Width": "25",
+      "Height": "50",
+      "SpriteKey": "DefenderCapacitor_ID_12"
+    }
+  },
+  "34142": {
+    "_attrs": {
+      "SpriteId": "34142",
+      "ImageFileId": "10879",
+      "X": "25",
+      "Y": "350",
+      "Width": "25",
+      "Height": "50",
+      "SpriteKey": "DefenderCapacitor_ID_13"
+    }
+  },
+  "34143": {
+    "_attrs": {
+      "SpriteId": "34143",
+      "ImageFileId": "10879",
+      "X": "50",
+      "Y": "350",
+      "Width": "25",
+      "Height": "50",
+      "SpriteKey": "DefenderCapacitor_ID_14"
+    }
+  },
+  "34144": {
+    "_attrs": {
+      "SpriteId": "34144",
+      "ImageFileId": "10879",
+      "X": "75",
+      "Y": "350",
+      "Width": "25",
+      "Height": "50",
+      "SpriteKey": "DefenderCapacitor_ID_15"
+    }
+  },
+  "34145": {
+    "_attrs": {
+      "SpriteId": "34145",
+      "ImageFileId": "10879",
+      "X": "125",
+      "Y": "250",
+      "Width": "25",
+      "Height": "50",
+      "SpriteKey": "DefenderCapacitor_ID_16"
+    }
+  },
+  "34146": {
+    "_attrs": {
+      "SpriteId": "34146",
+      "ImageFileId": "10879",
+      "X": "75",
+      "Y": "250",
+      "Width": "25",
+      "Height": "50",
+      "SpriteKey": "DefenderCapacitor_ID_17"
+    }
+  },
+  "34147": {
+    "_attrs": {
+      "SpriteId": "34147",
+      "ImageFileId": "10879",
+      "X": "25",
+      "Y": "250",
+      "Width": "25",
+      "Height": "50",
+      "SpriteKey": "DefenderCapacitor_ID_18"
+    }
+  },
+  "34148": {
+    "_attrs": {
+      "SpriteId": "34148",
+      "ImageFileId": "10879",
+      "X": "75",
+      "Y": "200",
+      "Width": "25",
+      "Height": "50",
+      "SpriteKey": "DefenderCapacitor_ID_19"
+    }
+  },
+  "34149": {
+    "_attrs": {
+      "SpriteId": "34149",
+      "ImageFileId": "10879",
+      "X": "100",
+      "Y": "200",
+      "Width": "25",
+      "Height": "50",
+      "SpriteKey": "DefenderCapacitor_ID_20"
+    }
+  },
+  "34150": {
+    "_attrs": {
+      "SpriteId": "34150",
+      "ImageFileId": "10879",
+      "X": "125",
+      "Y": "200",
+      "Width": "25",
+      "Height": "50",
+      "SpriteKey": "DefenderCapacitor_ID_21"
+    }
+  },
+  "34151": {
+    "_attrs": {
+      "SpriteId": "34151",
+      "ImageFileId": "10879",
+      "X": "150",
+      "Y": "200",
+      "Width": "25",
+      "Height": "50",
+      "SpriteKey": "DefenderCapacitor_ID_22"
+    }
+  },
+  "34152": {
+    "_attrs": {
+      "SpriteId": "34152",
+      "ImageFileId": "10879",
+      "X": "175",
+      "Y": "200",
+      "Width": "25",
+      "Height": "50",
+      "SpriteKey": "DefenderCapacitor_ID_23"
+    }
+  },
+  "34153": {
+    "_attrs": {
+      "SpriteId": "34153",
+      "ImageFileId": "10879",
+      "X": "0",
+      "Y": "250",
+      "Width": "25",
+      "Height": "50",
+      "SpriteKey": "DefenderCapacitor_ID_24"
+    }
+  },
+  "34154": {
+    "_attrs": {
+      "SpriteId": "34154",
+      "ImageFileId": "10886",
+      "X": "0",
+      "Y": "0",
+      "Width": "25",
+      "Height": "50",
+      "SpriteKey": "DefenderCapacitor_ID_25"
+    }
+  },
+  "34155": {
+    "_attrs": {
+      "SpriteId": "34155",
+      "ImageFileId": "10886",
+      "X": "0",
+      "Y": "0",
+      "Width": "25",
+      "Height": "50",
+      "SpriteKey": "DefenderCapacitor_ID_26"
+    }
+  },
   "30092": {
     "_attrs": {
       "SpriteId": "30092",
@@ -350624,6 +354408,193 @@
       "SpriteKey": "Bedroom_CaptainQuarters_kit"
     }
   },
+  "33609": {
+    "_attrs": {
+      "SpriteId": "33609",
+      "ImageFileId": "10725",
+      "X": "0",
+      "Y": "0",
+      "Width": "160",
+      "Height": "135",
+      "SpriteKey": "NewRepairDroidProfile"
+    }
+  },
+  "33610": {
+    "_attrs": {
+      "SpriteId": "33610",
+      "ImageFileId": "10726",
+      "X": "0",
+      "Y": "0",
+      "Width": "145",
+      "Height": "140",
+      "SpriteKey": "KamikazeDroidProfile"
+    }
+  },
+  "33611": {
+    "_attrs": {
+      "SpriteId": "33611",
+      "ImageFileId": "10727",
+      "X": "0",
+      "Y": "0",
+      "Width": "96",
+      "Height": "145",
+      "SpriteKey": "AssassinDroidProfile"
+    }
+  },
+  "33612": {
+    "_attrs": {
+      "SpriteId": "33612",
+      "ImageFileId": "10728",
+      "X": "0",
+      "Y": "0",
+      "Width": "50",
+      "Height": "75",
+      "SpriteKey": "E.X.O.Monolith_I_0"
+    }
+  },
+  "33613": {
+    "_attrs": {
+      "SpriteId": "33613",
+      "ImageFileId": "10728",
+      "X": "50",
+      "Y": "0",
+      "Width": "50",
+      "Height": "75",
+      "SpriteKey": "E.X.O.Monolith_I_1"
+    }
+  },
+  "33614": {
+    "_attrs": {
+      "SpriteId": "33614",
+      "ImageFileId": "10728",
+      "X": "100",
+      "Y": "0",
+      "Width": "50",
+      "Height": "75",
+      "SpriteKey": "E.X.O.Monolith_I_2"
+    }
+  },
+  "33615": {
+    "_attrs": {
+      "SpriteId": "33615",
+      "ImageFileId": "10728",
+      "X": "0",
+      "Y": "75",
+      "Width": "50",
+      "Height": "75",
+      "SpriteKey": "E.X.O.Monolith_I_3"
+    }
+  },
+  "33616": {
+    "_attrs": {
+      "SpriteId": "33616",
+      "ImageFileId": "10728",
+      "X": "50",
+      "Y": "75",
+      "Width": "50",
+      "Height": "75",
+      "SpriteKey": "E.X.O.Monolith_I_4"
+    }
+  },
+  "33617": {
+    "_attrs": {
+      "SpriteId": "33617",
+      "ImageFileId": "10728",
+      "X": "100",
+      "Y": "75",
+      "Width": "50",
+      "Height": "75",
+      "SpriteKey": "E.X.O.Monolith_I_5"
+    }
+  },
+  "33618": {
+    "_attrs": {
+      "SpriteId": "33618",
+      "ImageFileId": "10728",
+      "X": "0",
+      "Y": "150",
+      "Width": "50",
+      "Height": "75",
+      "SpriteKey": "E.X.O.Monolith_I_6"
+    }
+  },
+  "33619": {
+    "_attrs": {
+      "SpriteId": "33619",
+      "ImageFileId": "10729",
+      "X": "0",
+      "Y": "0",
+      "Width": "50",
+      "Height": "75",
+      "SpriteKey": "E.X.O.Monolith_ID_0"
+    }
+  },
+  "33620": {
+    "_attrs": {
+      "SpriteId": "33620",
+      "ImageFileId": "10729",
+      "X": "50",
+      "Y": "0",
+      "Width": "50",
+      "Height": "75",
+      "SpriteKey": "E.X.O.Monolith_ID_1"
+    }
+  },
+  "33621": {
+    "_attrs": {
+      "SpriteId": "33621",
+      "ImageFileId": "10729",
+      "X": "100",
+      "Y": "0",
+      "Width": "50",
+      "Height": "75",
+      "SpriteKey": "E.X.O.Monolith_ID_2"
+    }
+  },
+  "33622": {
+    "_attrs": {
+      "SpriteId": "33622",
+      "ImageFileId": "10729",
+      "X": "0",
+      "Y": "75",
+      "Width": "50",
+      "Height": "75",
+      "SpriteKey": "E.X.O.Monolith_ID_3"
+    }
+  },
+  "33623": {
+    "_attrs": {
+      "SpriteId": "33623",
+      "ImageFileId": "10729",
+      "X": "50",
+      "Y": "75",
+      "Width": "50",
+      "Height": "75",
+      "SpriteKey": "E.X.O.Monolith_ID_4"
+    }
+  },
+  "33624": {
+    "_attrs": {
+      "SpriteId": "33624",
+      "ImageFileId": "10729",
+      "X": "100",
+      "Y": "75",
+      "Width": "50",
+      "Height": "75",
+      "SpriteKey": "E.X.O.Monolith_ID_5"
+    }
+  },
+  "33625": {
+    "_attrs": {
+      "SpriteId": "33625",
+      "ImageFileId": "10729",
+      "X": "0",
+      "Y": "150",
+      "Width": "50",
+      "Height": "75",
+      "SpriteKey": "E.X.O.Monolith_ID_6"
+    }
+  },
   "33468": {
     "_attrs": {
       "SpriteId": "33468",
@@ -351051,6 +355022,2063 @@
       "Width": "75",
       "Height": "50",
       "SpriteKey": "TB_RoomSkin20"
+    }
+  },
+  "34156": {
+    "_attrs": {
+      "SpriteId": "34156",
+      "ImageFileId": "1391",
+      "X": "598",
+      "Y": "55",
+      "Width": "21",
+      "Height": "17",
+      "SpriteKey": "TB_T5BlueprintFragment"
+    }
+  },
+  "33626": {
+    "_attrs": {
+      "SpriteId": "33626",
+      "ImageFileId": "10730",
+      "X": "0",
+      "Y": "0",
+      "Width": "50",
+      "Height": "75",
+      "SpriteKey": "E.X.O.Monolith_ID_7"
+    }
+  },
+  "33627": {
+    "_attrs": {
+      "SpriteId": "33627",
+      "ImageFileId": "10730",
+      "X": "50",
+      "Y": "0",
+      "Width": "50",
+      "Height": "75",
+      "SpriteKey": "E.X.O.Monolith_ID_8"
+    }
+  },
+  "33628": {
+    "_attrs": {
+      "SpriteId": "33628",
+      "ImageFileId": "10730",
+      "X": "100",
+      "Y": "0",
+      "Width": "50",
+      "Height": "75",
+      "SpriteKey": "E.X.O.Monolith_ID_9"
+    }
+  },
+  "33629": {
+    "_attrs": {
+      "SpriteId": "33629",
+      "ImageFileId": "10730",
+      "X": "0",
+      "Y": "75",
+      "Width": "50",
+      "Height": "75",
+      "SpriteKey": "E.X.O.Monolith_ID_10"
+    }
+  },
+  "33630": {
+    "_attrs": {
+      "SpriteId": "33630",
+      "ImageFileId": "10730",
+      "X": "50",
+      "Y": "75",
+      "Width": "50",
+      "Height": "75",
+      "SpriteKey": "E.X.O.Monolith_ID_11"
+    }
+  },
+  "33631": {
+    "_attrs": {
+      "SpriteId": "33631",
+      "ImageFileId": "10730",
+      "X": "100",
+      "Y": "75",
+      "Width": "50",
+      "Height": "75",
+      "SpriteKey": "E.X.O.Monolith_ID_12"
+    }
+  },
+  "33632": {
+    "_attrs": {
+      "SpriteId": "33632",
+      "ImageFileId": "10730",
+      "X": "0",
+      "Y": "150",
+      "Width": "50",
+      "Height": "75",
+      "SpriteKey": "E.X.O.Monolith_ID_13"
+    }
+  },
+  "33633": {
+    "_attrs": {
+      "SpriteId": "33633",
+      "ImageFileId": "10731",
+      "X": "0",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_I_0"
+    }
+  },
+  "33634": {
+    "_attrs": {
+      "SpriteId": "33634",
+      "ImageFileId": "10731",
+      "X": "75",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_I_1"
+    }
+  },
+  "33635": {
+    "_attrs": {
+      "SpriteId": "33635",
+      "ImageFileId": "10731",
+      "X": "150",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_I_2"
+    }
+  },
+  "33636": {
+    "_attrs": {
+      "SpriteId": "33636",
+      "ImageFileId": "10731",
+      "X": "225",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_I_3"
+    }
+  },
+  "33637": {
+    "_attrs": {
+      "SpriteId": "33637",
+      "ImageFileId": "10731",
+      "X": "300",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_I_4"
+    }
+  },
+  "33638": {
+    "_attrs": {
+      "SpriteId": "33638",
+      "ImageFileId": "10731",
+      "X": "0",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_I_5"
+    }
+  },
+  "33639": {
+    "_attrs": {
+      "SpriteId": "33639",
+      "ImageFileId": "10731",
+      "X": "75",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_I_6"
+    }
+  },
+  "33640": {
+    "_attrs": {
+      "SpriteId": "33640",
+      "ImageFileId": "10731",
+      "X": "150",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_I_7"
+    }
+  },
+  "33641": {
+    "_attrs": {
+      "SpriteId": "33641",
+      "ImageFileId": "10731",
+      "X": "225",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_I_8"
+    }
+  },
+  "33642": {
+    "_attrs": {
+      "SpriteId": "33642",
+      "ImageFileId": "10731",
+      "X": "300",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_I_9"
+    }
+  },
+  "33643": {
+    "_attrs": {
+      "SpriteId": "33643",
+      "ImageFileId": "10731",
+      "X": "0",
+      "Y": "100",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_I_10"
+    }
+  },
+  "33644": {
+    "_attrs": {
+      "SpriteId": "33644",
+      "ImageFileId": "10731",
+      "X": "75",
+      "Y": "100",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_I_11"
+    }
+  },
+  "33645": {
+    "_attrs": {
+      "SpriteId": "33645",
+      "ImageFileId": "10731",
+      "X": "150",
+      "Y": "100",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_I_12"
+    }
+  },
+  "33646": {
+    "_attrs": {
+      "SpriteId": "33646",
+      "ImageFileId": "10731",
+      "X": "225",
+      "Y": "100",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_I_13"
+    }
+  },
+  "33647": {
+    "_attrs": {
+      "SpriteId": "33647",
+      "ImageFileId": "10731",
+      "X": "300",
+      "Y": "100",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_I_14"
+    }
+  },
+  "33648": {
+    "_attrs": {
+      "SpriteId": "33648",
+      "ImageFileId": "10731",
+      "X": "0",
+      "Y": "150",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_I_15"
+    }
+  },
+  "33649": {
+    "_attrs": {
+      "SpriteId": "33649",
+      "ImageFileId": "10731",
+      "X": "75",
+      "Y": "150",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_I_16"
+    }
+  },
+  "33650": {
+    "_attrs": {
+      "SpriteId": "33650",
+      "ImageFileId": "10731",
+      "X": "150",
+      "Y": "150",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_I_17"
+    }
+  },
+  "33651": {
+    "_attrs": {
+      "SpriteId": "33651",
+      "ImageFileId": "10731",
+      "X": "225",
+      "Y": "150",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_I_18"
+    }
+  },
+  "33652": {
+    "_attrs": {
+      "SpriteId": "33652",
+      "ImageFileId": "10731",
+      "X": "300",
+      "Y": "150",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_I_19"
+    }
+  },
+  "33653": {
+    "_attrs": {
+      "SpriteId": "33653",
+      "ImageFileId": "10731",
+      "X": "0",
+      "Y": "200",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_I_20"
+    }
+  },
+  "33654": {
+    "_attrs": {
+      "SpriteId": "33654",
+      "ImageFileId": "10731",
+      "X": "75",
+      "Y": "200",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_I_21"
+    }
+  },
+  "33655": {
+    "_attrs": {
+      "SpriteId": "33655",
+      "ImageFileId": "10731",
+      "X": "150",
+      "Y": "200",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_I_22"
+    }
+  },
+  "33656": {
+    "_attrs": {
+      "SpriteId": "33656",
+      "ImageFileId": "10731",
+      "X": "225",
+      "Y": "200",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_I_23"
+    }
+  },
+  "33657": {
+    "_attrs": {
+      "SpriteId": "33657",
+      "ImageFileId": "10731",
+      "X": "300",
+      "Y": "200",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_I_24"
+    }
+  },
+  "33658": {
+    "_attrs": {
+      "SpriteId": "33658",
+      "ImageFileId": "10731",
+      "X": "0",
+      "Y": "250",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_I_25"
+    }
+  },
+  "33659": {
+    "_attrs": {
+      "SpriteId": "33659",
+      "ImageFileId": "10731",
+      "X": "75",
+      "Y": "250",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_I_26"
+    }
+  },
+  "33660": {
+    "_attrs": {
+      "SpriteId": "33660",
+      "ImageFileId": "10731",
+      "X": "150",
+      "Y": "250",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_I_27"
+    }
+  },
+  "33661": {
+    "_attrs": {
+      "SpriteId": "33661",
+      "ImageFileId": "10731",
+      "X": "225",
+      "Y": "250",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_I_28"
+    }
+  },
+  "33662": {
+    "_attrs": {
+      "SpriteId": "33662",
+      "ImageFileId": "10731",
+      "X": "300",
+      "Y": "250",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_I_29"
+    }
+  },
+  "33663": {
+    "_attrs": {
+      "SpriteId": "33663",
+      "ImageFileId": "10732",
+      "X": "0",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_IA_0"
+    }
+  },
+  "33664": {
+    "_attrs": {
+      "SpriteId": "33664",
+      "ImageFileId": "10732",
+      "X": "75",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_IA_1"
+    }
+  },
+  "33665": {
+    "_attrs": {
+      "SpriteId": "33665",
+      "ImageFileId": "10732",
+      "X": "150",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_IA_2"
+    }
+  },
+  "33666": {
+    "_attrs": {
+      "SpriteId": "33666",
+      "ImageFileId": "10732",
+      "X": "225",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_IA_3"
+    }
+  },
+  "33667": {
+    "_attrs": {
+      "SpriteId": "33667",
+      "ImageFileId": "10732",
+      "X": "300",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_IA_4"
+    }
+  },
+  "33668": {
+    "_attrs": {
+      "SpriteId": "33668",
+      "ImageFileId": "10732",
+      "X": "0",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_IA_5"
+    }
+  },
+  "33669": {
+    "_attrs": {
+      "SpriteId": "33669",
+      "ImageFileId": "10732",
+      "X": "75",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_IA_6"
+    }
+  },
+  "33670": {
+    "_attrs": {
+      "SpriteId": "33670",
+      "ImageFileId": "10732",
+      "X": "150",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_IA_7"
+    }
+  },
+  "33671": {
+    "_attrs": {
+      "SpriteId": "33671",
+      "ImageFileId": "10732",
+      "X": "225",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_IA_8"
+    }
+  },
+  "33672": {
+    "_attrs": {
+      "SpriteId": "33672",
+      "ImageFileId": "10732",
+      "X": "300",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_IA_9"
+    }
+  },
+  "33673": {
+    "_attrs": {
+      "SpriteId": "33673",
+      "ImageFileId": "10732",
+      "X": "0",
+      "Y": "100",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_IA_10"
+    }
+  },
+  "33674": {
+    "_attrs": {
+      "SpriteId": "33674",
+      "ImageFileId": "10732",
+      "X": "75",
+      "Y": "100",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_IA_11"
+    }
+  },
+  "33675": {
+    "_attrs": {
+      "SpriteId": "33675",
+      "ImageFileId": "10732",
+      "X": "150",
+      "Y": "100",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_IA_12"
+    }
+  },
+  "33676": {
+    "_attrs": {
+      "SpriteId": "33676",
+      "ImageFileId": "10732",
+      "X": "225",
+      "Y": "100",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_IA_13"
+    }
+  },
+  "33677": {
+    "_attrs": {
+      "SpriteId": "33677",
+      "ImageFileId": "10732",
+      "X": "300",
+      "Y": "100",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_IA_14"
+    }
+  },
+  "33678": {
+    "_attrs": {
+      "SpriteId": "33678",
+      "ImageFileId": "10732",
+      "X": "0",
+      "Y": "150",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_IA_15"
+    }
+  },
+  "33679": {
+    "_attrs": {
+      "SpriteId": "33679",
+      "ImageFileId": "10732",
+      "X": "75",
+      "Y": "150",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_IA_16"
+    }
+  },
+  "33680": {
+    "_attrs": {
+      "SpriteId": "33680",
+      "ImageFileId": "10732",
+      "X": "150",
+      "Y": "150",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_IA_17"
+    }
+  },
+  "33681": {
+    "_attrs": {
+      "SpriteId": "33681",
+      "ImageFileId": "10732",
+      "X": "225",
+      "Y": "150",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_IA_18"
+    }
+  },
+  "33682": {
+    "_attrs": {
+      "SpriteId": "33682",
+      "ImageFileId": "10732",
+      "X": "300",
+      "Y": "150",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_IA_19"
+    }
+  },
+  "33683": {
+    "_attrs": {
+      "SpriteId": "33683",
+      "ImageFileId": "10732",
+      "X": "0",
+      "Y": "200",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_IA_20"
+    }
+  },
+  "33684": {
+    "_attrs": {
+      "SpriteId": "33684",
+      "ImageFileId": "10732",
+      "X": "75",
+      "Y": "200",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_IA_21"
+    }
+  },
+  "33685": {
+    "_attrs": {
+      "SpriteId": "33685",
+      "ImageFileId": "10732",
+      "X": "150",
+      "Y": "200",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_IA_22"
+    }
+  },
+  "33686": {
+    "_attrs": {
+      "SpriteId": "33686",
+      "ImageFileId": "10732",
+      "X": "225",
+      "Y": "200",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_IA_23"
+    }
+  },
+  "33687": {
+    "_attrs": {
+      "SpriteId": "33687",
+      "ImageFileId": "10732",
+      "X": "300",
+      "Y": "200",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_IA_24"
+    }
+  },
+  "33688": {
+    "_attrs": {
+      "SpriteId": "33688",
+      "ImageFileId": "10732",
+      "X": "0",
+      "Y": "250",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_IA_25"
+    }
+  },
+  "33689": {
+    "_attrs": {
+      "SpriteId": "33689",
+      "ImageFileId": "10732",
+      "X": "75",
+      "Y": "250",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_IA_26"
+    }
+  },
+  "33690": {
+    "_attrs": {
+      "SpriteId": "33690",
+      "ImageFileId": "10732",
+      "X": "150",
+      "Y": "250",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_IA_27"
+    }
+  },
+  "33691": {
+    "_attrs": {
+      "SpriteId": "33691",
+      "ImageFileId": "10732",
+      "X": "225",
+      "Y": "250",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_IA_28"
+    }
+  },
+  "33692": {
+    "_attrs": {
+      "SpriteId": "33692",
+      "ImageFileId": "10732",
+      "X": "300",
+      "Y": "250",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_IA_29"
+    }
+  },
+  "33693": {
+    "_attrs": {
+      "SpriteId": "33693",
+      "ImageFileId": "10733",
+      "X": "0",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_IA_30"
+    }
+  },
+  "33694": {
+    "_attrs": {
+      "SpriteId": "33694",
+      "ImageFileId": "10733",
+      "X": "75",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_IA_31"
+    }
+  },
+  "33695": {
+    "_attrs": {
+      "SpriteId": "33695",
+      "ImageFileId": "10733",
+      "X": "150",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_IA_32"
+    }
+  },
+  "33696": {
+    "_attrs": {
+      "SpriteId": "33696",
+      "ImageFileId": "10733",
+      "X": "0",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_IA_33"
+    }
+  },
+  "33697": {
+    "_attrs": {
+      "SpriteId": "33697",
+      "ImageFileId": "10733",
+      "X": "75",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_IA_34"
+    }
+  },
+  "33698": {
+    "_attrs": {
+      "SpriteId": "33698",
+      "ImageFileId": "10733",
+      "X": "150",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_IA_35"
+    }
+  },
+  "33699": {
+    "_attrs": {
+      "SpriteId": "33699",
+      "ImageFileId": "10733",
+      "X": "0",
+      "Y": "100",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_IA_36"
+    }
+  },
+  "33700": {
+    "_attrs": {
+      "SpriteId": "33700",
+      "ImageFileId": "10733",
+      "X": "75",
+      "Y": "100",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_IA_37"
+    }
+  },
+  "33701": {
+    "_attrs": {
+      "SpriteId": "33701",
+      "ImageFileId": "10733",
+      "X": "150",
+      "Y": "100",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_IA_38"
+    }
+  },
+  "33702": {
+    "_attrs": {
+      "SpriteId": "33702",
+      "ImageFileId": "10733",
+      "X": "0",
+      "Y": "150",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_IA_39"
+    }
+  },
+  "33703": {
+    "_attrs": {
+      "SpriteId": "33703",
+      "ImageFileId": "10733",
+      "X": "75",
+      "Y": "150",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_IA_40"
+    }
+  },
+  "33704": {
+    "_attrs": {
+      "SpriteId": "33704",
+      "ImageFileId": "10733",
+      "X": "150",
+      "Y": "150",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_IA_41"
+    }
+  },
+  "33705": {
+    "_attrs": {
+      "SpriteId": "33705",
+      "ImageFileId": "10734",
+      "X": "0",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_ID_0"
+    }
+  },
+  "33706": {
+    "_attrs": {
+      "SpriteId": "33706",
+      "ImageFileId": "10734",
+      "X": "75",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_ID_1"
+    }
+  },
+  "33707": {
+    "_attrs": {
+      "SpriteId": "33707",
+      "ImageFileId": "10734",
+      "X": "150",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_ID_2"
+    }
+  },
+  "33708": {
+    "_attrs": {
+      "SpriteId": "33708",
+      "ImageFileId": "10734",
+      "X": "225",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_ID_3"
+    }
+  },
+  "33709": {
+    "_attrs": {
+      "SpriteId": "33709",
+      "ImageFileId": "10734",
+      "X": "300",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_ID_4"
+    }
+  },
+  "33710": {
+    "_attrs": {
+      "SpriteId": "33710",
+      "ImageFileId": "10734",
+      "X": "0",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_ID_5"
+    }
+  },
+  "33711": {
+    "_attrs": {
+      "SpriteId": "33711",
+      "ImageFileId": "10734",
+      "X": "75",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_ID_6"
+    }
+  },
+  "33712": {
+    "_attrs": {
+      "SpriteId": "33712",
+      "ImageFileId": "10734",
+      "X": "150",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_ID_7"
+    }
+  },
+  "33713": {
+    "_attrs": {
+      "SpriteId": "33713",
+      "ImageFileId": "10734",
+      "X": "225",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_ID_8"
+    }
+  },
+  "33714": {
+    "_attrs": {
+      "SpriteId": "33714",
+      "ImageFileId": "10734",
+      "X": "300",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_ID_9"
+    }
+  },
+  "33715": {
+    "_attrs": {
+      "SpriteId": "33715",
+      "ImageFileId": "10734",
+      "X": "0",
+      "Y": "100",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_ID_10"
+    }
+  },
+  "33716": {
+    "_attrs": {
+      "SpriteId": "33716",
+      "ImageFileId": "10734",
+      "X": "75",
+      "Y": "100",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_ID_11"
+    }
+  },
+  "33717": {
+    "_attrs": {
+      "SpriteId": "33717",
+      "ImageFileId": "10734",
+      "X": "150",
+      "Y": "100",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_ID_12"
+    }
+  },
+  "33718": {
+    "_attrs": {
+      "SpriteId": "33718",
+      "ImageFileId": "10734",
+      "X": "225",
+      "Y": "100",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_ID_13"
+    }
+  },
+  "33719": {
+    "_attrs": {
+      "SpriteId": "33719",
+      "ImageFileId": "10734",
+      "X": "300",
+      "Y": "100",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_ID_14"
+    }
+  },
+  "33720": {
+    "_attrs": {
+      "SpriteId": "33720",
+      "ImageFileId": "10734",
+      "X": "0",
+      "Y": "150",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_ID_15"
+    }
+  },
+  "33721": {
+    "_attrs": {
+      "SpriteId": "33721",
+      "ImageFileId": "10734",
+      "X": "75",
+      "Y": "150",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_ID_16"
+    }
+  },
+  "33722": {
+    "_attrs": {
+      "SpriteId": "33722",
+      "ImageFileId": "10734",
+      "X": "150",
+      "Y": "150",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_ID_17"
+    }
+  },
+  "33723": {
+    "_attrs": {
+      "SpriteId": "33723",
+      "ImageFileId": "10734",
+      "X": "225",
+      "Y": "150",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_ID_18"
+    }
+  },
+  "33724": {
+    "_attrs": {
+      "SpriteId": "33724",
+      "ImageFileId": "10734",
+      "X": "300",
+      "Y": "150",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_ID_19"
+    }
+  },
+  "33725": {
+    "_attrs": {
+      "SpriteId": "33725",
+      "ImageFileId": "10734",
+      "X": "0",
+      "Y": "200",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_ID_20"
+    }
+  },
+  "33726": {
+    "_attrs": {
+      "SpriteId": "33726",
+      "ImageFileId": "10734",
+      "X": "75",
+      "Y": "200",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_ID_21"
+    }
+  },
+  "33727": {
+    "_attrs": {
+      "SpriteId": "33727",
+      "ImageFileId": "10734",
+      "X": "150",
+      "Y": "200",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_ID_22"
+    }
+  },
+  "33728": {
+    "_attrs": {
+      "SpriteId": "33728",
+      "ImageFileId": "10734",
+      "X": "225",
+      "Y": "200",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_ID_23"
+    }
+  },
+  "33729": {
+    "_attrs": {
+      "SpriteId": "33729",
+      "ImageFileId": "10734",
+      "X": "300",
+      "Y": "200",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_ID_24"
+    }
+  },
+  "33730": {
+    "_attrs": {
+      "SpriteId": "33730",
+      "ImageFileId": "10734",
+      "X": "0",
+      "Y": "250",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_ID_25"
+    }
+  },
+  "33731": {
+    "_attrs": {
+      "SpriteId": "33731",
+      "ImageFileId": "10734",
+      "X": "75",
+      "Y": "250",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_ID_26"
+    }
+  },
+  "33732": {
+    "_attrs": {
+      "SpriteId": "33732",
+      "ImageFileId": "10734",
+      "X": "150",
+      "Y": "250",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_ID_27"
+    }
+  },
+  "33733": {
+    "_attrs": {
+      "SpriteId": "33733",
+      "ImageFileId": "10734",
+      "X": "225",
+      "Y": "250",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_ID_28"
+    }
+  },
+  "33734": {
+    "_attrs": {
+      "SpriteId": "33734",
+      "ImageFileId": "10734",
+      "X": "300",
+      "Y": "250",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_ID_29"
+    }
+  },
+  "33735": {
+    "_attrs": {
+      "SpriteId": "33735",
+      "ImageFileId": "10735",
+      "X": "0",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_ID_30"
+    }
+  },
+  "33736": {
+    "_attrs": {
+      "SpriteId": "33736",
+      "ImageFileId": "10735",
+      "X": "75",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_ID_31"
+    }
+  },
+  "33737": {
+    "_attrs": {
+      "SpriteId": "33737",
+      "ImageFileId": "10735",
+      "X": "150",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_ID_32"
+    }
+  },
+  "33738": {
+    "_attrs": {
+      "SpriteId": "33738",
+      "ImageFileId": "10735",
+      "X": "0",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_ID_33"
+    }
+  },
+  "33739": {
+    "_attrs": {
+      "SpriteId": "33739",
+      "ImageFileId": "10735",
+      "X": "75",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_ID_34"
+    }
+  },
+  "33740": {
+    "_attrs": {
+      "SpriteId": "33740",
+      "ImageFileId": "10735",
+      "X": "150",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_ID_35"
+    }
+  },
+  "33741": {
+    "_attrs": {
+      "SpriteId": "33741",
+      "ImageFileId": "10735",
+      "X": "0",
+      "Y": "100",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_ID_36"
+    }
+  },
+  "33742": {
+    "_attrs": {
+      "SpriteId": "33742",
+      "ImageFileId": "10735",
+      "X": "75",
+      "Y": "100",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_ID_37"
+    }
+  },
+  "33743": {
+    "_attrs": {
+      "SpriteId": "33743",
+      "ImageFileId": "10735",
+      "X": "150",
+      "Y": "100",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_ID_38"
+    }
+  },
+  "33744": {
+    "_attrs": {
+      "SpriteId": "33744",
+      "ImageFileId": "10735",
+      "X": "0",
+      "Y": "150",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_ID_39"
+    }
+  },
+  "33745": {
+    "_attrs": {
+      "SpriteId": "33745",
+      "ImageFileId": "10735",
+      "X": "75",
+      "Y": "150",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_ID_40"
+    }
+  },
+  "33746": {
+    "_attrs": {
+      "SpriteId": "33746",
+      "ImageFileId": "10735",
+      "X": "150",
+      "Y": "150",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_ID_41"
+    }
+  },
+  "33747": {
+    "_attrs": {
+      "SpriteId": "33747",
+      "ImageFileId": "10736",
+      "X": "0",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_ID_42"
+    }
+  },
+  "33748": {
+    "_attrs": {
+      "SpriteId": "33748",
+      "ImageFileId": "10736",
+      "X": "75",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_ID_43"
+    }
+  },
+  "33749": {
+    "_attrs": {
+      "SpriteId": "33749",
+      "ImageFileId": "10736",
+      "X": "0",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_ID_44"
+    }
+  },
+  "33750": {
+    "_attrs": {
+      "SpriteId": "33750",
+      "ImageFileId": "10736",
+      "X": "75",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_ID_45"
+    }
+  },
+  "33751": {
+    "_attrs": {
+      "SpriteId": "33751",
+      "ImageFileId": "10736",
+      "X": "0",
+      "Y": "100",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "mechanicalbunnygirl_ID_46"
+    }
+  },
+  "33752": {
+    "_attrs": {
+      "SpriteId": "33752",
+      "ImageFileId": "10737",
+      "X": "0",
+      "Y": "0",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "CatEarClinic_I_0"
+    }
+  },
+  "33753": {
+    "_attrs": {
+      "SpriteId": "33753",
+      "ImageFileId": "10737",
+      "X": "50",
+      "Y": "0",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "CatEarClinic_I_1"
+    }
+  },
+  "33754": {
+    "_attrs": {
+      "SpriteId": "33754",
+      "ImageFileId": "10737",
+      "X": "100",
+      "Y": "0",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "CatEarClinic_I_2"
+    }
+  },
+  "33755": {
+    "_attrs": {
+      "SpriteId": "33755",
+      "ImageFileId": "10737",
+      "X": "150",
+      "Y": "0",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "CatEarClinic_I_3"
+    }
+  },
+  "33756": {
+    "_attrs": {
+      "SpriteId": "33756",
+      "ImageFileId": "10737",
+      "X": "200",
+      "Y": "0",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "CatEarClinic_I_4"
+    }
+  },
+  "33757": {
+    "_attrs": {
+      "SpriteId": "33757",
+      "ImageFileId": "10737",
+      "X": "0",
+      "Y": "50",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "CatEarClinic_I_5"
+    }
+  },
+  "33758": {
+    "_attrs": {
+      "SpriteId": "33758",
+      "ImageFileId": "10737",
+      "X": "50",
+      "Y": "50",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "CatEarClinic_I_6"
+    }
+  },
+  "33759": {
+    "_attrs": {
+      "SpriteId": "33759",
+      "ImageFileId": "10737",
+      "X": "100",
+      "Y": "50",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "CatEarClinic_I_7"
+    }
+  },
+  "33760": {
+    "_attrs": {
+      "SpriteId": "33760",
+      "ImageFileId": "10737",
+      "X": "150",
+      "Y": "50",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "CatEarClinic_I_8"
+    }
+  },
+  "33761": {
+    "_attrs": {
+      "SpriteId": "33761",
+      "ImageFileId": "10737",
+      "X": "200",
+      "Y": "50",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "CatEarClinic_I_9"
+    }
+  },
+  "33762": {
+    "_attrs": {
+      "SpriteId": "33762",
+      "ImageFileId": "10737",
+      "X": "0",
+      "Y": "100",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "CatEarClinic_I_10"
+    }
+  },
+  "33763": {
+    "_attrs": {
+      "SpriteId": "33763",
+      "ImageFileId": "10737",
+      "X": "50",
+      "Y": "100",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "CatEarClinic_I_11"
+    }
+  },
+  "33764": {
+    "_attrs": {
+      "SpriteId": "33764",
+      "ImageFileId": "10737",
+      "X": "100",
+      "Y": "100",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "CatEarClinic_I_12"
+    }
+  },
+  "33765": {
+    "_attrs": {
+      "SpriteId": "33765",
+      "ImageFileId": "10737",
+      "X": "150",
+      "Y": "100",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "CatEarClinic_I_13"
+    }
+  },
+  "33766": {
+    "_attrs": {
+      "SpriteId": "33766",
+      "ImageFileId": "10737",
+      "X": "200",
+      "Y": "100",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "CatEarClinic_I_14"
+    }
+  },
+  "33767": {
+    "_attrs": {
+      "SpriteId": "33767",
+      "ImageFileId": "10737",
+      "X": "0",
+      "Y": "150",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "CatEarClinic_I_15"
+    }
+  },
+  "33768": {
+    "_attrs": {
+      "SpriteId": "33768",
+      "ImageFileId": "10737",
+      "X": "50",
+      "Y": "150",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "CatEarClinic_I_16"
+    }
+  },
+  "33769": {
+    "_attrs": {
+      "SpriteId": "33769",
+      "ImageFileId": "10737",
+      "X": "100",
+      "Y": "150",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "CatEarClinic_I_17"
+    }
+  },
+  "33770": {
+    "_attrs": {
+      "SpriteId": "33770",
+      "ImageFileId": "10737",
+      "X": "150",
+      "Y": "150",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "CatEarClinic_I_18"
+    }
+  },
+  "33771": {
+    "_attrs": {
+      "SpriteId": "33771",
+      "ImageFileId": "10737",
+      "X": "200",
+      "Y": "150",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "CatEarClinic_I_19"
+    }
+  },
+  "33772": {
+    "_attrs": {
+      "SpriteId": "33772",
+      "ImageFileId": "10737",
+      "X": "0",
+      "Y": "200",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "CatEarClinic_I_20"
+    }
+  },
+  "33773": {
+    "_attrs": {
+      "SpriteId": "33773",
+      "ImageFileId": "10737",
+      "X": "50",
+      "Y": "200",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "CatEarClinic_I_21"
+    }
+  },
+  "33774": {
+    "_attrs": {
+      "SpriteId": "33774",
+      "ImageFileId": "10737",
+      "X": "100",
+      "Y": "200",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "CatEarClinic_I_22"
+    }
+  },
+  "33775": {
+    "_attrs": {
+      "SpriteId": "33775",
+      "ImageFileId": "10737",
+      "X": "150",
+      "Y": "200",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "CatEarClinic_I_23"
+    }
+  },
+  "33776": {
+    "_attrs": {
+      "SpriteId": "33776",
+      "ImageFileId": "10738",
+      "X": "0",
+      "Y": "0",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "CatEarClinic_ID_0"
+    }
+  },
+  "33777": {
+    "_attrs": {
+      "SpriteId": "33777",
+      "ImageFileId": "10738",
+      "X": "50",
+      "Y": "0",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "CatEarClinic_ID_1"
+    }
+  },
+  "33778": {
+    "_attrs": {
+      "SpriteId": "33778",
+      "ImageFileId": "10738",
+      "X": "100",
+      "Y": "0",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "CatEarClinic_ID_2"
+    }
+  },
+  "33779": {
+    "_attrs": {
+      "SpriteId": "33779",
+      "ImageFileId": "10738",
+      "X": "150",
+      "Y": "0",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "CatEarClinic_ID_3"
+    }
+  },
+  "33780": {
+    "_attrs": {
+      "SpriteId": "33780",
+      "ImageFileId": "10738",
+      "X": "200",
+      "Y": "0",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "CatEarClinic_ID_4"
+    }
+  },
+  "33781": {
+    "_attrs": {
+      "SpriteId": "33781",
+      "ImageFileId": "10738",
+      "X": "0",
+      "Y": "50",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "CatEarClinic_ID_5"
+    }
+  },
+  "33782": {
+    "_attrs": {
+      "SpriteId": "33782",
+      "ImageFileId": "10738",
+      "X": "50",
+      "Y": "50",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "CatEarClinic_ID_6"
+    }
+  },
+  "33783": {
+    "_attrs": {
+      "SpriteId": "33783",
+      "ImageFileId": "10738",
+      "X": "100",
+      "Y": "50",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "CatEarClinic_ID_7"
+    }
+  },
+  "33784": {
+    "_attrs": {
+      "SpriteId": "33784",
+      "ImageFileId": "10738",
+      "X": "150",
+      "Y": "50",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "CatEarClinic_ID_8"
+    }
+  },
+  "33785": {
+    "_attrs": {
+      "SpriteId": "33785",
+      "ImageFileId": "10738",
+      "X": "200",
+      "Y": "50",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "CatEarClinic_ID_9"
+    }
+  },
+  "33786": {
+    "_attrs": {
+      "SpriteId": "33786",
+      "ImageFileId": "10738",
+      "X": "0",
+      "Y": "100",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "CatEarClinic_ID_10"
+    }
+  },
+  "33787": {
+    "_attrs": {
+      "SpriteId": "33787",
+      "ImageFileId": "10738",
+      "X": "50",
+      "Y": "100",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "CatEarClinic_ID_11"
+    }
+  },
+  "33788": {
+    "_attrs": {
+      "SpriteId": "33788",
+      "ImageFileId": "10738",
+      "X": "100",
+      "Y": "100",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "CatEarClinic_ID_12"
+    }
+  },
+  "33789": {
+    "_attrs": {
+      "SpriteId": "33789",
+      "ImageFileId": "10738",
+      "X": "150",
+      "Y": "100",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "CatEarClinic_ID_13"
+    }
+  },
+  "33790": {
+    "_attrs": {
+      "SpriteId": "33790",
+      "ImageFileId": "10738",
+      "X": "200",
+      "Y": "100",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "CatEarClinic_ID_14"
+    }
+  },
+  "33791": {
+    "_attrs": {
+      "SpriteId": "33791",
+      "ImageFileId": "10738",
+      "X": "0",
+      "Y": "150",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "CatEarClinic_ID_15"
+    }
+  },
+  "33792": {
+    "_attrs": {
+      "SpriteId": "33792",
+      "ImageFileId": "10738",
+      "X": "50",
+      "Y": "150",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "CatEarClinic_ID_16"
+    }
+  },
+  "33793": {
+    "_attrs": {
+      "SpriteId": "33793",
+      "ImageFileId": "10738",
+      "X": "100",
+      "Y": "150",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "CatEarClinic_ID_17"
+    }
+  },
+  "33794": {
+    "_attrs": {
+      "SpriteId": "33794",
+      "ImageFileId": "10738",
+      "X": "150",
+      "Y": "150",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "CatEarClinic_ID_18"
+    }
+  },
+  "33795": {
+    "_attrs": {
+      "SpriteId": "33795",
+      "ImageFileId": "10738",
+      "X": "200",
+      "Y": "150",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "CatEarClinic_ID_19"
+    }
+  },
+  "33796": {
+    "_attrs": {
+      "SpriteId": "33796",
+      "ImageFileId": "10738",
+      "X": "0",
+      "Y": "200",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "CatEarClinic_ID_20"
+    }
+  },
+  "33797": {
+    "_attrs": {
+      "SpriteId": "33797",
+      "ImageFileId": "10738",
+      "X": "50",
+      "Y": "200",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "CatEarClinic_ID_21"
+    }
+  },
+  "33798": {
+    "_attrs": {
+      "SpriteId": "33798",
+      "ImageFileId": "10738",
+      "X": "100",
+      "Y": "200",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "CatEarClinic_ID_22"
+    }
+  },
+  "33799": {
+    "_attrs": {
+      "SpriteId": "33799",
+      "ImageFileId": "10738",
+      "X": "150",
+      "Y": "200",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "CatEarClinic_ID_23"
+    }
+  },
+  "33800": {
+    "_attrs": {
+      "SpriteId": "33800",
+      "ImageFileId": "10739",
+      "X": "0",
+      "Y": "0",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "CatEarClinic_ID_24"
+    }
+  },
+  "33801": {
+    "_attrs": {
+      "SpriteId": "33801",
+      "ImageFileId": "10739",
+      "X": "50",
+      "Y": "0",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "CatEarClinic_ID_25"
+    }
+  },
+  "33802": {
+    "_attrs": {
+      "SpriteId": "33802",
+      "ImageFileId": "10739",
+      "X": "0",
+      "Y": "50",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "CatEarClinic_ID_26"
+    }
+  },
+  "33803": {
+    "_attrs": {
+      "SpriteId": "33803",
+      "ImageFileId": "10739",
+      "X": "50",
+      "Y": "50",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "CatEarClinic_ID_27"
+    }
+  },
+  "33804": {
+    "_attrs": {
+      "SpriteId": "33804",
+      "ImageFileId": "10739",
+      "X": "0",
+      "Y": "100",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "CatEarClinic_ID_28"
+    }
+  },
+  "33805": {
+    "_attrs": {
+      "SpriteId": "33805",
+      "ImageFileId": "10739",
+      "X": "50",
+      "Y": "100",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "CatEarClinic_ID_29"
+    }
+  },
+  "33806": {
+    "_attrs": {
+      "SpriteId": "33806",
+      "ImageFileId": "10740",
+      "X": "250",
+      "Y": "300",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "Stingerspammer_ID_0"
+    }
+  },
+  "33807": {
+    "_attrs": {
+      "SpriteId": "33807",
+      "ImageFileId": "10741",
+      "X": "0",
+      "Y": "0",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "Stingerspammer_ID_1"
+    }
+  },
+  "33808": {
+    "_attrs": {
+      "SpriteId": "33808",
+      "ImageFileId": "10741",
+      "X": "0",
+      "Y": "0",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "Stingerspammer_ID_2"
+    }
+  },
+  "33809": {
+    "_attrs": {
+      "SpriteId": "33809",
+      "ImageFileId": "10742",
+      "X": "250",
+      "Y": "300",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "Stingerspammer_I_0"
+    }
+  },
+  "33810": {
+    "_attrs": {
+      "SpriteId": "33810",
+      "ImageFileId": "10743",
+      "X": "0",
+      "Y": "0",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "Stingerspammer_I_1"
+    }
+  },
+  "33811": {
+    "_attrs": {
+      "SpriteId": "33811",
+      "ImageFileId": "10743",
+      "X": "0",
+      "Y": "0",
+      "Width": "125",
+      "Height": "50",
+      "SpriteKey": "Stingerspammer_I_2"
     }
   }
 }

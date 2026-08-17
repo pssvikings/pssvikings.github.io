@@ -19026,7 +19026,7 @@
   "349": {
     "_attrs": {
       "ShipDesignId": "349",
-      "ShipDesignName": "BEBOP (Extended)",
+      "ShipDesignName": "BEBOP Extended",
       "ShipDescription": "The perfect gathering spot for kids, animals, and women with attitudes. Requires Hull Level 13.",
       "ShipLevel": "13",
       "Rows": "35",
@@ -19645,7 +19645,7 @@
       "Attacks": "4",
       "Lives": "4",
       "UnlockFromShipDesignId": "0",
-      "RequiredResearchDesignId": "138",
+      "RequiredResearchDesignId": "0",
       "ThrustParticleSpriteId": "1274",
       "ThrustLineAnimationId": "70",
       "RequiredShipDesignId": "269",
@@ -24478,7 +24478,7 @@
   "432": {
     "_attrs": {
       "ShipDesignId": "432",
-      "ShipDesignName": "BEBOP (Extended)",
+      "ShipDesignName": "BEBOP Extended",
       "ShipDescription": "The perfect gathering spot for kids, animals, and women with attitudes. Requires Hull Level 13.",
       "ShipLevel": "14",
       "Rows": "35",
