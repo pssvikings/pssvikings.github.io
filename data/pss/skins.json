@@ -22283,7 +22283,7 @@
       "RaceId": "0",
       "AnimationId": "2496",
       "OriginalAnimationId": "0",
-      "OriginalSpriteId": "0"
+      "OriginalSpriteId": "19023"
     }
   },
   "1329": {
@@ -22432,7 +22432,7 @@
       "RootId": "562",
       "SkinType": "RoomSkin",
       "SpriteId": "34122",
-      "SpriteType": "0",
+      "SpriteType": "1",
       "ApprovalFlags": "Published",
       "SkinName": "Defender Capacitor",
       "SkinDescription": "Don't tell any monsters! -Designed by YangLionSpirit.",
@@ -22444,7 +22444,7 @@
       "RaceId": "0",
       "AnimationId": "2505",
       "OriginalAnimationId": "0",
-      "OriginalSpriteId": "0"
+      "OriginalSpriteId": "14323"
     }
   },
   "1336": {
@@ -22741,7 +22741,7 @@
       "SkinSetId": "530",
       "DateUpdated": "2026-08-07T04:10:19",
       "RaceId": "0",
-      "AnimationId": "2495",
+      "AnimationId": "0",
       "OriginalAnimationId": "0",
       "OriginalSpriteId": "19023"
     }
