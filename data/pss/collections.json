@@ -990,5 +990,37 @@
       "HaloAnimationId": "1263",
       "TriggerAnimationId": "104"
     }
+  },
+  "39": {
+    "_attrs": {
+      "CollectionDesignId": "39",
+      "CollectionName": "International Rescue",
+      "MinCombo": "3",
+      "MaxCombo": "3",
+      "EnhancementType": "ReduceRoomStatusSkill",
+      "BaseEnhancementValue": "999999",
+      "Flags": "0",
+      "CollectionType": "Character",
+      "CollectionDescription": "Thunderbirds are GO!",
+      "SpriteId": "33452",
+      "ColorString": "255,102,0",
+      "StepEnhancementValue": "0",
+      "IconSpriteId": "33453",
+      "TriggerType": "CrewAction",
+      "Argument": "0",
+      "BaseChance": "100",
+      "StepChance": "0",
+      "MaxUse": "999999",
+      "AbilityName": "F.A.B!",
+      "AbilityIconSpriteId": "21020",
+      "CooldownTime": "320",
+      "Metadata": "",
+      "StepCooldownTime": "0",
+      "StepMaxUse": "0",
+      "TriggerArgument": "0",
+      "TriggerArgumentComparison": "Higher",
+      "HaloAnimationId": "1263",
+      "TriggerAnimationId": "0"
+    }
   }
 }

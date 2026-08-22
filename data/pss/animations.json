@@ -12689,6 +12689,51 @@
       "AnimationEffectType": "Multiply"
     }
   },
+  "2468": {
+    "_attrs": {
+      "AnimationId": "2468",
+      "Key": "TB_Accessorylv1",
+      "AnimationSprites": "33454,33455,33454,33456,33455",
+      "Duration": "40",
+      "AnimationEffectType": "None"
+    }
+  },
+  "2469": {
+    "_attrs": {
+      "AnimationId": "2469",
+      "Key": "TB_Accessorylv2",
+      "AnimationSprites": "33457,33458,33457,33459,33460,33460,33460,33461,33462,33462,33462,33461",
+      "Duration": "40",
+      "AnimationEffectType": "None"
+    }
+  },
+  "2470": {
+    "_attrs": {
+      "AnimationId": "2470",
+      "Key": "TB_RecallBeacon",
+      "AnimationSprites": "33464,33465,33466,33467,33468,33469,33470,33471",
+      "Duration": "50",
+      "AnimationEffectType": "None"
+    }
+  },
+  "2471": {
+    "_attrs": {
+      "AnimationId": "2471",
+      "Key": "TB_Pet",
+      "AnimationSprites": "33484,33485",
+      "Duration": "30",
+      "AnimationEffectType": "None"
+    }
+  },
+  "2472": {
+    "_attrs": {
+      "AnimationId": "2472",
+      "Key": "TB_RoomSkin",
+      "AnimationSprites": "33487,33487,33487,33487,33487,33487,33487,33487,33487,33488,33489,33490,33491,33492,33493,33494,33495,33496,33497,33498,33499,33500,33501,33502,33503,33504,33505,33506,33489,33488",
+      "Duration": "120",
+      "AnimationEffectType": "None"
+    }
+  },
   "2474": {
     "_attrs": {
       "AnimationId": "2474",

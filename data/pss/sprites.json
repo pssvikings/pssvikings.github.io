@@ -355035,6 +355035,17 @@
       "SpriteKey": "TB_T5BlueprintFragment"
     }
   },
+  "34157": {
+    "_attrs": {
+      "SpriteId": "34157",
+      "ImageFileId": "6934",
+      "X": "630",
+      "Y": "197",
+      "Width": "23",
+      "Height": "37",
+      "SpriteKey": "TB_GasCrate"
+    }
+  },
   "33626": {
     "_attrs": {
       "SpriteId": "33626",

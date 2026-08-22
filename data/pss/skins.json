@@ -21872,6 +21872,29 @@
       "OriginalSpriteId": "7964"
     }
   },
+  "1295": {
+    "_attrs": {
+      "SkinId": "1295",
+      "UserId": "4",
+      "ReferenceId": "132",
+      "RootId": "132",
+      "SkinType": "RoomSkin",
+      "SpriteId": "33487",
+      "SpriteType": "1",
+      "ApprovalFlags": "PublishedButNotCrossServer",
+      "SkinName": "Tracy Island Lounge",
+      "SkinDescription": "Renovate your Fleet Council Room into the Tracy Island Lounge. Incoming message for International Rescue!",
+      "RequirementString": "",
+      "Flags": "7",
+      "Metadata": "",
+      "SkinSetId": "520",
+      "DateUpdated": "2023-08-02T07:37:46",
+      "RaceId": "0",
+      "AnimationId": "2472",
+      "OriginalAnimationId": "0",
+      "OriginalSpriteId": "1950"
+    }
+  },
   "1296": {
     "_attrs": {
       "SkinId": "1296",

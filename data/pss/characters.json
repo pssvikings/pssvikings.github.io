@@ -55588,5 +55588,719 @@
         }
       ]
     }
+  },
+  "576": {
+    "_attrs": {
+      "CharacterDesignId": "576",
+      "CharacterDesignName": "Lady Penelope",
+      "CharacterHeadPartId": "2532",
+      "CharacterBodyPartId": "2533",
+      "GenderType": "Female",
+      "RaceType": "White",
+      "Hp": "7",
+      "Pilot": "10",
+      "Attack": "2",
+      "FireResistance": "30",
+      "Repair": "1.8",
+      "Weapon": "13",
+      "Science": "13",
+      "Engine": "13",
+      "Research": "23",
+      "Level": "1",
+      "WalkingSpeed": "1",
+      "MinShipLevel": "1",
+      "FinalHp": "12",
+      "FinalPilot": "18",
+      "FinalAttack": "3",
+      "FinalRepair": "2.6",
+      "FinalWeapon": "23",
+      "FinalScience": "23",
+      "FinalEngine": "23",
+      "FinalResearch": "23",
+      "CharacterLegPartId": "2534",
+      "Rarity": "Legendary",
+      "ProgressionType": "Linear",
+      "CharacterDesignDescription": "A daring British aristocrat, high-fashion model, and the undercover London field agent for International Rescue. 'Home, Parker.'",
+      "XpRequirementScale": "1",
+      "MaxCharacterLevel": "40",
+      "SpecialAbilityType": "ProtectRoom",
+      "SpecialAbilityArgument": "200",
+      "SpecialAbilityFinalArgument": "320",
+      "ProfileSpriteId": "33446",
+      "RunSpeed": "3",
+      "TrainingCapacity": "110",
+      "EquipmentMask": "18",
+      "SpeechVoice": "",
+      "SpeechPhrases": "",
+      "SpeechRate": "1",
+      "SpeechPitch": "1",
+      "Flags": "1",
+      "RootCharacterDesignId": "576",
+      "MaxCount": "0",
+      "Tags": "",
+      "BoostValuesString": "6,4,0",
+      "Metadata": "",
+      "TapSoundFileId": "5751",
+      "ActionSoundFileId": "5753",
+      "CollectionDesignId": "39"
+    },
+    "CharacterParts": {
+      "CharacterPart": [
+        {
+          "_attrs": {
+            "CharacterPartId": "2532",
+            "CharacterPartName": "TB_Crew01Head",
+            "CharacterPartType": "Head",
+            "StandardSpriteId": "33416",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "33417"
+          }
+        },
+        {
+          "_attrs": {
+            "CharacterPartId": "2533",
+            "CharacterPartName": "TB_Crew01Body",
+            "CharacterPartType": "Body",
+            "StandardSpriteId": "33414",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "33415"
+          }
+        },
+        {
+          "_attrs": {
+            "CharacterPartId": "2534",
+            "CharacterPartName": "TB_Crew01Leg",
+            "CharacterPartType": "Leg",
+            "StandardSpriteId": "33418",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "33419"
+          }
+        }
+      ]
+    }
+  },
+  "577": {
+    "_attrs": {
+      "CharacterDesignId": "577",
+      "CharacterDesignName": "Brains",
+      "CharacterHeadPartId": "2535",
+      "CharacterBodyPartId": "2536",
+      "GenderType": "Male",
+      "RaceType": "White",
+      "Hp": "5",
+      "Pilot": "4",
+      "Attack": "1",
+      "FireResistance": "40",
+      "Repair": "2",
+      "Weapon": "3",
+      "Science": "3",
+      "Engine": "1",
+      "Research": "5",
+      "Level": "1",
+      "WalkingSpeed": "1",
+      "MinShipLevel": "1",
+      "FinalHp": "11",
+      "FinalPilot": "6",
+      "FinalAttack": "1.4",
+      "FinalRepair": "3.3",
+      "FinalWeapon": "24",
+      "FinalScience": "24",
+      "FinalEngine": "3",
+      "FinalResearch": "5",
+      "CharacterLegPartId": "2537",
+      "Rarity": "Special",
+      "ProgressionType": "Linear",
+      "CharacterDesignDescription": "The resident chief engineer, scientist, and technological genius of International Rescue. 'I find at moments like this it's b-best to recite my fractal tables.'",
+      "XpRequirementScale": "1",
+      "MaxCharacterLevel": "40",
+      "SpecialAbilityType": "AddReload",
+      "SpecialAbilityArgument": "25",
+      "SpecialAbilityFinalArgument": "40",
+      "ProfileSpriteId": "33447",
+      "RunSpeed": "2",
+      "TrainingCapacity": "100",
+      "EquipmentMask": "18",
+      "SpeechVoice": "",
+      "SpeechPhrases": "",
+      "SpeechRate": "1",
+      "SpeechPitch": "1",
+      "Flags": "1",
+      "RootCharacterDesignId": "577",
+      "MaxCount": "0",
+      "Tags": "",
+      "BoostValuesString": "6,4,0",
+      "Metadata": "",
+      "TapSoundFileId": "5764",
+      "ActionSoundFileId": "5763",
+      "CollectionDesignId": "39"
+    },
+    "CharacterParts": {
+      "CharacterPart": [
+        {
+          "_attrs": {
+            "CharacterPartId": "2535",
+            "CharacterPartName": "TB_Crew02Head",
+            "CharacterPartType": "Head",
+            "StandardSpriteId": "33422",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "33423"
+          }
+        },
+        {
+          "_attrs": {
+            "CharacterPartId": "2536",
+            "CharacterPartName": "TB_Crew02Body",
+            "CharacterPartType": "Body",
+            "StandardSpriteId": "33420",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "33421"
+          }
+        },
+        {
+          "_attrs": {
+            "CharacterPartId": "2537",
+            "CharacterPartName": "TB_Crew02Leg",
+            "CharacterPartType": "Leg",
+            "StandardSpriteId": "33424",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "33425"
+          }
+        }
+      ]
+    }
+  },
+  "578": {
+    "_attrs": {
+      "CharacterDesignId": "578",
+      "CharacterDesignName": "The Hood",
+      "CharacterHeadPartId": "2538",
+      "CharacterBodyPartId": "2539",
+      "GenderType": "Male",
+      "RaceType": "Asian",
+      "Hp": "8",
+      "Pilot": "5",
+      "Attack": "2",
+      "FireResistance": "50",
+      "Repair": "1.7",
+      "Weapon": "8",
+      "Science": "8",
+      "Engine": "7",
+      "Research": "1",
+      "Level": "1",
+      "WalkingSpeed": "1",
+      "MinShipLevel": "1",
+      "FinalHp": "12",
+      "FinalPilot": "13",
+      "FinalAttack": "3",
+      "FinalRepair": "2.5",
+      "FinalWeapon": "17",
+      "FinalScience": "21",
+      "FinalEngine": "12",
+      "FinalResearch": "4",
+      "CharacterLegPartId": "2540",
+      "Rarity": "Special",
+      "ProgressionType": "EaseOut",
+      "CharacterDesignDescription": "Criminal mastermind, master of disguise and arch-nemesis of International Rescue. 'The secrets of the world will be mine, MINE, MINE, MINE, MINE!'",
+      "XpRequirementScale": "1",
+      "MaxCharacterLevel": "40",
+      "SpecialAbilityType": "DamageToSameRoomCharacters",
+      "SpecialAbilityArgument": "4",
+      "SpecialAbilityFinalArgument": "7",
+      "ProfileSpriteId": "33448",
+      "RunSpeed": "2",
+      "TrainingCapacity": "100",
+      "EquipmentMask": "20",
+      "SpeechVoice": "",
+      "SpeechPhrases": "",
+      "SpeechRate": "1",
+      "SpeechPitch": "1",
+      "Flags": "1",
+      "RootCharacterDesignId": "578",
+      "MaxCount": "0",
+      "Tags": "",
+      "BoostValuesString": "6,4,0",
+      "Metadata": "",
+      "TapSoundFileId": "5764",
+      "ActionSoundFileId": "5763",
+      "CollectionDesignId": "39"
+    },
+    "CharacterParts": {
+      "CharacterPart": [
+        {
+          "_attrs": {
+            "CharacterPartId": "2538",
+            "CharacterPartName": "TB_Crew03Head",
+            "CharacterPartType": "Head",
+            "StandardSpriteId": "33428",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "33429"
+          }
+        },
+        {
+          "_attrs": {
+            "CharacterPartId": "2539",
+            "CharacterPartName": "TB_Crew03Body",
+            "CharacterPartType": "Body",
+            "StandardSpriteId": "33426",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "33427"
+          }
+        },
+        {
+          "_attrs": {
+            "CharacterPartId": "2540",
+            "CharacterPartName": "TB_Crew03Leg",
+            "CharacterPartType": "Leg",
+            "StandardSpriteId": "33430",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "33431"
+          }
+        }
+      ]
+    }
+  },
+  "579": {
+    "_attrs": {
+      "CharacterDesignId": "579",
+      "CharacterDesignName": "Scott Tracy",
+      "CharacterHeadPartId": "2541",
+      "CharacterBodyPartId": "2542",
+      "GenderType": "Male",
+      "RaceType": "White",
+      "Hp": "7",
+      "Pilot": "16",
+      "Attack": "1.6",
+      "FireResistance": "0",
+      "Repair": "2.2",
+      "Weapon": "8",
+      "Science": "3",
+      "Engine": "8",
+      "Research": "4",
+      "Level": "1",
+      "WalkingSpeed": "1",
+      "MinShipLevel": "1",
+      "FinalHp": "11",
+      "FinalPilot": "25",
+      "FinalAttack": "2.4",
+      "FinalRepair": "3.2",
+      "FinalWeapon": "9",
+      "FinalScience": "5",
+      "FinalEngine": "10",
+      "FinalResearch": "4",
+      "CharacterLegPartId": "2543",
+      "Rarity": "Special",
+      "ProgressionType": "Linear",
+      "CharacterDesignDescription": "Pilot of the Thunderbird 1. As field commander, he often directs International Rescue operations. 'Thunderbirds are go!'",
+      "XpRequirementScale": "1",
+      "MaxCharacterLevel": "40",
+      "SpecialAbilityType": "Freeze",
+      "SpecialAbilityArgument": "140",
+      "SpecialAbilityFinalArgument": "280",
+      "ProfileSpriteId": "33449",
+      "RunSpeed": "2",
+      "TrainingCapacity": "100",
+      "EquipmentMask": "9",
+      "SpeechVoice": "",
+      "SpeechPhrases": "",
+      "SpeechRate": "1",
+      "SpeechPitch": "1",
+      "Flags": "1",
+      "RootCharacterDesignId": "579",
+      "MaxCount": "0",
+      "Tags": "",
+      "BoostValuesString": "6,4,0",
+      "Metadata": "",
+      "TapSoundFileId": "5764",
+      "ActionSoundFileId": "5763",
+      "CollectionDesignId": "39"
+    },
+    "CharacterParts": {
+      "CharacterPart": [
+        {
+          "_attrs": {
+            "CharacterPartId": "2541",
+            "CharacterPartName": "TB_Crew04Head",
+            "CharacterPartType": "Head",
+            "StandardSpriteId": "33434",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "33435"
+          }
+        },
+        {
+          "_attrs": {
+            "CharacterPartId": "2542",
+            "CharacterPartName": "TB_Crew04Body",
+            "CharacterPartType": "Body",
+            "StandardSpriteId": "33432",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "33433"
+          }
+        },
+        {
+          "_attrs": {
+            "CharacterPartId": "2543",
+            "CharacterPartName": "TB_Crew04Leg",
+            "CharacterPartType": "Leg",
+            "StandardSpriteId": "33436",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "33437"
+          }
+        }
+      ]
+    }
+  },
+  "580": {
+    "_attrs": {
+      "CharacterDesignId": "580",
+      "CharacterDesignName": "Virgil Tracy",
+      "CharacterHeadPartId": "2544",
+      "CharacterBodyPartId": "2545",
+      "GenderType": "Male",
+      "RaceType": "White",
+      "Hp": "7",
+      "Pilot": "4",
+      "Attack": "2.6",
+      "FireResistance": "60",
+      "Repair": "1.6",
+      "Weapon": "5",
+      "Science": "7",
+      "Engine": "14",
+      "Research": "5",
+      "Level": "1",
+      "WalkingSpeed": "1",
+      "MinShipLevel": "1",
+      "FinalHp": "12",
+      "FinalPilot": "4",
+      "FinalAttack": "3.2",
+      "FinalRepair": "2.4",
+      "FinalWeapon": "5",
+      "FinalScience": "7",
+      "FinalEngine": "27",
+      "FinalResearch": "5",
+      "CharacterLegPartId": "2546",
+      "Rarity": "Special",
+      "ProgressionType": "Linear",
+      "CharacterDesignDescription": "Pilot of the Thunderbird 2. International Rescue's go-to for heavy lifting and demolition. 'MISSILES!'",
+      "XpRequirementScale": "1",
+      "MaxCharacterLevel": "40",
+      "SpecialAbilityType": "Freeze",
+      "SpecialAbilityArgument": "160",
+      "SpecialAbilityFinalArgument": "280",
+      "ProfileSpriteId": "33450",
+      "RunSpeed": "2",
+      "TrainingCapacity": "100",
+      "EquipmentMask": "20",
+      "SpeechVoice": "",
+      "SpeechPhrases": "",
+      "SpeechRate": "1",
+      "SpeechPitch": "1",
+      "Flags": "1",
+      "RootCharacterDesignId": "580",
+      "MaxCount": "0",
+      "Tags": "",
+      "BoostValuesString": "6,4,0",
+      "Metadata": "",
+      "TapSoundFileId": "5764",
+      "ActionSoundFileId": "5763",
+      "CollectionDesignId": "39"
+    },
+    "CharacterParts": {
+      "CharacterPart": [
+        {
+          "_attrs": {
+            "CharacterPartId": "2544",
+            "CharacterPartName": "TB_Crew05Head",
+            "CharacterPartType": "Head",
+            "StandardSpriteId": "33440",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "33441"
+          }
+        },
+        {
+          "_attrs": {
+            "CharacterPartId": "2545",
+            "CharacterPartName": "TB_Crew05Body",
+            "CharacterPartType": "Body",
+            "StandardSpriteId": "33438",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "33439"
+          }
+        },
+        {
+          "_attrs": {
+            "CharacterPartId": "2546",
+            "CharacterPartName": "TB_Crew05Leg",
+            "CharacterPartType": "Leg",
+            "StandardSpriteId": "33436",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "33437"
+          }
+        }
+      ]
+    }
+  },
+  "581": {
+    "_attrs": {
+      "CharacterDesignId": "581",
+      "CharacterDesignName": "Alan Tracy",
+      "CharacterHeadPartId": "2547",
+      "CharacterBodyPartId": "2548",
+      "GenderType": "Male",
+      "RaceType": "White",
+      "Hp": "4",
+      "Pilot": "18",
+      "Attack": "1.6",
+      "FireResistance": "60",
+      "Repair": "0.4",
+      "Weapon": "4",
+      "Science": "1",
+      "Engine": "4",
+      "Research": "5",
+      "Level": "1",
+      "WalkingSpeed": "2",
+      "MinShipLevel": "1",
+      "FinalHp": "9",
+      "FinalPilot": "25",
+      "FinalAttack": "2.6",
+      "FinalRepair": "0.4",
+      "FinalWeapon": "8",
+      "FinalScience": "3",
+      "FinalEngine": "9",
+      "FinalResearch": "5",
+      "CharacterLegPartId": "2549",
+      "Rarity": "Special",
+      "ProgressionType": "Linear",
+      "CharacterDesignDescription": "Pilot of Thunderbird 3. Alternates with his brother John to monitor the Thunderbird 5 space station. 'When this baby blasts out into space, I'm the one that's in charge!'",
+      "XpRequirementScale": "1",
+      "MaxCharacterLevel": "40",
+      "SpecialAbilityType": "DamageToCurrentEnemy",
+      "SpecialAbilityArgument": "4",
+      "SpecialAbilityFinalArgument": "8",
+      "ProfileSpriteId": "33451",
+      "RunSpeed": "2",
+      "TrainingCapacity": "100",
+      "EquipmentMask": "17",
+      "SpeechVoice": "",
+      "SpeechPhrases": "",
+      "SpeechRate": "1",
+      "SpeechPitch": "1",
+      "Flags": "1",
+      "RootCharacterDesignId": "581",
+      "MaxCount": "0",
+      "Tags": "",
+      "BoostValuesString": "6,4,0",
+      "Metadata": "",
+      "TapSoundFileId": "5764",
+      "ActionSoundFileId": "5763",
+      "CollectionDesignId": "39"
+    },
+    "CharacterParts": {
+      "CharacterPart": [
+        {
+          "_attrs": {
+            "CharacterPartId": "2547",
+            "CharacterPartName": "TB_Crew06Head",
+            "CharacterPartType": "Head",
+            "StandardSpriteId": "33444",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "33445"
+          }
+        },
+        {
+          "_attrs": {
+            "CharacterPartId": "2548",
+            "CharacterPartName": "TB_Crew06Body",
+            "CharacterPartType": "Body",
+            "StandardSpriteId": "33442",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "33443"
+          }
+        },
+        {
+          "_attrs": {
+            "CharacterPartId": "2549",
+            "CharacterPartName": "TB_Crew06Leg",
+            "CharacterPartType": "Leg",
+            "StandardSpriteId": "33436",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "33437"
+          }
+        }
+      ]
+    }
+  },
+  "582": {
+    "_attrs": {
+      "CharacterDesignId": "582",
+      "CharacterDesignName": "Mighty Atom",
+      "CharacterHeadPartId": "2554",
+      "CharacterBodyPartId": "2555",
+      "GenderType": "Female",
+      "RaceType": "Robot",
+      "Hp": "5",
+      "Pilot": "0",
+      "Attack": "0.5",
+      "FireResistance": "30",
+      "Repair": "1",
+      "Weapon": "0",
+      "Science": "0",
+      "Engine": "0",
+      "Research": "0",
+      "Level": "1",
+      "WalkingSpeed": "1",
+      "MinShipLevel": "1",
+      "FinalHp": "6",
+      "FinalPilot": "0",
+      "FinalAttack": "0.5",
+      "FinalRepair": "1",
+      "FinalWeapon": "0",
+      "FinalScience": "0",
+      "FinalEngine": "0",
+      "FinalResearch": "0",
+      "CharacterLegPartId": "2556",
+      "Rarity": "Common",
+      "ProgressionType": "Linear",
+      "CharacterDesignDescription": "Squeak?",
+      "XpRequirementScale": "1",
+      "MaxCharacterLevel": "40",
+      "SpecialAbilityType": "None",
+      "SpecialAbilityArgument": "1",
+      "SpecialAbilityFinalArgument": "1",
+      "ProfileSpriteId": "33486",
+      "RunSpeed": "1",
+      "TrainingCapacity": "0",
+      "EquipmentMask": "0",
+      "SpeechVoice": "",
+      "SpeechPhrases": "",
+      "SpeechRate": "1",
+      "SpeechPitch": "1",
+      "Flags": "0",
+      "RootCharacterDesignId": "582",
+      "MaxCount": "0",
+      "Tags": "",
+      "BoostValuesString": "6,4,0",
+      "Metadata": "{\"CharacterAttackType\":\"Melee\",\"DeathSpriteId\":\"33578\",\"WeaponSpriteId\":\"454\"}",
+      "TapSoundFileId": "5772",
+      "ActionSoundFileId": "5772",
+      "CollectionDesignId": "0"
+    },
+    "CharacterParts": {
+      "CharacterPart": [
+        {
+          "_attrs": {
+            "CharacterPartId": "2554",
+            "CharacterPartName": "HeadBlank",
+            "CharacterPartType": "Head",
+            "StandardSpriteId": "454",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "454"
+          }
+        },
+        {
+          "_attrs": {
+            "CharacterPartId": "2555",
+            "CharacterPartName": "BodyBlank",
+            "CharacterPartType": "Body",
+            "StandardSpriteId": "454",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "454"
+          }
+        },
+        {
+          "_attrs": {
+            "CharacterPartId": "2556",
+            "CharacterPartName": "LegTheMouse",
+            "CharacterPartType": "Leg",
+            "StandardSpriteId": "33576",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "33577"
+          }
+        }
+      ]
+    }
   }
 }
