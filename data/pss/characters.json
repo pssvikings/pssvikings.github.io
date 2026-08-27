@@ -56302,5 +56302,107 @@
         }
       ]
     }
+  },
+  "583": {
+    "_attrs": {
+      "CharacterDesignId": "583",
+      "CharacterDesignName": "Neptune Mariner",
+      "CharacterHeadPartId": "2557",
+      "CharacterBodyPartId": "2558",
+      "GenderType": "Female",
+      "RaceType": "Alien",
+      "Hp": "5",
+      "Pilot": "1",
+      "Attack": "1.2",
+      "FireResistance": "40",
+      "Repair": "1.6",
+      "Weapon": "12",
+      "Science": "1",
+      "Engine": "2",
+      "Research": "0",
+      "Level": "1",
+      "WalkingSpeed": "1",
+      "MinShipLevel": "1",
+      "FinalHp": "9",
+      "FinalPilot": "3",
+      "FinalAttack": "2.2",
+      "FinalRepair": "2.7",
+      "FinalWeapon": "24",
+      "FinalScience": "3",
+      "FinalEngine": "4",
+      "FinalResearch": "1",
+      "CharacterLegPartId": "2559",
+      "Rarity": "Hero",
+      "ProgressionType": "Linear",
+      "CharacterDesignDescription": "On the tides of Neptune, serving as guardian of the deep!",
+      "XpRequirementScale": "1",
+      "MaxCharacterLevel": "40",
+      "SpecialAbilityType": "AddReload",
+      "SpecialAbilityArgument": "25",
+      "SpecialAbilityFinalArgument": "50",
+      "ProfileSpriteId": "34158",
+      "RunSpeed": "2",
+      "TrainingCapacity": "90",
+      "EquipmentMask": "12",
+      "SpeechVoice": "",
+      "SpeechPhrases": "",
+      "SpeechRate": "1",
+      "SpeechPitch": "1",
+      "Flags": "3",
+      "RootCharacterDesignId": "583",
+      "MaxCount": "0",
+      "Tags": "",
+      "BoostValuesString": "6,4,0",
+      "Metadata": "",
+      "TapSoundFileId": "5751",
+      "ActionSoundFileId": "5753",
+      "CollectionDesignId": "29"
+    },
+    "CharacterParts": {
+      "CharacterPart": [
+        {
+          "_attrs": {
+            "CharacterPartId": "2557",
+            "CharacterPartName": "NeptuneHead",
+            "CharacterPartType": "Head",
+            "StandardSpriteId": "34159",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "34160"
+          }
+        },
+        {
+          "_attrs": {
+            "CharacterPartId": "2558",
+            "CharacterPartName": "NeptuneBody",
+            "CharacterPartType": "Body",
+            "StandardSpriteId": "34161",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "34162"
+          }
+        },
+        {
+          "_attrs": {
+            "CharacterPartId": "2559",
+            "CharacterPartName": "NeptuneLeg",
+            "CharacterPartType": "Leg",
+            "StandardSpriteId": "34163",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "34164"
+          }
+        }
+      ]
+    }
   }
 }

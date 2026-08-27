@@ -355046,6 +355046,83 @@
       "SpriteKey": "TB_GasCrate"
     }
   },
+  "34158": {
+    "_attrs": {
+      "SpriteId": "34158",
+      "ImageFileId": "10887",
+      "X": "0",
+      "Y": "0",
+      "Width": "124",
+      "Height": "149",
+      "SpriteKey": "NeptuneProfile"
+    }
+  },
+  "34159": {
+    "_attrs": {
+      "SpriteId": "34159",
+      "ImageFileId": "10889",
+      "X": "0",
+      "Y": "2",
+      "Width": "26",
+      "Height": "16",
+      "SpriteKey": "NeptuneHead"
+    }
+  },
+  "34160": {
+    "_attrs": {
+      "SpriteId": "34160",
+      "ImageFileId": "10889",
+      "X": "26",
+      "Y": "2",
+      "Width": "26",
+      "Height": "16",
+      "SpriteKey": "NeptuneHeadActive"
+    }
+  },
+  "34161": {
+    "_attrs": {
+      "SpriteId": "34161",
+      "ImageFileId": "10888",
+      "X": "0",
+      "Y": "2",
+      "Width": "26",
+      "Height": "12",
+      "SpriteKey": "NeptuneBody"
+    }
+  },
+  "34162": {
+    "_attrs": {
+      "SpriteId": "34162",
+      "ImageFileId": "10888",
+      "X": "26",
+      "Y": "2",
+      "Width": "26",
+      "Height": "12",
+      "SpriteKey": "NeptuneBodyActive"
+    }
+  },
+  "34163": {
+    "_attrs": {
+      "SpriteId": "34163",
+      "ImageFileId": "10890",
+      "X": "0",
+      "Y": "2",
+      "Width": "26",
+      "Height": "5",
+      "SpriteKey": "NeptuneLeg"
+    }
+  },
+  "34164": {
+    "_attrs": {
+      "SpriteId": "34164",
+      "ImageFileId": "10890",
+      "X": "26",
+      "Y": "2",
+      "Width": "26",
+      "Height": "5",
+      "SpriteKey": "NeptuneLegActive"
+    }
+  },
   "33626": {
     "_attrs": {
       "SpriteId": "33626",
