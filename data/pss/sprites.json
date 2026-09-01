@@ -355123,6 +355123,281 @@
       "SpriteKey": "NeptuneLegActive"
     }
   },
+  "34165": {
+    "_attrs": {
+      "SpriteId": "34165",
+      "ImageFileId": "10891",
+      "X": "0",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "DefenseHangar_tournament01"
+    }
+  },
+  "34166": {
+    "_attrs": {
+      "SpriteId": "34166",
+      "ImageFileId": "10891",
+      "X": "75",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "DefenseHangar_tournament02"
+    }
+  },
+  "34167": {
+    "_attrs": {
+      "SpriteId": "34167",
+      "ImageFileId": "10891",
+      "X": "150",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "DefenseHangar_tournament03"
+    }
+  },
+  "34168": {
+    "_attrs": {
+      "SpriteId": "34168",
+      "ImageFileId": "10891",
+      "X": "225",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "DefenseHangar_tournament04"
+    }
+  },
+  "34169": {
+    "_attrs": {
+      "SpriteId": "34169",
+      "ImageFileId": "10891",
+      "X": "300",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "DefenseHangar_tournament05"
+    }
+  },
+  "34170": {
+    "_attrs": {
+      "SpriteId": "34170",
+      "ImageFileId": "10891",
+      "X": "375",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "DefenseHangar_tournament06"
+    }
+  },
+  "34171": {
+    "_attrs": {
+      "SpriteId": "34171",
+      "ImageFileId": "10891",
+      "X": "0",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "DefenseHangar_tournament07"
+    }
+  },
+  "34172": {
+    "_attrs": {
+      "SpriteId": "34172",
+      "ImageFileId": "10891",
+      "X": "75",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "DefenseHangar_tournament08"
+    }
+  },
+  "34173": {
+    "_attrs": {
+      "SpriteId": "34173",
+      "ImageFileId": "10891",
+      "X": "150",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "DefenseHangar_tournament09"
+    }
+  },
+  "34174": {
+    "_attrs": {
+      "SpriteId": "34174",
+      "ImageFileId": "10891",
+      "X": "225",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "DefenseHangar_tournament10"
+    }
+  },
+  "34175": {
+    "_attrs": {
+      "SpriteId": "34175",
+      "ImageFileId": "10891",
+      "X": "300",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "DefenseHangar_tournament11"
+    }
+  },
+  "34176": {
+    "_attrs": {
+      "SpriteId": "34176",
+      "ImageFileId": "10891",
+      "X": "375",
+      "Y": "50",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "DefenseHangar_tournament12"
+    }
+  },
+  "34177": {
+    "_attrs": {
+      "SpriteId": "34177",
+      "ImageFileId": "10891",
+      "X": "0",
+      "Y": "100",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "DefenseHangar_tournament13"
+    }
+  },
+  "34178": {
+    "_attrs": {
+      "SpriteId": "34178",
+      "ImageFileId": "10891",
+      "X": "75",
+      "Y": "100",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "DefenseHangar_tournament14"
+    }
+  },
+  "34179": {
+    "_attrs": {
+      "SpriteId": "34179",
+      "ImageFileId": "10891",
+      "X": "150",
+      "Y": "100",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "DefenseHangar_tournament15"
+    }
+  },
+  "34180": {
+    "_attrs": {
+      "SpriteId": "34180",
+      "ImageFileId": "10891",
+      "X": "225",
+      "Y": "100",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "DefenseHangar_tournament16"
+    }
+  },
+  "34181": {
+    "_attrs": {
+      "SpriteId": "34181",
+      "ImageFileId": "10891",
+      "X": "300",
+      "Y": "100",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "DefenseHangar_tournament17"
+    }
+  },
+  "34182": {
+    "_attrs": {
+      "SpriteId": "34182",
+      "ImageFileId": "10891",
+      "X": "375",
+      "Y": "100",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "DefenseHangar_tournament18"
+    }
+  },
+  "34183": {
+    "_attrs": {
+      "SpriteId": "34183",
+      "ImageFileId": "10891",
+      "X": "0",
+      "Y": "150",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "DefenseHangar_tournament19"
+    }
+  },
+  "34184": {
+    "_attrs": {
+      "SpriteId": "34184",
+      "ImageFileId": "10891",
+      "X": "75",
+      "Y": "150",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "DefenseHangar_tournament20"
+    }
+  },
+  "34185": {
+    "_attrs": {
+      "SpriteId": "34185",
+      "ImageFileId": "10891",
+      "X": "150",
+      "Y": "150",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "DefenseHangar_tournament21"
+    }
+  },
+  "34186": {
+    "_attrs": {
+      "SpriteId": "34186",
+      "ImageFileId": "10891",
+      "X": "225",
+      "Y": "150",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "DefenseHangar_tournament22"
+    }
+  },
+  "34187": {
+    "_attrs": {
+      "SpriteId": "34187",
+      "ImageFileId": "10891",
+      "X": "300",
+      "Y": "150",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "DefenseHangar_tournament23"
+    }
+  },
+  "34188": {
+    "_attrs": {
+      "SpriteId": "34188",
+      "ImageFileId": "10891",
+      "X": "375",
+      "Y": "150",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "DefenseHangar_tournament24"
+    }
+  },
+  "34189": {
+    "_attrs": {
+      "SpriteId": "34189",
+      "ImageFileId": "6934",
+      "X": "681",
+      "Y": "287",
+      "Width": "31",
+      "Height": "23",
+      "SpriteKey": "DefenseHangar_tournament_kit"
+    }
+  },
   "33626": {
     "_attrs": {
       "SpriteId": "33626",

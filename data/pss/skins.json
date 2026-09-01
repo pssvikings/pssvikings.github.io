@@ -22493,6 +22493,29 @@
       "OriginalSpriteId": "14352"
     }
   },
+  "1337": {
+    "_attrs": {
+      "SkinId": "1337",
+      "UserId": "4",
+      "ReferenceId": "823",
+      "RootId": "823",
+      "SkinType": "RoomSkin",
+      "SpriteId": "34165",
+      "SpriteType": "1",
+      "ApprovalFlags": "Published",
+      "SkinName": "Guardian Flight Deck",
+      "SkinDescription": "When shields fail, the Guardian deck answers. Housing an elite wing of multi-vector drones to intercept hostile fire and mend critical breaches, ensuring the crew endures and prevails.",
+      "RequirementString": "",
+      "Flags": "0",
+      "Metadata": "",
+      "SkinSetId": "537",
+      "DateUpdated": "2023-08-02T07:37:46",
+      "RaceId": "0",
+      "AnimationId": "2506",
+      "OriginalAnimationId": "1979",
+      "OriginalSpriteId": "23211"
+    }
+  },
   "1313": {
     "_attrs": {
       "SkinId": "1313",
