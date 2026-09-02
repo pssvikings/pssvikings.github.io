@@ -1603,7 +1603,7 @@
     "_attrs": {
       "ActionTypeId": "106",
       "ActionTypeName": "Target Closest Crafts",
-      "RoomType": "None",
+      "RoomType": "AntiCraft",
       "ActionTypeCategory": "Target",
       "ActionTypeKey": "SetTargetMode",
       "ActionTypeParameterValue": "0",
@@ -1623,7 +1623,7 @@
     "_attrs": {
       "ActionTypeId": "107",
       "ActionTypeName": "Target Furthest Crafts",
-      "RoomType": "None",
+      "RoomType": "AntiCraft",
       "ActionTypeCategory": "Target",
       "ActionTypeKey": "SetTargetMode",
       "ActionTypeParameterValue": "1",
@@ -1634,7 +1634,7 @@
       "ConditionTypeParameter": "None",
       "ColorString": "",
       "RequiredResearchDesignId": "213",
-      "OrderIndex": "0",
+      "OrderIndex": "1",
       "RoomCategoryType": "None",
       "ConditionParameterArgument": "0"
     }
@@ -1643,7 +1643,7 @@
     "_attrs": {
       "ActionTypeId": "108",
       "ActionTypeName": "Target Strongest Crafts",
-      "RoomType": "None",
+      "RoomType": "AntiCraft",
       "ActionTypeCategory": "Target",
       "ActionTypeKey": "SetTargetMode",
       "ActionTypeParameterValue": "3",
@@ -1654,7 +1654,7 @@
       "ConditionTypeParameter": "None",
       "ColorString": "",
       "RequiredResearchDesignId": "213",
-      "OrderIndex": "0",
+      "OrderIndex": "3",
       "RoomCategoryType": "None",
       "ConditionParameterArgument": "0"
     }
@@ -1663,7 +1663,7 @@
     "_attrs": {
       "ActionTypeId": "109",
       "ActionTypeName": "Target Weakest Crafts",
-      "RoomType": "None",
+      "RoomType": "AntiCraft",
       "ActionTypeCategory": "Target",
       "ActionTypeKey": "SetTargetMode",
       "ActionTypeParameterValue": "2",
@@ -1674,7 +1674,7 @@
       "ConditionTypeParameter": "None",
       "ColorString": "",
       "RequiredResearchDesignId": "213",
-      "OrderIndex": "0",
+      "OrderIndex": "2",
       "RoomCategoryType": "None",
       "ConditionParameterArgument": "0"
     }
@@ -1687,7 +1687,7 @@
       "ActionTypeCategory": "Target",
       "ActionTypeKey": "TargetEnemyReviver",
       "ActionTypeParameterValue": "0",
-      "ActionTypeDescription": "Set current target to an enemy Reviver type room",
+      "ActionTypeDescription": "Set current target to an enemy Reviver type room.",
       "ActionTypeParameterRelativity": "None",
       "ImageSpriteId": "4",
       "ConditionTypeCategory": "EnemyShip",
@@ -1707,7 +1707,7 @@
       "ActionTypeCategory": "Target",
       "ActionTypeKey": "TargetYourReviver",
       "ActionTypeParameterValue": "0",
-      "ActionTypeDescription": "Sets current target to a friendly Reviver type weapon room",
+      "ActionTypeDescription": "Sets current target to a friendly Reviver type weapon room.",
       "ActionTypeParameterRelativity": "None",
       "ImageSpriteId": "4",
       "ConditionTypeCategory": "YourShip",
@@ -1715,6 +1715,206 @@
       "ColorString": "",
       "RequiredResearchDesignId": "0",
       "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "112": {
+    "_attrs": {
+      "ActionTypeId": "112",
+      "ActionTypeName": "Target Highest HP",
+      "RoomType": "Reviver",
+      "ActionTypeCategory": "Target",
+      "ActionTypeKey": "SetTargetMode",
+      "ActionTypeParameterValue": "0",
+      "ActionTypeDescription": "Sets current revive priority to dead crews that have the highest Max HP.",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourCharacter",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "113": {
+    "_attrs": {
+      "ActionTypeId": "113",
+      "ActionTypeName": "Target Highest ATK",
+      "RoomType": "Reviver",
+      "ActionTypeCategory": "Target",
+      "ActionTypeKey": "SetTargetMode",
+      "ActionTypeParameterValue": "1",
+      "ActionTypeDescription": "Sets current revive priority to dead crews that have the highest ATK stat.",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourCharacter",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "1",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "114": {
+    "_attrs": {
+      "ActionTypeId": "114",
+      "ActionTypeName": "Target Highest PLT",
+      "RoomType": "Reviver",
+      "ActionTypeCategory": "Target",
+      "ActionTypeKey": "SetTargetMode",
+      "ActionTypeParameterValue": "2",
+      "ActionTypeDescription": "Sets current revive priority to dead crews that have the highest PLT stat.",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourCharacter",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "2",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "115": {
+    "_attrs": {
+      "ActionTypeId": "115",
+      "ActionTypeName": "Target Highest RPR",
+      "RoomType": "Reviver",
+      "ActionTypeCategory": "Target",
+      "ActionTypeKey": "SetTargetMode",
+      "ActionTypeParameterValue": "3",
+      "ActionTypeDescription": "Sets current revive priority to dead crews that have the highest RPR stat.",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourCharacter",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "3",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "116": {
+    "_attrs": {
+      "ActionTypeId": "116",
+      "ActionTypeName": "Target Highest WPN",
+      "RoomType": "Reviver",
+      "ActionTypeCategory": "Target",
+      "ActionTypeKey": "SetTargetMode",
+      "ActionTypeParameterValue": "4",
+      "ActionTypeDescription": "Sets current revive priority to dead crews that have the highest WPN stat.",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourCharacter",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "4",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "117": {
+    "_attrs": {
+      "ActionTypeId": "117",
+      "ActionTypeName": "Target Highest SCI",
+      "RoomType": "Reviver",
+      "ActionTypeCategory": "Target",
+      "ActionTypeKey": "SetTargetMode",
+      "ActionTypeParameterValue": "5",
+      "ActionTypeDescription": "Sets current revive priority to dead crews that have the highest SCI stat.",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourCharacter",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "5",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "118": {
+    "_attrs": {
+      "ActionTypeId": "118",
+      "ActionTypeName": "Target Highest ENG",
+      "RoomType": "Reviver",
+      "ActionTypeCategory": "Target",
+      "ActionTypeKey": "SetTargetMode",
+      "ActionTypeParameterValue": "6",
+      "ActionTypeDescription": "Sets current revive priority to dead crews that have the highest ENG stat.",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourCharacter",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "6",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "119": {
+    "_attrs": {
+      "ActionTypeId": "119",
+      "ActionTypeName": "Target Highest STA",
+      "RoomType": "Reviver",
+      "ActionTypeCategory": "Target",
+      "ActionTypeKey": "SetTargetMode",
+      "ActionTypeParameterValue": "7",
+      "ActionTypeDescription": "Sets current revive priority to dead crews that have the highest STA stat.",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourCharacter",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "7",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "120": {
+    "_attrs": {
+      "ActionTypeId": "120",
+      "ActionTypeName": "Target Highest ABL",
+      "RoomType": "Reviver",
+      "ActionTypeCategory": "Target",
+      "ActionTypeKey": "SetTargetMode",
+      "ActionTypeParameterValue": "8",
+      "ActionTypeDescription": "Sets current revive priority to dead crews that have the highest ABL stat.",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourCharacter",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "8",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0"
+    }
+  },
+  "121": {
+    "_attrs": {
+      "ActionTypeId": "121",
+      "ActionTypeName": "Target Highest RST",
+      "RoomType": "Reviver",
+      "ActionTypeCategory": "Target",
+      "ActionTypeKey": "SetTargetMode",
+      "ActionTypeParameterValue": "9",
+      "ActionTypeDescription": "Sets current revive priority to dead crews that have the highest RST stat.",
+      "ActionTypeParameterRelativity": "None",
+      "ImageSpriteId": "4",
+      "ConditionTypeCategory": "YourCharacter",
+      "ConditionTypeParameter": "None",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "9",
       "RoomCategoryType": "None",
       "ConditionParameterArgument": "0"
     }

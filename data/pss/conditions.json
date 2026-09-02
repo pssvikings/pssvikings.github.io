@@ -1084,7 +1084,7 @@
       "RoomType": "None",
       "ConditionTypeParameter": "EnemyCount",
       "ColorString": "",
-      "RequiredResearchDesignId": "96",
+      "RequiredResearchDesignId": "94",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
       "ConditionParameterArgument": "0",
@@ -2575,7 +2575,7 @@
       "RoomType": "None",
       "ConditionTypeParameter": "EnemyCount",
       "ColorString": "",
-      "RequiredResearchDesignId": "96",
+      "RequiredResearchDesignId": "94",
       "OrderIndex": "0",
       "RoomCategoryType": "None",
       "ConditionParameterArgument": "0",
@@ -12137,6 +12137,258 @@
       "ConditionCategoryArgument": "0"
     }
   },
+  "616": {
+    "_attrs": {
+      "ConditionTypeId": "616",
+      "ConditionTypeName": "{0} Selected",
+      "ConditionTypeDescription": "This condition is true when the subject is currently equipping the specified ammo type.",
+      "ConditionTypeAvailability": "1",
+      "ConditionTypeCategory": "Current",
+      "ConditionTypeComparison": "NotEqual",
+      "ConditionTypeParameterValue": "0",
+      "ConditionTypeKey": "AmmoSelected",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "AmmoSelected",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "617": {
+    "_attrs": {
+      "ConditionTypeId": "617",
+      "ConditionTypeName": "{1} Selected",
+      "ConditionTypeDescription": "This condition is true when the subject is currently equipping the specified ammo type.",
+      "ConditionTypeAvailability": "1",
+      "ConditionTypeCategory": "Current",
+      "ConditionTypeComparison": "NotEqual",
+      "ConditionTypeParameterValue": "0",
+      "ConditionTypeKey": "AmmoSelected",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "AmmoSelected",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "1",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "1",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "618": {
+    "_attrs": {
+      "ConditionTypeId": "618",
+      "ConditionTypeName": "{2} Selected",
+      "ConditionTypeDescription": "This condition is true when the subject is currently equipping the specified ammo type.",
+      "ConditionTypeAvailability": "1",
+      "ConditionTypeCategory": "Current",
+      "ConditionTypeComparison": "NotEqual",
+      "ConditionTypeParameterValue": "0",
+      "ConditionTypeKey": "AmmoSelected",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "AmmoSelected",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "2",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "2",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "619": {
+    "_attrs": {
+      "ConditionTypeId": "619",
+      "ConditionTypeName": "{3} Selected",
+      "ConditionTypeDescription": "This condition is true when the subject is currently equipping the specified ammo type.",
+      "ConditionTypeAvailability": "1",
+      "ConditionTypeCategory": "Current",
+      "ConditionTypeComparison": "NotEqual",
+      "ConditionTypeParameterValue": "0",
+      "ConditionTypeKey": "AmmoSelected",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "AmmoSelected",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "3",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "3",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "620": {
+    "_attrs": {
+      "ConditionTypeId": "620",
+      "ConditionTypeName": "{4} Selected",
+      "ConditionTypeDescription": "This condition is true when the subject is currently equipping the specified ammo type.",
+      "ConditionTypeAvailability": "1",
+      "ConditionTypeCategory": "Current",
+      "ConditionTypeComparison": "NotEqual",
+      "ConditionTypeParameterValue": "0",
+      "ConditionTypeKey": "AmmoSelected",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "AmmoSelected",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "4",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "4",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "621": {
+    "_attrs": {
+      "ConditionTypeId": "621",
+      "ConditionTypeName": "{5} Selected",
+      "ConditionTypeDescription": "This condition is true when the subject is currently equipping the specified ammo type.",
+      "ConditionTypeAvailability": "1",
+      "ConditionTypeCategory": "Current",
+      "ConditionTypeComparison": "NotEqual",
+      "ConditionTypeParameterValue": "0",
+      "ConditionTypeKey": "AmmoSelected",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "AmmoSelected",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "5",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "5",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "622": {
+    "_attrs": {
+      "ConditionTypeId": "622",
+      "ConditionTypeName": "{0} Not Selected",
+      "ConditionTypeDescription": "This condition is true when the subject is not currently equipping the specified ammo type.",
+      "ConditionTypeAvailability": "1",
+      "ConditionTypeCategory": "Current",
+      "ConditionTypeComparison": "Equal",
+      "ConditionTypeParameterValue": "0",
+      "ConditionTypeKey": "AmmoSelected",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "AmmoSelected",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "623": {
+    "_attrs": {
+      "ConditionTypeId": "623",
+      "ConditionTypeName": "{1} Not Selected",
+      "ConditionTypeDescription": "This condition is true when the subject is not currently equipping the specified ammo type.",
+      "ConditionTypeAvailability": "1",
+      "ConditionTypeCategory": "Current",
+      "ConditionTypeComparison": "Equal",
+      "ConditionTypeParameterValue": "0",
+      "ConditionTypeKey": "AmmoSelected",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "AmmoSelected",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "1",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "1",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "624": {
+    "_attrs": {
+      "ConditionTypeId": "624",
+      "ConditionTypeName": "{2} Not Selected",
+      "ConditionTypeDescription": "This condition is true when the subject is not currently equipping the specified ammo type.",
+      "ConditionTypeAvailability": "1",
+      "ConditionTypeCategory": "Current",
+      "ConditionTypeComparison": "Equal",
+      "ConditionTypeParameterValue": "0",
+      "ConditionTypeKey": "AmmoSelected",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "AmmoSelected",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "2",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "2",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "625": {
+    "_attrs": {
+      "ConditionTypeId": "625",
+      "ConditionTypeName": "{3} Not Selected",
+      "ConditionTypeDescription": "This condition is true when the subject is not currently equipping the specified ammo type.",
+      "ConditionTypeAvailability": "1",
+      "ConditionTypeCategory": "Current",
+      "ConditionTypeComparison": "Equal",
+      "ConditionTypeParameterValue": "0",
+      "ConditionTypeKey": "AmmoSelected",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "AmmoSelected",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "3",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "3",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "626": {
+    "_attrs": {
+      "ConditionTypeId": "626",
+      "ConditionTypeName": "{4} Not Selected",
+      "ConditionTypeDescription": "This condition is true when the subject is not currently equipping the specified ammo type.",
+      "ConditionTypeAvailability": "1",
+      "ConditionTypeCategory": "Current",
+      "ConditionTypeComparison": "Equal",
+      "ConditionTypeParameterValue": "0",
+      "ConditionTypeKey": "AmmoSelected",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "AmmoSelected",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "4",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "4",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "627": {
+    "_attrs": {
+      "ConditionTypeId": "627",
+      "ConditionTypeName": "{5} Not Selected",
+      "ConditionTypeDescription": "This condition is true when the subject is not currently equipping the specified ammo type.",
+      "ConditionTypeAvailability": "1",
+      "ConditionTypeCategory": "Current",
+      "ConditionTypeComparison": "Equal",
+      "ConditionTypeParameterValue": "0",
+      "ConditionTypeKey": "AmmoSelected",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "AmmoSelected",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "5",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "5",
+      "ConditionCategoryArgument": "0"
+    }
+  },
   "628": {
     "_attrs": {
       "ConditionTypeId": "628",
@@ -12174,6 +12426,27 @@
       "ColorString": "",
       "RequiredResearchDesignId": "213",
       "OrderIndex": "5",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "630": {
+    "_attrs": {
+      "ConditionTypeId": "630",
+      "ConditionTypeName": "Active Enemy Missiles <= 20",
+      "ConditionTypeDescription": "This condition is true when there are 20 or less active enemy missiles targeting your ship",
+      "ConditionTypeAvailability": "3",
+      "ConditionTypeCategory": "EnemyMissiles",
+      "ConditionTypeComparison": "Lower",
+      "ConditionTypeParameterValue": "21",
+      "ConditionTypeKey": "Count",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "Count",
+      "ColorString": "",
+      "RequiredResearchDesignId": "213",
+      "OrderIndex": "6",
       "RoomCategoryType": "None",
       "ConditionParameterArgument": "0",
       "ConditionCategoryArgument": "0"
