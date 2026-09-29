@@ -56404,5 +56404,107 @@
         }
       ]
     }
+  },
+  "585": {
+    "_attrs": {
+      "CharacterDesignId": "585",
+      "CharacterDesignName": "Pontianak",
+      "CharacterHeadPartId": "2567",
+      "CharacterBodyPartId": "2568",
+      "GenderType": "Female",
+      "RaceType": "Asian",
+      "Hp": "4",
+      "Pilot": "1",
+      "Attack": "1.7",
+      "FireResistance": "0",
+      "Repair": "1.1",
+      "Weapon": "3",
+      "Science": "2",
+      "Engine": "11",
+      "Research": "1",
+      "Level": "1",
+      "WalkingSpeed": "1",
+      "MinShipLevel": "1",
+      "FinalHp": "9",
+      "FinalPilot": "4",
+      "FinalAttack": "2.8",
+      "FinalRepair": "2",
+      "FinalWeapon": "7",
+      "FinalScience": "7",
+      "FinalEngine": "24",
+      "FinalResearch": "4",
+      "CharacterLegPartId": "2569",
+      "Rarity": "Hero",
+      "ProgressionType": "Linear",
+      "CharacterDesignDescription": "The dreaded Pontianak lures unsuspecting victims by mimicking a woman's laughter or the cries of an infant, then uses her sharp nails to attack and devour them. Ouch!",
+      "XpRequirementScale": "1",
+      "MaxCharacterLevel": "40",
+      "SpecialAbilityType": "Freeze",
+      "SpecialAbilityArgument": "80",
+      "SpecialAbilityFinalArgument": "200",
+      "ProfileSpriteId": "34257",
+      "RunSpeed": "2",
+      "TrainingCapacity": "90",
+      "EquipmentMask": "24",
+      "SpeechVoice": "",
+      "SpeechPhrases": "",
+      "SpeechRate": "1",
+      "SpeechPitch": "1",
+      "Flags": "3",
+      "RootCharacterDesignId": "585",
+      "MaxCount": "0",
+      "Tags": "",
+      "BoostValuesString": "6,4,0",
+      "Metadata": "{\"CharacterAttackType\":\"Melee\"}",
+      "TapSoundFileId": "5781",
+      "ActionSoundFileId": "5781",
+      "CollectionDesignId": "23"
+    },
+    "CharacterParts": {
+      "CharacterPart": [
+        {
+          "_attrs": {
+            "CharacterPartId": "2567",
+            "CharacterPartName": "PontianakHead",
+            "CharacterPartType": "Head",
+            "StandardSpriteId": "34251",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "34252"
+          }
+        },
+        {
+          "_attrs": {
+            "CharacterPartId": "2568",
+            "CharacterPartName": "PontianakBody",
+            "CharacterPartType": "Body",
+            "StandardSpriteId": "34253",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "34254"
+          }
+        },
+        {
+          "_attrs": {
+            "CharacterPartId": "2569",
+            "CharacterPartName": "PontianakLeg",
+            "CharacterPartType": "Leg",
+            "StandardSpriteId": "34255",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "34256"
+          }
+        }
+      ]
+    }
   }
 }
