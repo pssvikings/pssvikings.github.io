@@ -387,7 +387,7 @@
       "ActionTypeCategory": "Target",
       "ActionTypeKey": "TargetConditionRoom",
       "ActionTypeParameterValue": "0",
-      "ActionTypeDescription": "Target condition room that satisfies conditions",
+      "ActionTypeDescription": "Target the room that satisfies or is related to the entity that satisfies the linked Condition",
       "ActionTypeParameterRelativity": "None",
       "ImageSpriteId": "4",
       "ConditionTypeCategory": "None",

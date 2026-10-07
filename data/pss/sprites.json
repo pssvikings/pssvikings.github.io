@@ -317217,6 +317217,325 @@
       "SpriteKey": "DefenderCapacitor_ID_26"
     }
   },
+  "34274": {
+    "_attrs": {
+      "SpriteId": "34274",
+      "ImageFileId": "10927",
+      "X": "1",
+      "Y": "1",
+      "Width": "542",
+      "Height": "102",
+      "SpriteKey": "MainPanel"
+    }
+  },
+  "34275": {
+    "_attrs": {
+      "SpriteId": "34275",
+      "ImageFileId": "10927",
+      "X": "1",
+      "Y": "104",
+      "Width": "152",
+      "Height": "152",
+      "SpriteKey": "PopupPanel01"
+    }
+  },
+  "34276": {
+    "_attrs": {
+      "SpriteId": "34276",
+      "ImageFileId": "10927",
+      "X": "1",
+      "Y": "257",
+      "Width": "91",
+      "Height": "89",
+      "SpriteKey": "ShopItemSlot"
+    }
+  },
+  "34277": {
+    "_attrs": {
+      "SpriteId": "34277",
+      "ImageFileId": "10927",
+      "X": "571",
+      "Y": "1",
+      "Width": "26",
+      "Height": "26",
+      "SpriteKey": "Button_MainPanelCancel"
+    }
+  },
+  "34278": {
+    "_attrs": {
+      "SpriteId": "34278",
+      "ImageFileId": "10927",
+      "X": "544",
+      "Y": "1",
+      "Width": "26",
+      "Height": "26",
+      "SpriteKey": "Button_MainPanelBack"
+    }
+  },
+  "34279": {
+    "_attrs": {
+      "SpriteId": "34279",
+      "ImageFileId": "10927",
+      "X": "544",
+      "Y": "28",
+      "Width": "77",
+      "Height": "25",
+      "SpriteKey": "ButtonStyle01"
+    }
+  },
+  "34280": {
+    "_attrs": {
+      "SpriteId": "34280",
+      "ImageFileId": "10927",
+      "X": "598",
+      "Y": "1",
+      "Width": "76",
+      "Height": "25",
+      "SpriteKey": "ButtonStyle02"
+    }
+  },
+  "34281": {
+    "_attrs": {
+      "SpriteId": "34281",
+      "ImageFileId": "10927",
+      "X": "154",
+      "Y": "104",
+      "Width": "114",
+      "Height": "68",
+      "SpriteKey": "ShopCategoryWeapon"
+    }
+  },
+  "34282": {
+    "_attrs": {
+      "SpriteId": "34282",
+      "ImageFileId": "10927",
+      "X": "154",
+      "Y": "173",
+      "Width": "114",
+      "Height": "68",
+      "SpriteKey": "ShopCategoryDefence"
+    }
+  },
+  "34283": {
+    "_attrs": {
+      "SpriteId": "34283",
+      "ImageFileId": "10927",
+      "X": "269",
+      "Y": "104",
+      "Width": "114",
+      "Height": "68",
+      "SpriteKey": "ShopCategorySupport"
+    }
+  },
+  "34284": {
+    "_attrs": {
+      "SpriteId": "34284",
+      "ImageFileId": "10927",
+      "X": "269",
+      "Y": "173",
+      "Width": "114",
+      "Height": "68",
+      "SpriteKey": "ShopCategoryResources"
+    }
+  },
+  "34285": {
+    "_attrs": {
+      "SpriteId": "34285",
+      "ImageFileId": "10927",
+      "X": "384",
+      "Y": "104",
+      "Width": "114",
+      "Height": "68",
+      "SpriteKey": "ShopCategoryCrews"
+    }
+  },
+  "34286": {
+    "_attrs": {
+      "SpriteId": "34286",
+      "ImageFileId": "10927",
+      "X": "384",
+      "Y": "173",
+      "Width": "114",
+      "Height": "68",
+      "SpriteKey": "ShopCategoryShip"
+    }
+  },
+  "34287": {
+    "_attrs": {
+      "SpriteId": "34287",
+      "ImageFileId": "10927",
+      "X": "499",
+      "Y": "104",
+      "Width": "25",
+      "Height": "66",
+      "SpriteKey": "ShopCategoryPaint"
+    }
+  },
+  "34288": {
+    "_attrs": {
+      "SpriteId": "34288",
+      "ImageFileId": "10927",
+      "X": "154",
+      "Y": "242",
+      "Width": "89",
+      "Height": "42",
+      "SpriteKey": "ShopCategoryUGC"
+    }
+  },
+  "34289": {
+    "_attrs": {
+      "SpriteId": "34289",
+      "ImageFileId": "10927",
+      "X": "622",
+      "Y": "28",
+      "Width": "22",
+      "Height": "21",
+      "SpriteKey": "ChatInput"
+    }
+  },
+  "34290": {
+    "_attrs": {
+      "SpriteId": "34290",
+      "ImageFileId": "10927",
+      "X": "525",
+      "Y": "116",
+      "Width": "36",
+      "Height": "32",
+      "SpriteKey": "Button_ChatSend"
+    }
+  },
+  "34291": {
+    "_attrs": {
+      "SpriteId": "34291",
+      "ImageFileId": "10927",
+      "X": "544",
+      "Y": "54",
+      "Width": "63",
+      "Height": "30",
+      "SpriteKey": "ChatBubblePrimary"
+    }
+  },
+  "34292": {
+    "_attrs": {
+      "SpriteId": "34292",
+      "ImageFileId": "10927",
+      "X": "544",
+      "Y": "85",
+      "Width": "63",
+      "Height": "30",
+      "SpriteKey": "ChatBubbleSecondary"
+    }
+  },
+  "34293": {
+    "_attrs": {
+      "SpriteId": "34293",
+      "ImageFileId": "10927",
+      "X": "562",
+      "Y": "116",
+      "Width": "31",
+      "Height": "31",
+      "SpriteKey": "PanelContentFrame"
+    }
+  },
+  "34294": {
+    "_attrs": {
+      "SpriteId": "34294",
+      "ImageFileId": "10927",
+      "X": "609",
+      "Y": "54",
+      "Width": "63",
+      "Height": "21",
+      "SpriteKey": "PanelTab"
+    }
+  },
+  "34295": {
+    "_attrs": {
+      "SpriteId": "34295",
+      "ImageFileId": "10927",
+      "X": "609",
+      "Y": "76",
+      "Width": "63",
+      "Height": "21",
+      "SpriteKey": "PanelTabActive"
+    }
+  },
+  "34296": {
+    "_attrs": {
+      "SpriteId": "34296",
+      "ImageFileId": "10927",
+      "X": "609",
+      "Y": "98",
+      "Width": "63",
+      "Height": "25",
+      "SpriteKey": "PanelTabDecor"
+    }
+  },
+  "34297": {
+    "_attrs": {
+      "SpriteId": "34297",
+      "ImageFileId": "10928",
+      "X": "0",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "ReactorRoom_lv901"
+    }
+  },
+  "34298": {
+    "_attrs": {
+      "SpriteId": "34298",
+      "ImageFileId": "10928",
+      "X": "75",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "ReactorRoom_lv902"
+    }
+  },
+  "34299": {
+    "_attrs": {
+      "SpriteId": "34299",
+      "ImageFileId": "10928",
+      "X": "150",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "ReactorRoom_lv903"
+    }
+  },
+  "34300": {
+    "_attrs": {
+      "SpriteId": "34300",
+      "ImageFileId": "10928",
+      "X": "225",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "ReactorRoom_lv904"
+    }
+  },
+  "34301": {
+    "_attrs": {
+      "SpriteId": "34301",
+      "ImageFileId": "10928",
+      "X": "300",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "ReactorRoom_lv905"
+    }
+  },
+  "34302": {
+    "_attrs": {
+      "SpriteId": "34302",
+      "ImageFileId": "10928",
+      "X": "375",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "ReactorRoom_lv906"
+    }
+  },
   "30092": {
     "_attrs": {
       "SpriteId": "30092",

@@ -12931,5 +12931,14 @@
       "Duration": "100",
       "AnimationEffectType": "None"
     }
+  },
+  "2511": {
+    "_attrs": {
+      "AnimationId": "2511",
+      "Key": "ReactorRoom_lv9",
+      "AnimationSprites": "34297,34298,34299,34300,34301,34302",
+      "Duration": "40",
+      "AnimationEffectType": "None"
+    }
   }
 }

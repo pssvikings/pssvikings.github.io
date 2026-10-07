@@ -78299,6 +78299,42 @@
       "SkinKey": "0"
     }
   },
+  "6388": {
+    "_attrs": {
+      "RoomDesignSpriteId": "6388",
+      "RoomDesignId": "924",
+      "SpriteId": "34297",
+      "RoomSpriteType": "Interior",
+      "RoomEffectType": "None",
+      "RoomEffectParameter": "0",
+      "SkinName": "",
+      "SkinDescription": "",
+      "RequirementString": "",
+      "Flags": "0",
+      "Metadata": "",
+      "RaceId": "0",
+      "AnimationId": "2511",
+      "SkinKey": "0"
+    }
+  },
+  "6389": {
+    "_attrs": {
+      "RoomDesignSpriteId": "6389",
+      "RoomDesignId": "924",
+      "SpriteId": "854",
+      "RoomSpriteType": "Interior Destroyed",
+      "RoomEffectType": "None",
+      "RoomEffectParameter": "0",
+      "SkinName": "",
+      "SkinDescription": "",
+      "RequirementString": "",
+      "Flags": "0",
+      "Metadata": "",
+      "RaceId": "0",
+      "AnimationId": "0",
+      "SkinKey": "0"
+    }
+  },
   "6190": {
     "_attrs": {
       "RoomDesignSpriteId": "6190",

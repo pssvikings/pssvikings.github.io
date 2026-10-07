@@ -12556,5 +12556,257 @@
       "ConditionParameterArgument": "0",
       "ConditionCategoryArgument": "0"
     }
+  },
+  "636": {
+    "_attrs": {
+      "ConditionTypeId": "636",
+      "ConditionTypeName": "Friendly Crew HP > 0%",
+      "ConditionTypeDescription": "This condition is true when any friendly crew has HP remaining",
+      "ConditionTypeAvailability": "2",
+      "ConditionTypeCategory": "YourCharacter",
+      "ConditionTypeComparison": "HigherPercentage",
+      "ConditionTypeParameterValue": "0",
+      "ConditionTypeKey": "Hp",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "Hp",
+      "ColorString": "",
+      "RequiredResearchDesignId": "0",
+      "OrderIndex": "0",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "637": {
+    "_attrs": {
+      "ConditionTypeId": "637",
+      "ConditionTypeName": "Friendly Crew HP < 25%",
+      "ConditionTypeDescription": "This condition is true when any friendly crew has 25% or less HP",
+      "ConditionTypeAvailability": "2",
+      "ConditionTypeCategory": "YourCharacter",
+      "ConditionTypeComparison": "LowerOrEqualPercentage",
+      "ConditionTypeParameterValue": "25",
+      "ConditionTypeKey": "Hp",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "Hp",
+      "ColorString": "",
+      "RequiredResearchDesignId": "0",
+      "OrderIndex": "1",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "638": {
+    "_attrs": {
+      "ConditionTypeId": "638",
+      "ConditionTypeName": "Friendly Crew HP > 25%",
+      "ConditionTypeDescription": "This condition is true when any friendly crew has more than 25% HP",
+      "ConditionTypeAvailability": "2",
+      "ConditionTypeCategory": "YourCharacter",
+      "ConditionTypeComparison": "HigherPercentage",
+      "ConditionTypeParameterValue": "25",
+      "ConditionTypeKey": "Hp",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "Hp",
+      "ColorString": "",
+      "RequiredResearchDesignId": "0",
+      "OrderIndex": "2",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "639": {
+    "_attrs": {
+      "ConditionTypeId": "639",
+      "ConditionTypeName": "Friendly Crew HP < 50%",
+      "ConditionTypeDescription": "This condition is true when any friendly crew has 50% or less HP",
+      "ConditionTypeAvailability": "2",
+      "ConditionTypeCategory": "YourCharacter",
+      "ConditionTypeComparison": "LowerOrEqualPercentage",
+      "ConditionTypeParameterValue": "50",
+      "ConditionTypeKey": "Hp",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "Hp",
+      "ColorString": "",
+      "RequiredResearchDesignId": "0",
+      "OrderIndex": "3",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "640": {
+    "_attrs": {
+      "ConditionTypeId": "640",
+      "ConditionTypeName": "Friendly Crew HP > 50%",
+      "ConditionTypeDescription": "This condition is true when any friendly crew has more than 50% HP",
+      "ConditionTypeAvailability": "2",
+      "ConditionTypeCategory": "YourCharacter",
+      "ConditionTypeComparison": "HigherPercentage",
+      "ConditionTypeParameterValue": "50",
+      "ConditionTypeKey": "Hp",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "Hp",
+      "ColorString": "",
+      "RequiredResearchDesignId": "0",
+      "OrderIndex": "4",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "641": {
+    "_attrs": {
+      "ConditionTypeId": "641",
+      "ConditionTypeName": "Friendly Crew HP < 75%",
+      "ConditionTypeDescription": "This condition is true when any friendly crew has 75% or less HP",
+      "ConditionTypeAvailability": "2",
+      "ConditionTypeCategory": "YourCharacter",
+      "ConditionTypeComparison": "LowerOrEqualPercentage",
+      "ConditionTypeParameterValue": "75",
+      "ConditionTypeKey": "Hp",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "Hp",
+      "ColorString": "",
+      "RequiredResearchDesignId": "0",
+      "OrderIndex": "5",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "642": {
+    "_attrs": {
+      "ConditionTypeId": "642",
+      "ConditionTypeName": "Friendly Crew HP > 75%",
+      "ConditionTypeDescription": "This condition is true when any friendly crew has more than 75% HP",
+      "ConditionTypeAvailability": "2",
+      "ConditionTypeCategory": "YourCharacter",
+      "ConditionTypeComparison": "HigherPercentage",
+      "ConditionTypeParameterValue": "75",
+      "ConditionTypeKey": "Hp",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "Hp",
+      "ColorString": "",
+      "RequiredResearchDesignId": "0",
+      "OrderIndex": "6",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "643": {
+    "_attrs": {
+      "ConditionTypeId": "643",
+      "ConditionTypeName": "Friendly Crew HP < 100%",
+      "ConditionTypeDescription": "This condition is true when any of your crew has sustained damage",
+      "ConditionTypeAvailability": "2",
+      "ConditionTypeCategory": "YourCharacter",
+      "ConditionTypeComparison": "LowerPercentage",
+      "ConditionTypeParameterValue": "100",
+      "ConditionTypeKey": "Hp",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "Hp",
+      "ColorString": "",
+      "RequiredResearchDesignId": "0",
+      "OrderIndex": "7",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "644": {
+    "_attrs": {
+      "ConditionTypeId": "644",
+      "ConditionTypeName": "Friendly Crew Has Full HP",
+      "ConditionTypeDescription": "This condition is true when any friendly crew's HP is at maximum",
+      "ConditionTypeAvailability": "2",
+      "ConditionTypeCategory": "YourCharacter",
+      "ConditionTypeComparison": "HigherOrEqualPercentage",
+      "ConditionTypeParameterValue": "100",
+      "ConditionTypeKey": "Hp",
+      "ImageSpriteId": "4",
+      "RoomType": "None",
+      "ConditionTypeParameter": "Hp",
+      "ColorString": "",
+      "RequiredResearchDesignId": "0",
+      "OrderIndex": "8",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "645": {
+    "_attrs": {
+      "ConditionTypeId": "645",
+      "ConditionTypeName": "Enemy Reviver HP > 0%",
+      "ConditionTypeDescription": "This condition is true when any enemy Reviver rooms has HP remaining",
+      "ConditionTypeAvailability": "3",
+      "ConditionTypeCategory": "EnemyRoom",
+      "ConditionTypeComparison": "HigherPercentage",
+      "ConditionTypeParameterValue": "0",
+      "ConditionTypeKey": "Hp",
+      "ImageSpriteId": "4",
+      "RoomType": "Reviver",
+      "ConditionTypeParameter": "Hp",
+      "ColorString": "",
+      "RequiredResearchDesignId": "0",
+      "OrderIndex": "1",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "646": {
+    "_attrs": {
+      "ConditionTypeId": "646",
+      "ConditionTypeName": "Your Reviver HP < 100%",
+      "ConditionTypeDescription": "This condition is true when any friendly Reviver rooms has sustained damage",
+      "ConditionTypeAvailability": "3",
+      "ConditionTypeCategory": "YourRoom",
+      "ConditionTypeComparison": "LowerPercentage",
+      "ConditionTypeParameterValue": "100",
+      "ConditionTypeKey": "Hp",
+      "ImageSpriteId": "4",
+      "RoomType": "Reviver",
+      "ConditionTypeParameter": "Hp",
+      "ColorString": "",
+      "RequiredResearchDesignId": "0",
+      "OrderIndex": "8",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
+  },
+  "647": {
+    "_attrs": {
+      "ConditionTypeId": "647",
+      "ConditionTypeName": "Your Reviver HP <= 50%",
+      "ConditionTypeDescription": "This condition is true when any friendly Reviver rooms has 50% or less HP",
+      "ConditionTypeAvailability": "3",
+      "ConditionTypeCategory": "YourRoom",
+      "ConditionTypeComparison": "LowerOrEqualPercentage",
+      "ConditionTypeParameterValue": "50",
+      "ConditionTypeKey": "Hp",
+      "ImageSpriteId": "4",
+      "RoomType": "Reviver",
+      "ConditionTypeParameter": "Hp",
+      "ColorString": "",
+      "RequiredResearchDesignId": "94",
+      "OrderIndex": "4",
+      "RoomCategoryType": "None",
+      "ConditionParameterArgument": "0",
+      "ConditionCategoryArgument": "0"
+    }
   }
 }
