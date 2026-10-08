@@ -12932,6 +12932,24 @@
       "AnimationEffectType": "None"
     }
   },
+  "2507": {
+    "_attrs": {
+      "AnimationId": "2507",
+      "Key": "BioRecycler_StarForge",
+      "AnimationSprites": "34198,34198,34198,34198,34198,34199,34200,34201,34201,34201,34202,34203,34204,34205",
+      "Duration": "50",
+      "AnimationEffectType": "None"
+    }
+  },
+  "2508": {
+    "_attrs": {
+      "AnimationId": "2508",
+      "Key": "Pet_Pebbly",
+      "AnimationSprites": "34215,34216",
+      "Duration": "40",
+      "AnimationEffectType": "None"
+    }
+  },
   "2511": {
     "_attrs": {
       "AnimationId": "2511",

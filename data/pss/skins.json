@@ -22516,6 +22516,29 @@
       "OriginalSpriteId": "23211"
     }
   },
+  "1338": {
+    "_attrs": {
+      "SkinId": "1338",
+      "UserId": "4",
+      "ReferenceId": "422",
+      "RootId": "422",
+      "SkinType": "RoomSkin",
+      "SpriteId": "34198",
+      "SpriteType": "1",
+      "ApprovalFlags": "Published",
+      "SkinName": "Star Forge",
+      "SkinDescription": "A celestial forge, able to temper the very building blocks of the galaxy. Converts dead corpses into gas or blends living crew into useful items.",
+      "RequirementString": "",
+      "Flags": "3",
+      "Metadata": "",
+      "SkinSetId": "538",
+      "DateUpdated": "2023-08-02T07:37:46",
+      "RaceId": "0",
+      "AnimationId": "2507",
+      "OriginalAnimationId": "1275",
+      "OriginalSpriteId": "8356"
+    }
+  },
   "1313": {
     "_attrs": {
       "SkinId": "1313",

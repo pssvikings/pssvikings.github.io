@@ -317243,8 +317243,8 @@
     "_attrs": {
       "SpriteId": "34276",
       "ImageFileId": "10927",
-      "X": "1",
-      "Y": "257",
+      "X": "154",
+      "Y": "285",
       "Width": "91",
       "Height": "89",
       "SpriteKey": "ShopItemSlot"
@@ -317534,6 +317534,17 @@
       "Width": "75",
       "Height": "50",
       "SpriteKey": "ReactorRoom_lv906"
+    }
+  },
+  "34303": {
+    "_attrs": {
+      "SpriteId": "34303",
+      "ImageFileId": "10927",
+      "X": "1",
+      "Y": "257",
+      "Width": "152",
+      "Height": "152",
+      "SpriteKey": "PopupPanel02"
     }
   },
   "30092": {

@@ -56405,6 +56405,108 @@
       ]
     }
   },
+  "584": {
+    "_attrs": {
+      "CharacterDesignId": "584",
+      "CharacterDesignName": "Grimly",
+      "CharacterHeadPartId": "2560",
+      "CharacterBodyPartId": "2561",
+      "GenderType": "Male",
+      "RaceType": "White",
+      "Hp": "6",
+      "Pilot": "4",
+      "Attack": "1.2",
+      "FireResistance": "80",
+      "Repair": "1.8",
+      "Weapon": "12",
+      "Science": "1",
+      "Engine": "5",
+      "Research": "3",
+      "Level": "1",
+      "WalkingSpeed": "1",
+      "MinShipLevel": "1",
+      "FinalHp": "12",
+      "FinalPilot": "4",
+      "FinalAttack": "2.2",
+      "FinalRepair": "3",
+      "FinalWeapon": "24",
+      "FinalScience": "2",
+      "FinalEngine": "5",
+      "FinalResearch": "3",
+      "CharacterLegPartId": "2562",
+      "Rarity": "Special",
+      "ProgressionType": "Linear",
+      "CharacterDesignDescription": "This veritcally challenged smithy has a wealth of knowledge in fine metalwork, while staying compact for easy storage!",
+      "XpRequirementScale": "1",
+      "MaxCharacterLevel": "40",
+      "SpecialAbilityType": "AddReload",
+      "SpecialAbilityArgument": "30",
+      "SpecialAbilityFinalArgument": "50",
+      "ProfileSpriteId": "34196",
+      "RunSpeed": "1",
+      "TrainingCapacity": "100",
+      "EquipmentMask": "24",
+      "SpeechVoice": "",
+      "SpeechPhrases": "",
+      "SpeechRate": "1",
+      "SpeechPitch": "1",
+      "Flags": "1",
+      "RootCharacterDesignId": "584",
+      "MaxCount": "0",
+      "Tags": "",
+      "BoostValuesString": "6,4,0",
+      "Metadata": "{\"CharacterAttackType\":\"Melee\",\"WeaponSpriteId\":\"34207\"}",
+      "TapSoundFileId": "5781",
+      "ActionSoundFileId": "5781",
+      "CollectionDesignId": "10"
+    },
+    "CharacterParts": {
+      "CharacterPart": [
+        {
+          "_attrs": {
+            "CharacterPartId": "2560",
+            "CharacterPartName": "GrimlyHead",
+            "CharacterPartType": "Head",
+            "StandardSpriteId": "34190",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "34191"
+          }
+        },
+        {
+          "_attrs": {
+            "CharacterPartId": "2561",
+            "CharacterPartName": "GrimlyBody",
+            "CharacterPartType": "Body",
+            "StandardSpriteId": "34192",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "34193"
+          }
+        },
+        {
+          "_attrs": {
+            "CharacterPartId": "2562",
+            "CharacterPartName": "GrimlyLeg",
+            "CharacterPartType": "Leg",
+            "StandardSpriteId": "34194",
+            "Flags": "0",
+            "StandardFileId": "0",
+            "ActionFileId": "0",
+            "StandardBorderFileId": "0",
+            "ActionBorderFileId": "0",
+            "ActionSpriteId": "34195"
+          }
+        }
+      ]
+    }
+  },
   "585": {
     "_attrs": {
       "CharacterDesignId": "585",
