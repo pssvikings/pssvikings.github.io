@@ -165751,10 +165751,10 @@
     "_attrs": {
       "SpriteId": "5130",
       "ImageFileId": "1537",
-      "X": "694",
-      "Y": "704",
-      "Width": "23",
-      "Height": "23",
+      "X": "700",
+      "Y": "711",
+      "Width": "11",
+      "Height": "6",
       "SpriteKey": "ShipPaintStickerUI_ArrowButton"
     }
   },
@@ -317225,7 +317225,7 @@
       "Y": "1",
       "Width": "542",
       "Height": "102",
-      "SpriteKey": "MainPanel"
+      "SpriteKey": "MainPanelBody"
     }
   },
   "34275": {
@@ -317545,6 +317545,336 @@
       "Width": "152",
       "Height": "152",
       "SpriteKey": "PopupPanel02"
+    }
+  },
+  "34304": {
+    "_attrs": {
+      "SpriteId": "34304",
+      "ImageFileId": "10927",
+      "X": "244",
+      "Y": "242",
+      "Width": "246",
+      "Height": "30",
+      "SpriteKey": "MainPanelTitle"
+    }
+  },
+  "34305": {
+    "_attrs": {
+      "SpriteId": "34305",
+      "ImageFileId": "10927",
+      "X": "525",
+      "Y": "149",
+      "Width": "77",
+      "Height": "25",
+      "SpriteKey": "ButtonStyle03"
+    }
+  },
+  "34306": {
+    "_attrs": {
+      "SpriteId": "34306",
+      "ImageFileId": "10927",
+      "X": "594",
+      "Y": "124",
+      "Width": "63",
+      "Height": "24",
+      "SpriteKey": "DailySaleBanner"
+    }
+  },
+  "34307": {
+    "_attrs": {
+      "SpriteId": "34307",
+      "ImageFileId": "10927",
+      "X": "603",
+      "Y": "149",
+      "Width": "55",
+      "Height": "22",
+      "SpriteKey": "CapLogTag"
+    }
+  },
+  "34308": {
+    "_attrs": {
+      "SpriteId": "34308",
+      "ImageFileId": "10927",
+      "X": "499",
+      "Y": "175",
+      "Width": "40",
+      "Height": "40",
+      "SpriteKey": "BonusItemFrame"
+    }
+  },
+  "34309": {
+    "_attrs": {
+      "SpriteId": "34309",
+      "ImageFileId": "10927",
+      "X": "540",
+      "Y": "175",
+      "Width": "90",
+      "Height": "43",
+      "SpriteKey": "NewsBubble"
+    }
+  },
+  "34310": {
+    "_attrs": {
+      "SpriteId": "34310",
+      "ImageFileId": "10927",
+      "X": "499",
+      "Y": "216",
+      "Width": "31",
+      "Height": "59",
+      "SpriteKey": "TVStatic"
+    }
+  },
+  "34311": {
+    "_attrs": {
+      "SpriteId": "34311",
+      "ImageFileId": "10927",
+      "X": "247",
+      "Y": "274",
+      "Width": "237",
+      "Height": "79",
+      "SpriteKey": "NewsFrame"
+    }
+  },
+  "34312": {
+    "_attrs": {
+      "SpriteId": "34312",
+      "ImageFileId": "10927",
+      "X": "246",
+      "Y": "354",
+      "Width": "219",
+      "Height": "17",
+      "SpriteKey": "BreakingNewsBanner"
+    }
+  },
+  "34313": {
+    "_attrs": {
+      "SpriteId": "34313",
+      "ImageFileId": "10927",
+      "X": "154",
+      "Y": "375",
+      "Width": "119",
+      "Height": "28",
+      "SpriteKey": "TimeBanner"
+    }
+  },
+  "34314": {
+    "_attrs": {
+      "SpriteId": "34314",
+      "ImageFileId": "10927",
+      "X": "274",
+      "Y": "372",
+      "Width": "44",
+      "Height": "18",
+      "SpriteKey": "RarityTag_Common"
+    }
+  },
+  "34315": {
+    "_attrs": {
+      "SpriteId": "34315",
+      "ImageFileId": "10927",
+      "X": "274",
+      "Y": "391",
+      "Width": "44",
+      "Height": "18",
+      "SpriteKey": "RarityTag_Elite"
+    }
+  },
+  "34316": {
+    "_attrs": {
+      "SpriteId": "34316",
+      "ImageFileId": "10927",
+      "X": "319",
+      "Y": "372",
+      "Width": "44",
+      "Height": "18",
+      "SpriteKey": "RarityTag_Unique"
+    }
+  },
+  "34317": {
+    "_attrs": {
+      "SpriteId": "34317",
+      "ImageFileId": "10927",
+      "X": "364",
+      "Y": "372",
+      "Width": "44",
+      "Height": "18",
+      "SpriteKey": "RarityTag_Epic"
+    }
+  },
+  "34318": {
+    "_attrs": {
+      "SpriteId": "34318",
+      "ImageFileId": "10927",
+      "X": "0",
+      "Y": "0",
+      "Width": "1",
+      "Height": "1",
+      "SpriteKey": "RarityTag_Hero"
+    }
+  },
+  "34319": {
+    "_attrs": {
+      "SpriteId": "34319",
+      "ImageFileId": "10927",
+      "X": "364",
+      "Y": "391",
+      "Width": "44",
+      "Height": "18",
+      "SpriteKey": "RarityTag_Special"
+    }
+  },
+  "34320": {
+    "_attrs": {
+      "SpriteId": "34320",
+      "ImageFileId": "10927",
+      "X": "409",
+      "Y": "372",
+      "Width": "44",
+      "Height": "18",
+      "SpriteKey": "RarityTag_Legendary"
+    }
+  },
+  "34321": {
+    "_attrs": {
+      "SpriteId": "34321",
+      "ImageFileId": "10927",
+      "X": "645",
+      "Y": "29",
+      "Width": "30",
+      "Height": "19",
+      "SpriteKey": "Button_MainPanelHelp"
+    }
+  },
+  "34322": {
+    "_attrs": {
+      "SpriteId": "34322",
+      "ImageFileId": "10929",
+      "X": "0",
+      "Y": "0",
+      "Width": "1050",
+      "Height": "375",
+      "SpriteKey": "DefensePlatform_Balloon"
+    }
+  },
+  "34323": {
+    "_attrs": {
+      "SpriteId": "34323",
+      "ImageFileId": "10927",
+      "X": "659",
+      "Y": "124",
+      "Width": "15",
+      "Height": "15",
+      "SpriteKey": "Icon_Rotate"
+    }
+  },
+  "34324": {
+    "_attrs": {
+      "SpriteId": "34324",
+      "ImageFileId": "10927",
+      "X": "659",
+      "Y": "140",
+      "Width": "15",
+      "Height": "15",
+      "SpriteKey": "Icon_Scale"
+    }
+  },
+  "34325": {
+    "_attrs": {
+      "SpriteId": "34325",
+      "ImageFileId": "10927",
+      "X": "659",
+      "Y": "156",
+      "Width": "15",
+      "Height": "15",
+      "SpriteKey": "Button_Flip"
+    }
+  },
+  "34326": {
+    "_attrs": {
+      "SpriteId": "34326",
+      "ImageFileId": "10927",
+      "X": "631",
+      "Y": "172",
+      "Width": "15",
+      "Height": "15",
+      "SpriteKey": "Button_Close"
+    }
+  },
+  "34327": {
+    "_attrs": {
+      "SpriteId": "34327",
+      "ImageFileId": "10927",
+      "X": "663",
+      "Y": "172",
+      "Width": "13",
+      "Height": "13",
+      "SpriteKey": "StickerAnchor"
+    }
+  },
+  "34328": {
+    "_attrs": {
+      "SpriteId": "34328",
+      "ImageFileId": "10927",
+      "X": "631",
+      "Y": "188",
+      "Width": "31",
+      "Height": "11",
+      "SpriteKey": "SlideBar"
+    }
+  },
+  "34329": {
+    "_attrs": {
+      "SpriteId": "34329",
+      "ImageFileId": "10927",
+      "X": "631",
+      "Y": "200",
+      "Width": "21",
+      "Height": "13",
+      "SpriteKey": "SlideBarButton"
+    }
+  },
+  "34330": {
+    "_attrs": {
+      "SpriteId": "34330",
+      "ImageFileId": "10927",
+      "X": "531",
+      "Y": "219",
+      "Width": "23",
+      "Height": "23",
+      "SpriteKey": "ColorIconFrame"
+    }
+  },
+  "34331": {
+    "_attrs": {
+      "SpriteId": "34331",
+      "ImageFileId": "10927",
+      "X": "555",
+      "Y": "219",
+      "Width": "67",
+      "Height": "9",
+      "SpriteKey": "ColorBar"
+    }
+  },
+  "34332": {
+    "_attrs": {
+      "SpriteId": "34332",
+      "ImageFileId": "10927",
+      "X": "485",
+      "Y": "276",
+      "Width": "31",
+      "Height": "29",
+      "SpriteKey": "Icon_Save"
+    }
+  },
+  "34333": {
+    "_attrs": {
+      "SpriteId": "34333",
+      "ImageFileId": "10927",
+      "X": "647",
+      "Y": "172",
+      "Width": "15",
+      "Height": "15",
+      "SpriteKey": "Button_DeleteSticker"
     }
   },
   "30092": {
