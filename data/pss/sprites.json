@@ -317289,7 +317289,7 @@
       "ImageFileId": "10927",
       "X": "598",
       "Y": "1",
-      "Width": "76",
+      "Width": "77",
       "Height": "25",
       "SpriteKey": "ButtonStyle02"
     }
@@ -317641,9 +317641,9 @@
       "ImageFileId": "10927",
       "X": "246",
       "Y": "354",
-      "Width": "219",
+      "Width": "123",
       "Height": "17",
-      "SpriteKey": "BreakingNewsBanner"
+      "SpriteKey": "BreakingNewsBannerTitle"
     }
   },
   "34313": {
@@ -317694,8 +317694,8 @@
     "_attrs": {
       "SpriteId": "34317",
       "ImageFileId": "10927",
-      "X": "364",
-      "Y": "372",
+      "X": "319",
+      "Y": "391",
       "Width": "44",
       "Height": "18",
       "SpriteKey": "RarityTag_Epic"
@@ -317705,10 +317705,10 @@
     "_attrs": {
       "SpriteId": "34318",
       "ImageFileId": "10927",
-      "X": "0",
-      "Y": "0",
-      "Width": "1",
-      "Height": "1",
+      "X": "364",
+      "Y": "372",
+      "Width": "44",
+      "Height": "18",
       "SpriteKey": "RarityTag_Hero"
     }
   },
@@ -317875,6 +317875,17 @@
       "Width": "15",
       "Height": "15",
       "SpriteKey": "Button_DeleteSticker"
+    }
+  },
+  "34334": {
+    "_attrs": {
+      "SpriteId": "34334",
+      "ImageFileId": "10927",
+      "X": "675",
+      "Y": "105",
+      "Width": "77",
+      "Height": "25",
+      "SpriteKey": "ButtonStyle01Active"
     }
   },
   "30092": {
@@ -359026,6 +359037,1414 @@
       "Width": "125",
       "Height": "50",
       "SpriteKey": "Stingerspammer_I_2"
+    }
+  },
+  "34432": {
+    "_attrs": {
+      "SpriteId": "34432",
+      "ImageFileId": "10927",
+      "X": "711",
+      "Y": "315",
+      "Width": "24",
+      "Height": "24",
+      "SpriteKey": "Stats_Evasion"
+    }
+  },
+  "34433": {
+    "_attrs": {
+      "SpriteId": "34433",
+      "ImageFileId": "10935",
+      "X": "1",
+      "Y": "1",
+      "Width": "25",
+      "Height": "25",
+      "SpriteKey": "LiftTrack_Party01"
+    }
+  },
+  "34434": {
+    "_attrs": {
+      "SpriteId": "34434",
+      "ImageFileId": "10935",
+      "X": "27",
+      "Y": "1",
+      "Width": "25",
+      "Height": "25",
+      "SpriteKey": "LiftTrack_Party02"
+    }
+  },
+  "34435": {
+    "_attrs": {
+      "SpriteId": "34435",
+      "ImageFileId": "10935",
+      "X": "53",
+      "Y": "1",
+      "Width": "25",
+      "Height": "25",
+      "SpriteKey": "LiftTrack_Party03"
+    }
+  },
+  "34436": {
+    "_attrs": {
+      "SpriteId": "34436",
+      "ImageFileId": "10935",
+      "X": "79",
+      "Y": "1",
+      "Width": "25",
+      "Height": "25",
+      "SpriteKey": "LiftTrack_Party04"
+    }
+  },
+  "34437": {
+    "_attrs": {
+      "SpriteId": "34437",
+      "ImageFileId": "10927",
+      "X": "713",
+      "Y": "340",
+      "Width": "22",
+      "Height": "21",
+      "SpriteKey": "InboxSlotFlip"
+    }
+  },
+  "34438": {
+    "_attrs": {
+      "SpriteId": "34438",
+      "ImageFileId": "10927",
+      "X": "734",
+      "Y": "178",
+      "Width": "22",
+      "Height": "21",
+      "SpriteKey": "InboxSlotFail"
+    }
+  },
+  "34439": {
+    "_attrs": {
+      "SpriteId": "34439",
+      "ImageFileId": "10927",
+      "X": "754",
+      "Y": "1",
+      "Width": "9",
+      "Height": "67",
+      "SpriteKey": "ColorBarVerticle"
+    }
+  },
+  "34440": {
+    "_attrs": {
+      "SpriteId": "34440",
+      "ImageFileId": "10927",
+      "X": "724",
+      "Y": "410",
+      "Width": "51",
+      "Height": "27",
+      "SpriteKey": "RearmButton"
+    }
+  },
+  "34441": {
+    "_attrs": {
+      "SpriteId": "34441",
+      "ImageFileId": "10927",
+      "X": "724",
+      "Y": "438",
+      "Width": "51",
+      "Height": "27",
+      "SpriteKey": "RearmButtonActive"
+    }
+  },
+  "34442": {
+    "_attrs": {
+      "SpriteId": "34442",
+      "ImageFileId": "10927",
+      "X": "764",
+      "Y": "1",
+      "Width": "114",
+      "Height": "68",
+      "SpriteKey": "ShopCategoryUGC_big"
+    }
+  },
+  "34443": {
+    "_attrs": {
+      "SpriteId": "34443",
+      "ImageFileId": "10936",
+      "X": "0",
+      "Y": "0",
+      "Width": "50",
+      "Height": "50",
+      "SpriteKey": "Toilet_party"
+    }
+  },
+  "34444": {
+    "_attrs": {
+      "SpriteId": "34444",
+      "ImageFileId": "10927",
+      "X": "754",
+      "Y": "70",
+      "Width": "26",
+      "Height": "26",
+      "SpriteKey": "Button_MainPanelCancelActive"
+    }
+  },
+  "34445": {
+    "_attrs": {
+      "SpriteId": "34445",
+      "ImageFileId": "10927",
+      "X": "754",
+      "Y": "97",
+      "Width": "26",
+      "Height": "26",
+      "SpriteKey": "Button_MainPanelBackActive"
+    }
+  },
+  "34446": {
+    "_attrs": {
+      "SpriteId": "34446",
+      "ImageFileId": "10937",
+      "X": "0",
+      "Y": "0",
+      "Width": "2025",
+      "Height": "600",
+      "SpriteKey": "Thunderbirds2_Lv14_EX_Interior_Updated"
+    }
+  },
+  "34447": {
+    "_attrs": {
+      "SpriteId": "34447",
+      "ImageFileId": "10938",
+      "X": "0",
+      "Y": "0",
+      "Width": "2025",
+      "Height": "600",
+      "SpriteKey": "Thunderbirds2_Lv14_Interior_Updated"
+    }
+  },
+  "34448": {
+    "_attrs": {
+      "SpriteId": "34448",
+      "ImageFileId": "10927",
+      "X": "734",
+      "Y": "200",
+      "Width": "22",
+      "Height": "21",
+      "SpriteKey": "InvalidChatInput"
+    }
+  },
+  "34449": {
+    "_attrs": {
+      "SpriteId": "34449",
+      "ImageFileId": "10939",
+      "X": "0",
+      "Y": "0",
+      "Width": "2150",
+      "Height": "825",
+      "SpriteKey": "120-391-2482-93432"
+    }
+  },
+  "34450": {
+    "_attrs": {
+      "SpriteId": "34450",
+      "ImageFileId": "10940",
+      "X": "0",
+      "Y": "0",
+      "Width": "450",
+      "Height": "250",
+      "SpriteKey": "Skin_Hearbeat01"
+    }
+  },
+  "34451": {
+    "_attrs": {
+      "SpriteId": "34451",
+      "ImageFileId": "10940",
+      "X": "450",
+      "Y": "0",
+      "Width": "450",
+      "Height": "250",
+      "SpriteKey": "Skin_Hearbeat02"
+    }
+  },
+  "34452": {
+    "_attrs": {
+      "SpriteId": "34452",
+      "ImageFileId": "10940",
+      "X": "900",
+      "Y": "0",
+      "Width": "450",
+      "Height": "250",
+      "SpriteKey": "Skin_Hearbeat03"
+    }
+  },
+  "34453": {
+    "_attrs": {
+      "SpriteId": "34453",
+      "ImageFileId": "10940",
+      "X": "1350",
+      "Y": "0",
+      "Width": "450",
+      "Height": "250",
+      "SpriteKey": "Skin_Hearbeat04"
+    }
+  },
+  "34454": {
+    "_attrs": {
+      "SpriteId": "34454",
+      "ImageFileId": "10940",
+      "X": "0",
+      "Y": "250",
+      "Width": "450",
+      "Height": "250",
+      "SpriteKey": "Skin_Hearbeat05"
+    }
+  },
+  "34455": {
+    "_attrs": {
+      "SpriteId": "34455",
+      "ImageFileId": "10940",
+      "X": "450",
+      "Y": "250",
+      "Width": "450",
+      "Height": "250",
+      "SpriteKey": "Skin_Hearbeat06"
+    }
+  },
+  "34456": {
+    "_attrs": {
+      "SpriteId": "34456",
+      "ImageFileId": "10940",
+      "X": "900",
+      "Y": "250",
+      "Width": "450",
+      "Height": "250",
+      "SpriteKey": "Skin_Hearbeat07"
+    }
+  },
+  "34457": {
+    "_attrs": {
+      "SpriteId": "34457",
+      "ImageFileId": "10940",
+      "X": "1350",
+      "Y": "250",
+      "Width": "450",
+      "Height": "250",
+      "SpriteKey": "Skin_Hearbeat08"
+    }
+  },
+  "34458": {
+    "_attrs": {
+      "SpriteId": "34458",
+      "ImageFileId": "10940",
+      "X": "0",
+      "Y": "500",
+      "Width": "450",
+      "Height": "250",
+      "SpriteKey": "Skin_Hearbeat09"
+    }
+  },
+  "34459": {
+    "_attrs": {
+      "SpriteId": "34459",
+      "ImageFileId": "10940",
+      "X": "450",
+      "Y": "500",
+      "Width": "450",
+      "Height": "250",
+      "SpriteKey": "Skin_Hearbeat10"
+    }
+  },
+  "34460": {
+    "_attrs": {
+      "SpriteId": "34460",
+      "ImageFileId": "10940",
+      "X": "900",
+      "Y": "500",
+      "Width": "450",
+      "Height": "250",
+      "SpriteKey": "Skin_Hearbeat11"
+    }
+  },
+  "34461": {
+    "_attrs": {
+      "SpriteId": "34461",
+      "ImageFileId": "10940",
+      "X": "1350",
+      "Y": "500",
+      "Width": "450",
+      "Height": "250",
+      "SpriteKey": "Skin_Hearbeat12"
+    }
+  },
+  "34462": {
+    "_attrs": {
+      "SpriteId": "34462",
+      "ImageFileId": "10941",
+      "X": "0",
+      "Y": "0",
+      "Width": "18",
+      "Height": "18",
+      "SpriteKey": "Skin_Icon_Heartbeat"
+    }
+  },
+  "34335": {
+    "_attrs": {
+      "SpriteId": "34335",
+      "ImageFileId": "10927",
+      "X": "676",
+      "Y": "1",
+      "Width": "77",
+      "Height": "25",
+      "SpriteKey": "ButtonStyle02Active"
+    }
+  },
+  "34336": {
+    "_attrs": {
+      "SpriteId": "34336",
+      "ImageFileId": "10927",
+      "X": "555",
+      "Y": "229",
+      "Width": "77",
+      "Height": "25",
+      "SpriteKey": "ButtonStyle03Active"
+    }
+  },
+  "34337": {
+    "_attrs": {
+      "SpriteId": "34337",
+      "ImageFileId": "10927",
+      "X": "555",
+      "Y": "255",
+      "Width": "77",
+      "Height": "25",
+      "SpriteKey": "ButtonStyle03Dark"
+    }
+  },
+  "34338": {
+    "_attrs": {
+      "SpriteId": "34338",
+      "ImageFileId": "10927",
+      "X": "676",
+      "Y": "27",
+      "Width": "77",
+      "Height": "25",
+      "SpriteKey": "ButtonStyle04"
+    }
+  },
+  "34339": {
+    "_attrs": {
+      "SpriteId": "34339",
+      "ImageFileId": "10927",
+      "X": "676",
+      "Y": "53",
+      "Width": "77",
+      "Height": "25",
+      "SpriteKey": "ButtonStyle04Active"
+    }
+  },
+  "34340": {
+    "_attrs": {
+      "SpriteId": "34340",
+      "ImageFileId": "10927",
+      "X": "676",
+      "Y": "79",
+      "Width": "77",
+      "Height": "25",
+      "SpriteKey": "ButtonStyle04Dark"
+    }
+  },
+  "34341": {
+    "_attrs": {
+      "SpriteId": "34341",
+      "ImageFileId": "10927",
+      "X": "675",
+      "Y": "131",
+      "Width": "24",
+      "Height": "24",
+      "SpriteKey": "Stats_Power"
+    }
+  },
+  "34342": {
+    "_attrs": {
+      "SpriteId": "34342",
+      "ImageFileId": "10927",
+      "X": "700",
+      "Y": "131",
+      "Width": "24",
+      "Height": "24",
+      "SpriteKey": "Stats_Shield"
+    }
+  },
+  "34343": {
+    "_attrs": {
+      "SpriteId": "34343",
+      "ImageFileId": "10927",
+      "X": "725",
+      "Y": "131",
+      "Width": "24",
+      "Height": "24",
+      "SpriteKey": "Stats_HP"
+    }
+  },
+  "34344": {
+    "_attrs": {
+      "SpriteId": "34344",
+      "ImageFileId": "10927",
+      "X": "677",
+      "Y": "156",
+      "Width": "33",
+      "Height": "186",
+      "SpriteKey": "SideMenuBar01"
+    }
+  },
+  "34345": {
+    "_attrs": {
+      "SpriteId": "34345",
+      "ImageFileId": "10927",
+      "X": "518",
+      "Y": "281",
+      "Width": "51",
+      "Height": "51",
+      "SpriteKey": "MenuButtonBig"
+    }
+  },
+  "34346": {
+    "_attrs": {
+      "SpriteId": "34346",
+      "ImageFileId": "10927",
+      "X": "570",
+      "Y": "281",
+      "Width": "51",
+      "Height": "51",
+      "SpriteKey": "MenuButtonBigActive"
+    }
+  },
+  "34347": {
+    "_attrs": {
+      "SpriteId": "34347",
+      "ImageFileId": "10927",
+      "X": "485",
+      "Y": "306",
+      "Width": "32",
+      "Height": "31",
+      "SpriteKey": "MenuButtonSmall"
+    }
+  },
+  "34348": {
+    "_attrs": {
+      "SpriteId": "34348",
+      "ImageFileId": "10927",
+      "X": "485",
+      "Y": "339",
+      "Width": "32",
+      "Height": "31",
+      "SpriteKey": "MenuButtonSmallActive"
+    }
+  },
+  "34349": {
+    "_attrs": {
+      "SpriteId": "34349",
+      "ImageFileId": "10927",
+      "X": "1",
+      "Y": "410",
+      "Width": "165",
+      "Height": "28",
+      "SpriteKey": "ChatBar"
+    }
+  },
+  "34350": {
+    "_attrs": {
+      "SpriteId": "34350",
+      "ImageFileId": "10927",
+      "X": "1",
+      "Y": "439",
+      "Width": "127",
+      "Height": "58",
+      "SpriteKey": "InventoryFrame01"
+    }
+  },
+  "34351": {
+    "_attrs": {
+      "SpriteId": "34351",
+      "ImageFileId": "10927",
+      "X": "129",
+      "Y": "439",
+      "Width": "13",
+      "Height": "58",
+      "SpriteKey": "InventoryFrame02"
+    }
+  },
+  "34352": {
+    "_attrs": {
+      "SpriteId": "34352",
+      "ImageFileId": "10927",
+      "X": "636",
+      "Y": "262",
+      "Width": "37",
+      "Height": "11",
+      "SpriteKey": "InventoryExtendButton"
+    }
+  },
+  "34353": {
+    "_attrs": {
+      "SpriteId": "34353",
+      "ImageFileId": "10927",
+      "X": "635",
+      "Y": "214",
+      "Width": "40",
+      "Height": "23",
+      "SpriteKey": "SortButton"
+    }
+  },
+  "34354": {
+    "_attrs": {
+      "SpriteId": "34354",
+      "ImageFileId": "10927",
+      "X": "635",
+      "Y": "238",
+      "Width": "40",
+      "Height": "23",
+      "SpriteKey": "SortButtonActive"
+    }
+  },
+  "34355": {
+    "_attrs": {
+      "SpriteId": "34355",
+      "ImageFileId": "10927",
+      "X": "518",
+      "Y": "333",
+      "Width": "32",
+      "Height": "31",
+      "SpriteKey": "MenuButtonSmallAlter"
+    }
+  },
+  "34356": {
+    "_attrs": {
+      "SpriteId": "34356",
+      "ImageFileId": "10927",
+      "X": "551",
+      "Y": "333",
+      "Width": "32",
+      "Height": "31",
+      "SpriteKey": "InventoryTab"
+    }
+  },
+  "34357": {
+    "_attrs": {
+      "SpriteId": "34357",
+      "ImageFileId": "10927",
+      "X": "584",
+      "Y": "333",
+      "Width": "32",
+      "Height": "31",
+      "SpriteKey": "InventoryTabActive"
+    }
+  },
+  "34358": {
+    "_attrs": {
+      "SpriteId": "34358",
+      "ImageFileId": "10927",
+      "X": "679",
+      "Y": "343",
+      "Width": "33",
+      "Height": "25",
+      "SpriteKey": "SideMenuBar02"
+    }
+  },
+  "34359": {
+    "_attrs": {
+      "SpriteId": "34359",
+      "ImageFileId": "10930",
+      "X": "0",
+      "Y": "0",
+      "Width": "19",
+      "Height": "32",
+      "SpriteKey": "BalloonModule_Yellow01"
+    }
+  },
+  "34360": {
+    "_attrs": {
+      "SpriteId": "34360",
+      "ImageFileId": "10930",
+      "X": "19",
+      "Y": "0",
+      "Width": "19",
+      "Height": "32",
+      "SpriteKey": "BalloonModule_Yellow02"
+    }
+  },
+  "34361": {
+    "_attrs": {
+      "SpriteId": "34361",
+      "ImageFileId": "10930",
+      "X": "38",
+      "Y": "0",
+      "Width": "19",
+      "Height": "32",
+      "SpriteKey": "BalloonModule_Yellow03"
+    }
+  },
+  "34362": {
+    "_attrs": {
+      "SpriteId": "34362",
+      "ImageFileId": "10930",
+      "X": "57",
+      "Y": "0",
+      "Width": "19",
+      "Height": "32",
+      "SpriteKey": "BalloonModule_Yellow04"
+    }
+  },
+  "34363": {
+    "_attrs": {
+      "SpriteId": "34363",
+      "ImageFileId": "10930",
+      "X": "76",
+      "Y": "0",
+      "Width": "19",
+      "Height": "32",
+      "SpriteKey": "BalloonModule_Yellow05"
+    }
+  },
+  "34364": {
+    "_attrs": {
+      "SpriteId": "34364",
+      "ImageFileId": "10930",
+      "X": "0",
+      "Y": "32",
+      "Width": "27",
+      "Height": "32",
+      "SpriteKey": "BalloonPop_Yellow01"
+    }
+  },
+  "34365": {
+    "_attrs": {
+      "SpriteId": "34365",
+      "ImageFileId": "10930",
+      "X": "27",
+      "Y": "32",
+      "Width": "27",
+      "Height": "32",
+      "SpriteKey": "BalloonPop_Yellow02"
+    }
+  },
+  "34366": {
+    "_attrs": {
+      "SpriteId": "34366",
+      "ImageFileId": "10930",
+      "X": "54",
+      "Y": "32",
+      "Width": "27",
+      "Height": "32",
+      "SpriteKey": "BalloonPop_Yellow03"
+    }
+  },
+  "34367": {
+    "_attrs": {
+      "SpriteId": "34367",
+      "ImageFileId": "10930",
+      "X": "81",
+      "Y": "32",
+      "Width": "27",
+      "Height": "32",
+      "SpriteKey": "BalloonPop_Yellow04"
+    }
+  },
+  "34368": {
+    "_attrs": {
+      "SpriteId": "34368",
+      "ImageFileId": "10930",
+      "X": "108",
+      "Y": "32",
+      "Width": "27",
+      "Height": "32",
+      "SpriteKey": "BalloonPop_Yellow05"
+    }
+  },
+  "34369": {
+    "_attrs": {
+      "SpriteId": "34369",
+      "ImageFileId": "10930",
+      "X": "135",
+      "Y": "32",
+      "Width": "27",
+      "Height": "32",
+      "SpriteKey": "BalloonPop_Yellow06"
+    }
+  },
+  "34370": {
+    "_attrs": {
+      "SpriteId": "34370",
+      "ImageFileId": "10931",
+      "X": "0",
+      "Y": "0",
+      "Width": "19",
+      "Height": "32",
+      "SpriteKey": "BalloonModule_Blue01"
+    }
+  },
+  "34371": {
+    "_attrs": {
+      "SpriteId": "34371",
+      "ImageFileId": "10931",
+      "X": "19",
+      "Y": "0",
+      "Width": "19",
+      "Height": "32",
+      "SpriteKey": "BalloonModule_Blue02"
+    }
+  },
+  "34372": {
+    "_attrs": {
+      "SpriteId": "34372",
+      "ImageFileId": "10931",
+      "X": "38",
+      "Y": "0",
+      "Width": "19",
+      "Height": "32",
+      "SpriteKey": "BalloonModule_Blue03"
+    }
+  },
+  "34373": {
+    "_attrs": {
+      "SpriteId": "34373",
+      "ImageFileId": "10931",
+      "X": "57",
+      "Y": "0",
+      "Width": "19",
+      "Height": "32",
+      "SpriteKey": "BalloonModule_Blue04"
+    }
+  },
+  "34374": {
+    "_attrs": {
+      "SpriteId": "34374",
+      "ImageFileId": "10931",
+      "X": "76",
+      "Y": "0",
+      "Width": "19",
+      "Height": "32",
+      "SpriteKey": "BalloonModule_Blue05"
+    }
+  },
+  "34375": {
+    "_attrs": {
+      "SpriteId": "34375",
+      "ImageFileId": "10931",
+      "X": "95",
+      "Y": "0",
+      "Width": "19",
+      "Height": "32",
+      "SpriteKey": "BalloonModule_Blue06"
+    }
+  },
+  "34376": {
+    "_attrs": {
+      "SpriteId": "34376",
+      "ImageFileId": "10931",
+      "X": "0",
+      "Y": "32",
+      "Width": "27",
+      "Height": "32",
+      "SpriteKey": "BalloonPop_Blue01"
+    }
+  },
+  "34377": {
+    "_attrs": {
+      "SpriteId": "34377",
+      "ImageFileId": "10931",
+      "X": "27",
+      "Y": "32",
+      "Width": "27",
+      "Height": "32",
+      "SpriteKey": "BalloonPop_Blue02"
+    }
+  },
+  "34378": {
+    "_attrs": {
+      "SpriteId": "34378",
+      "ImageFileId": "10931",
+      "X": "54",
+      "Y": "32",
+      "Width": "27",
+      "Height": "32",
+      "SpriteKey": "BalloonPop_Blue03"
+    }
+  },
+  "34379": {
+    "_attrs": {
+      "SpriteId": "34379",
+      "ImageFileId": "10931",
+      "X": "81",
+      "Y": "32",
+      "Width": "27",
+      "Height": "32",
+      "SpriteKey": "BalloonPop_Blue04"
+    }
+  },
+  "34380": {
+    "_attrs": {
+      "SpriteId": "34380",
+      "ImageFileId": "10931",
+      "X": "108",
+      "Y": "32",
+      "Width": "27",
+      "Height": "32",
+      "SpriteKey": "BalloonPop_Blue05"
+    }
+  },
+  "34381": {
+    "_attrs": {
+      "SpriteId": "34381",
+      "ImageFileId": "10931",
+      "X": "135",
+      "Y": "32",
+      "Width": "27",
+      "Height": "32",
+      "SpriteKey": "BalloonPop_Blue06"
+    }
+  },
+  "34382": {
+    "_attrs": {
+      "SpriteId": "34382",
+      "ImageFileId": "10916",
+      "X": "75",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "HoloDojo_Party02"
+    }
+  },
+  "34383": {
+    "_attrs": {
+      "SpriteId": "34383",
+      "ImageFileId": "10916",
+      "X": "150",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "HoloDojo_Party03"
+    }
+  },
+  "34384": {
+    "_attrs": {
+      "SpriteId": "34384",
+      "ImageFileId": "10916",
+      "X": "225",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "HoloDojo_Party04"
+    }
+  },
+  "34385": {
+    "_attrs": {
+      "SpriteId": "34385",
+      "ImageFileId": "10916",
+      "X": "300",
+      "Y": "0",
+      "Width": "75",
+      "Height": "50",
+      "SpriteKey": "HoloDojo_Party05"
+    }
+  },
+  "34386": {
+    "_attrs": {
+      "SpriteId": "34386",
+      "ImageFileId": "10927",
+      "X": "553",
+      "Y": "365",
+      "Width": "67",
+      "Height": "9",
+      "SpriteKey": "QuantityBar"
+    }
+  },
+  "34387": {
+    "_attrs": {
+      "SpriteId": "34387",
+      "ImageFileId": "10927",
+      "X": "675",
+      "Y": "131",
+      "Width": "24",
+      "Height": "24",
+      "SpriteKey": "StatsIcon_Power"
+    }
+  },
+  "34388": {
+    "_attrs": {
+      "SpriteId": "34388",
+      "ImageFileId": "10927",
+      "X": "700",
+      "Y": "131",
+      "Width": "24",
+      "Height": "24",
+      "SpriteKey": "StatsIcon_Shield"
+    }
+  },
+  "34389": {
+    "_attrs": {
+      "SpriteId": "34389",
+      "ImageFileId": "10927",
+      "X": "725",
+      "Y": "131",
+      "Width": "24",
+      "Height": "24",
+      "SpriteKey": "StatsIcon_HP"
+    }
+  },
+  "34390": {
+    "_attrs": {
+      "SpriteId": "34390",
+      "ImageFileId": "10927",
+      "X": "711",
+      "Y": "156",
+      "Width": "25",
+      "Height": "21",
+      "SpriteKey": "ChatChannelButton"
+    }
+  },
+  "34391": {
+    "_attrs": {
+      "SpriteId": "34391",
+      "ImageFileId": "10927",
+      "X": "711",
+      "Y": "178",
+      "Width": "22",
+      "Height": "21",
+      "SpriteKey": "ChatChannelListActive"
+    }
+  },
+  "34392": {
+    "_attrs": {
+      "SpriteId": "34392",
+      "ImageFileId": "10927",
+      "X": "711",
+      "Y": "200",
+      "Width": "22",
+      "Height": "21",
+      "SpriteKey": "ChatChannelList"
+    }
+  },
+  "34393": {
+    "_attrs": {
+      "SpriteId": "34393",
+      "ImageFileId": "10927",
+      "X": "711",
+      "Y": "222",
+      "Width": "22",
+      "Height": "22",
+      "SpriteKey": "FleetDonateButton"
+    }
+  },
+  "34394": {
+    "_attrs": {
+      "SpriteId": "34394",
+      "ImageFileId": "10927",
+      "X": "531",
+      "Y": "243",
+      "Width": "22",
+      "Height": "21",
+      "SpriteKey": "InboxSlot"
+    }
+  },
+  "34395": {
+    "_attrs": {
+      "SpriteId": "34395",
+      "ImageFileId": "10927",
+      "X": "647",
+      "Y": "274",
+      "Width": "31",
+      "Height": "11",
+      "SpriteKey": "SlideBar02"
+    }
+  },
+  "34396": {
+    "_attrs": {
+      "SpriteId": "34396",
+      "ImageFileId": "10927",
+      "X": "622",
+      "Y": "286",
+      "Width": "56",
+      "Height": "24",
+      "SpriteKey": "PopupPanelTitle"
+    }
+  },
+  "34397": {
+    "_attrs": {
+      "SpriteId": "34397",
+      "ImageFileId": "10927",
+      "X": "624",
+      "Y": "311",
+      "Width": "52",
+      "Height": "35",
+      "SpriteKey": "ButtonPopupv2"
+    }
+  },
+  "34398": {
+    "_attrs": {
+      "SpriteId": "34398",
+      "ImageFileId": "10927",
+      "X": "167",
+      "Y": "404",
+      "Width": "96",
+      "Height": "66",
+      "SpriteKey": "AmmoSlot"
+    }
+  },
+  "34399": {
+    "_attrs": {
+      "SpriteId": "34399",
+      "ImageFileId": "10927",
+      "X": "466",
+      "Y": "354",
+      "Width": "17",
+      "Height": "17",
+      "SpriteKey": "AmmoSlotDelete"
+    }
+  },
+  "34400": {
+    "_attrs": {
+      "SpriteId": "34400",
+      "ImageFileId": "10927",
+      "X": "454",
+      "Y": "372",
+      "Width": "16",
+      "Height": "15",
+      "SpriteKey": "CollectionIcon_Crew"
+    }
+  },
+  "34401": {
+    "_attrs": {
+      "SpriteId": "34401",
+      "ImageFileId": "10927",
+      "X": "471",
+      "Y": "372",
+      "Width": "17",
+      "Height": "15",
+      "SpriteKey": "CollectionIcon_Collection"
+    }
+  },
+  "34402": {
+    "_attrs": {
+      "SpriteId": "34402",
+      "ImageFileId": "10927",
+      "X": "489",
+      "Y": "372",
+      "Width": "16",
+      "Height": "15",
+      "SpriteKey": "CollectionIcon_Badge"
+    }
+  },
+  "34403": {
+    "_attrs": {
+      "SpriteId": "34403",
+      "ImageFileId": "10927",
+      "X": "506",
+      "Y": "372",
+      "Width": "19",
+      "Height": "15",
+      "SpriteKey": "CollectionIcon_Skin"
+    }
+  },
+  "34404": {
+    "_attrs": {
+      "SpriteId": "34404",
+      "ImageFileId": "10927",
+      "X": "526",
+      "Y": "365",
+      "Width": "27",
+      "Height": "27",
+      "SpriteKey": "ShipYardGridTile"
+    }
+  },
+  "34405": {
+    "_attrs": {
+      "SpriteId": "34405",
+      "ImageFileId": "10927",
+      "X": "264",
+      "Y": "410",
+      "Width": "91",
+      "Height": "89",
+      "SpriteKey": "ShopItemSlot02"
+    }
+  },
+  "34406": {
+    "_attrs": {
+      "SpriteId": "34406",
+      "ImageFileId": "10927",
+      "X": "356",
+      "Y": "410",
+      "Width": "91",
+      "Height": "89",
+      "SpriteKey": "ShopItemSlot03"
+    }
+  },
+  "34407": {
+    "_attrs": {
+      "SpriteId": "34407",
+      "ImageFileId": "10927",
+      "X": "448",
+      "Y": "410",
+      "Width": "91",
+      "Height": "89",
+      "SpriteKey": "ShopItemSlot04"
+    }
+  },
+  "34408": {
+    "_attrs": {
+      "SpriteId": "34408",
+      "ImageFileId": "10927",
+      "X": "540",
+      "Y": "410",
+      "Width": "91",
+      "Height": "89",
+      "SpriteKey": "ShopItemSlot05"
+    }
+  },
+  "34409": {
+    "_attrs": {
+      "SpriteId": "34409",
+      "ImageFileId": "10927",
+      "X": "632",
+      "Y": "410",
+      "Width": "91",
+      "Height": "89",
+      "SpriteKey": "ShopItemSlot06"
+    }
+  },
+  "34410": {
+    "_attrs": {
+      "SpriteId": "34410",
+      "ImageFileId": "10927",
+      "X": "635",
+      "Y": "347",
+      "Width": "40",
+      "Height": "23",
+      "SpriteKey": "SortButtonDark"
+    }
+  },
+  "34411": {
+    "_attrs": {
+      "SpriteId": "34411",
+      "ImageFileId": "10932",
+      "X": "0",
+      "Y": "0",
+      "Width": "156",
+      "Height": "163",
+      "SpriteKey": "NewsReader_Robot01"
+    }
+  },
+  "34412": {
+    "_attrs": {
+      "SpriteId": "34412",
+      "ImageFileId": "10932",
+      "X": "157",
+      "Y": "0",
+      "Width": "156",
+      "Height": "163",
+      "SpriteKey": "NewsReader_Robot02"
+    }
+  },
+  "34413": {
+    "_attrs": {
+      "SpriteId": "34413",
+      "ImageFileId": "10932",
+      "X": "314",
+      "Y": "0",
+      "Width": "156",
+      "Height": "163",
+      "SpriteKey": "NewsReader_Robot03"
+    }
+  },
+  "34414": {
+    "_attrs": {
+      "SpriteId": "34414",
+      "ImageFileId": "10932",
+      "X": "471",
+      "Y": "0",
+      "Width": "156",
+      "Height": "163",
+      "SpriteKey": "NewsReader_Robot04"
+    }
+  },
+  "34415": {
+    "_attrs": {
+      "SpriteId": "34415",
+      "ImageFileId": "10933",
+      "X": "0",
+      "Y": "0",
+      "Width": "140",
+      "Height": "166",
+      "SpriteKey": "NewsReader_Humanoid01"
+    }
+  },
+  "34416": {
+    "_attrs": {
+      "SpriteId": "34416",
+      "ImageFileId": "10933",
+      "X": "141",
+      "Y": "0",
+      "Width": "140",
+      "Height": "166",
+      "SpriteKey": "NewsReader_Humanoid02"
+    }
+  },
+  "34417": {
+    "_attrs": {
+      "SpriteId": "34417",
+      "ImageFileId": "10933",
+      "X": "282",
+      "Y": "0",
+      "Width": "140",
+      "Height": "166",
+      "SpriteKey": "NewsReader_Humanoid03"
+    }
+  },
+  "34418": {
+    "_attrs": {
+      "SpriteId": "34418",
+      "ImageFileId": "10933",
+      "X": "423",
+      "Y": "0",
+      "Width": "140",
+      "Height": "166",
+      "SpriteKey": "NewsReader_Humanoid04"
+    }
+  },
+  "34419": {
+    "_attrs": {
+      "SpriteId": "34419",
+      "ImageFileId": "10934",
+      "X": "0",
+      "Y": "0",
+      "Width": "144",
+      "Height": "161",
+      "SpriteKey": "NewsReader_Alien01"
+    }
+  },
+  "34420": {
+    "_attrs": {
+      "SpriteId": "34420",
+      "ImageFileId": "10934",
+      "X": "145",
+      "Y": "0",
+      "Width": "144",
+      "Height": "161",
+      "SpriteKey": "NewsReader_Alien02"
+    }
+  },
+  "34421": {
+    "_attrs": {
+      "SpriteId": "34421",
+      "ImageFileId": "10934",
+      "X": "290",
+      "Y": "0",
+      "Width": "144",
+      "Height": "161",
+      "SpriteKey": "NewsReader_Alien03"
+    }
+  },
+  "34422": {
+    "_attrs": {
+      "SpriteId": "34422",
+      "ImageFileId": "10934",
+      "X": "435",
+      "Y": "0",
+      "Width": "144",
+      "Height": "161",
+      "SpriteKey": "NewsReader_Alien04"
+    }
+  },
+  "34423": {
+    "_attrs": {
+      "SpriteId": "34423",
+      "ImageFileId": "10934",
+      "X": "580",
+      "Y": "0",
+      "Width": "144",
+      "Height": "161",
+      "SpriteKey": "NewsReader_Alien05"
+    }
+  },
+  "34424": {
+    "_attrs": {
+      "SpriteId": "34424",
+      "ImageFileId": "10927",
+      "X": "409",
+      "Y": "392",
+      "Width": "97",
+      "Height": "7",
+      "SpriteKey": "AlienLanguageTitle"
+    }
+  },
+  "34425": {
+    "_attrs": {
+      "SpriteId": "34425",
+      "ImageFileId": "10927",
+      "X": "409",
+      "Y": "401",
+      "Width": "154",
+      "Height": "7",
+      "SpriteKey": "AlienLanguage"
+    }
+  },
+  "34426": {
+    "_attrs": {
+      "SpriteId": "34426",
+      "ImageFileId": "10927",
+      "X": "564",
+      "Y": "375",
+      "Width": "63",
+      "Height": "24",
+      "SpriteKey": "DailySaleBanner_Red"
+    }
+  },
+  "34427": {
+    "_attrs": {
+      "SpriteId": "34427",
+      "ImageFileId": "10927",
+      "X": "628",
+      "Y": "375",
+      "Width": "63",
+      "Height": "24",
+      "SpriteKey": "DailySaleBanner_Yellow"
+    }
+  },
+  "34428": {
+    "_attrs": {
+      "SpriteId": "34428",
+      "ImageFileId": "10927",
+      "X": "370",
+      "Y": "358",
+      "Width": "95",
+      "Height": "13",
+      "SpriteKey": "BreakingNewsBannerBody"
+    }
+  },
+  "34429": {
+    "_attrs": {
+      "SpriteId": "34429",
+      "ImageFileId": "10927",
+      "X": "186",
+      "Y": "471",
+      "Width": "77",
+      "Height": "25",
+      "SpriteKey": "ButtonStyle01Dark"
+    }
+  },
+  "34430": {
+    "_attrs": {
+      "SpriteId": "34430",
+      "ImageFileId": "10927",
+      "X": "711",
+      "Y": "270",
+      "Width": "22",
+      "Height": "22",
+      "SpriteKey": "FleetEditButton"
+    }
+  },
+  "34431": {
+    "_attrs": {
+      "SpriteId": "34431",
+      "ImageFileId": "10927",
+      "X": "711",
+      "Y": "293",
+      "Width": "22",
+      "Height": "21",
+      "SpriteKey": "ChatChannelListDark"
     }
   }
 }

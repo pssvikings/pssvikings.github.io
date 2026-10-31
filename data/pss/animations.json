@@ -12958,5 +12958,14 @@
       "Duration": "40",
       "AnimationEffectType": "None"
     }
+  },
+  "2520": {
+    "_attrs": {
+      "AnimationId": "2520",
+      "Key": "Skin_Heartbeat",
+      "AnimationSprites": "34450,34450,34451,34452,34453,34454,34455,34456,34457,34458,34459,34460,34461",
+      "Duration": "60",
+      "AnimationEffectType": "None"
+    }
   }
 }
