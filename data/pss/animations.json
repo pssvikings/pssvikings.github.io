@@ -10115,6 +10115,60 @@
       "AnimationEffectType": "None"
     }
   },
+  "2167": {
+    "_attrs": {
+      "AnimationId": "2167",
+      "Key": "Conqueror-StarSmasherIonCannon_ED",
+      "AnimationSprites": "26964,26965",
+      "Duration": "80",
+      "AnimationEffectType": "None"
+    }
+  },
+  "2168": {
+    "_attrs": {
+      "AnimationId": "2168",
+      "Key": "Conqueror-StarSmasherIonCannon_EA",
+      "AnimationSprites": "26969,26970,26971",
+      "Duration": "40",
+      "AnimationEffectType": "None"
+    }
+  },
+  "2169": {
+    "_attrs": {
+      "AnimationId": "2169",
+      "Key": "Conqueror-StarSmasherIonCannon_E",
+      "AnimationSprites": "26979,26978",
+      "Duration": "120",
+      "AnimationEffectType": "None"
+    }
+  },
+  "2170": {
+    "_attrs": {
+      "AnimationId": "2170",
+      "Key": "Conqueror-StarSmasherIonCannon_ID",
+      "AnimationSprites": "26988,26989,26990,26991",
+      "Duration": "40",
+      "AnimationEffectType": "None"
+    }
+  },
+  "2171": {
+    "_attrs": {
+      "AnimationId": "2171",
+      "Key": "Conqueror-StarSmasherIonCannon_I",
+      "AnimationSprites": "27004,26992",
+      "Duration": "120",
+      "AnimationEffectType": "None"
+    }
+  },
+  "2172": {
+    "_attrs": {
+      "AnimationId": "2172",
+      "Key": "Conqueror-StarSmasherIonCannon_IA",
+      "AnimationSprites": "27018,27019,27020,27021,27022,27023",
+      "Duration": "40",
+      "AnimationEffectType": "None"
+    }
+  },
   "2173": {
     "_attrs": {
       "AnimationId": "2173",
@@ -10489,6 +10543,33 @@
       "AnimationId": "2215",
       "Key": "GalaticMissileSkin_Penetrator",
       "AnimationSprites": "28255,28256",
+      "Duration": "40",
+      "AnimationEffectType": "None"
+    }
+  },
+  "2216": {
+    "_attrs": {
+      "AnimationId": "2216",
+      "Key": "GalaticMissileSkin_Scarlet",
+      "AnimationSprites": "28257,28258",
+      "Duration": "40",
+      "AnimationEffectType": "None"
+    }
+  },
+  "2217": {
+    "_attrs": {
+      "AnimationId": "2217",
+      "Key": "GalaticMissileSkin_Jungler",
+      "AnimationSprites": "28259,28260",
+      "Duration": "40",
+      "AnimationEffectType": "None"
+    }
+  },
+  "2218": {
+    "_attrs": {
+      "AnimationId": "2218",
+      "Key": "GalaticMissileSkin_Javelin",
+      "AnimationSprites": "28261,28262",
       "Duration": "40",
       "AnimationEffectType": "None"
     }
@@ -12743,6 +12824,15 @@
       "AnimationEffectType": "None"
     }
   },
+  "2475": {
+    "_attrs": {
+      "AnimationId": "2475",
+      "Key": "TB_Sticker",
+      "AnimationSprites": "33560,33561,33562,33563,33564,33565,33566,33567,33568,33569,33570,33571",
+      "Duration": "70",
+      "AnimationEffectType": "None"
+    }
+  },
   "2476": {
     "_attrs": {
       "AnimationId": "2476",
@@ -12950,11 +13040,101 @@
       "AnimationEffectType": "None"
     }
   },
+  "2509": {
+    "_attrs": {
+      "AnimationId": "2509",
+      "Key": "BalloonIdle",
+      "AnimationSprites": "34227,34228,34229,34230,34231,34232",
+      "Duration": "80",
+      "AnimationEffectType": "None"
+    }
+  },
+  "2510": {
+    "_attrs": {
+      "AnimationId": "2510",
+      "Key": "BalloonPop",
+      "AnimationSprites": "34233,34234,34235,34236,34237,34238,454",
+      "Duration": "20",
+      "AnimationEffectType": "None"
+    }
+  },
   "2511": {
     "_attrs": {
       "AnimationId": "2511",
       "Key": "ReactorRoom_lv9",
       "AnimationSprites": "34297,34298,34299,34300,34301,34302",
+      "Duration": "40",
+      "AnimationEffectType": "None"
+    }
+  },
+  "2512": {
+    "_attrs": {
+      "AnimationId": "2512",
+      "Key": "BalloonYellowIdle",
+      "AnimationSprites": "34359,34360,34361,34362,34363",
+      "Duration": "80",
+      "AnimationEffectType": "None"
+    }
+  },
+  "2513": {
+    "_attrs": {
+      "AnimationId": "2513",
+      "Key": "BalloonYellowPop",
+      "AnimationSprites": "34364,34365,34366,34367,34368,34369,454",
+      "Duration": "20",
+      "AnimationEffectType": "None"
+    }
+  },
+  "2514": {
+    "_attrs": {
+      "AnimationId": "2514",
+      "Key": "BalloonBlueIdle",
+      "AnimationSprites": "34370,34371,34372,34373,34374,34375",
+      "Duration": "80",
+      "AnimationEffectType": "None"
+    }
+  },
+  "2515": {
+    "_attrs": {
+      "AnimationId": "2515",
+      "Key": "BalloonBluePop",
+      "AnimationSprites": "34376,34377,34378,34379,34380,34381,454",
+      "Duration": "20",
+      "AnimationEffectType": "None"
+    }
+  },
+  "2516": {
+    "_attrs": {
+      "AnimationId": "2516",
+      "Key": "HoloDojo_Party",
+      "AnimationSprites": "34384,34382,34383,34385",
+      "Duration": "80",
+      "AnimationEffectType": "None"
+    }
+  },
+  "2517": {
+    "_attrs": {
+      "AnimationId": "2517",
+      "Key": "NewsReader_Robot",
+      "AnimationSprites": "34411,34412,34413,34414,34411,34412,34413,34412,34413",
+      "Duration": "40",
+      "AnimationEffectType": "None"
+    }
+  },
+  "2518": {
+    "_attrs": {
+      "AnimationId": "2518",
+      "Key": "NewsReader_Humanoid",
+      "AnimationSprites": "34415,34416,34417,34416,34418,34415,34416,34418",
+      "Duration": "40",
+      "AnimationEffectType": "None"
+    }
+  },
+  "2519": {
+    "_attrs": {
+      "AnimationId": "2519",
+      "Key": "NewsReader_Alien",
+      "AnimationSprites": "34419,34420,34421,34420,34422,34423,34419,34420,34421,34420,34421",
       "Duration": "40",
       "AnimationEffectType": "None"
     }
@@ -12965,6 +13145,15 @@
       "Key": "Skin_Heartbeat",
       "AnimationSprites": "34450,34450,34451,34452,34453,34454,34455,34456,34457,34458,34459,34460,34461",
       "Duration": "60",
+      "AnimationEffectType": "None"
+    }
+  },
+  "2521": {
+    "_attrs": {
+      "AnimationId": "2521",
+      "Key": "FusionReactor_party",
+      "AnimationSprites": "34468,34469,34470,34471,34472,34473,34474,34475",
+      "Duration": "40",
       "AnimationEffectType": "None"
     }
   }

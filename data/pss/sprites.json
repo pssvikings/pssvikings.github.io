@@ -359043,7 +359043,7 @@
     "_attrs": {
       "SpriteId": "34432",
       "ImageFileId": "10927",
-      "X": "711",
+      "X": "713",
       "Y": "315",
       "Width": "24",
       "Height": "24",
@@ -359109,7 +359109,7 @@
     "_attrs": {
       "SpriteId": "34438",
       "ImageFileId": "10927",
-      "X": "734",
+      "X": "736",
       "Y": "178",
       "Width": "22",
       "Height": "21",
@@ -359219,7 +359219,7 @@
     "_attrs": {
       "SpriteId": "34448",
       "ImageFileId": "10927",
-      "X": "734",
+      "X": "736",
       "Y": "200",
       "Width": "22",
       "Height": "21",
@@ -359380,6 +359380,149 @@
       "SpriteKey": "Skin_Icon_Heartbeat"
     }
   },
+  "34463": {
+    "_attrs": {
+      "SpriteId": "34463",
+      "ImageFileId": "8884",
+      "X": "4",
+      "Y": "753",
+      "Width": "500",
+      "Height": "183",
+      "SpriteKey": "WargameButton05"
+    }
+  },
+  "34464": {
+    "_attrs": {
+      "SpriteId": "34464",
+      "ImageFileId": "10942",
+      "X": "0",
+      "Y": "0",
+      "Width": "157",
+      "Height": "163",
+      "SpriteKey": "WargameIcon_Balloon"
+    }
+  },
+  "34465": {
+    "_attrs": {
+      "SpriteId": "34465",
+      "ImageFileId": "10924",
+      "X": "107",
+      "Y": "2",
+      "Width": "38",
+      "Height": "17",
+      "SpriteKey": "Ribbons2_Balloon"
+    }
+  },
+  "34466": {
+    "_attrs": {
+      "SpriteId": "34466",
+      "ImageFileId": "6934",
+      "X": "707",
+      "Y": "386",
+      "Width": "53",
+      "Height": "37",
+      "SpriteKey": "CoreofCreation"
+    }
+  },
+  "34467": {
+    "_attrs": {
+      "SpriteId": "34467",
+      "ImageFileId": "10943",
+      "X": "4",
+      "Y": "4",
+      "Width": "534",
+      "Height": "244",
+      "SpriteKey": "BankPromoLv14"
+    }
+  },
+  "34468": {
+    "_attrs": {
+      "SpriteId": "34468",
+      "ImageFileId": "10944",
+      "X": "0",
+      "Y": "0",
+      "Width": "100",
+      "Height": "50",
+      "SpriteKey": "FusionReactor_party01"
+    }
+  },
+  "34469": {
+    "_attrs": {
+      "SpriteId": "34469",
+      "ImageFileId": "10944",
+      "X": "100",
+      "Y": "0",
+      "Width": "100",
+      "Height": "50",
+      "SpriteKey": "FusionReactor_party02"
+    }
+  },
+  "34470": {
+    "_attrs": {
+      "SpriteId": "34470",
+      "ImageFileId": "10944",
+      "X": "200",
+      "Y": "0",
+      "Width": "100",
+      "Height": "50",
+      "SpriteKey": "FusionReactor_party03"
+    }
+  },
+  "34471": {
+    "_attrs": {
+      "SpriteId": "34471",
+      "ImageFileId": "10944",
+      "X": "300",
+      "Y": "0",
+      "Width": "100",
+      "Height": "50",
+      "SpriteKey": "FusionReactor_party04"
+    }
+  },
+  "34472": {
+    "_attrs": {
+      "SpriteId": "34472",
+      "ImageFileId": "10944",
+      "X": "0",
+      "Y": "50",
+      "Width": "100",
+      "Height": "50",
+      "SpriteKey": "FusionReactor_party05"
+    }
+  },
+  "34473": {
+    "_attrs": {
+      "SpriteId": "34473",
+      "ImageFileId": "10944",
+      "X": "100",
+      "Y": "50",
+      "Width": "100",
+      "Height": "50",
+      "SpriteKey": "FusionReactor_party06"
+    }
+  },
+  "34474": {
+    "_attrs": {
+      "SpriteId": "34474",
+      "ImageFileId": "10944",
+      "X": "200",
+      "Y": "50",
+      "Width": "100",
+      "Height": "50",
+      "SpriteKey": "FusionReactor_party07"
+    }
+  },
+  "34475": {
+    "_attrs": {
+      "SpriteId": "34475",
+      "ImageFileId": "10944",
+      "X": "300",
+      "Y": "50",
+      "Width": "100",
+      "Height": "50",
+      "SpriteKey": "FusionReactor_party08"
+    }
+  },
   "34335": {
     "_attrs": {
       "SpriteId": "34335",
@@ -359485,7 +359628,7 @@
       "ImageFileId": "10927",
       "X": "677",
       "Y": "156",
-      "Width": "33",
+      "Width": "35",
       "Height": "186",
       "SpriteKey": "SideMenuBar01"
     }
@@ -359637,9 +359780,9 @@
     "_attrs": {
       "SpriteId": "34358",
       "ImageFileId": "10927",
-      "X": "679",
+      "X": "677",
       "Y": "343",
-      "Width": "33",
+      "Width": "35",
       "Height": "25",
       "SpriteKey": "SideMenuBar02"
     }
@@ -359989,7 +360132,7 @@
     "_attrs": {
       "SpriteId": "34390",
       "ImageFileId": "10927",
-      "X": "711",
+      "X": "713",
       "Y": "156",
       "Width": "25",
       "Height": "21",
@@ -360000,7 +360143,7 @@
     "_attrs": {
       "SpriteId": "34391",
       "ImageFileId": "10927",
-      "X": "711",
+      "X": "713",
       "Y": "178",
       "Width": "22",
       "Height": "21",
@@ -360011,7 +360154,7 @@
     "_attrs": {
       "SpriteId": "34392",
       "ImageFileId": "10927",
-      "X": "711",
+      "X": "713",
       "Y": "200",
       "Width": "22",
       "Height": "21",
@@ -360022,7 +360165,7 @@
     "_attrs": {
       "SpriteId": "34393",
       "ImageFileId": "10927",
-      "X": "711",
+      "X": "713",
       "Y": "222",
       "Width": "22",
       "Height": "22",
@@ -360044,7 +360187,7 @@
     "_attrs": {
       "SpriteId": "34395",
       "ImageFileId": "10927",
-      "X": "647",
+      "X": "645",
       "Y": "274",
       "Width": "31",
       "Height": "11",
@@ -360055,8 +360198,8 @@
     "_attrs": {
       "SpriteId": "34396",
       "ImageFileId": "10927",
-      "X": "622",
-      "Y": "286",
+      "X": "781",
+      "Y": "70",
       "Width": "56",
       "Height": "24",
       "SpriteKey": "PopupPanelTitle"
@@ -360429,7 +360572,7 @@
     "_attrs": {
       "SpriteId": "34430",
       "ImageFileId": "10927",
-      "X": "711",
+      "X": "713",
       "Y": "270",
       "Width": "22",
       "Height": "22",
@@ -360440,7 +360583,7 @@
     "_attrs": {
       "SpriteId": "34431",
       "ImageFileId": "10927",
-      "X": "711",
+      "X": "713",
       "Y": "293",
       "Width": "22",
       "Height": "21",
