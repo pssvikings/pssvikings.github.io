@@ -13156,5 +13156,32 @@
       "Duration": "40",
       "AnimationEffectType": "None"
     }
+  },
+  "2522": {
+    "_attrs": {
+      "AnimationId": "2522",
+      "Key": "Skin_MantaRay",
+      "AnimationSprites": "34476,34477,34479",
+      "Duration": "50",
+      "AnimationEffectType": "None"
+    }
+  },
+  "2523": {
+    "_attrs": {
+      "AnimationId": "2523",
+      "Key": "FrozenRoeAccessory",
+      "AnimationSprites": "34499,34500",
+      "Duration": "40",
+      "AnimationEffectType": "None"
+    }
+  },
+  "2524": {
+    "_attrs": {
+      "AnimationId": "2524",
+      "Key": "ImperialRoeAccessory",
+      "AnimationSprites": "34501,34502",
+      "Duration": "40",
+      "AnimationEffectType": "None"
+    }
   }
 }

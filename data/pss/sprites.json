@@ -359523,6 +359523,402 @@
       "SpriteKey": "FusionReactor_party08"
     }
   },
+  "34476": {
+    "_attrs": {
+      "SpriteId": "34476",
+      "ImageFileId": "10945",
+      "X": "0",
+      "Y": "0",
+      "Width": "450",
+      "Height": "250",
+      "SpriteKey": "Skin_MantaRay01"
+    }
+  },
+  "34477": {
+    "_attrs": {
+      "SpriteId": "34477",
+      "ImageFileId": "10945",
+      "X": "0",
+      "Y": "250",
+      "Width": "450",
+      "Height": "250",
+      "SpriteKey": "Skin_MantaRay02"
+    }
+  },
+  "34478": {
+    "_attrs": {
+      "SpriteId": "34478",
+      "ImageFileId": "10946",
+      "X": "0",
+      "Y": "0",
+      "Width": "18",
+      "Height": "18",
+      "SpriteKey": "Skin_Icon_MantaRay"
+    }
+  },
+  "34479": {
+    "_attrs": {
+      "SpriteId": "34479",
+      "ImageFileId": "10945",
+      "X": "0",
+      "Y": "500",
+      "Width": "450",
+      "Height": "250",
+      "SpriteKey": "Skin_MantaRay03"
+    }
+  },
+  "34480": {
+    "_attrs": {
+      "SpriteId": "34480",
+      "ImageFileId": "10947",
+      "X": "0",
+      "Y": "0",
+      "Width": "247",
+      "Height": "180",
+      "SpriteKey": "ShambuProfile"
+    }
+  },
+  "34481": {
+    "_attrs": {
+      "SpriteId": "34481",
+      "ImageFileId": "10948",
+      "X": "0",
+      "Y": "1",
+      "Width": "36",
+      "Height": "14",
+      "SpriteKey": "ShambuHead"
+    }
+  },
+  "34482": {
+    "_attrs": {
+      "SpriteId": "34482",
+      "ImageFileId": "10948",
+      "X": "36",
+      "Y": "1",
+      "Width": "36",
+      "Height": "14",
+      "SpriteKey": "ShambuHeadActive"
+    }
+  },
+  "34483": {
+    "_attrs": {
+      "SpriteId": "34483",
+      "ImageFileId": "10949",
+      "X": "0",
+      "Y": "1",
+      "Width": "36",
+      "Height": "13",
+      "SpriteKey": "ShambuBody"
+    }
+  },
+  "34484": {
+    "_attrs": {
+      "SpriteId": "34484",
+      "ImageFileId": "10949",
+      "X": "36",
+      "Y": "1",
+      "Width": "36",
+      "Height": "13",
+      "SpriteKey": "ShambuBodyActive"
+    }
+  },
+  "34485": {
+    "_attrs": {
+      "SpriteId": "34485",
+      "ImageFileId": "10950",
+      "X": "0",
+      "Y": "1",
+      "Width": "36",
+      "Height": "6",
+      "SpriteKey": "ShambuLeg"
+    }
+  },
+  "34486": {
+    "_attrs": {
+      "SpriteId": "34486",
+      "ImageFileId": "10950",
+      "X": "36",
+      "Y": "1",
+      "Width": "36",
+      "Height": "6",
+      "SpriteKey": "ShambuLegActive"
+    }
+  },
+  "34487": {
+    "_attrs": {
+      "SpriteId": "34487",
+      "ImageFileId": "6934",
+      "X": "734",
+      "Y": "1",
+      "Width": "29",
+      "Height": "28",
+      "SpriteKey": "SushiCrewPod"
+    }
+  },
+  "34488": {
+    "_attrs": {
+      "SpriteId": "34488",
+      "ImageFileId": "10951",
+      "X": "0",
+      "Y": "0",
+      "Width": "181",
+      "Height": "107",
+      "SpriteKey": "IceCubeBarrierProfile"
+    }
+  },
+  "34489": {
+    "_attrs": {
+      "SpriteId": "34489",
+      "ImageFileId": "10952",
+      "X": "0",
+      "Y": "1",
+      "Width": "26",
+      "Height": "20",
+      "SpriteKey": "IceCubeBarrier"
+    }
+  },
+  "34490": {
+    "_attrs": {
+      "SpriteId": "34490",
+      "ImageFileId": "10952",
+      "X": "27",
+      "Y": "1",
+      "Width": "26",
+      "Height": "20",
+      "SpriteKey": "IceCubeBarrierBorder"
+    }
+  },
+  "34491": {
+    "_attrs": {
+      "SpriteId": "34491",
+      "ImageFileId": "10952",
+      "X": "54",
+      "Y": "1",
+      "Width": "26",
+      "Height": "20",
+      "SpriteKey": "IceCubeBarrierDestroyed"
+    }
+  },
+  "34492": {
+    "_attrs": {
+      "SpriteId": "34492",
+      "ImageFileId": "10952",
+      "X": "80",
+      "Y": "1",
+      "Width": "26",
+      "Height": "20",
+      "SpriteKey": "IceCubeBarrierDestroyedBorder"
+    }
+  },
+  "34493": {
+    "_attrs": {
+      "SpriteId": "34493",
+      "ImageFileId": "10953",
+      "X": "0",
+      "Y": "0",
+      "Width": "121",
+      "Height": "119",
+      "SpriteKey": "CrawdadChitinProfile"
+    }
+  },
+  "34494": {
+    "_attrs": {
+      "SpriteId": "34494",
+      "ImageFileId": "10957",
+      "X": "0",
+      "Y": "1",
+      "Width": "22",
+      "Height": "9",
+      "SpriteKey": "DecapodShell"
+    }
+  },
+  "34495": {
+    "_attrs": {
+      "SpriteId": "34495",
+      "ImageFileId": "10957",
+      "X": "22",
+      "Y": "1",
+      "Width": "22",
+      "Height": "9",
+      "SpriteKey": "DecapodShellActive"
+    }
+  },
+  "34496": {
+    "_attrs": {
+      "SpriteId": "34496",
+      "ImageFileId": "10956",
+      "X": "0",
+      "Y": "1",
+      "Width": "24",
+      "Height": "10",
+      "SpriteKey": "CrawdadChitin"
+    }
+  },
+  "34497": {
+    "_attrs": {
+      "SpriteId": "34497",
+      "ImageFileId": "10956",
+      "X": "24",
+      "Y": "1",
+      "Width": "24",
+      "Height": "10",
+      "SpriteKey": "CrawdadChitinActive"
+    }
+  },
+  "34498": {
+    "_attrs": {
+      "SpriteId": "34498",
+      "ImageFileId": "10954",
+      "X": "0",
+      "Y": "0",
+      "Width": "110",
+      "Height": "115",
+      "SpriteKey": "ImperialRoeProfile"
+    }
+  },
+  "34499": {
+    "_attrs": {
+      "SpriteId": "34499",
+      "ImageFileId": "10960",
+      "X": "1",
+      "Y": "1",
+      "Width": "13",
+      "Height": "17",
+      "SpriteKey": "FrozenRoe01"
+    }
+  },
+  "34500": {
+    "_attrs": {
+      "SpriteId": "34500",
+      "ImageFileId": "10960",
+      "X": "15",
+      "Y": "1",
+      "Width": "13",
+      "Height": "17",
+      "SpriteKey": "FrozenRoe02"
+    }
+  },
+  "34501": {
+    "_attrs": {
+      "SpriteId": "34501",
+      "ImageFileId": "10961",
+      "X": "1",
+      "Y": "1",
+      "Width": "17",
+      "Height": "19",
+      "SpriteKey": "ImperialRoe01"
+    }
+  },
+  "34502": {
+    "_attrs": {
+      "SpriteId": "34502",
+      "ImageFileId": "10961",
+      "X": "19",
+      "Y": "1",
+      "Width": "17",
+      "Height": "19",
+      "SpriteKey": "ImperialRoe02"
+    }
+  },
+  "34503": {
+    "_attrs": {
+      "SpriteId": "34503",
+      "ImageFileId": "10955",
+      "X": "0",
+      "Y": "0",
+      "Width": "109",
+      "Height": "116",
+      "SpriteKey": "KombuKickersProfile"
+    }
+  },
+  "34504": {
+    "_attrs": {
+      "SpriteId": "34504",
+      "ImageFileId": "10959",
+      "X": "0",
+      "Y": "1",
+      "Width": "12",
+      "Height": "5",
+      "SpriteKey": "NoriWraps"
+    }
+  },
+  "34505": {
+    "_attrs": {
+      "SpriteId": "34505",
+      "ImageFileId": "10959",
+      "X": "12",
+      "Y": "1",
+      "Width": "12",
+      "Height": "5",
+      "SpriteKey": "NoriWrapsActive"
+    }
+  },
+  "34506": {
+    "_attrs": {
+      "SpriteId": "34506",
+      "ImageFileId": "10958",
+      "X": "0",
+      "Y": "1",
+      "Width": "16",
+      "Height": "5",
+      "SpriteKey": "KombuKickers"
+    }
+  },
+  "34507": {
+    "_attrs": {
+      "SpriteId": "34507",
+      "ImageFileId": "10958",
+      "X": "16",
+      "Y": "1",
+      "Width": "16",
+      "Height": "5",
+      "SpriteKey": "KombuKickersActive"
+    }
+  },
+  "34508": {
+    "_attrs": {
+      "SpriteId": "34508",
+      "ImageFileId": "10962",
+      "X": "0",
+      "Y": "0",
+      "Width": "371",
+      "Height": "95",
+      "SpriteKey": "Title_BP38"
+    }
+  },
+  "34509": {
+    "_attrs": {
+      "SpriteId": "34509",
+      "ImageFileId": "10964",
+      "X": "0",
+      "Y": "0",
+      "Width": "135",
+      "Height": "140",
+      "SpriteKey": "WrapCard_BP38"
+    }
+  },
+  "34510": {
+    "_attrs": {
+      "SpriteId": "34510",
+      "ImageFileId": "10965",
+      "X": "0",
+      "Y": "0",
+      "Width": "447",
+      "Height": "184",
+      "SpriteKey": "PrologueFg_BP38"
+    }
+  },
+  "34511": {
+    "_attrs": {
+      "SpriteId": "34511",
+      "ImageFileId": "10966",
+      "X": "4",
+      "Y": "3",
+      "Width": "534",
+      "Height": "281",
+      "SpriteKey": "BPInfoPanel_BP38"
+    }
+  },
   "34335": {
     "_attrs": {
       "SpriteId": "34335",
